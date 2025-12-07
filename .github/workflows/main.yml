@@ -1,0 +1,135 @@
+name: 小十友圈RSS聚合工具
+
+on:
+  schedule:
+    # 使用UTC时间，每天0、6、12、18点运行（北京时间8、14、20、2点）
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rss-aggregate
+  cancel-in-progress: true
+
+jobs:
+  aggregate-rss:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Cache feed cache
+        uses: actions/cache@v4
+        with:
+          path: feed_cache.json
+          key: feed-cache-v1
+      
+      - name: 解析输出文件名
+        id: output_name
+        shell: bash
+        run: |
+          FILENAME=$(python - <<'PY'
+          import yaml
+          with open('setting.yaml', 'r', encoding='utf-8') as f:
+              cfg = yaml.safe_load(f)
+          print(cfg.get('OUTPUT_JSON_FILENAME', 'data.json'))
+          PY
+          )
+          echo "OUTPUT_JSON_FILENAME=$FILENAME" >> $GITHUB_ENV
+          echo "file=$FILENAME" >> $GITHUB_OUTPUT
+      
+      - name: 检查当前目录
+        run: |
+          echo "当前目录文件列表:"
+          ls -la
+          echo "输出文件是否存在:"
+          ls -la "$OUTPUT_JSON_FILENAME" || echo "输出文件不存在"
+      
+      - name: 运行RSS聚合程序
+        run: python main.py
+      
+      - name: 检查生成的文件
+        run: |
+          echo "运行程序后的文件列表:"
+          ls -la
+          echo "输出文件详细信息:"
+          ls -la "$OUTPUT_JSON_FILENAME" || echo "输出文件仍然不存在"
+          echo "文件内容预览:"
+          head -n 5 "$OUTPUT_JSON_FILENAME" || echo "无法读取输出文件"
+
+      - name: 检查失败站点并输出摘要
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, os, sys
+          fn = os.environ.get('OUTPUT_JSON_FILENAME', 'data.json')
+          try:
+              with open(fn, encoding='utf-8') as f:
+                  data = json.load(f)
+          except Exception as e:
+              print(f"[warn] 无法读取 {fn}: {e}")
+              sys.exit(0)
+          fails = data.get('failed_sites') or []
+          if not fails:
+              print("No failed sites.")
+              summary = "✅ 本次抓取无失败站点。"
+          else:
+              print("Failed sites:")
+              lines = []
+              for s in fails:
+                  name = s.get('name') or ''
+                  url = s.get('url') or ''
+                  reason = s.get('reason') or ''
+                  line = f"- {name} | {url} | {reason}"
+                  lines.append(line)
+                  print(f"::warning::抓取失败: {name} {url} 原因: {reason}")
+              summary = "⚠️ 失败站点：\n" + "\n".join(lines)
+          summary_file = os.environ.get('GITHUB_STEP_SUMMARY')
+          if summary_file:
+              with open(summary_file, 'a', encoding='utf-8') as sf:
+                  sf.write("## RSS 抓取结果摘要\n\n")
+                  sf.write(summary + "\n")
+          PY
+      
+      - name: 提交并推送输出文件
+        run: |
+          git config --local user.email "ltax@qq.com"
+          git config --local user.name "GitHub Action"
+          git add -f "$OUTPUT_JSON_FILENAME"
+          git commit -m "build: 更新RSS聚合数据 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || echo "没有更改可提交"
+          git push
+
+      # 新增：传输输出文件到远程服务器
+      - name: Setup SSH key and known_hosts for output transfer
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
+          
+      - name: Install rsync for output transfer
+        run: sudo apt-get update && sudo apt-get install -y rsync
+        
+      - name: Deploy output JSON to Server
+        run: |
+          echo "Transferring $OUTPUT_JSON_FILENAME to remote server..."
+          # 请根据您的实际需求修改目标路径
+          rsync -avz --chmod=644 "$OUTPUT_JSON_FILENAME" ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }}:/opt/1panel/apps/openresty/openresty/www/sites/cf.xiaoten.com/index/
+          echo "$OUTPUT_JSON_FILENAME transferred successfully!"

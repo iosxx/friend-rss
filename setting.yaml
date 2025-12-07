@@ -1,0 +1,101 @@
+# 自动从友链页面抓取友链链接的配置文件
+## 友链页面抓取规则css_rules
+link_page_rules:
+  {
+    author: [{ selector: ".cf-friends a", attr: "text" }],
+    link: [{ selector: ".cf-friends a", attr: "href" }],
+    avatar: [{ selector: ".cf-friends img", attr: "src" }],
+  }
+
+## 友链页面链接
+LINK:
+  - link: "https://www.xiaoten.com/pages/links/"
+
+## 屏蔽站点（正则表达式）
+BLOCK_SITE:
+  - "https://q.chyfh.com/"
+  - "https://jiaohuiming.cn"
+  - "https://bokehub.com/"
+  - "https://www.foreverblog.cn/"
+  - "https://www.travellings.cn/"
+  - "https://www.boyouquan.com/"
+  - "https://bokequan.cn/"
+  - "https://bf.zzxworld.com/"
+  - "https://blogscn.fun"
+  - "https://www.blogsclub.org/"
+  - "https://twd2.me/"
+  - "https://storeweb.cn/"
+
+## 反向屏蔽站点（正则表达式），如果为 true，则列表表示允许列表（白名单），即只有匹配的会被抓取；默认 false（黑名单行为）。
+BLOCK_SITE_REVERSE: false
+
+
+
+# 手动添加的友链链接列表
+## 每个友链项格式为 [名称, 网址, 头像链接, 可选的 feed 后缀]
+SETTINGS_FRIENDS_LINKS:
+  list:
+    - ["小十博客", "https://www.xiaoten.com/", "https://www.xiaoten.com/avatar.png"] # 友链页没有此链接，属新增。
+    - ["故事的程序猿", "https://blog.lichenghao.cn/", "https://blog.lichenghao.cn/avatar.svg", "article/rss.xml"] # 因rss获取路径特殊，非默认后缀，因此特别声明。
+    - ["旺东自留地", "https://wang618.cn/", "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp", "rss.php"] # 因rss获取路径特殊，非默认后缀，因此特别声明。
+
+
+
+# 综合设置
+## 对于每个来源，首先会根据上述feed后缀进行尝试，如从友链页面获取的或在上述手动添加的列表中未填写的，则尝试下述常见的 feed 后缀，如无法获取，则视为该站点无 feed。
+feed_suffix:
+  - "feed"
+  - "rss"
+  - "atom.xml"
+  - "index.xml"
+  - "rss.xml"
+
+## 每个站点抓取的最多文章数（0为不限制）
+MAX_POSTS_NUM: 0
+
+## 过期文章清除（天），会根据此值剔除过旧文章（0或负数为不限制）
+OUTDATE_CLEAN: 180
+
+## 是否进行时区转换
+## true: 将RSS时间换算为北京时间（当前默认行为）
+## false: 不做换算，保留对方文章的"墙上时间"，但以北京时间标注
+TIMEZONE_CORRECTION: false
+
+## 文章排序方式
+## pub_date: 按发布时间排序（默认）
+## updated_at: 按更新时间排序
+SORT_BY: updated_at
+
+## 输出文件名（根目录相对路径）
+## 例如想要输出为 rss.json：将其设置为 rss.json
+OUTPUT_JSON_FILENAME: rss.json
+
+
+# 高级配置（可选）
+## 日志级别：DEBUG, INFO, WARNING, ERROR
+LOG_LEVEL: INFO
+
+## 并发处理友链数量（0或负数表示不使用并发，串行处理）
+## 建议设置为 4-8，太大可能被目标站点封禁
+MAX_WORKERS: 4
+
+## HTTP 请求超时时间（秒）
+REQUEST_TIMEOUT: 10
+
+## Feed URL 检查超时时间（秒）
+FEED_CHECK_TIMEOUT: 5
+
+## HTTP 请求重试次数
+REQUEST_RETRIES: 1
+
+## 重试退避系数（秒）
+
+RETRY_BACKOFF: 0.3
+
+
+
+
+
+
+
+
