@@ -9,7 +9,7 @@ link_page_rules:
 
 ## 友链页面链接
 LINK:
-  - link: "https://www.xiaoten.com/pages/links/"
+  - link: "https://g0f.cn/links/"
 
 ## 屏蔽站点（正则表达式）
 BLOCK_SITE:
@@ -91,6 +91,7 @@ REQUEST_RETRIES: 1
 ## 重试退避系数（秒）
 
 RETRY_BACKOFF: 0.3
+
 
 
 
