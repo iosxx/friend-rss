@@ -1,4 +1,4 @@
-name: 小十友圈RSS聚合工具
+name: 果粉圈RSS聚合工具
 
 on:
   schedule:
@@ -110,26 +110,10 @@ jobs:
       
       - name: 提交并推送输出文件
         run: |
-          git config --local user.email "ltax@qq.com"
+          git config --local user.email "1113671654@qq.com"
           git config --local user.name "GitHub Action"
           git add -f "$OUTPUT_JSON_FILENAME"
           git commit -m "build: 更新RSS聚合数据 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || echo "没有更改可提交"
           git push
 
-      # 新增：传输输出文件到远程服务器
-      - name: Setup SSH key and known_hosts for output transfer
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_ed25519
-          chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
-          
-      - name: Install rsync for output transfer
-        run: sudo apt-get update && sudo apt-get install -y rsync
-        
-      - name: Deploy output JSON to Server
-        run: |
-          echo "Transferring $OUTPUT_JSON_FILENAME to remote server..."
-          # 请根据您的实际需求修改目标路径
-          rsync -avz --chmod=644 "$OUTPUT_JSON_FILENAME" ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }}:/opt/1panel/apps/openresty/openresty/www/sites/cf.xiaoten.com/index/
-          echo "$OUTPUT_JSON_FILENAME transferred successfully!"
+   
