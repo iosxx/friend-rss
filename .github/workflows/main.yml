@@ -16,6 +16,7 @@ concurrency:
 jobs:
   aggregate-rss:
     runs-on: ubuntu-latest
+    
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
@@ -48,8 +49,7 @@ jobs:
           with open('setting.yaml', 'r', encoding='utf-8') as f:
               cfg = yaml.safe_load(f)
           print(cfg.get('OUTPUT_JSON_FILENAME', 'data.json'))
-          PY
-          )
+          PY)
           echo "OUTPUT_JSON_FILENAME=$FILENAME" >> $GITHUB_ENV
           echo "file=$FILENAME" >> $GITHUB_OUTPUT
 
@@ -116,16 +116,6 @@ jobs:
           git push
 
       - name: 推送到博客仓库
-        env:
-          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
-        run: |
-          # 克隆博客仓库
-          git clone https://x-access-token:${DEPLOY_TOKEN}@github.com/iosxx/notion-hugo-deploy.git blog-repo
-          
-          # 复制 rss.json 到博客的 static 目录（作为 data.json）
-          cp "$OUTPUT_JSON_FILENAME" blog-repo/static/data.json
-          
-          - name: 推送到博客仓库
         env:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: |
