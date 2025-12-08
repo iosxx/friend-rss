@@ -125,7 +125,12 @@ jobs:
           # 复制 rss.json 到博客的 static 目录（作为 data.json）
           cp "$OUTPUT_JSON_FILENAME" blog-repo/static/data.json
           
-          # 提交并推送
+          - name: 推送到博客仓库
+        env:
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: |
+          git clone https://x-access-token:${DEPLOY_TOKEN}@github.com/iosxx/notion-hugo-deploy.git blog-repo
+          cp "$OUTPUT_JSON_FILENAME" blog-repo/static/data.json
           cd blog-repo
           git config user.email "1113671654@qq.com"
           git config user.name "GitHub Action"
