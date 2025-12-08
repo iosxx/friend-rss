@@ -16,30 +16,29 @@ concurrency:
 jobs:
   aggregate-rss:
     runs-on: ubuntu-latest
-    
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: 设置 Python 环境
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
           cache: 'pip'
-      
+
       - name: 安装依赖
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      
+
       - name: Cache feed cache
         uses: actions/cache@v4
         with:
           path: feed_cache.json
           key: feed-cache-v1
-      
+
       - name: 解析输出文件名
         id: output_name
         shell: bash
@@ -53,17 +52,17 @@ jobs:
           )
           echo "OUTPUT_JSON_FILENAME=$FILENAME" >> $GITHUB_ENV
           echo "file=$FILENAME" >> $GITHUB_OUTPUT
-      
+
       - name: 检查当前目录
         run: |
           echo "当前目录文件列表:"
           ls -la
           echo "输出文件是否存在:"
           ls -la "$OUTPUT_JSON_FILENAME" || echo "输出文件不存在"
-      
+
       - name: 运行RSS聚合程序
         run: python main.py
-      
+
       - name: 检查生成的文件
         run: |
           echo "运行程序后的文件列表:"
@@ -107,7 +106,7 @@ jobs:
                   sf.write("## RSS 抓取结果摘要\n\n")
                   sf.write(summary + "\n")
           PY
-      
+
       - name: 提交并推送输出文件
         run: |
           git config --local user.email "1113671654@qq.com"
@@ -116,4 +115,20 @@ jobs:
           git commit -m "build: 更新RSS聚合数据 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || echo "没有更改可提交"
           git push
 
-   
+      - name: 推送到博客仓库
+        env:
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: |
+          # 克隆博客仓库
+          git clone https://x-access-token:${DEPLOY_TOKEN}@github.com/iosxx/notion-hugo-deploy.git blog-repo
+          
+          # 复制 rss.json 到博客的 static 目录（作为 data.json）
+          cp "$OUTPUT_JSON_FILENAME" blog-repo/static/data.json
+          
+          # 提交并推送
+          cd blog-repo
+          git config user.email "1113671654@qq.com"
+          git config user.name "GitHub Action"
+          git add static/data.json
+          git commit -m "build: 更新朋友动态数据 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || echo "没有更改"
+          git push
