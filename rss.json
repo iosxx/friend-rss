@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-09T14:40:03.453151+08:00",
+  "updated_at": "2025-12-09T20:55:53.120436+08:00",
   "total_sites": 6,
-  "total_posts": 192,
+  "total_posts": 200,
   "sites": [
     {
       "name": "LiuSheng",
@@ -166,22 +166,48 @@
       ]
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
-    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "AnyGo - EveryWhere",
+          "link": "https://g0f.cn/ios/testflight/rss-e5bc6ef9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/iksaQJOU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/iksaQJOU\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Aster: On-Chain Perps & Spot",
+          "link": "https://g0f.cn/ios/testflight/rss-2a01d276/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kqPmSypX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kqPmSypX\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Convoxa",
           "link": "https://g0f.cn/ios/testflight/rss-7c9118f2/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/n1wuvu1J\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/n1wuvu1J\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Heroic Legends: Reborn",
+          "link": "https://g0f.cn/ios/testflight/rss-568108cc/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wBCbQaGS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wBCbQaGS\n</a>\n</p>",
           "pub_date": "2025-12-09T00:00:00+08:00",
           "updated_at": "2025-12-09T00:00:00+08:00",
           "author": "",
@@ -204,6 +230,28 @@
           "title": "Journal Recap",
           "link": "https://g0f.cn/ios/testflight/rss-495d3749/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p94kd9Ap\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p94kd9Ap\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Para翻译-AI截屏翻译智能全局屏幕翻译聚合翻译",
+          "link": "https://g0f.cn/ios/testflight/rss-fc18f7b4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/U6WZygFU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/U6WZygFU\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pixen",
+          "link": "https://g0f.cn/ios/testflight/rss-3c817092/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kdvDsxpK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kdvDsxpK\n</a>\n</p>",
           "pub_date": "2025-12-09T00:00:00+08:00",
           "updated_at": "2025-12-09T00:00:00+08:00",
           "author": "",
@@ -245,6 +293,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "SwiftServer - Monitoring & SSH",
+          "link": "https://g0f.cn/ios/testflight/rss-23fc2a3e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yXfSFBFp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yXfSFBFp\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Target",
           "link": "https://g0f.cn/ios/testflight/rss-f0b6e50c/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qcx8yK1s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qcx8yK1s\n</a>\n</p>",
@@ -259,6 +318,28 @@
           "title": "小红书 – 你的生活兴趣社区",
           "link": "https://g0f.cn/ios/testflight/rss-991fa7ea/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XkGKTA71\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XkGKTA71\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "抖音",
+          "link": "https://g0f.cn/ios/testflight/rss-8a7c52be/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Hm0miNz8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Hm0miNz8\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "香肠派对(先行服)",
+          "link": "https://g0f.cn/ios/testflight/rss-7c1208b5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rEzEtRf2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rEzEtRf2\n</a>\n</p>",
           "pub_date": "2025-12-09T00:00:00+08:00",
           "updated_at": "2025-12-09T00:00:00+08:00",
           "author": "",
@@ -1611,6 +1692,13 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
+    {
       "name": "故事的程序猿",
       "url": "https://blog.lichenghao.cn/",
       "avatar": "https://blog.lichenghao.cn/avatar.svg",
@@ -2165,9 +2253,42 @@
   ],
   "all_posts": [
     {
+      "title": "AnyGo - EveryWhere",
+      "link": "https://g0f.cn/ios/testflight/rss-e5bc6ef9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/iksaQJOU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/iksaQJOU\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Aster: On-Chain Perps & Spot",
+      "link": "https://g0f.cn/ios/testflight/rss-2a01d276/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kqPmSypX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kqPmSypX\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Convoxa",
       "link": "https://g0f.cn/ios/testflight/rss-7c9118f2/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/n1wuvu1J\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/n1wuvu1J\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Heroic Legends: Reborn",
+      "link": "https://g0f.cn/ios/testflight/rss-568108cc/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wBCbQaGS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wBCbQaGS\n</a>\n</p>",
       "pub_date": "2025-12-09T00:00:00+08:00",
       "updated_at": "2025-12-09T00:00:00+08:00",
       "author": "",
@@ -2190,6 +2311,28 @@
       "title": "Journal Recap",
       "link": "https://g0f.cn/ios/testflight/rss-495d3749/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p94kd9Ap\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p94kd9Ap\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Para翻译-AI截屏翻译智能全局屏幕翻译聚合翻译",
+      "link": "https://g0f.cn/ios/testflight/rss-fc18f7b4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/U6WZygFU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/U6WZygFU\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pixen",
+      "link": "https://g0f.cn/ios/testflight/rss-3c817092/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kdvDsxpK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kdvDsxpK\n</a>\n</p>",
       "pub_date": "2025-12-09T00:00:00+08:00",
       "updated_at": "2025-12-09T00:00:00+08:00",
       "author": "",
@@ -2231,6 +2374,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "SwiftServer - Monitoring & SSH",
+      "link": "https://g0f.cn/ios/testflight/rss-23fc2a3e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yXfSFBFp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yXfSFBFp\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Target",
       "link": "https://g0f.cn/ios/testflight/rss-f0b6e50c/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qcx8yK1s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qcx8yK1s\n</a>\n</p>",
@@ -2245,6 +2399,28 @@
       "title": "小红书 – 你的生活兴趣社区",
       "link": "https://g0f.cn/ios/testflight/rss-991fa7ea/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XkGKTA71\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XkGKTA71\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "抖音",
+      "link": "https://g0f.cn/ios/testflight/rss-8a7c52be/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Hm0miNz8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Hm0miNz8\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "香肠派对(先行服)",
+      "link": "https://g0f.cn/ios/testflight/rss-7c1208b5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rEzEtRf2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rEzEtRf2\n</a>\n</p>",
       "pub_date": "2025-12-09T00:00:00+08:00",
       "updated_at": "2025-12-09T00:00:00+08:00",
       "author": "",
