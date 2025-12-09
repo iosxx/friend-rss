@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-09T10:00:03.215074+08:00",
+  "updated_at": "2025-12-09T14:40:03.453151+08:00",
   "total_sites": 6,
-  "total_posts": 185,
+  "total_posts": 192,
   "sites": [
     {
       "name": "LiuSheng",
@@ -162,17 +162,6 @@
           "site_name": "LiuSheng",
           "site_url": "https://blog.liushen.fun/",
           "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "Cloudflare/Vercel项目推荐(5)",
-          "link": "https://blog.liushen.fun/posts/5aebde52/",
-          "description": "项目荒啦！终于凑够了一批项目，前面四期深受大家喜爱，获得了不少评论和浏览量，那就更新一篇文章吧！本次更新主要围绕着cloudflare和Vercel展开，基本上都可以零成本部署，欢迎尝试部署！当然我也会提供预览地址，如果用处较大会一直维护，欢迎访问呀！",
-          "pub_date": "2025-06-12T13:12:00+08:00",
-          "updated_at": "2025-06-12T13:13:00+08:00",
-          "author": "",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
         }
       ]
     },
@@ -189,6 +178,94 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Convoxa",
+          "link": "https://g0f.cn/ios/testflight/rss-7c9118f2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/n1wuvu1J\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/n1wuvu1J\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Home Assistant",
+          "link": "https://g0f.cn/ios/testflight/rss-a109fe57/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1AlPbnLZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1AlPbnLZ\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Journal Recap",
+          "link": "https://g0f.cn/ios/testflight/rss-495d3749/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p94kd9Ap\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p94kd9Ap\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Rippple for Trakt",
+          "link": "https://g0f.cn/ios/testflight/rss-cb684bfd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/iz05hhED\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/iz05hhED\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SafeExamBrowser",
+          "link": "https://g0f.cn/ios/testflight/rss-6b3de112/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/egxLmc4j\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/egxLmc4j\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SpotSavor",
+          "link": "https://g0f.cn/ios/testflight/rss-45848537/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YZkXUUWA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YZkXUUWA\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Target",
+          "link": "https://g0f.cn/ios/testflight/rss-f0b6e50c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qcx8yK1s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qcx8yK1s\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "小红书 – 你的生活兴趣社区",
+          "link": "https://g0f.cn/ios/testflight/rss-991fa7ea/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XkGKTA71\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XkGKTA71\n</a>\n</p>",
+          "pub_date": "2025-12-09T00:00:00+08:00",
+          "updated_at": "2025-12-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Ant.fun",
           "link": "https://g0f.cn/ios/testflight/rss-05797c41/",
@@ -2087,6 +2164,94 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Convoxa",
+      "link": "https://g0f.cn/ios/testflight/rss-7c9118f2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/n1wuvu1J\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/n1wuvu1J\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Home Assistant",
+      "link": "https://g0f.cn/ios/testflight/rss-a109fe57/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1AlPbnLZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1AlPbnLZ\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Journal Recap",
+      "link": "https://g0f.cn/ios/testflight/rss-495d3749/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p94kd9Ap\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p94kd9Ap\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Rippple for Trakt",
+      "link": "https://g0f.cn/ios/testflight/rss-cb684bfd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/iz05hhED\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/iz05hhED\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SafeExamBrowser",
+      "link": "https://g0f.cn/ios/testflight/rss-6b3de112/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/egxLmc4j\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/egxLmc4j\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SpotSavor",
+      "link": "https://g0f.cn/ios/testflight/rss-45848537/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YZkXUUWA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YZkXUUWA\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Target",
+      "link": "https://g0f.cn/ios/testflight/rss-f0b6e50c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qcx8yK1s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qcx8yK1s\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "小红书 – 你的生活兴趣社区",
+      "link": "https://g0f.cn/ios/testflight/rss-991fa7ea/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XkGKTA71\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XkGKTA71\n</a>\n</p>",
+      "pub_date": "2025-12-09T00:00:00+08:00",
+      "updated_at": "2025-12-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Ant.fun",
       "link": "https://g0f.cn/ios/testflight/rss-05797c41/",
@@ -4106,17 +4271,6 @@
       "description": "最近各类公益CDN层出不穷，个人站长迎来新机遇。阿里、腾讯相继推出免费CDN套餐，门槛低、易上手。机缘巧合我拿到腾讯海外站EdgeOne的免费套餐兑换码，立刻上手体，整体表现非常流畅，配置简单，速度也令人满意。这篇也将简要说明一下我的使用感受。",
       "pub_date": "2025-06-21T05:12:00+08:00",
       "updated_at": "2025-06-21T05:13:00+08:00",
-      "author": "",
-      "site_name": "LiuSheng",
-      "site_url": "https://blog.liushen.fun/",
-      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "Cloudflare/Vercel项目推荐(5)",
-      "link": "https://blog.liushen.fun/posts/5aebde52/",
-      "description": "项目荒啦！终于凑够了一批项目，前面四期深受大家喜爱，获得了不少评论和浏览量，那就更新一篇文章吧！本次更新主要围绕着cloudflare和Vercel展开，基本上都可以零成本部署，欢迎尝试部署！当然我也会提供预览地址，如果用处较大会一直维护，欢迎访问呀！",
-      "pub_date": "2025-06-12T13:12:00+08:00",
-      "updated_at": "2025-06-12T13:13:00+08:00",
       "author": "",
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
