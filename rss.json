@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-10T14:40:24.597134+08:00",
+  "updated_at": "2025-12-10T20:56:15.821523+08:00",
   "total_sites": 6,
-  "total_posts": 221,
+  "total_posts": 228,
   "sites": [
     {
       "name": "木木木木木",
@@ -179,6 +179,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "AirPosture",
+          "link": "https://g0f.cn/ios/testflight/rss-042bd852/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ATvtBUZH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ATvtBUZH\n</a>\n</p>",
+          "pub_date": "2025-12-10T00:00:00+08:00",
+          "updated_at": "2025-12-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "ALEX: Get AI Car Appraisals",
           "link": "https://g0f.cn/ios/testflight/rss-9a35f150/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Hhvsra1G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Hhvsra1G\n</a>\n</p>",
@@ -190,9 +201,53 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Avventura",
+          "link": "https://g0f.cn/ios/testflight/rss-28aaa8a6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8sM5VrcJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8sM5VrcJ\n</a>\n</p>",
+          "pub_date": "2025-12-10T00:00:00+08:00",
+          "updated_at": "2025-12-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Discord - Talk, Play, Hang Out",
           "link": "https://g0f.cn/ios/testflight/rss-44582181/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gdE4pRzI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gdE4pRzI\n</a>\n</p>",
+          "pub_date": "2025-12-10T00:00:00+08:00",
+          "updated_at": "2025-12-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "FramePick",
+          "link": "https://g0f.cn/ios/testflight/rss-5c4719a4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3AXNxBkQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3AXNxBkQ\n</a>\n</p>",
+          "pub_date": "2025-12-10T00:00:00+08:00",
+          "updated_at": "2025-12-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Glucose Direct",
+          "link": "https://g0f.cn/ios/testflight/rss-cd38e381/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dWDt5Wme\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dWDt5Wme\n</a>\n</p>",
+          "pub_date": "2025-12-10T00:00:00+08:00",
+          "updated_at": "2025-12-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Mapillary",
+          "link": "https://g0f.cn/ios/testflight/rss-7d39067f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ULVifZEZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ULVifZEZ\n</a>\n</p>",
           "pub_date": "2025-12-10T00:00:00+08:00",
           "updated_at": "2025-12-10T00:00:00+08:00",
           "author": "",
@@ -223,6 +278,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "PowerTrade",
+          "link": "https://g0f.cn/ios/testflight/rss-bffccfa5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uSsrzGvC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uSsrzGvC\n</a>\n</p>",
+          "pub_date": "2025-12-10T00:00:00+08:00",
+          "updated_at": "2025-12-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "REFURB AI",
           "link": "https://g0f.cn/ios/testflight/rss-2935fd99/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ACkcNFG5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ACkcNFG5\n</a>\n</p>",
@@ -237,6 +303,17 @@
           "title": "Today's Budget - Saving is fun",
           "link": "https://g0f.cn/ios/testflight/rss-e97894a2/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9QKcRakJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9QKcRakJ\n</a>\n</p>",
+          "pub_date": "2025-12-10T00:00:00+08:00",
+          "updated_at": "2025-12-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ZombieParrot",
+          "link": "https://g0f.cn/ios/testflight/rss-38f117bd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SfWWECPQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SfWWECPQ\n</a>\n</p>",
           "pub_date": "2025-12-10T00:00:00+08:00",
           "updated_at": "2025-12-10T00:00:00+08:00",
           "author": "",
@@ -2484,6 +2561,17 @@
   ],
   "all_posts": [
     {
+      "title": "AirPosture",
+      "link": "https://g0f.cn/ios/testflight/rss-042bd852/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ATvtBUZH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ATvtBUZH\n</a>\n</p>",
+      "pub_date": "2025-12-10T00:00:00+08:00",
+      "updated_at": "2025-12-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "ALEX: Get AI Car Appraisals",
       "link": "https://g0f.cn/ios/testflight/rss-9a35f150/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Hhvsra1G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Hhvsra1G\n</a>\n</p>",
@@ -2495,9 +2583,53 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Avventura",
+      "link": "https://g0f.cn/ios/testflight/rss-28aaa8a6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8sM5VrcJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8sM5VrcJ\n</a>\n</p>",
+      "pub_date": "2025-12-10T00:00:00+08:00",
+      "updated_at": "2025-12-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Discord - Talk, Play, Hang Out",
       "link": "https://g0f.cn/ios/testflight/rss-44582181/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gdE4pRzI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gdE4pRzI\n</a>\n</p>",
+      "pub_date": "2025-12-10T00:00:00+08:00",
+      "updated_at": "2025-12-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "FramePick",
+      "link": "https://g0f.cn/ios/testflight/rss-5c4719a4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3AXNxBkQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3AXNxBkQ\n</a>\n</p>",
+      "pub_date": "2025-12-10T00:00:00+08:00",
+      "updated_at": "2025-12-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Glucose Direct",
+      "link": "https://g0f.cn/ios/testflight/rss-cd38e381/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dWDt5Wme\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dWDt5Wme\n</a>\n</p>",
+      "pub_date": "2025-12-10T00:00:00+08:00",
+      "updated_at": "2025-12-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Mapillary",
+      "link": "https://g0f.cn/ios/testflight/rss-7d39067f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ULVifZEZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ULVifZEZ\n</a>\n</p>",
       "pub_date": "2025-12-10T00:00:00+08:00",
       "updated_at": "2025-12-10T00:00:00+08:00",
       "author": "",
@@ -2528,6 +2660,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "PowerTrade",
+      "link": "https://g0f.cn/ios/testflight/rss-bffccfa5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uSsrzGvC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uSsrzGvC\n</a>\n</p>",
+      "pub_date": "2025-12-10T00:00:00+08:00",
+      "updated_at": "2025-12-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "REFURB AI",
       "link": "https://g0f.cn/ios/testflight/rss-2935fd99/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ACkcNFG5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ACkcNFG5\n</a>\n</p>",
@@ -2542,6 +2685,17 @@
       "title": "Today's Budget - Saving is fun",
       "link": "https://g0f.cn/ios/testflight/rss-e97894a2/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9QKcRakJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9QKcRakJ\n</a>\n</p>",
+      "pub_date": "2025-12-10T00:00:00+08:00",
+      "updated_at": "2025-12-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ZombieParrot",
+      "link": "https://g0f.cn/ios/testflight/rss-38f117bd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SfWWECPQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SfWWECPQ\n</a>\n</p>",
       "pub_date": "2025-12-10T00:00:00+08:00",
       "updated_at": "2025-12-10T00:00:00+08:00",
       "author": "",
