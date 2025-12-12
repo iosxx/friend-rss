@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-12T10:03:11.068411+08:00",
+  "updated_at": "2025-12-12T14:40:48.227126+08:00",
   "total_sites": 6,
-  "total_posts": 256,
+  "total_posts": 262,
   "sites": [
     {
       "name": "LiuSheng",
@@ -178,6 +178,72 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Cratox AI - Calories Counter",
+          "link": "https://g0f.cn/ios/testflight/rss-e8b0c131/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pJgB3d9a\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pJgB3d9a\n</a>\n</p>",
+          "pub_date": "2025-12-12T00:00:00+08:00",
+          "updated_at": "2025-12-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Dropbox: Cloud Storage Backup",
+          "link": "https://g0f.cn/ios/testflight/rss-989cb6a8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/LBZaRq4I\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/LBZaRq4I\n</a>\n</p>",
+          "pub_date": "2025-12-12T00:00:00+08:00",
+          "updated_at": "2025-12-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Reddit",
+          "link": "https://g0f.cn/ios/testflight/rss-bc180658/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/b9jMyOWt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/b9jMyOWt\n</a>\n</p>",
+          "pub_date": "2025-12-12T00:00:00+08:00",
+          "updated_at": "2025-12-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ssssampler",
+          "link": "https://g0f.cn/ios/testflight/rss-fb487404/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ngZK44CF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ngZK44CF\n</a>\n</p>",
+          "pub_date": "2025-12-12T00:00:00+08:00",
+          "updated_at": "2025-12-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ToMemo-多功能快捷键盘的内容整理应用",
+          "link": "https://g0f.cn/ios/testflight/rss-fab5ba6f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8ukHjYtR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8ukHjYtR\n</a>\n</p>",
+          "pub_date": "2025-12-12T00:00:00+08:00",
+          "updated_at": "2025-12-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Tuna: Online Radio",
+          "link": "https://g0f.cn/ios/testflight/rss-995448bd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bLIJKPaK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bLIJKPaK\n</a>\n</p>",
+          "pub_date": "2025-12-12T00:00:00+08:00",
+          "updated_at": "2025-12-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "A.R.C.A.D.E.",
           "link": "https://g0f.cn/ios/testflight/rss-62aad406/",
@@ -2868,6 +2934,72 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Cratox AI - Calories Counter",
+      "link": "https://g0f.cn/ios/testflight/rss-e8b0c131/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pJgB3d9a\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pJgB3d9a\n</a>\n</p>",
+      "pub_date": "2025-12-12T00:00:00+08:00",
+      "updated_at": "2025-12-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Dropbox: Cloud Storage Backup",
+      "link": "https://g0f.cn/ios/testflight/rss-989cb6a8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/LBZaRq4I\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/LBZaRq4I\n</a>\n</p>",
+      "pub_date": "2025-12-12T00:00:00+08:00",
+      "updated_at": "2025-12-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Reddit",
+      "link": "https://g0f.cn/ios/testflight/rss-bc180658/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/b9jMyOWt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/b9jMyOWt\n</a>\n</p>",
+      "pub_date": "2025-12-12T00:00:00+08:00",
+      "updated_at": "2025-12-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ssssampler",
+      "link": "https://g0f.cn/ios/testflight/rss-fb487404/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ngZK44CF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ngZK44CF\n</a>\n</p>",
+      "pub_date": "2025-12-12T00:00:00+08:00",
+      "updated_at": "2025-12-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ToMemo-多功能快捷键盘的内容整理应用",
+      "link": "https://g0f.cn/ios/testflight/rss-fab5ba6f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8ukHjYtR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8ukHjYtR\n</a>\n</p>",
+      "pub_date": "2025-12-12T00:00:00+08:00",
+      "updated_at": "2025-12-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Tuna: Online Radio",
+      "link": "https://g0f.cn/ios/testflight/rss-995448bd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bLIJKPaK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bLIJKPaK\n</a>\n</p>",
+      "pub_date": "2025-12-12T00:00:00+08:00",
+      "updated_at": "2025-12-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "阿里云ESA免费CDN",
       "link": "https://wang618.cn/aliyun-mianfei-cdn.html",
