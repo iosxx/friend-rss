@@ -1,15 +1,8 @@
 {
-  "updated_at": "2025-12-13T09:56:42.080450+08:00",
+  "updated_at": "2025-12-13T14:36:57.350112+08:00",
   "total_sites": 6,
-  "total_posts": 274,
+  "total_posts": 279,
   "sites": [
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -178,6 +171,61 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Avocadish: Recipes & Mealplan",
+          "link": "https://g0f.cn/ios/testflight/rss-1e6de3e4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wgyFsWuG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wgyFsWuG\n</a>\n</p>",
+          "pub_date": "2025-12-13T00:00:00+08:00",
+          "updated_at": "2025-12-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Bullseye - Search Ads Manager",
+          "link": "https://g0f.cn/ios/testflight/rss-bea18f94/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/htWd83JY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/htWd83JY\n</a>\n</p>",
+          "pub_date": "2025-12-13T00:00:00+08:00",
+          "updated_at": "2025-12-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "FlameShot",
+          "link": "https://g0f.cn/ios/testflight/rss-2baeeb42/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JPVHuFzB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JPVHuFzB\n</a>\n</p>",
+          "pub_date": "2025-12-13T00:00:00+08:00",
+          "updated_at": "2025-12-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "waipu.tv - Live TV Streaming",
+          "link": "https://g0f.cn/ios/testflight/rss-bc83e3c6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/l72L1OK3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/l72L1OK3\n</a>\n</p>",
+          "pub_date": "2025-12-13T00:00:00+08:00",
+          "updated_at": "2025-12-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "馬賽克英雄 - 兩週年慶典",
+          "link": "https://g0f.cn/ios/testflight/rss-9c80a9c7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8KMNatSZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8KMNatSZ\n</a>\n</p>",
+          "pub_date": "2025-12-13T00:00:00+08:00",
+          "updated_at": "2025-12-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Bazu! Strength Tracker",
           "link": "https://g0f.cn/ios/testflight/rss-fc9efda5/",
@@ -2513,6 +2561,13 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
+    {
       "name": "故事的程序猿",
       "url": "https://blog.lichenghao.cn/",
       "avatar": "https://blog.lichenghao.cn/avatar.svg",
@@ -3066,6 +3121,61 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Avocadish: Recipes & Mealplan",
+      "link": "https://g0f.cn/ios/testflight/rss-1e6de3e4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wgyFsWuG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wgyFsWuG\n</a>\n</p>",
+      "pub_date": "2025-12-13T00:00:00+08:00",
+      "updated_at": "2025-12-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Bullseye - Search Ads Manager",
+      "link": "https://g0f.cn/ios/testflight/rss-bea18f94/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/htWd83JY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/htWd83JY\n</a>\n</p>",
+      "pub_date": "2025-12-13T00:00:00+08:00",
+      "updated_at": "2025-12-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "FlameShot",
+      "link": "https://g0f.cn/ios/testflight/rss-2baeeb42/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JPVHuFzB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JPVHuFzB\n</a>\n</p>",
+      "pub_date": "2025-12-13T00:00:00+08:00",
+      "updated_at": "2025-12-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "waipu.tv - Live TV Streaming",
+      "link": "https://g0f.cn/ios/testflight/rss-bc83e3c6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/l72L1OK3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/l72L1OK3\n</a>\n</p>",
+      "pub_date": "2025-12-13T00:00:00+08:00",
+      "updated_at": "2025-12-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "馬賽克英雄 - 兩週年慶典",
+      "link": "https://g0f.cn/ios/testflight/rss-9c80a9c7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8KMNatSZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8KMNatSZ\n</a>\n</p>",
+      "pub_date": "2025-12-13T00:00:00+08:00",
+      "updated_at": "2025-12-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Bazu! Strength Tracker",
       "link": "https://g0f.cn/ios/testflight/rss-fc9efda5/",
