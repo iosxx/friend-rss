@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-14T02:33:15.197727+08:00",
+  "updated_at": "2025-12-14T10:09:40.979252+08:00",
   "total_sites": 6,
-  "total_posts": 285,
+  "total_posts": 288,
   "sites": [
     {
       "name": "LiuSheng",
@@ -237,6 +237,39 @@
           "title": "Music Star Life Sim – Charted",
           "link": "https://g0f.cn/ios/testflight/rss-91948c19/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/j57WvNhf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/j57WvNhf\n</a>\n</p>",
+          "pub_date": "2025-12-13T00:00:00+08:00",
+          "updated_at": "2025-12-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "My-Diary-pro",
+          "link": "https://g0f.cn/ios/testflight/rss-70de02c1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FyNs2kap\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FyNs2kap\n</a>\n</p>",
+          "pub_date": "2025-12-13T00:00:00+08:00",
+          "updated_at": "2025-12-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Orbit - Slow Ideas",
+          "link": "https://g0f.cn/ios/testflight/rss-215b15d4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2XyFHtnT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2XyFHtnT\n</a>\n</p>",
+          "pub_date": "2025-12-13T00:00:00+08:00",
+          "updated_at": "2025-12-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "QQ浏览器-AI办公学习助手",
+          "link": "https://g0f.cn/ios/testflight/rss-584e89ee/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/60qdPNyv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/60qdPNyv\n</a>\n</p>",
           "pub_date": "2025-12-13T00:00:00+08:00",
           "updated_at": "2025-12-13T00:00:00+08:00",
           "author": "",
@@ -3257,6 +3290,39 @@
       "title": "Music Star Life Sim – Charted",
       "link": "https://g0f.cn/ios/testflight/rss-91948c19/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/j57WvNhf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/j57WvNhf\n</a>\n</p>",
+      "pub_date": "2025-12-13T00:00:00+08:00",
+      "updated_at": "2025-12-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "My-Diary-pro",
+      "link": "https://g0f.cn/ios/testflight/rss-70de02c1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FyNs2kap\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FyNs2kap\n</a>\n</p>",
+      "pub_date": "2025-12-13T00:00:00+08:00",
+      "updated_at": "2025-12-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Orbit - Slow Ideas",
+      "link": "https://g0f.cn/ios/testflight/rss-215b15d4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2XyFHtnT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2XyFHtnT\n</a>\n</p>",
+      "pub_date": "2025-12-13T00:00:00+08:00",
+      "updated_at": "2025-12-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "QQ浏览器-AI办公学习助手",
+      "link": "https://g0f.cn/ios/testflight/rss-584e89ee/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/60qdPNyv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/60qdPNyv\n</a>\n</p>",
       "pub_date": "2025-12-13T00:00:00+08:00",
       "updated_at": "2025-12-13T00:00:00+08:00",
       "author": "",
