@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-15T02:34:43.259586+08:00",
+  "updated_at": "2025-12-15T10:07:18.900389+08:00",
   "total_sites": 6,
-  "total_posts": 294,
+  "total_posts": 297,
   "sites": [
     {
       "name": "LiuSheng",
@@ -190,6 +190,28 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "ChiChi+",
+          "link": "https://g0f.cn/ios/testflight/rss-49477de7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vYYZ75GW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vYYZ75GW\n</a>\n</p>",
+          "pub_date": "2025-12-14T00:00:00+08:00",
+          "updated_at": "2025-12-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Cloak: App Locker",
+          "link": "https://g0f.cn/ios/testflight/rss-cc119fe7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EWkaskuR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EWkaskuR\n</a>\n</p>",
+          "pub_date": "2025-12-14T00:00:00+08:00",
+          "updated_at": "2025-12-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "GCash Mobile",
           "link": "https://g0f.cn/ios/testflight/rss-2a19be22/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gPda0z4L\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gPda0z4L\n</a>\n</p>",
@@ -215,6 +237,17 @@
           "title": "Moon FM - The Podcasts App",
           "link": "https://g0f.cn/ios/testflight/rss-8a69f4c1/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/c6NtF2xP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/c6NtF2xP\n</a>\n</p>",
+          "pub_date": "2025-12-14T00:00:00+08:00",
+          "updated_at": "2025-12-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Trippity",
+          "link": "https://g0f.cn/ios/testflight/rss-05d15916/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xAsB4taQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xAsB4taQ\n</a>\n</p>",
           "pub_date": "2025-12-14T00:00:00+08:00",
           "updated_at": "2025-12-14T00:00:00+08:00",
           "author": "",
@@ -3309,6 +3342,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "ChiChi+",
+      "link": "https://g0f.cn/ios/testflight/rss-49477de7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vYYZ75GW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vYYZ75GW\n</a>\n</p>",
+      "pub_date": "2025-12-14T00:00:00+08:00",
+      "updated_at": "2025-12-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Cloak: App Locker",
+      "link": "https://g0f.cn/ios/testflight/rss-cc119fe7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EWkaskuR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EWkaskuR\n</a>\n</p>",
+      "pub_date": "2025-12-14T00:00:00+08:00",
+      "updated_at": "2025-12-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "GCash Mobile",
       "link": "https://g0f.cn/ios/testflight/rss-2a19be22/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gPda0z4L\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gPda0z4L\n</a>\n</p>",
@@ -3334,6 +3389,17 @@
       "title": "Moon FM - The Podcasts App",
       "link": "https://g0f.cn/ios/testflight/rss-8a69f4c1/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/c6NtF2xP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/c6NtF2xP\n</a>\n</p>",
+      "pub_date": "2025-12-14T00:00:00+08:00",
+      "updated_at": "2025-12-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Trippity",
+      "link": "https://g0f.cn/ios/testflight/rss-05d15916/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xAsB4taQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xAsB4taQ\n</a>\n</p>",
       "pub_date": "2025-12-14T00:00:00+08:00",
       "updated_at": "2025-12-14T00:00:00+08:00",
       "author": "",
