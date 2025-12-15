@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-15T10:07:18.900389+08:00",
+  "updated_at": "2025-12-15T14:42:37.033252+08:00",
   "total_sites": 6,
-  "total_posts": 297,
+  "total_posts": 299,
   "sites": [
     {
       "name": "LiuSheng",
@@ -178,6 +178,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "AdaH",
+          "link": "https://g0f.cn/ios/testflight/rss-ff1e8f15/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/M7MbxMGm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/M7MbxMGm\n</a>\n</p>",
+          "pub_date": "2025-12-15T00:00:00+08:00",
+          "updated_at": "2025-12-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "JogaApp",
+          "link": "https://g0f.cn/ios/testflight/rss-da8c8614/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sYju4Ub5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sYju4Ub5\n</a>\n</p>",
+          "pub_date": "2025-12-15T00:00:00+08:00",
+          "updated_at": "2025-12-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "1Blocker",
           "link": "https://g0f.cn/ios/testflight/rss-273971a1/",
@@ -3319,6 +3341,28 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "AdaH",
+      "link": "https://g0f.cn/ios/testflight/rss-ff1e8f15/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/M7MbxMGm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/M7MbxMGm\n</a>\n</p>",
+      "pub_date": "2025-12-15T00:00:00+08:00",
+      "updated_at": "2025-12-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "JogaApp",
+      "link": "https://g0f.cn/ios/testflight/rss-da8c8614/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sYju4Ub5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sYju4Ub5\n</a>\n</p>",
+      "pub_date": "2025-12-15T00:00:00+08:00",
+      "updated_at": "2025-12-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "安装CodeBuddy领腾讯轻量",
       "link": "https://wang618.cn/codebuddy-huodong.html",
