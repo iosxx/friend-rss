@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-16T02:39:31.680669+08:00",
+  "updated_at": "2025-12-16T10:03:53.445889+08:00",
   "total_sites": 6,
-  "total_posts": 305,
+  "total_posts": 307,
   "sites": [
     {
       "name": "LiuSheng",
@@ -223,6 +223,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Isekai Blade",
+          "link": "https://g0f.cn/ios/testflight/rss-f977f3a1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/b5312j4R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/b5312j4R\n</a>\n</p>",
+          "pub_date": "2025-12-15T00:00:00+08:00",
+          "updated_at": "2025-12-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "JogaApp",
           "link": "https://g0f.cn/ios/testflight/rss-da8c8614/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sYju4Ub5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sYju4Ub5\n</a>\n</p>",
@@ -237,6 +248,17 @@
           "title": "MSN",
           "link": "https://g0f.cn/ios/testflight/rss-fed27c03/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jOahtut6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jOahtut6\n</a>\n</p>",
+          "pub_date": "2025-12-15T00:00:00+08:00",
+          "updated_at": "2025-12-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "TimeWave: Interval Timer",
+          "link": "https://g0f.cn/ios/testflight/rss-56eac3d8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FadGspC6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FadGspC6\n</a>\n</p>",
           "pub_date": "2025-12-15T00:00:00+08:00",
           "updated_at": "2025-12-15T00:00:00+08:00",
           "author": "",
@@ -3452,6 +3474,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Isekai Blade",
+      "link": "https://g0f.cn/ios/testflight/rss-f977f3a1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/b5312j4R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/b5312j4R\n</a>\n</p>",
+      "pub_date": "2025-12-15T00:00:00+08:00",
+      "updated_at": "2025-12-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "JogaApp",
       "link": "https://g0f.cn/ios/testflight/rss-da8c8614/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sYju4Ub5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sYju4Ub5\n</a>\n</p>",
@@ -3466,6 +3499,17 @@
       "title": "MSN",
       "link": "https://g0f.cn/ios/testflight/rss-fed27c03/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jOahtut6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jOahtut6\n</a>\n</p>",
+      "pub_date": "2025-12-15T00:00:00+08:00",
+      "updated_at": "2025-12-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "TimeWave: Interval Timer",
+      "link": "https://g0f.cn/ios/testflight/rss-56eac3d8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FadGspC6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FadGspC6\n</a>\n</p>",
       "pub_date": "2025-12-15T00:00:00+08:00",
       "updated_at": "2025-12-15T00:00:00+08:00",
       "author": "",
