@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-16T10:03:53.445889+08:00",
+  "updated_at": "2025-12-16T14:41:27.900328+08:00",
   "total_sites": 6,
-  "total_posts": 307,
+  "total_posts": 311,
   "sites": [
     {
       "name": "LiuSheng",
@@ -178,6 +178,39 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "funny.money (beta)",
+          "link": "https://g0f.cn/ios/testflight/rss-c8793782/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y7xPt2rd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y7xPt2rd\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Recap: Flashcards for Language",
+          "link": "https://g0f.cn/ios/testflight/rss-4b9b2069/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/brFTzG7n\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/brFTzG7n\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SYS™",
+          "link": "https://g0f.cn/ios/testflight/rss-78d978db/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xt0WFuzE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xt0WFuzE\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "AdaH",
           "link": "https://g0f.cn/ios/testflight/rss-ff1e8f15/",
@@ -2989,6 +3022,17 @@
       "feed_url": "https://www.xiaoten.com/index.xml",
       "posts": [
         {
+          "title": "2025年终总结",
+          "link": "https://www.xiaoten.com/posts/2025/12/2025-year-in-review/",
+          "description": "<p>不单是年终总结，年轻时还习惯在 QQ 空间写日志甚至月志，那时候的表达欲非常强烈。今年 10 月，我尝试使用“QQ空间导出助手”把QQ空间的文章下载下来，但暂时没有成功。可能逐步会有更成熟、更便捷的工具出来，毕竟AI发展这么迅猛，什么都有可能。这篇总结是从12月8日晚就开始着手写了，内容也更多集中在网站本身和日常生活。</p>",
+          "pub_date": "2025-12-16T14:27:38+08:00",
+          "updated_at": "2025-12-16T14:27:38+08:00",
+          "author": "",
+          "site_name": "小十博客",
+          "site_url": "https://www.xiaoten.com/",
+          "avatar": "https://www.xiaoten.com/avatar.png"
+        },
+        {
           "title": "郑州入冬后的第一场雪",
           "link": "https://www.xiaoten.com/posts/2025/12/the-first-snow-of-the-winter-in-zhengzhou/",
           "description": "<p>难得天气预报准确一次，这暴雪说来就来。</p>\n<p>截至昨天（周五）中午雪还没怎么下，露天跟着同事去了食堂路上连积雪的样子都没有，天倒是冷了不少，但那时候的氛围还不像是要下暴雪的样子。</p>",
@@ -3429,6 +3473,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "2025年终总结",
+      "link": "https://www.xiaoten.com/posts/2025/12/2025-year-in-review/",
+      "description": "<p>不单是年终总结，年轻时还习惯在 QQ 空间写日志甚至月志，那时候的表达欲非常强烈。今年 10 月，我尝试使用“QQ空间导出助手”把QQ空间的文章下载下来，但暂时没有成功。可能逐步会有更成熟、更便捷的工具出来，毕竟AI发展这么迅猛，什么都有可能。这篇总结是从12月8日晚就开始着手写了，内容也更多集中在网站本身和日常生活。</p>",
+      "pub_date": "2025-12-16T14:27:38+08:00",
+      "updated_at": "2025-12-16T14:27:38+08:00",
+      "author": "",
+      "site_name": "小十博客",
+      "site_url": "https://www.xiaoten.com/",
+      "avatar": "https://www.xiaoten.com/avatar.png"
+    },
+    {
+      "title": "funny.money (beta)",
+      "link": "https://g0f.cn/ios/testflight/rss-c8793782/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y7xPt2rd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y7xPt2rd\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Recap: Flashcards for Language",
+      "link": "https://g0f.cn/ios/testflight/rss-4b9b2069/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/brFTzG7n\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/brFTzG7n\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SYS™",
+      "link": "https://g0f.cn/ios/testflight/rss-78d978db/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xt0WFuzE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xt0WFuzE\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "AdaH",
       "link": "https://g0f.cn/ios/testflight/rss-ff1e8f15/",
