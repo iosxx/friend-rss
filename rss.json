@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-16T14:41:27.900328+08:00",
+  "updated_at": "2025-12-16T20:56:37.109075+08:00",
   "total_sites": 6,
-  "total_posts": 311,
+  "total_posts": 313,
   "sites": [
     {
       "name": "LiuSheng",
@@ -179,6 +179,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Check Later",
+          "link": "https://g0f.cn/ios/testflight/rss-62c5b7b4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/B4cD7aRC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/B4cD7aRC\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "funny.money (beta)",
           "link": "https://g0f.cn/ios/testflight/rss-c8793782/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y7xPt2rd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y7xPt2rd\n</a>\n</p>",
@@ -204,6 +215,17 @@
           "title": "SYS™",
           "link": "https://g0f.cn/ios/testflight/rss-78d978db/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xt0WFuzE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xt0WFuzE\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "WIA PRIME FORCES",
+          "link": "https://g0f.cn/ios/testflight/rss-6ee1023a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GrnFiiM5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GrnFiiM5\n</a>\n</p>",
           "pub_date": "2025-12-16T00:00:00+08:00",
           "updated_at": "2025-12-16T00:00:00+08:00",
           "author": "",
@@ -3485,6 +3507,17 @@
       "avatar": "https://www.xiaoten.com/avatar.png"
     },
     {
+      "title": "Check Later",
+      "link": "https://g0f.cn/ios/testflight/rss-62c5b7b4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/B4cD7aRC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/B4cD7aRC\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "funny.money (beta)",
       "link": "https://g0f.cn/ios/testflight/rss-c8793782/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y7xPt2rd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y7xPt2rd\n</a>\n</p>",
@@ -3510,6 +3543,17 @@
       "title": "SYS™",
       "link": "https://g0f.cn/ios/testflight/rss-78d978db/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xt0WFuzE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xt0WFuzE\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "WIA PRIME FORCES",
+      "link": "https://g0f.cn/ios/testflight/rss-6ee1023a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GrnFiiM5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GrnFiiM5\n</a>\n</p>",
       "pub_date": "2025-12-16T00:00:00+08:00",
       "updated_at": "2025-12-16T00:00:00+08:00",
       "author": "",
