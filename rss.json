@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-17T14:40:43.634561+08:00",
+  "updated_at": "2025-12-17T20:56:31.952954+08:00",
   "total_sites": 6,
-  "total_posts": 330,
+  "total_posts": 335,
   "sites": [
     {
       "name": "LiuSheng",
@@ -179,9 +179,42 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "↩️ 作者提供了 10 枚App Store 兑换码，数量有限先到先得。价值 38 元/枚：",
+          "link": "https://g0f.cn/ios/testflight/rss-3ccbcfec/",
+          "description": "<p>TestFlight News\n:</p>\n<p>#推友自荐 FLY浏览器：https://testflight.apple.com/join/fQFRZrTN 设置界面主页输入框输入： “下载 ”开启隐藏功能</p>\n<p>作者提供了 10 枚App Store 兑换码，数量有限先到先得。价值 38 元/枚：\n4KL6NPRJ7NPJ\nLJMJJ6M3EFF3\nT4W4A6AJJENP\nHLPEEMAERETT\nJWEAJET94L3F\nTTEFJM3JJ3H6\nJLJEXN9P6ERF\n6477F9FAPPL7\nLNHLJ9A3JJE7\n6Y7N97R69HJL</p>",
+          "pub_date": "2025-12-17T01:55:00+08:00",
+          "updated_at": "2025-12-17T01:55:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Golly Express",
+          "link": "https://g0f.cn/ios/testflight/rss-44b3fc5e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CuZ2xHsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CuZ2xHsQ\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "HOT SHARE",
           "link": "https://g0f.cn/ios/testflight/rss-cac68776/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yYgJQDv6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yYgJQDv6\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Incognito — Private Browser",
+          "link": "https://g0f.cn/ios/testflight/rss-b9055abf/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/O08pq9aJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/O08pq9aJ\n</a>\n</p>",
           "pub_date": "2025-12-17T00:00:00+08:00",
           "updated_at": "2025-12-17T00:00:00+08:00",
           "author": "",
@@ -237,6 +270,28 @@
           "title": "undoSnack",
           "link": "https://g0f.cn/ios/testflight/rss-a162c3da/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GWu7vgmy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GWu7vgmy\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Vibefy",
+          "link": "https://g0f.cn/ios/testflight/rss-b9696fc0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/he8gBuuY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/he8gBuuY\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "بيتي - مستشارك العقاري الرقمي",
+          "link": "https://g0f.cn/ios/testflight/rss-96c30695/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/leHxarBO\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/leHxarBO\n</a>\n</p>",
           "pub_date": "2025-12-17T00:00:00+08:00",
           "updated_at": "2025-12-17T00:00:00+08:00",
           "author": "",
@@ -3683,9 +3738,42 @@
   ],
   "all_posts": [
     {
+      "title": "↩️ 作者提供了 10 枚App Store 兑换码，数量有限先到先得。价值 38 元/枚：",
+      "link": "https://g0f.cn/ios/testflight/rss-3ccbcfec/",
+      "description": "<p>TestFlight News\n:</p>\n<p>#推友自荐 FLY浏览器：https://testflight.apple.com/join/fQFRZrTN 设置界面主页输入框输入： “下载 ”开启隐藏功能</p>\n<p>作者提供了 10 枚App Store 兑换码，数量有限先到先得。价值 38 元/枚：\n4KL6NPRJ7NPJ\nLJMJJ6M3EFF3\nT4W4A6AJJENP\nHLPEEMAERETT\nJWEAJET94L3F\nTTEFJM3JJ3H6\nJLJEXN9P6ERF\n6477F9FAPPL7\nLNHLJ9A3JJE7\n6Y7N97R69HJL</p>",
+      "pub_date": "2025-12-17T01:55:00+08:00",
+      "updated_at": "2025-12-17T01:55:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Golly Express",
+      "link": "https://g0f.cn/ios/testflight/rss-44b3fc5e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CuZ2xHsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CuZ2xHsQ\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "HOT SHARE",
       "link": "https://g0f.cn/ios/testflight/rss-cac68776/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yYgJQDv6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yYgJQDv6\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Incognito — Private Browser",
+      "link": "https://g0f.cn/ios/testflight/rss-b9055abf/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/O08pq9aJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/O08pq9aJ\n</a>\n</p>",
       "pub_date": "2025-12-17T00:00:00+08:00",
       "updated_at": "2025-12-17T00:00:00+08:00",
       "author": "",
@@ -3741,6 +3829,28 @@
       "title": "undoSnack",
       "link": "https://g0f.cn/ios/testflight/rss-a162c3da/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GWu7vgmy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GWu7vgmy\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Vibefy",
+      "link": "https://g0f.cn/ios/testflight/rss-b9696fc0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/he8gBuuY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/he8gBuuY\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "بيتي - مستشارك العقاري الرقمي",
+      "link": "https://g0f.cn/ios/testflight/rss-96c30695/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/leHxarBO\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/leHxarBO\n</a>\n</p>",
       "pub_date": "2025-12-17T00:00:00+08:00",
       "updated_at": "2025-12-17T00:00:00+08:00",
       "author": "",
