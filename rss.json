@@ -1,15 +1,8 @@
 {
-  "updated_at": "2025-12-17T02:39:33.662367+08:00",
+  "updated_at": "2025-12-17T09:59:10.281837+08:00",
   "total_sites": 6,
-  "total_posts": 318,
+  "total_posts": 323,
   "sites": [
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -173,11 +166,51 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
+    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "推友自荐 FLY浏览器： 设置界面主页输入框输入： “下载 ”开启隐藏功能",
+          "link": "https://g0f.cn/ios/testflight/rss-9f625879/",
+          "description": "<p>#推友自荐\nFLY浏览器：\n<a href=\"https://testflight.apple.com/join/fQFRZrTN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fQFRZrTN\n</a>\n设置界面主页输入框输入： “下载 ”开启隐藏功能\nApple\nJoin the FLY浏览器 beta\nAvailable on iOS</p>",
+          "pub_date": "2025-12-16T14:08:00+08:00",
+          "updated_at": "2025-12-16T14:08:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Ahimo: AI Health Insights",
+          "link": "https://g0f.cn/ios/testflight/rss-d3456a28/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8EUUeEVb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8EUUeEVb\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "AzuraCast Radio",
+          "link": "https://g0f.cn/ios/testflight/rss-60f9759d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EnjvRSTY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EnjvRSTY\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Check Later",
           "link": "https://g0f.cn/ios/testflight/rss-62c5b7b4/",
@@ -204,6 +237,17 @@
           "title": "funny.money (beta)",
           "link": "https://g0f.cn/ios/testflight/rss-c8793782/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y7xPt2rd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y7xPt2rd\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Humanship ID",
+          "link": "https://g0f.cn/ios/testflight/rss-a67f27e0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/y4Ypyuht\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/y4Ypyuht\n</a>\n</p>",
           "pub_date": "2025-12-16T00:00:00+08:00",
           "updated_at": "2025-12-16T00:00:00+08:00",
           "author": "",
@@ -281,6 +325,17 @@
           "title": "Zeeverse",
           "link": "https://g0f.cn/ios/testflight/rss-ebede23f/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/amNRqRfT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/amNRqRfT\n</a>\n</p>",
+          "pub_date": "2025-12-16T00:00:00+08:00",
+          "updated_at": "2025-12-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "钱迹记账-无广告自动记账软件 & 预算 & 资产管理",
+          "link": "https://g0f.cn/ios/testflight/rss-8d0202ab/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gFZnVU2t\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gFZnVU2t\n</a>\n</p>",
           "pub_date": "2025-12-16T00:00:00+08:00",
           "updated_at": "2025-12-16T00:00:00+08:00",
           "author": "",
@@ -3562,6 +3617,39 @@
       "avatar": "https://www.xiaoten.com/avatar.png"
     },
     {
+      "title": "推友自荐 FLY浏览器： 设置界面主页输入框输入： “下载 ”开启隐藏功能",
+      "link": "https://g0f.cn/ios/testflight/rss-9f625879/",
+      "description": "<p>#推友自荐\nFLY浏览器：\n<a href=\"https://testflight.apple.com/join/fQFRZrTN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fQFRZrTN\n</a>\n设置界面主页输入框输入： “下载 ”开启隐藏功能\nApple\nJoin the FLY浏览器 beta\nAvailable on iOS</p>",
+      "pub_date": "2025-12-16T14:08:00+08:00",
+      "updated_at": "2025-12-16T14:08:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Ahimo: AI Health Insights",
+      "link": "https://g0f.cn/ios/testflight/rss-d3456a28/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8EUUeEVb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8EUUeEVb\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "AzuraCast Radio",
+      "link": "https://g0f.cn/ios/testflight/rss-60f9759d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EnjvRSTY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EnjvRSTY\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Check Later",
       "link": "https://g0f.cn/ios/testflight/rss-62c5b7b4/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/B4cD7aRC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/B4cD7aRC\n</a>\n</p>",
@@ -3587,6 +3675,17 @@
       "title": "funny.money (beta)",
       "link": "https://g0f.cn/ios/testflight/rss-c8793782/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y7xPt2rd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y7xPt2rd\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Humanship ID",
+      "link": "https://g0f.cn/ios/testflight/rss-a67f27e0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/y4Ypyuht\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/y4Ypyuht\n</a>\n</p>",
       "pub_date": "2025-12-16T00:00:00+08:00",
       "updated_at": "2025-12-16T00:00:00+08:00",
       "author": "",
@@ -3664,6 +3763,17 @@
       "title": "Zeeverse",
       "link": "https://g0f.cn/ios/testflight/rss-ebede23f/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/amNRqRfT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/amNRqRfT\n</a>\n</p>",
+      "pub_date": "2025-12-16T00:00:00+08:00",
+      "updated_at": "2025-12-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "钱迹记账-无广告自动记账软件 & 预算 & 资产管理",
+      "link": "https://g0f.cn/ios/testflight/rss-8d0202ab/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gFZnVU2t\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gFZnVU2t\n</a>\n</p>",
       "pub_date": "2025-12-16T00:00:00+08:00",
       "updated_at": "2025-12-16T00:00:00+08:00",
       "author": "",
