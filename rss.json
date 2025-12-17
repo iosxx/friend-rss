@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-17T20:56:31.952954+08:00",
+  "updated_at": "2025-12-18T02:40:12.403659+08:00",
   "total_sites": 6,
-  "total_posts": 335,
+  "total_posts": 342,
   "sites": [
     {
       "name": "LiuSheng",
@@ -190,9 +190,75 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Abookio Audiobook Player",
+          "link": "https://g0f.cn/ios/testflight/rss-562a3bcd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cfmrvP7J\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cfmrvP7J\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DeekFit Gym",
+          "link": "https://g0f.cn/ios/testflight/rss-21f941a9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1pxd3Ust?fbclid\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1pxd3Ust?fbclid\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Emotionly",
+          "link": "https://g0f.cn/ios/testflight/rss-143c779e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YZaNun9B\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YZaNun9B\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "FacilAbo",
+          "link": "https://g0f.cn/ios/testflight/rss-8b3c6102/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PYA7WwJs\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PYA7WwJs\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Free",
+          "link": "https://g0f.cn/ios/testflight/rss-6184c79b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/X85eBFES\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/X85eBFES\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Golly Express",
           "link": "https://g0f.cn/ios/testflight/rss-44b3fc5e/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CuZ2xHsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CuZ2xHsQ\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Habits - AI Daily Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-1ba41c0b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jDRhRgDC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jDRhRgDC\n</a>\n</p>",
           "pub_date": "2025-12-17T00:00:00+08:00",
           "updated_at": "2025-12-17T00:00:00+08:00",
           "author": "",
@@ -248,6 +314,17 @@
           "title": "REDLN",
           "link": "https://g0f.cn/ios/testflight/rss-d5f2c266/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zH54tHz5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zH54tHz5\n</a>\n</p>",
+          "pub_date": "2025-12-17T00:00:00+08:00",
+          "updated_at": "2025-12-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Rive Trans",
+          "link": "https://g0f.cn/ios/testflight/rss-73a52030/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Etj5ngdw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Etj5ngdw\n</a>\n</p>",
           "pub_date": "2025-12-17T00:00:00+08:00",
           "updated_at": "2025-12-17T00:00:00+08:00",
           "author": "",
@@ -3749,9 +3826,75 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Abookio Audiobook Player",
+      "link": "https://g0f.cn/ios/testflight/rss-562a3bcd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cfmrvP7J\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cfmrvP7J\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DeekFit Gym",
+      "link": "https://g0f.cn/ios/testflight/rss-21f941a9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1pxd3Ust?fbclid\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1pxd3Ust?fbclid\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Emotionly",
+      "link": "https://g0f.cn/ios/testflight/rss-143c779e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YZaNun9B\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YZaNun9B\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "FacilAbo",
+      "link": "https://g0f.cn/ios/testflight/rss-8b3c6102/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PYA7WwJs\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PYA7WwJs\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Free",
+      "link": "https://g0f.cn/ios/testflight/rss-6184c79b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/X85eBFES\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/X85eBFES\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Golly Express",
       "link": "https://g0f.cn/ios/testflight/rss-44b3fc5e/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CuZ2xHsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CuZ2xHsQ\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Habits - AI Daily Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-1ba41c0b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jDRhRgDC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jDRhRgDC\n</a>\n</p>",
       "pub_date": "2025-12-17T00:00:00+08:00",
       "updated_at": "2025-12-17T00:00:00+08:00",
       "author": "",
@@ -3807,6 +3950,17 @@
       "title": "REDLN",
       "link": "https://g0f.cn/ios/testflight/rss-d5f2c266/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zH54tHz5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zH54tHz5\n</a>\n</p>",
+      "pub_date": "2025-12-17T00:00:00+08:00",
+      "updated_at": "2025-12-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Rive Trans",
+      "link": "https://g0f.cn/ios/testflight/rss-73a52030/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Etj5ngdw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Etj5ngdw\n</a>\n</p>",
       "pub_date": "2025-12-17T00:00:00+08:00",
       "updated_at": "2025-12-17T00:00:00+08:00",
       "author": "",
