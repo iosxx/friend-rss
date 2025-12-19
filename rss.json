@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-19T14:39:07.158850+08:00",
+  "updated_at": "2025-12-19T20:53:06.604796+08:00",
   "total_sites": 6,
-  "total_posts": 373,
+  "total_posts": 377,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,9 +168,53 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Askseed",
+          "link": "https://g0f.cn/ios/testflight/rss-786959ac/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/eGyBpSqt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/eGyBpSqt\n</a>\n</p>",
+          "pub_date": "2025-12-19T00:00:00+08:00",
+          "updated_at": "2025-12-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lili Clavier - Polices",
+          "link": "https://g0f.cn/ios/testflight/rss-4ab9c8e1/",
+          "description": "<p>Status: Open</p>",
+          "pub_date": "2025-12-19T00:00:00+08:00",
+          "updated_at": "2025-12-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Rainbow - Ethereum Wallet",
           "link": "https://g0f.cn/ios/testflight/rss-658276f8/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q38qUnP1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q38qUnP1\n</a>\n</p>",
+          "pub_date": "2025-12-19T00:00:00+08:00",
+          "updated_at": "2025-12-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Voola - Identify Any Clip",
+          "link": "https://g0f.cn/ios/testflight/rss-186d660a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NBp8jRGK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NBp8jRGK\n</a>\n</p>",
+          "pub_date": "2025-12-19T00:00:00+08:00",
+          "updated_at": "2025-12-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "おさかなギルド",
+          "link": "https://g0f.cn/ios/testflight/rss-995f1fb7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jF8pnaJz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jF8pnaJz\n</a>\n</p>",
           "pub_date": "2025-12-19T00:00:00+08:00",
           "updated_at": "2025-12-19T00:00:00+08:00",
           "author": "",
@@ -4156,9 +4200,53 @@
   ],
   "all_posts": [
     {
+      "title": "Askseed",
+      "link": "https://g0f.cn/ios/testflight/rss-786959ac/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/eGyBpSqt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/eGyBpSqt\n</a>\n</p>",
+      "pub_date": "2025-12-19T00:00:00+08:00",
+      "updated_at": "2025-12-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lili Clavier - Polices",
+      "link": "https://g0f.cn/ios/testflight/rss-4ab9c8e1/",
+      "description": "<p>Status: Open</p>",
+      "pub_date": "2025-12-19T00:00:00+08:00",
+      "updated_at": "2025-12-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Rainbow - Ethereum Wallet",
       "link": "https://g0f.cn/ios/testflight/rss-658276f8/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q38qUnP1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q38qUnP1\n</a>\n</p>",
+      "pub_date": "2025-12-19T00:00:00+08:00",
+      "updated_at": "2025-12-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Voola - Identify Any Clip",
+      "link": "https://g0f.cn/ios/testflight/rss-186d660a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NBp8jRGK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NBp8jRGK\n</a>\n</p>",
+      "pub_date": "2025-12-19T00:00:00+08:00",
+      "updated_at": "2025-12-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "おさかなギルド",
+      "link": "https://g0f.cn/ios/testflight/rss-995f1fb7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jF8pnaJz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jF8pnaJz\n</a>\n</p>",
       "pub_date": "2025-12-19T00:00:00+08:00",
       "updated_at": "2025-12-19T00:00:00+08:00",
       "author": "",
