@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-20T02:37:14.102693+08:00",
+  "updated_at": "2025-12-20T09:56:32.347043+08:00",
   "total_sites": 6,
-  "total_posts": 378,
+  "total_posts": 380,
   "sites": [
     {
       "name": "LiuSheng",
@@ -179,6 +179,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Calamity Online",
+          "link": "https://g0f.cn/ios/testflight/rss-1fd2870f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/seV17qSf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/seV17qSf\n</a>\n</p>",
+          "pub_date": "2025-12-19T00:00:00+08:00",
+          "updated_at": "2025-12-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Lili Clavier - Polices",
           "link": "https://g0f.cn/ios/testflight/rss-4ab9c8e1/",
           "description": "<p>Status: Open</p>",
@@ -204,6 +215,17 @@
           "title": "Rainbow - Ethereum Wallet",
           "link": "https://g0f.cn/ios/testflight/rss-658276f8/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q38qUnP1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q38qUnP1\n</a>\n</p>",
+          "pub_date": "2025-12-19T00:00:00+08:00",
+          "updated_at": "2025-12-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Sleepy Train",
+          "link": "https://g0f.cn/ios/testflight/rss-88f7d347/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rnQzZeUJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rnQzZeUJ\n</a>\n</p>",
           "pub_date": "2025-12-19T00:00:00+08:00",
           "updated_at": "2025-12-19T00:00:00+08:00",
           "author": "",
@@ -4222,6 +4244,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Calamity Online",
+      "link": "https://g0f.cn/ios/testflight/rss-1fd2870f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/seV17qSf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/seV17qSf\n</a>\n</p>",
+      "pub_date": "2025-12-19T00:00:00+08:00",
+      "updated_at": "2025-12-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Lili Clavier - Polices",
       "link": "https://g0f.cn/ios/testflight/rss-4ab9c8e1/",
       "description": "<p>Status: Open</p>",
@@ -4247,6 +4280,17 @@
       "title": "Rainbow - Ethereum Wallet",
       "link": "https://g0f.cn/ios/testflight/rss-658276f8/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q38qUnP1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q38qUnP1\n</a>\n</p>",
+      "pub_date": "2025-12-19T00:00:00+08:00",
+      "updated_at": "2025-12-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Sleepy Train",
+      "link": "https://g0f.cn/ios/testflight/rss-88f7d347/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rnQzZeUJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rnQzZeUJ\n</a>\n</p>",
       "pub_date": "2025-12-19T00:00:00+08:00",
       "updated_at": "2025-12-19T00:00:00+08:00",
       "author": "",
