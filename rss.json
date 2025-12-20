@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-20T14:37:28.964104+08:00",
+  "updated_at": "2025-12-20T20:49:19.716836+08:00",
   "total_sites": 6,
-  "total_posts": 386,
+  "total_posts": 388,
   "sites": [
     {
       "name": "LiuSheng",
@@ -182,6 +182,17 @@
           "title": "FC Manager 2025- Football",
           "link": "https://g0f.cn/ios/testflight/rss-34bea231/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/G6C2Wg52\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/G6C2Wg52\n</a>\n</p>",
+          "pub_date": "2025-12-20T00:00:00+08:00",
+          "updated_at": "2025-12-20T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "luvit",
+          "link": "https://g0f.cn/ios/testflight/rss-fded5319/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RzcsNa7W\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RzcsNa7W\n</a>\n</p>",
           "pub_date": "2025-12-20T00:00:00+08:00",
           "updated_at": "2025-12-20T00:00:00+08:00",
           "author": "",
@@ -3847,6 +3858,17 @@
       "feed_url": "https://www.xiaoten.com/index.xml",
       "posts": [
         {
+          "title": "Hugo 侧边目录（TOC）实现：页面双列布局 + Sticky + ScrollSpy 高亮",
+          "link": "https://www.xiaoten.com/posts/2025/12/hugo-toc-sidebar-scrollspy/",
+          "description": "<p>前段时间，写了篇\n<a href=\"https://www.xiaoten.com/posts/2025/12/2025-year-in-review\">\n2025年终总结\n</a>，但整篇博客没有经过成熟的归纳、整理，导致最终内容过长，在没有成熟的索引目录加持下，阅读体验很不好。</p>\n<p>虽然在正文开头启用了目录功能，但只能实现一次性地快速定位，如需再定位另一标题，则需再返回顶部，重新点击目录中的标题。</p>",
+          "pub_date": "2025-12-20T17:05:13+08:00",
+          "updated_at": "2025-12-20T17:05:13+08:00",
+          "author": "",
+          "site_name": "小十博客",
+          "site_url": "https://www.xiaoten.com/",
+          "avatar": "https://www.xiaoten.com/avatar.png"
+        },
+        {
           "title": "2025年终总结",
           "link": "https://www.xiaoten.com/posts/2025/12/2025-year-in-review/",
           "description": "<p>不单是年终总结，年轻时还习惯在 QQ 空间写日志甚至月志，那时候的表达欲非常强烈。今年 10 月，我尝试使用“QQ空间导出助手”把QQ空间的文章下载下来，但暂时没有成功。可能逐步会有更成熟、更便捷的工具出来，毕竟AI发展这么迅猛，什么都有可能。这篇总结是从12月8日晚就开始着手写了，内容也更多集中在网站本身和日常生活。</p>",
@@ -4299,6 +4321,17 @@
   ],
   "all_posts": [
     {
+      "title": "Hugo 侧边目录（TOC）实现：页面双列布局 + Sticky + ScrollSpy 高亮",
+      "link": "https://www.xiaoten.com/posts/2025/12/hugo-toc-sidebar-scrollspy/",
+      "description": "<p>前段时间，写了篇\n<a href=\"https://www.xiaoten.com/posts/2025/12/2025-year-in-review\">\n2025年终总结\n</a>，但整篇博客没有经过成熟的归纳、整理，导致最终内容过长，在没有成熟的索引目录加持下，阅读体验很不好。</p>\n<p>虽然在正文开头启用了目录功能，但只能实现一次性地快速定位，如需再定位另一标题，则需再返回顶部，重新点击目录中的标题。</p>",
+      "pub_date": "2025-12-20T17:05:13+08:00",
+      "updated_at": "2025-12-20T17:05:13+08:00",
+      "author": "",
+      "site_name": "小十博客",
+      "site_url": "https://www.xiaoten.com/",
+      "avatar": "https://www.xiaoten.com/avatar.png"
+    },
+    {
       "title": "Bankwallet (824492)",
       "link": "https://g0f.cn/ios/testflight/rss-608f47cd/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VHcaf2n9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VHcaf2n9\n</a>\n</p>",
@@ -4313,6 +4346,17 @@
       "title": "FC Manager 2025- Football",
       "link": "https://g0f.cn/ios/testflight/rss-34bea231/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/G6C2Wg52\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/G6C2Wg52\n</a>\n</p>",
+      "pub_date": "2025-12-20T00:00:00+08:00",
+      "updated_at": "2025-12-20T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "luvit",
+      "link": "https://g0f.cn/ios/testflight/rss-fded5319/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RzcsNa7W\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RzcsNa7W\n</a>\n</p>",
       "pub_date": "2025-12-20T00:00:00+08:00",
       "updated_at": "2025-12-20T00:00:00+08:00",
       "author": "",
