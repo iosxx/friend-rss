@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-21T10:09:43.907098+08:00",
+  "updated_at": "2025-12-21T14:37:44.837240+08:00",
   "total_sites": 6,
-  "total_posts": 395,
+  "total_posts": 397,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "BuilderCv",
+          "link": "https://g0f.cn/ios/testflight/rss-08116bf2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NcqHre5e\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NcqHre5e\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Reciport",
+          "link": "https://g0f.cn/ios/testflight/rss-ca6dddc3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qWUyubhx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qWUyubhx\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Bankwallet (824492)",
           "link": "https://g0f.cn/ios/testflight/rss-608f47cd/",
@@ -3935,7 +3957,7 @@
       "feed_url": "https://www.xiaoten.com/index.xml",
       "posts": [
         {
-          "title": "Hugo 侧边目录（TOC）实现：页面双列布局 + Sticky + ScrollSpy 高亮",
+          "title": "Hugo侧边目录实现：页面双列布局+Sticky+ScrollSpy高亮",
           "link": "https://www.xiaoten.com/posts/2025/12/hugo-toc-sidebar-scrollspy/",
           "description": "<p>前段时间，写了篇\n<a href=\"https://www.xiaoten.com/posts/2025/12/2025-year-in-review\">\n2025年终总结\n</a>，但整篇博客没有经过成熟的归纳、整理，导致最终内容过长，在没有成熟的索引目录加持下，阅读体验很不好。</p>\n<p>虽然在正文开头启用了目录功能，但只能实现一次性地快速定位，如需再定位另一标题，则需再返回顶部，重新点击目录中的标题。</p>",
           "pub_date": "2025-12-20T17:05:13+08:00",
@@ -4398,7 +4420,29 @@
   ],
   "all_posts": [
     {
-      "title": "Hugo 侧边目录（TOC）实现：页面双列布局 + Sticky + ScrollSpy 高亮",
+      "title": "BuilderCv",
+      "link": "https://g0f.cn/ios/testflight/rss-08116bf2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NcqHre5e\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NcqHre5e\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Reciport",
+      "link": "https://g0f.cn/ios/testflight/rss-ca6dddc3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qWUyubhx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qWUyubhx\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Hugo侧边目录实现：页面双列布局+Sticky+ScrollSpy高亮",
       "link": "https://www.xiaoten.com/posts/2025/12/hugo-toc-sidebar-scrollspy/",
       "description": "<p>前段时间，写了篇\n<a href=\"https://www.xiaoten.com/posts/2025/12/2025-year-in-review\">\n2025年终总结\n</a>，但整篇博客没有经过成熟的归纳、整理，导致最终内容过长，在没有成熟的索引目录加持下，阅读体验很不好。</p>\n<p>虽然在正文开头启用了目录功能，但只能实现一次性地快速定位，如需再定位另一标题，则需再返回顶部，重新点击目录中的标题。</p>",
       "pub_date": "2025-12-20T17:05:13+08:00",
