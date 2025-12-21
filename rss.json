@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-21T14:37:44.837240+08:00",
+  "updated_at": "2025-12-21T20:49:53.708476+08:00",
   "total_sites": 6,
-  "total_posts": 397,
+  "total_posts": 401,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,6 +168,28 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Arkythm",
+          "link": "https://g0f.cn/ios/testflight/rss-75cc575e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/suOW3jWJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/suOW3jWJ\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Bible Trainer Advanced",
+          "link": "https://g0f.cn/ios/testflight/rss-19b5b5e2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CVNQPMz2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CVNQPMz2\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "BuilderCv",
           "link": "https://g0f.cn/ios/testflight/rss-08116bf2/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NcqHre5e\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NcqHre5e\n</a>\n</p>",
@@ -182,6 +204,28 @@
           "title": "Reciport",
           "link": "https://g0f.cn/ios/testflight/rss-ca6dddc3/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qWUyubhx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qWUyubhx\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Swiftgram: Telegram mod client",
+          "link": "https://g0f.cn/ios/testflight/rss-4c0eb6fa/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3TUwXHbH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3TUwXHbH\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "集中｜勉強時間の記録・スマホ依存対策、資格学習や受験に",
+          "link": "https://g0f.cn/ios/testflight/rss-6d06d32b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Em7RSxwa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Em7RSxwa\n</a>\n</p>",
           "pub_date": "2025-12-21T00:00:00+08:00",
           "updated_at": "2025-12-21T00:00:00+08:00",
           "author": "",
@@ -4047,7 +4091,7 @@
         {
           "title": "解决 Hugo 分页器返回空页面的诡异问题：.Paginate 不能被多次调用",
           "link": "https://www.xiaoten.com/posts/2025/11/fixing-hugo-pagination-paginate-called-multiple-times-issue/",
-          "description": "<h2 id=\"问题背景\">问题背景</h2>\n<p>在将博客的文章列表从 JavaScript 分页迁移到 Hugo 官方分页时，遇到了一个非常诡异的问题：</p>\n<ul>\n<li>✅ Hugo 构建成功，显示生成了 42 个分页页面</li>\n<li>✅ <code>.RegularPages</code> 有 360 篇文章</li>\n<li>✅ 直接 <code>range .RegularPages</code> 可以正常显示文章</li>\n<li>❌ 但是 <code>.Paginator.Pages</code> 始终返回 0</li>\n</ul>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-html\"><span class=\"line\"><span class=\"cl\">{{/* 这样可以看到 360 篇文章 */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ range .RegularPages }}\n</span></span><span class=\"line\"><span class=\"cl\"> {{ .Title }}\n</span></span><span class=\"line\"><span class=\"cl\">{{ end }}\n</span></span><span class=\"line\"><span class=\"cl\">\n</span></span><span class=\"line\"><span class=\"cl\">{{/* 但分页器是空的！ */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ $paginator := .Paginator }}\n</span></span><span class=\"line\"><span class=\"cl\">分页器中的文章数: {{ len $paginator.Pages }} {{/* 输出：0 */}}\n</span></span></code></pre></div><h2 id=\"排查过程\">排查过程</h2>\n<h3 id=\"第一步检查配置\">第一步：检查配置</h3>\n<p>首先怀疑是配置问题。Hugo v0.128+ 的分页配置格式发生了变化：</p>",
+          "description": "<h2 id=\"问题背景\">问题背景</h2>\n<p>在将博客的文章列表从 JavaScript 分页迁移到 Hugo 官方分页时，遇到了一个非常诡异的问题：</p>\n<ul>\n<li>✅ Hugo 构建成功，显示生成了 42 个分页页面</li>\n<li>✅ <code>.RegularPages</code> 有 360 篇文章</li>\n<li>✅ 直接 <code>range .RegularPages</code> 可以正常显示文章</li>\n<li>❌ 但是 <code>.Paginator.Pages</code> 始终返回 0</li>\n</ul>\n<div class=\"codeblock-container\">\n<div class=\"codeblock\">\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-html\"><span class=\"line\"><span class=\"cl\">{{/* 这样可以看到 360 篇文章 */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ range .RegularPages }}\n</span></span><span class=\"line\"><span class=\"cl\"> {{ .Title }}\n</span></span><span class=\"line\"><span class=\"cl\">{{ end }}\n</span></span><span class=\"line\"><span class=\"cl\">\n</span></span><span class=\"line\"><span class=\"cl\">{{/* 但分页器是空的！ */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ $paginator := .Paginator }}\n</span></span><span class=\"line\"><span class=\"cl\">分页器中的文章数: {{ len $paginator.Pages }} {{/* 输出：0 */}}</span></span></code></pre></div>\n<div class=\"codeblock__remain\"><span>剩余 3 行代码</span></div>\n</div>\n<div class=\"codeblock__actions\">\n<button class=\"codeblock__toggle\" hidden=\"hidden\" type=\"button\">展开剩余代码</button>\n</div>\n</div><h2 id=\"排查过程\">排查过程</h2>\n<h3 id=\"第一步检查配置\">第一步：检查配置</h3>\n<p>首先怀疑是配置问题。Hugo v0.128+ 的分页配置格式发生了变化：</p>",
           "pub_date": "2025-11-16T19:30:00+08:00",
           "updated_at": "2025-11-16T19:30:00+08:00",
           "author": "",
@@ -4179,7 +4223,7 @@
         {
           "title": "PVE从8升级到9",
           "link": "https://www.xiaoten.com/posts/2025/08/pve-upgrade-from-8-to-9/",
-          "description": "<p>今天完成了Proxmox Virtual Environment 从8升级到9。</p>\n<h3 id=\"升级前准备\">升级前准备</h3>\n<p>确保您的所有节点都已升级到 Proxmox VE 8.4 的最新版本。</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">apt update <span class=\"o\">&amp;&amp;</span> apt dist-upgrade\n</span></span><span class=\"line\"><span class=\"cl\">pveversion\n</span></span></code></pre></div><h3 id=\"检查是否满足升级条件\">检查是否满足升级条件</h3>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9\n</span></span></code></pre></div><p>或</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9 --full\n</span></span></code></pre></div><p>需要 ·SUMMARY· 里没有警错误才能执行升级</p>",
+          "description": "<p>今天完成了Proxmox Virtual Environment 从8升级到9。</p>\n<h3 id=\"升级前准备\">升级前准备</h3>\n<p>确保您的所有节点都已升级到 Proxmox VE 8.4 的最新版本。</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">apt update <span class=\"o\">&amp;&amp;</span> apt dist-upgrade\n</span></span><span class=\"line\"><span class=\"cl\">pveversion</span></span></code></pre></div><h3 id=\"检查是否满足升级条件\">检查是否满足升级条件</h3>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9</span></span></code></pre></div><p>或</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9 --full</span></span></code></pre></div><p>需要 ·SUMMARY· 里没有警错误才能执行升级</p>",
           "pub_date": "2025-08-10T18:07:20+08:00",
           "updated_at": "2025-08-10T18:07:20+08:00",
           "author": "",
@@ -4195,6 +4239,17 @@
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp",
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
+        {
+          "title": "懒冬饺酒闲情",
+          "link": "https://wang618.cn/lan-dong-jiao-jiu-xian-qing.html",
+          "description": "<p>冬至如约而至，耳边又响起那句“冬至不端饺子碗，冻掉耳朵没人管”的老话。偷了个懒没下厨，外卖饺子配双合盛啤酒，一口暖食一口酒，这个冬节，舒服又圆满～</p>\n<p><img alt=\"饺子01.webp\" src=\"https://wang618.cn/content/uploadfile/202512/e0ea1766301530.webp\" /></p>\n<p><img alt=\"饺子02.webp\" src=\"https://wang618.cn/content/uploadfile/202512/3b1e1766301530.webp\" /></p>\n<p><img alt=\"饺子03.webp\" src=\"https://wang618.cn/content/uploadfile/202512/b9bc1766301530.webp\" /></p>",
+          "pub_date": "2025-12-21T15:21:05+08:00",
+          "updated_at": "2025-12-21T15:21:05+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
         {
           "title": "安装CodeBuddy领腾讯轻量",
           "link": "https://wang618.cn/codebuddy-huodong.html",
@@ -4403,22 +4458,44 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "开晴炖味",
-          "link": "https://wang618.cn/kai-qing-dun-wei.html",
-          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E9%93%81%E9%94%85%E4%B9%B1%E7%82%96.mp4?sign=t5vptQZXUxa_a8_1Qs2dl8TbaS30B50H8JKhmgo6Yvg=:0\"></video>\n<p>连遭十二日阴雨缠绵，今日总算盼得云开日朗。特意买来鲜嫩的走地鸡与紧实的黑猪肉，要以柴火铁锅炖出一锅好味。先将肉块下锅，小火慢煸出透亮油脂，再丢入葱姜与香料，瞬间爆出浓郁辛香。随即倒入啤酒，不添半滴水，任其与肉相拥。柴火温柔舔舐着锅底，锅内咕嘟声渐起，肉香混着麦香慢慢漫溢开来。耐心炖至汤汁浓稠，肉块裹着油亮红光，肉皮更是晶莹诱人。入口时，肉质的醇厚与柴火的烟火暖意交织，在舌尖层层释放，这走地鸡与黑猪肉的绝妙组合，把寻常家常的鲜美滋味，尽数炖得淋漓尽致。</p>",
-          "pub_date": "2025-10-13T16:30:18+08:00",
-          "updated_at": "2025-10-13T16:30:18+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
+    {
+      "title": "懒冬饺酒闲情",
+      "link": "https://wang618.cn/lan-dong-jiao-jiu-xian-qing.html",
+      "description": "<p>冬至如约而至，耳边又响起那句“冬至不端饺子碗，冻掉耳朵没人管”的老话。偷了个懒没下厨，外卖饺子配双合盛啤酒，一口暖食一口酒，这个冬节，舒服又圆满～</p>\n<p><img alt=\"饺子01.webp\" src=\"https://wang618.cn/content/uploadfile/202512/e0ea1766301530.webp\" /></p>\n<p><img alt=\"饺子02.webp\" src=\"https://wang618.cn/content/uploadfile/202512/3b1e1766301530.webp\" /></p>\n<p><img alt=\"饺子03.webp\" src=\"https://wang618.cn/content/uploadfile/202512/b9bc1766301530.webp\" /></p>",
+      "pub_date": "2025-12-21T15:21:05+08:00",
+      "updated_at": "2025-12-21T15:21:05+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
+      "title": "Arkythm",
+      "link": "https://g0f.cn/ios/testflight/rss-75cc575e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/suOW3jWJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/suOW3jWJ\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Bible Trainer Advanced",
+      "link": "https://g0f.cn/ios/testflight/rss-19b5b5e2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CVNQPMz2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CVNQPMz2\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "BuilderCv",
       "link": "https://g0f.cn/ios/testflight/rss-08116bf2/",
@@ -4434,6 +4511,28 @@
       "title": "Reciport",
       "link": "https://g0f.cn/ios/testflight/rss-ca6dddc3/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qWUyubhx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qWUyubhx\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Swiftgram: Telegram mod client",
+      "link": "https://g0f.cn/ios/testflight/rss-4c0eb6fa/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3TUwXHbH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3TUwXHbH\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "集中｜勉強時間の記録・スマホ依存対策、資格学習や受験に",
+      "link": "https://g0f.cn/ios/testflight/rss-6d06d32b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Em7RSxwa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Em7RSxwa\n</a>\n</p>",
       "pub_date": "2025-12-21T00:00:00+08:00",
       "updated_at": "2025-12-21T00:00:00+08:00",
       "author": "",
@@ -8118,7 +8217,7 @@
     {
       "title": "解决 Hugo 分页器返回空页面的诡异问题：.Paginate 不能被多次调用",
       "link": "https://www.xiaoten.com/posts/2025/11/fixing-hugo-pagination-paginate-called-multiple-times-issue/",
-      "description": "<h2 id=\"问题背景\">问题背景</h2>\n<p>在将博客的文章列表从 JavaScript 分页迁移到 Hugo 官方分页时，遇到了一个非常诡异的问题：</p>\n<ul>\n<li>✅ Hugo 构建成功，显示生成了 42 个分页页面</li>\n<li>✅ <code>.RegularPages</code> 有 360 篇文章</li>\n<li>✅ 直接 <code>range .RegularPages</code> 可以正常显示文章</li>\n<li>❌ 但是 <code>.Paginator.Pages</code> 始终返回 0</li>\n</ul>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-html\"><span class=\"line\"><span class=\"cl\">{{/* 这样可以看到 360 篇文章 */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ range .RegularPages }}\n</span></span><span class=\"line\"><span class=\"cl\"> {{ .Title }}\n</span></span><span class=\"line\"><span class=\"cl\">{{ end }}\n</span></span><span class=\"line\"><span class=\"cl\">\n</span></span><span class=\"line\"><span class=\"cl\">{{/* 但分页器是空的！ */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ $paginator := .Paginator }}\n</span></span><span class=\"line\"><span class=\"cl\">分页器中的文章数: {{ len $paginator.Pages }} {{/* 输出：0 */}}\n</span></span></code></pre></div><h2 id=\"排查过程\">排查过程</h2>\n<h3 id=\"第一步检查配置\">第一步：检查配置</h3>\n<p>首先怀疑是配置问题。Hugo v0.128+ 的分页配置格式发生了变化：</p>",
+      "description": "<h2 id=\"问题背景\">问题背景</h2>\n<p>在将博客的文章列表从 JavaScript 分页迁移到 Hugo 官方分页时，遇到了一个非常诡异的问题：</p>\n<ul>\n<li>✅ Hugo 构建成功，显示生成了 42 个分页页面</li>\n<li>✅ <code>.RegularPages</code> 有 360 篇文章</li>\n<li>✅ 直接 <code>range .RegularPages</code> 可以正常显示文章</li>\n<li>❌ 但是 <code>.Paginator.Pages</code> 始终返回 0</li>\n</ul>\n<div class=\"codeblock-container\">\n<div class=\"codeblock\">\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-html\"><span class=\"line\"><span class=\"cl\">{{/* 这样可以看到 360 篇文章 */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ range .RegularPages }}\n</span></span><span class=\"line\"><span class=\"cl\"> {{ .Title }}\n</span></span><span class=\"line\"><span class=\"cl\">{{ end }}\n</span></span><span class=\"line\"><span class=\"cl\">\n</span></span><span class=\"line\"><span class=\"cl\">{{/* 但分页器是空的！ */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ $paginator := .Paginator }}\n</span></span><span class=\"line\"><span class=\"cl\">分页器中的文章数: {{ len $paginator.Pages }} {{/* 输出：0 */}}</span></span></code></pre></div>\n<div class=\"codeblock__remain\"><span>剩余 3 行代码</span></div>\n</div>\n<div class=\"codeblock__actions\">\n<button class=\"codeblock__toggle\" hidden=\"hidden\" type=\"button\">展开剩余代码</button>\n</div>\n</div><h2 id=\"排查过程\">排查过程</h2>\n<h3 id=\"第一步检查配置\">第一步：检查配置</h3>\n<p>首先怀疑是配置问题。Hugo v0.128+ 的分页配置格式发生了变化：</p>",
       "pub_date": "2025-11-16T19:30:00+08:00",
       "updated_at": "2025-11-16T19:30:00+08:00",
       "author": "",
@@ -8611,17 +8710,6 @@
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
-      "title": "开晴炖味",
-      "link": "https://wang618.cn/kai-qing-dun-wei.html",
-      "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E9%93%81%E9%94%85%E4%B9%B1%E7%82%96.mp4?sign=t5vptQZXUxa_a8_1Qs2dl8TbaS30B50H8JKhmgo6Yvg=:0\"></video>\n<p>连遭十二日阴雨缠绵，今日总算盼得云开日朗。特意买来鲜嫩的走地鸡与紧实的黑猪肉，要以柴火铁锅炖出一锅好味。先将肉块下锅，小火慢煸出透亮油脂，再丢入葱姜与香料，瞬间爆出浓郁辛香。随即倒入啤酒，不添半滴水，任其与肉相拥。柴火温柔舔舐着锅底，锅内咕嘟声渐起，肉香混着麦香慢慢漫溢开来。耐心炖至汤汁浓稠，肉块裹着油亮红光，肉皮更是晶莹诱人。入口时，肉质的醇厚与柴火的烟火暖意交织，在舌尖层层释放，这走地鸡与黑猪肉的绝妙组合，把寻常家常的鲜美滋味，尽数炖得淋漓尽致。</p>",
-      "pub_date": "2025-10-13T16:30:18+08:00",
-      "updated_at": "2025-10-13T16:30:18+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-    },
-    {
       "title": "使用TinyAuth实现任意应用登录认证",
       "link": "https://blog.liushen.fun/posts/362bfd8b/",
       "description": "这个假期过得充实又满足。我深入研究了Tinyauth，并成功将其无缝接入到任意Docker应用中，实现了统一身份验证与访问控制，避免服务被滥用。目前已有多个应用启用验证。接下来，我将以Casdoor为核心，构建更完善的通行证生态与配套应用体系。",
@@ -8723,7 +8811,7 @@
     {
       "title": "PVE从8升级到9",
       "link": "https://www.xiaoten.com/posts/2025/08/pve-upgrade-from-8-to-9/",
-      "description": "<p>今天完成了Proxmox Virtual Environment 从8升级到9。</p>\n<h3 id=\"升级前准备\">升级前准备</h3>\n<p>确保您的所有节点都已升级到 Proxmox VE 8.4 的最新版本。</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">apt update <span class=\"o\">&amp;&amp;</span> apt dist-upgrade\n</span></span><span class=\"line\"><span class=\"cl\">pveversion\n</span></span></code></pre></div><h3 id=\"检查是否满足升级条件\">检查是否满足升级条件</h3>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9\n</span></span></code></pre></div><p>或</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9 --full\n</span></span></code></pre></div><p>需要 ·SUMMARY· 里没有警错误才能执行升级</p>",
+      "description": "<p>今天完成了Proxmox Virtual Environment 从8升级到9。</p>\n<h3 id=\"升级前准备\">升级前准备</h3>\n<p>确保您的所有节点都已升级到 Proxmox VE 8.4 的最新版本。</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">apt update <span class=\"o\">&amp;&amp;</span> apt dist-upgrade\n</span></span><span class=\"line\"><span class=\"cl\">pveversion</span></span></code></pre></div><h3 id=\"检查是否满足升级条件\">检查是否满足升级条件</h3>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9</span></span></code></pre></div><p>或</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9 --full</span></span></code></pre></div><p>需要 ·SUMMARY· 里没有警错误才能执行升级</p>",
       "pub_date": "2025-08-10T18:07:20+08:00",
       "updated_at": "2025-08-10T18:07:20+08:00",
       "author": "",
