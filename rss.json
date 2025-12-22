@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-22T20:54:09.900569+08:00",
+  "updated_at": "2025-12-23T02:38:05.338913+08:00",
   "total_sites": 6,
-  "total_posts": 420,
+  "total_posts": 425,
   "sites": [
     {
       "name": "LiuSheng",
@@ -245,6 +245,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-4c4de315/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=8YB-YKMD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=8YB-YKMD\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "MetalSplatterPlus",
           "link": "https://g0f.cn/ios/testflight/rss-bab869d9/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5mY5CKu6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5mY5CKu6\n</a>\n</p>",
@@ -259,6 +270,17 @@
           "title": "Nutrition AI: Tracker & Coach",
           "link": "https://g0f.cn/ios/testflight/rss-48af751a/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VU1r9KsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VU1r9KsQ\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "OS",
+          "link": "https://g0f.cn/ios/testflight/rss-7cff76b2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tGgrnw91\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tGgrnw91\n</a>\n</p>",
           "pub_date": "2025-12-22T00:00:00+08:00",
           "updated_at": "2025-12-22T00:00:00+08:00",
           "author": "",
@@ -300,9 +322,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "TickTick:To-Do List & Calendar",
+          "link": "https://g0f.cn/ios/testflight/rss-3ed0a488/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vWQPDFQU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vWQPDFQU\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "TikTok - Videos, Shop & LIVE",
           "link": "https://g0f.cn/ios/testflight/rss-277c0986/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xKNZpkQW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xKNZpkQW\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "TikTok -Global Video Community",
+          "link": "https://g0f.cn/ios/testflight/rss-6a9b56d4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TH2TrW13\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TH2TrW13\n</a>\n</p>",
           "pub_date": "2025-12-22T00:00:00+08:00",
           "updated_at": "2025-12-22T00:00:00+08:00",
           "author": "",
@@ -336,6 +380,17 @@
           "title": "Xarra",
           "link": "https://g0f.cn/ios/testflight/rss-e0c4d008/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sjk3n7y6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sjk3n7y6\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "漫川星球",
+          "link": "https://g0f.cn/ios/testflight/rss-626489dc/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hDMYDZ0P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hDMYDZ0P\n</a>\n</p>",
           "pub_date": "2025-12-22T00:00:00+08:00",
           "updated_at": "2025-12-22T00:00:00+08:00",
           "author": "",
@@ -4449,6 +4504,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "馋鹅",
+          "link": "https://wang618.cn/chan-e.html",
+          "description": "<p>好友投送俩只鹅，蹲等春风暖山河。<br />\n一只铁锅咕嘟炖，一只果木熏得香。<br />\n口水飞流三千尺，坐等开炫乐呵呵。</p>\n<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%A4%A7%E9%B9%85.mp4?sign=n5v4RmS4o4APsFS2JtBUf0NzBdaTmXD7e0yWv5bIO4I=:0\"></video>",
+          "pub_date": "2025-12-22T23:46:01+08:00",
+          "updated_at": "2025-12-22T23:46:01+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "我的2025年度总结",
           "link": "https://wang618.cn/2025-nian-du-zong-jie.html",
           "description": "<p>撸猫逗狗🐶铲粑粑💩<br />\n自驾溜达🚗没出省🍜<br />\n酿酒看书📖乐开花🌸<br />\n戒烟失败🚭怨朋友🤦<br />\n露营偏碰⛺连月雨🌧️<br />\n感冒躺平😷刷短剧📺<br />\n糗事堆成🙈小山丘🗻<br />\n来年咱就💪使劲冲🔥<br />\n继续再把📝博文水💻</p>",
@@ -4656,22 +4722,22 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "再看葫芦娃",
-          "link": "https://wang618.cn/zai-kan-hu-lu-wa.html",
-          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%86%8D%E7%9C%8B%E8%91%AB%E8%8A%A6%E5%A8%83.mp4?sign=5AYAFkgnYl6rnvs2pvzsW3zXVPsFp8s6KlP7xTQ7OOY=:0\"></video>\n<p>原来童年时看过的动画，早把人生通关的道理讲得透彻！没有谁天生万能，承认自己的局限，学会与他人协作，才是破解困局的密钥。那些曾觉得幼稚的情节，如今再看，满是对生活的隐喻。一部老动画，竟道尽了成长的真相！认清自己的短板，汇聚他人的长处，脚下的路才能走得稳、走得远。</p>",
-          "pub_date": "2025-10-14T16:27:43+08:00",
-          "updated_at": "2025-10-14T16:27:43+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
+    {
+      "title": "馋鹅",
+      "link": "https://wang618.cn/chan-e.html",
+      "description": "<p>好友投送俩只鹅，蹲等春风暖山河。<br />\n一只铁锅咕嘟炖，一只果木熏得香。<br />\n口水飞流三千尺，坐等开炫乐呵呵。</p>\n<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%A4%A7%E9%B9%85.mp4?sign=n5v4RmS4o4APsFS2JtBUf0NzBdaTmXD7e0yWv5bIO4I=:0\"></video>",
+      "pub_date": "2025-12-22T23:46:01+08:00",
+      "updated_at": "2025-12-22T23:46:01+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
     {
       "title": "我的2025年度总结",
       "link": "https://wang618.cn/2025-nian-du-zong-jie.html",
@@ -4750,6 +4816,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-4c4de315/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=8YB-YKMD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=8YB-YKMD\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "MetalSplatterPlus",
       "link": "https://g0f.cn/ios/testflight/rss-bab869d9/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5mY5CKu6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5mY5CKu6\n</a>\n</p>",
@@ -4764,6 +4841,17 @@
       "title": "Nutrition AI: Tracker & Coach",
       "link": "https://g0f.cn/ios/testflight/rss-48af751a/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VU1r9KsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VU1r9KsQ\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "OS",
+      "link": "https://g0f.cn/ios/testflight/rss-7cff76b2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tGgrnw91\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tGgrnw91\n</a>\n</p>",
       "pub_date": "2025-12-22T00:00:00+08:00",
       "updated_at": "2025-12-22T00:00:00+08:00",
       "author": "",
@@ -4805,9 +4893,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "TickTick:To-Do List & Calendar",
+      "link": "https://g0f.cn/ios/testflight/rss-3ed0a488/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vWQPDFQU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vWQPDFQU\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "TikTok - Videos, Shop & LIVE",
       "link": "https://g0f.cn/ios/testflight/rss-277c0986/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xKNZpkQW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xKNZpkQW\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "TikTok -Global Video Community",
+      "link": "https://g0f.cn/ios/testflight/rss-6a9b56d4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TH2TrW13\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TH2TrW13\n</a>\n</p>",
       "pub_date": "2025-12-22T00:00:00+08:00",
       "updated_at": "2025-12-22T00:00:00+08:00",
       "author": "",
@@ -4841,6 +4951,17 @@
       "title": "Xarra",
       "link": "https://g0f.cn/ios/testflight/rss-e0c4d008/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sjk3n7y6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sjk3n7y6\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "漫川星球",
+      "link": "https://g0f.cn/ios/testflight/rss-626489dc/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hDMYDZ0P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hDMYDZ0P\n</a>\n</p>",
       "pub_date": "2025-12-22T00:00:00+08:00",
       "updated_at": "2025-12-22T00:00:00+08:00",
       "author": "",
@@ -9115,17 +9236,6 @@
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "再看葫芦娃",
-      "link": "https://wang618.cn/zai-kan-hu-lu-wa.html",
-      "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%86%8D%E7%9C%8B%E8%91%AB%E8%8A%A6%E5%A8%83.mp4?sign=5AYAFkgnYl6rnvs2pvzsW3zXVPsFp8s6KlP7xTQ7OOY=:0\"></video>\n<p>原来童年时看过的动画，早把人生通关的道理讲得透彻！没有谁天生万能，承认自己的局限，学会与他人协作，才是破解困局的密钥。那些曾觉得幼稚的情节，如今再看，满是对生活的隐喻。一部老动画，竟道尽了成长的真相！认清自己的短板，汇聚他人的长处，脚下的路才能走得稳、走得远。</p>",
-      "pub_date": "2025-10-14T16:27:43+08:00",
-      "updated_at": "2025-10-14T16:27:43+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "使用TinyAuth实现任意应用登录认证",
