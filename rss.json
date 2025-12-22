@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-22T10:08:51.621571+08:00",
+  "updated_at": "2025-12-22T14:42:07.713395+08:00",
   "total_sites": 6,
-  "total_posts": 405,
+  "total_posts": 413,
   "sites": [
     {
       "name": "LiuSheng",
@@ -178,6 +178,94 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Chimera Auto",
+          "link": "https://g0f.cn/ios/testflight/rss-1b14d9da/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VyB5Cqys\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VyB5Cqys\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Nutrition AI: Tracker & Coach",
+          "link": "https://g0f.cn/ios/testflight/rss-48af751a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VU1r9KsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VU1r9KsQ\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ShopAssistPro",
+          "link": "https://g0f.cn/ios/testflight/rss-c934a057/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SuaAp8te\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SuaAp8te\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Tap Soccer - Balance the ball",
+          "link": "https://g0f.cn/ios/testflight/rss-439ebe4c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nxPBkHkR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nxPBkHkR\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "TickTick:To-Do List & Calendar",
+          "link": "https://g0f.cn/ios/testflight/rss-2f2369f6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ijJ22Gcn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ijJ22Gcn\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Topo Maps by Landscape",
+          "link": "https://g0f.cn/ios/testflight/rss-8d9e1249/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SrVraMCy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SrVraMCy\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Weld Audit Pro",
+          "link": "https://g0f.cn/ios/testflight/rss-bac1be55/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rBnJ2JQt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rBnJ2JQt\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Xarra",
+          "link": "https://g0f.cn/ios/testflight/rss-e0c4d008/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sjk3n7y6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sjk3n7y6\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Arkythm",
           "link": "https://g0f.cn/ios/testflight/rss-75cc575e/",
@@ -4517,6 +4605,94 @@
       "site_name": "旺东自留地",
       "site_url": "https://wang618.cn/",
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
+      "title": "Chimera Auto",
+      "link": "https://g0f.cn/ios/testflight/rss-1b14d9da/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VyB5Cqys\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VyB5Cqys\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Nutrition AI: Tracker & Coach",
+      "link": "https://g0f.cn/ios/testflight/rss-48af751a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VU1r9KsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VU1r9KsQ\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ShopAssistPro",
+      "link": "https://g0f.cn/ios/testflight/rss-c934a057/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SuaAp8te\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SuaAp8te\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Tap Soccer - Balance the ball",
+      "link": "https://g0f.cn/ios/testflight/rss-439ebe4c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nxPBkHkR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nxPBkHkR\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "TickTick:To-Do List & Calendar",
+      "link": "https://g0f.cn/ios/testflight/rss-2f2369f6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ijJ22Gcn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ijJ22Gcn\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Topo Maps by Landscape",
+      "link": "https://g0f.cn/ios/testflight/rss-8d9e1249/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SrVraMCy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SrVraMCy\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Weld Audit Pro",
+      "link": "https://g0f.cn/ios/testflight/rss-bac1be55/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rBnJ2JQt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rBnJ2JQt\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Xarra",
+      "link": "https://g0f.cn/ios/testflight/rss-e0c4d008/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sjk3n7y6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sjk3n7y6\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
       "title": "懒冬饺酒闲情",
