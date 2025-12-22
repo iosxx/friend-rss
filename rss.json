@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-22T02:34:46.601838+08:00",
+  "updated_at": "2025-12-22T10:08:51.621571+08:00",
   "total_sites": 6,
-  "total_posts": 402,
+  "total_posts": 405,
   "sites": [
     {
       "name": "LiuSheng",
@@ -204,6 +204,39 @@
           "title": "BuilderCv",
           "link": "https://g0f.cn/ios/testflight/rss-08116bf2/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NcqHre5e\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NcqHre5e\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lili Clavier - Polices",
+          "link": "https://g0f.cn/ios/testflight/rss-a88672df/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FdGRrTji\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FdGRrTji\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ManifestIt",
+          "link": "https://g0f.cn/ios/testflight/rss-53a11ea1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2GzWkERv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2GzWkERv\n</a>\n</p>",
+          "pub_date": "2025-12-21T00:00:00+08:00",
+          "updated_at": "2025-12-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "OpenSpecBuddy",
+          "link": "https://g0f.cn/ios/testflight/rss-7606c1f7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9eykNRqF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9eykNRqF\n</a>\n</p>",
           "pub_date": "2025-12-21T00:00:00+08:00",
           "updated_at": "2025-12-21T00:00:00+08:00",
           "author": "",
@@ -4533,6 +4566,39 @@
       "title": "BuilderCv",
       "link": "https://g0f.cn/ios/testflight/rss-08116bf2/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NcqHre5e\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NcqHre5e\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lili Clavier - Polices",
+      "link": "https://g0f.cn/ios/testflight/rss-a88672df/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FdGRrTji\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FdGRrTji\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ManifestIt",
+      "link": "https://g0f.cn/ios/testflight/rss-53a11ea1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2GzWkERv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2GzWkERv\n</a>\n</p>",
+      "pub_date": "2025-12-21T00:00:00+08:00",
+      "updated_at": "2025-12-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "OpenSpecBuddy",
+      "link": "https://g0f.cn/ios/testflight/rss-7606c1f7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9eykNRqF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9eykNRqF\n</a>\n</p>",
       "pub_date": "2025-12-21T00:00:00+08:00",
       "updated_at": "2025-12-21T00:00:00+08:00",
       "author": "",
