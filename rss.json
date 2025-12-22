@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-22T14:42:07.713395+08:00",
+  "updated_at": "2025-12-22T20:54:09.900569+08:00",
   "total_sites": 6,
-  "total_posts": 413,
+  "total_posts": 420,
   "sites": [
     {
       "name": "LiuSheng",
@@ -179,9 +179,75 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "5G Signal Finder",
+          "link": "https://g0f.cn/ios/testflight/rss-6d323b75/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bhx5zVWn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bhx5zVWn\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Chimera Auto",
           "link": "https://g0f.cn/ios/testflight/rss-1b14d9da/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VyB5Cqys\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VyB5Cqys\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Daily Checklist: CheckYourList",
+          "link": "https://g0f.cn/ios/testflight/rss-5b518629/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pqymS3EP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pqymS3EP\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DebotAI-2",
+          "link": "https://g0f.cn/ios/testflight/rss-92b0cb8c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uXwE4vxB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uXwE4vxB\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "EquiEditor",
+          "link": "https://g0f.cn/ios/testflight/rss-b6a6c8d0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3ujYH9wF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3ujYH9wF\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Hang Habit",
+          "link": "https://g0f.cn/ios/testflight/rss-3b784c38/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PS1xeG5G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PS1xeG5G\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "MetalSplatterPlus",
+          "link": "https://g0f.cn/ios/testflight/rss-bab869d9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5mY5CKu6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5mY5CKu6\n</a>\n</p>",
           "pub_date": "2025-12-22T00:00:00+08:00",
           "updated_at": "2025-12-22T00:00:00+08:00",
           "author": "",
@@ -226,6 +292,17 @@
           "title": "TickTick:To-Do List & Calendar",
           "link": "https://g0f.cn/ios/testflight/rss-2f2369f6/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ijJ22Gcn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ijJ22Gcn\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "TikTok - Videos, Shop & LIVE",
+          "link": "https://g0f.cn/ios/testflight/rss-277c0986/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xKNZpkQW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xKNZpkQW\n</a>\n</p>",
           "pub_date": "2025-12-22T00:00:00+08:00",
           "updated_at": "2025-12-22T00:00:00+08:00",
           "author": "",
@@ -4607,9 +4684,75 @@
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
+      "title": "5G Signal Finder",
+      "link": "https://g0f.cn/ios/testflight/rss-6d323b75/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bhx5zVWn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bhx5zVWn\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Chimera Auto",
       "link": "https://g0f.cn/ios/testflight/rss-1b14d9da/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VyB5Cqys\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VyB5Cqys\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Daily Checklist: CheckYourList",
+      "link": "https://g0f.cn/ios/testflight/rss-5b518629/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pqymS3EP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pqymS3EP\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DebotAI-2",
+      "link": "https://g0f.cn/ios/testflight/rss-92b0cb8c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uXwE4vxB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uXwE4vxB\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "EquiEditor",
+      "link": "https://g0f.cn/ios/testflight/rss-b6a6c8d0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3ujYH9wF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3ujYH9wF\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Hang Habit",
+      "link": "https://g0f.cn/ios/testflight/rss-3b784c38/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PS1xeG5G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PS1xeG5G\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "MetalSplatterPlus",
+      "link": "https://g0f.cn/ios/testflight/rss-bab869d9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5mY5CKu6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5mY5CKu6\n</a>\n</p>",
       "pub_date": "2025-12-22T00:00:00+08:00",
       "updated_at": "2025-12-22T00:00:00+08:00",
       "author": "",
@@ -4654,6 +4797,17 @@
       "title": "TickTick:To-Do List & Calendar",
       "link": "https://g0f.cn/ios/testflight/rss-2f2369f6/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ijJ22Gcn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ijJ22Gcn\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "TikTok - Videos, Shop & LIVE",
+      "link": "https://g0f.cn/ios/testflight/rss-277c0986/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xKNZpkQW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xKNZpkQW\n</a>\n</p>",
       "pub_date": "2025-12-22T00:00:00+08:00",
       "updated_at": "2025-12-22T00:00:00+08:00",
       "author": "",
