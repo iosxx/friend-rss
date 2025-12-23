@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-23T20:55:37.405762+08:00",
+  "updated_at": "2025-12-24T02:38:41.204581+08:00",
   "total_sites": 6,
-  "total_posts": 439,
+  "total_posts": 441,
   "sites": [
     {
       "name": "LiuSheng",
@@ -223,6 +223,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Lili Widget",
+          "link": "https://g0f.cn/ios/testflight/rss-374bae45/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7muEQvwR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7muEQvwR\n</a>\n</p>",
+          "pub_date": "2025-12-23T00:00:00+08:00",
+          "updated_at": "2025-12-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Lume - Build Influence",
           "link": "https://g0f.cn/ios/testflight/rss-4ce2beae/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BTD-OEPD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BTD-OEPD\n</a>\n</p>",
@@ -270,6 +281,17 @@
           "title": "PrincessStellvia",
           "link": "https://g0f.cn/ios/testflight/rss-4e2042a8/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vGvpEQpz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vGvpEQpz\n</a>\n</p>",
+          "pub_date": "2025-12-23T00:00:00+08:00",
+          "updated_at": "2025-12-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Roachy Games",
+          "link": "https://g0f.cn/ios/testflight/rss-a3a7ab5a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Uy84QcEe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Uy84QcEe\n</a>\n</p>",
           "pub_date": "2025-12-23T00:00:00+08:00",
           "updated_at": "2025-12-23T00:00:00+08:00",
           "author": "",
@@ -4926,6 +4948,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Lili Widget",
+      "link": "https://g0f.cn/ios/testflight/rss-374bae45/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7muEQvwR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7muEQvwR\n</a>\n</p>",
+      "pub_date": "2025-12-23T00:00:00+08:00",
+      "updated_at": "2025-12-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Lume - Build Influence",
       "link": "https://g0f.cn/ios/testflight/rss-4ce2beae/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BTD-OEPD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BTD-OEPD\n</a>\n</p>",
@@ -4973,6 +5006,17 @@
       "title": "PrincessStellvia",
       "link": "https://g0f.cn/ios/testflight/rss-4e2042a8/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vGvpEQpz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vGvpEQpz\n</a>\n</p>",
+      "pub_date": "2025-12-23T00:00:00+08:00",
+      "updated_at": "2025-12-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Roachy Games",
+      "link": "https://g0f.cn/ios/testflight/rss-a3a7ab5a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Uy84QcEe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Uy84QcEe\n</a>\n</p>",
       "pub_date": "2025-12-23T00:00:00+08:00",
       "updated_at": "2025-12-23T00:00:00+08:00",
       "author": "",
