@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-23T02:38:05.338913+08:00",
+  "updated_at": "2025-12-23T10:04:13.704643+08:00",
   "total_sites": 6,
-  "total_posts": 425,
+  "total_posts": 429,
   "sites": [
     {
       "name": "LiuSheng",
@@ -179,6 +179,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Spotify",
+          "link": "https://g0f.cn/ios/testflight/rss-e9392732/",
+          "description": "<p>#Spotify</p>\n<p>\n<a href=\"https://testflight.apple.com/join/7lt2tesn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7lt2tesn\n</a>\nApple\nJoin the Spotify: Music and Podcasts beta\nAvailable on iOS and tvOS</p>",
+          "pub_date": "2025-12-22T13:33:00+08:00",
+          "updated_at": "2025-12-22T13:33:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "5G Signal Finder",
           "link": "https://g0f.cn/ios/testflight/rss-6d323b75/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bhx5zVWn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bhx5zVWn\n</a>\n</p>",
@@ -234,9 +245,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Habit Tracker: Better Habits",
+          "link": "https://g0f.cn/ios/testflight/rss-600fea8f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tNfRjR2G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tNfRjR2G\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Hang Habit",
           "link": "https://g0f.cn/ios/testflight/rss-3b784c38/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PS1xeG5G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PS1xeG5G\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "LifeTrophy",
+          "link": "https://g0f.cn/ios/testflight/rss-d4b42e66/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cMVWXssQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cMVWXssQ\n</a>\n</p>",
           "pub_date": "2025-12-22T00:00:00+08:00",
           "updated_at": "2025-12-22T00:00:00+08:00",
           "author": "",
@@ -281,6 +314,17 @@
           "title": "OS",
           "link": "https://g0f.cn/ios/testflight/rss-7cff76b2/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tGgrnw91\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tGgrnw91\n</a>\n</p>",
+          "pub_date": "2025-12-22T00:00:00+08:00",
+          "updated_at": "2025-12-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pass Craft",
+          "link": "https://g0f.cn/ios/testflight/rss-0785fa03/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mx5NyqEn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mx5NyqEn\n</a>\n</p>",
           "pub_date": "2025-12-22T00:00:00+08:00",
           "updated_at": "2025-12-22T00:00:00+08:00",
           "author": "",
@@ -4739,6 +4783,17 @@
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
+      "title": "Spotify",
+      "link": "https://g0f.cn/ios/testflight/rss-e9392732/",
+      "description": "<p>#Spotify</p>\n<p>\n<a href=\"https://testflight.apple.com/join/7lt2tesn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7lt2tesn\n</a>\nApple\nJoin the Spotify: Music and Podcasts beta\nAvailable on iOS and tvOS</p>",
+      "pub_date": "2025-12-22T13:33:00+08:00",
+      "updated_at": "2025-12-22T13:33:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "我的2025年度总结",
       "link": "https://wang618.cn/2025-nian-du-zong-jie.html",
       "description": "<p>撸猫逗狗🐶铲粑粑💩<br />\n自驾溜达🚗没出省🍜<br />\n酿酒看书📖乐开花🌸<br />\n戒烟失败🚭怨朋友🤦<br />\n露营偏碰⛺连月雨🌧️<br />\n感冒躺平😷刷短剧📺<br />\n糗事堆成🙈小山丘🗻<br />\n来年咱就💪使劲冲🔥<br />\n继续再把📝博文水💻</p>",
@@ -4805,9 +4860,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Habit Tracker: Better Habits",
+      "link": "https://g0f.cn/ios/testflight/rss-600fea8f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tNfRjR2G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tNfRjR2G\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Hang Habit",
       "link": "https://g0f.cn/ios/testflight/rss-3b784c38/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PS1xeG5G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PS1xeG5G\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "LifeTrophy",
+      "link": "https://g0f.cn/ios/testflight/rss-d4b42e66/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cMVWXssQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cMVWXssQ\n</a>\n</p>",
       "pub_date": "2025-12-22T00:00:00+08:00",
       "updated_at": "2025-12-22T00:00:00+08:00",
       "author": "",
@@ -4852,6 +4929,17 @@
       "title": "OS",
       "link": "https://g0f.cn/ios/testflight/rss-7cff76b2/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tGgrnw91\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tGgrnw91\n</a>\n</p>",
+      "pub_date": "2025-12-22T00:00:00+08:00",
+      "updated_at": "2025-12-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pass Craft",
+      "link": "https://g0f.cn/ios/testflight/rss-0785fa03/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mx5NyqEn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mx5NyqEn\n</a>\n</p>",
       "pub_date": "2025-12-22T00:00:00+08:00",
       "updated_at": "2025-12-22T00:00:00+08:00",
       "author": "",
