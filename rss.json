@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-23T10:04:13.704643+08:00",
+  "updated_at": "2025-12-23T14:41:25.618206+08:00",
   "total_sites": 6,
-  "total_posts": 429,
+  "total_posts": 435,
   "sites": [
     {
       "name": "LiuSheng",
@@ -178,6 +178,72 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Aquo",
+          "link": "https://g0f.cn/ios/testflight/rss-cb4f64f2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/knr6ubuj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/knr6ubuj\n</a>\n</p>",
+          "pub_date": "2025-12-23T00:00:00+08:00",
+          "updated_at": "2025-12-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Fantasy Gambling League",
+          "link": "https://g0f.cn/ios/testflight/rss-41ca4345/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VZqDkX34\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VZqDkX34\n</a>\n</p>",
+          "pub_date": "2025-12-23T00:00:00+08:00",
+          "updated_at": "2025-12-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Gaming for Peace - GAP",
+          "link": "https://g0f.cn/ios/testflight/rss-cde6dfd1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tJu81Sch\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tJu81Sch\n</a>\n</p>",
+          "pub_date": "2025-12-23T00:00:00+08:00",
+          "updated_at": "2025-12-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-4ce2beae/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BTD-OEPD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BTD-OEPD\n</a>\n</p>",
+          "pub_date": "2025-12-23T00:00:00+08:00",
+          "updated_at": "2025-12-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "MeSober",
+          "link": "https://g0f.cn/ios/testflight/rss-d540ddd3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7nZ6cCnJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7nZ6cCnJ\n</a>\n</p>",
+          "pub_date": "2025-12-23T00:00:00+08:00",
+          "updated_at": "2025-12-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pass Craft",
+          "link": "https://g0f.cn/ios/testflight/rss-d2668ec3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZswaGk7Q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZswaGk7Q\n</a>\n</p>",
+          "pub_date": "2025-12-23T00:00:00+08:00",
+          "updated_at": "2025-12-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Spotify",
           "link": "https://g0f.cn/ios/testflight/rss-e9392732/",
@@ -4771,6 +4837,72 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Aquo",
+      "link": "https://g0f.cn/ios/testflight/rss-cb4f64f2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/knr6ubuj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/knr6ubuj\n</a>\n</p>",
+      "pub_date": "2025-12-23T00:00:00+08:00",
+      "updated_at": "2025-12-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Fantasy Gambling League",
+      "link": "https://g0f.cn/ios/testflight/rss-41ca4345/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VZqDkX34\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VZqDkX34\n</a>\n</p>",
+      "pub_date": "2025-12-23T00:00:00+08:00",
+      "updated_at": "2025-12-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Gaming for Peace - GAP",
+      "link": "https://g0f.cn/ios/testflight/rss-cde6dfd1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tJu81Sch\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tJu81Sch\n</a>\n</p>",
+      "pub_date": "2025-12-23T00:00:00+08:00",
+      "updated_at": "2025-12-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-4ce2beae/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BTD-OEPD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BTD-OEPD\n</a>\n</p>",
+      "pub_date": "2025-12-23T00:00:00+08:00",
+      "updated_at": "2025-12-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "MeSober",
+      "link": "https://g0f.cn/ios/testflight/rss-d540ddd3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7nZ6cCnJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7nZ6cCnJ\n</a>\n</p>",
+      "pub_date": "2025-12-23T00:00:00+08:00",
+      "updated_at": "2025-12-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pass Craft",
+      "link": "https://g0f.cn/ios/testflight/rss-d2668ec3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZswaGk7Q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZswaGk7Q\n</a>\n</p>",
+      "pub_date": "2025-12-23T00:00:00+08:00",
+      "updated_at": "2025-12-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "馋鹅",
       "link": "https://wang618.cn/chan-e.html",
