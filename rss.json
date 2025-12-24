@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-24T20:53:27.382413+08:00",
+  "updated_at": "2025-12-25T02:37:16.799296+08:00",
   "total_sites": 6,
-  "total_posts": 456,
+  "total_posts": 459,
   "sites": [
     {
       "name": "LiuSheng",
@@ -179,9 +179,31 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "酷我音乐",
+          "link": "https://g0f.cn/ios/testflight/rss-8380344a/",
+          "description": "<p>#酷我音乐</p>\n<p>\n<a href=\"https://testflight.apple.com/join/ckShCX1T\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ckShCX1T\n</a>\nApple\nJoin the 酷我音乐-好音质用酷我 beta\nAvailable on iOS</p>",
+          "pub_date": "2025-12-24T07:52:00+08:00",
+          "updated_at": "2025-12-24T07:52:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "CoupleWork: AI Couples Therapy",
           "link": "https://g0f.cn/ios/testflight/rss-58a3cf69/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mmcPbZoz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mmcPbZoz\n</a>\n</p>",
+          "pub_date": "2025-12-24T00:00:00+08:00",
+          "updated_at": "2025-12-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Daftari : Timiza Malengo",
+          "link": "https://g0f.cn/ios/testflight/rss-94afd454/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5chSjftg\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5chSjftg\n</a>\n</p>",
           "pub_date": "2025-12-24T00:00:00+08:00",
           "updated_at": "2025-12-24T00:00:00+08:00",
           "author": "",
@@ -215,6 +237,17 @@
           "title": "Google AI Edge Gallery",
           "link": "https://g0f.cn/ios/testflight/rss-bb6d476a/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nAtSQKTF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nAtSQKTF\n</a>\n</p>",
+          "pub_date": "2025-12-24T00:00:00+08:00",
+          "updated_at": "2025-12-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Habits by NextEleven",
+          "link": "https://g0f.cn/ios/testflight/rss-0db108a5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aHJvusVF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aHJvusVF\n</a>\n</p>",
           "pub_date": "2025-12-24T00:00:00+08:00",
           "updated_at": "2025-12-24T00:00:00+08:00",
           "author": "",
@@ -4845,6 +4878,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "捕获毒液",
+          "link": "https://wang618.cn/bu-huo-du-ye.html",
+          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E6%AF%92%E6%B6%B2.mp4?sign=CzAGgcn5Sh1wfWqouovcvyE-TuA9lpp2Q1w2i2Jg3Uo=:0\"></video>\n<p>捕获毒液首日，这孽障就没半分安分！无时无刻不在疯狂挣命，拼了命要挣脱束缚。身子时而抱团蜷缩成狰狞一团，时而骤然分裂四散窜逃，黏腻蠕动的模样看得我后脊发凉，寒意直钻天灵盖。各位，要是哪天我的博客突然断更，铁定是被这邪祟寄生吞噬… 😱</p>",
+          "pub_date": "2025-12-25T00:56:58+08:00",
+          "updated_at": "2025-12-25T00:56:58+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "馋鹅",
           "link": "https://wang618.cn/chan-e.html",
           "description": "<p>好友投送俩只鹅，蹲等春风暖山河。<br />\n一只铁锅咕嘟炖，一只果木熏得香。<br />\n口水飞流三千尺，坐等开炫乐呵呵。</p>\n<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%A4%A7%E9%B9%85.mp4?sign=n5v4RmS4o4APsFS2JtBUf0NzBdaTmXD7e0yWv5bIO4I=:0\"></video>",
@@ -5052,26 +5096,48 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "还得是企鹅",
-          "link": "https://wang618.cn/han-dei-shi-qi-e.html",
-          "description": "<p>看来薅羊毛的人实在太多，连企鹅都扛不住压力了！照这趋势，下一步怕是要取消无限流量！</p>\n<p><img alt=\"edgeone.webp\" src=\"https://wang618.cn/content/uploadfile/202510/1b7e1760545401.webp\" /></p>",
-          "pub_date": "2025-10-15T23:59:56+08:00",
-          "updated_at": "2025-10-15T23:59:56+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
     {
+      "title": "捕获毒液",
+      "link": "https://wang618.cn/bu-huo-du-ye.html",
+      "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E6%AF%92%E6%B6%B2.mp4?sign=CzAGgcn5Sh1wfWqouovcvyE-TuA9lpp2Q1w2i2Jg3Uo=:0\"></video>\n<p>捕获毒液首日，这孽障就没半分安分！无时无刻不在疯狂挣命，拼了命要挣脱束缚。身子时而抱团蜷缩成狰狞一团，时而骤然分裂四散窜逃，黏腻蠕动的模样看得我后脊发凉，寒意直钻天灵盖。各位，要是哪天我的博客突然断更，铁定是被这邪祟寄生吞噬… 😱</p>",
+      "pub_date": "2025-12-25T00:56:58+08:00",
+      "updated_at": "2025-12-25T00:56:58+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
+      "title": "酷我音乐",
+      "link": "https://g0f.cn/ios/testflight/rss-8380344a/",
+      "description": "<p>#酷我音乐</p>\n<p>\n<a href=\"https://testflight.apple.com/join/ckShCX1T\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ckShCX1T\n</a>\nApple\nJoin the 酷我音乐-好音质用酷我 beta\nAvailable on iOS</p>",
+      "pub_date": "2025-12-24T07:52:00+08:00",
+      "updated_at": "2025-12-24T07:52:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "CoupleWork: AI Couples Therapy",
       "link": "https://g0f.cn/ios/testflight/rss-58a3cf69/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mmcPbZoz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mmcPbZoz\n</a>\n</p>",
+      "pub_date": "2025-12-24T00:00:00+08:00",
+      "updated_at": "2025-12-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Daftari : Timiza Malengo",
+      "link": "https://g0f.cn/ios/testflight/rss-94afd454/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5chSjftg\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5chSjftg\n</a>\n</p>",
       "pub_date": "2025-12-24T00:00:00+08:00",
       "updated_at": "2025-12-24T00:00:00+08:00",
       "author": "",
@@ -5105,6 +5171,17 @@
       "title": "Google AI Edge Gallery",
       "link": "https://g0f.cn/ios/testflight/rss-bb6d476a/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nAtSQKTF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nAtSQKTF\n</a>\n</p>",
+      "pub_date": "2025-12-24T00:00:00+08:00",
+      "updated_at": "2025-12-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Habits by NextEleven",
+      "link": "https://g0f.cn/ios/testflight/rss-0db108a5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aHJvusVF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aHJvusVF\n</a>\n</p>",
       "pub_date": "2025-12-24T00:00:00+08:00",
       "updated_at": "2025-12-24T00:00:00+08:00",
       "author": "",
@@ -9892,17 +9969,6 @@
       "description": "<p>分享一下，我用 AI 生成的歌曲。本质就是杯加了香精的工业奶茶，外观上奶沫丰盈、茶色诱人，看似与真奶茶别无二致；可入口才知寡淡无味，既没有原创音乐的肌理与温度，更谈不上打动人心的灵魂。<a href=\"https://wang618.cn/ai-music.html\" target=\"_blank\" title=\"点击收听完整歌单\">完整歌单</a></p>\n<audio controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/music/AI%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7.mp3?sign=0PIoV1ENVT0zMc8s5-3s__V5N-UKAJqo9Q1t2izHj7g=:0\"></audio>",
       "pub_date": "2025-10-17T16:52:15+08:00",
       "updated_at": "2025-10-17T16:52:15+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-    },
-    {
-      "title": "还得是企鹅",
-      "link": "https://wang618.cn/han-dei-shi-qi-e.html",
-      "description": "<p>看来薅羊毛的人实在太多，连企鹅都扛不住压力了！照这趋势，下一步怕是要取消无限流量！</p>\n<p><img alt=\"edgeone.webp\" src=\"https://wang618.cn/content/uploadfile/202510/1b7e1760545401.webp\" /></p>",
-      "pub_date": "2025-10-15T23:59:56+08:00",
-      "updated_at": "2025-10-15T23:59:56+08:00",
       "author": "旺东",
       "site_name": "旺东自留地",
       "site_url": "https://wang618.cn/",
