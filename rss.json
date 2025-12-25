@@ -1,8 +1,15 @@
 {
-  "updated_at": "2025-12-25T10:04:24.047282+08:00",
+  "updated_at": "2025-12-25T14:40:35.377064+08:00",
   "total_sites": 6,
-  "total_posts": 462,
+  "total_posts": 467,
   "sites": [
+    {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -166,18 +173,66 @@
       ]
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
-    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Angel Live",
+          "link": "https://g0f.cn/ios/testflight/rss-179f9044/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XzmVmCma\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XzmVmCma\n</a>\n</p>",
+          "pub_date": "2025-12-25T00:00:00+08:00",
+          "updated_at": "2025-12-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "CalendarFlow (beta)",
+          "link": "https://g0f.cn/ios/testflight/rss-0c971a83/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TvcaP2q6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TvcaP2q6\n</a>\n</p>",
+          "pub_date": "2025-12-25T00:00:00+08:00",
+          "updated_at": "2025-12-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DaNotes",
+          "link": "https://g0f.cn/ios/testflight/rss-ec31524d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yNawPthA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yNawPthA\n</a>\n</p>",
+          "pub_date": "2025-12-25T00:00:00+08:00",
+          "updated_at": "2025-12-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Flux: Bluesky App",
+          "link": "https://g0f.cn/ios/testflight/rss-9784ba41/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/u7RVjUVh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/u7RVjUVh\n</a>\n</p>",
+          "pub_date": "2025-12-25T00:00:00+08:00",
+          "updated_at": "2025-12-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Loxie Camera",
+          "link": "https://g0f.cn/ios/testflight/rss-dc73eb18/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XPYMFzqZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XPYMFzqZ\n</a>\n</p>",
+          "pub_date": "2025-12-25T00:00:00+08:00",
+          "updated_at": "2025-12-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "爱奇艺",
           "link": "https://g0f.cn/ios/testflight/rss-c59cf584/",
@@ -4683,6 +4738,17 @@
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         },
         {
+          "title": "注视",
+          "link": "https://wang618.cn/zhu-shi.html",
+          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%AE%87%E5%AE%99.mp4?sign=OMw52vlVTtR-X25wcYHwVOWG87F12sja7oTy3UWuCv8=:0\"></video>\n<p>近来沉迷宇宙科普，越深究越心生震撼。那片遥远缥缈的奥尔特云，不是边界，而是困住我们的永恒牢笼。细究便知，它是太阳系最外层天然铸就的结界，冰冷又厚重。人类想要真正踏出这方天地，从来都是难如登天。我们多像困在生态箱里的蝼蚁，眼前纵有星河璀璨，脚下却是无形囚笼，看似天地辽阔，实则无处可逃。我们俯身凝望蚁巢生态箱，总觉蝼蚁奔忙渺小又有趣；殊不知，或许正有高等文明，隔着奥尔特云这层透明屏障，以同样玩味的目光，静静注视着人类的起落与奔忙。补充：目前人类飞得最远的探测器（旅行者 1 号），飞行 48 年，现在距离太阳约 160 AU（160 × 1.496×10⁸ = 2.3936×10¹⁰ 千米，即 239.36 亿千米），连奥尔特云内层都没进入，按现有速度，要飞 300 年才能抵达奥尔特云外层，飞出则需要约 3 万年。</p>\n<p><img alt=\"注视.webp\" src=\"https://wang618.cn/content/uploadfile/202512/7e221766589402.webp\" /><br />\n<img alt=\"奥尔特云.webp\" src=\"https://wang618.cn/content/uploadfile/202512/a8311766589977.webp\" /></p>",
+          "pub_date": "2025-12-24T23:26:50+08:00",
+          "updated_at": "2025-12-24T23:26:50+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "馋鹅",
           "link": "https://wang618.cn/chan-e.html",
           "description": "<p>好友投送俩只鹅，蹲等春风暖山河。<br />\n一只铁锅咕嘟炖，一只果木熏得香。<br />\n口水飞流三千尺，坐等开炫乐呵呵。</p>\n<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%A4%A7%E9%B9%85.mp4?sign=n5v4RmS4o4APsFS2JtBUf0NzBdaTmXD7e0yWv5bIO4I=:0\"></video>",
@@ -4875,17 +4941,6 @@
           "description": "<p>今日幸获当代竹刻艺术巨擘支慈庵先生所制扇骨一柄，实为难得。支慈庵原籍江苏吴县（今苏州），以留青竹刻技艺名震艺坛。其作品工致雅净，将书法、绘画、雕刻三艺熔于一炉，不仅是 20 世纪中国竹刻艺术的杰出代表，更位列国家规定 “扇子类代表作不准出境” 的名家名录，艺术价值与收藏地位毋庸置疑。支慈庵与张大千、江寒汀等书画名家交往甚密，张大千早年订制的特殊扇骨多由其雕制，他亦曾为江寒汀等画家的画稿进行雕刻，这类名家合作之作，艺术价值与收藏价值更胜一筹。此外，竹刻材质本身不易保存，而支慈庵作品存世数量有限，历经岁月流传，保存完好的精品愈发稀少，稀缺性进一步推高了其市场价值。</p>\n<p><img alt=\"支慈庵扇骨1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/09261761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/7f7d1761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/33371761229326.webp\" /></p>",
           "pub_date": "2025-10-23T22:28:49+08:00",
           "updated_at": "2025-10-23T22:28:49+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "音乐裁缝",
-          "link": "https://wang618.cn/yin-yue-cai-feng.html",
-          "description": "<p>分享一下，我用 AI 生成的歌曲。本质就是杯加了香精的工业奶茶，外观上奶沫丰盈、茶色诱人，看似与真奶茶别无二致；可入口才知寡淡无味，既没有原创音乐的肌理与温度，更谈不上打动人心的灵魂。<a href=\"https://wang618.cn/ai-music.html\" target=\"_blank\" title=\"点击收听完整歌单\">完整歌单</a></p>\n<audio controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/music/AI%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7.mp3?sign=0PIoV1ENVT0zMc8s5-3s__V5N-UKAJqo9Q1t2izHj7g=:0\"></audio>",
-          "pub_date": "2025-10-17T16:52:15+08:00",
-          "updated_at": "2025-10-17T16:52:15+08:00",
           "author": "旺东",
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
@@ -5140,6 +5195,72 @@
       "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E6%AF%92%E6%B6%B2.mp4?sign=CzAGgcn5Sh1wfWqouovcvyE-TuA9lpp2Q1w2i2Jg3Uo=:0\"></video>\n<p>捕获毒液首日，这孽障就没半分安分！无时无刻不在疯狂挣命，拼了命要挣脱束缚。身子时而抱团蜷缩成狰狞一团，时而骤然分裂四散窜逃，黏腻蠕动的模样看得我后脊发凉，寒意直钻天灵盖。各位，要是哪天我的博客突然断更，铁定是被这邪祟寄生吞噬… 😱</p>",
       "pub_date": "2025-12-25T00:56:58+08:00",
       "updated_at": "2025-12-25T00:56:58+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
+      "title": "Angel Live",
+      "link": "https://g0f.cn/ios/testflight/rss-179f9044/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XzmVmCma\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XzmVmCma\n</a>\n</p>",
+      "pub_date": "2025-12-25T00:00:00+08:00",
+      "updated_at": "2025-12-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "CalendarFlow (beta)",
+      "link": "https://g0f.cn/ios/testflight/rss-0c971a83/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TvcaP2q6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TvcaP2q6\n</a>\n</p>",
+      "pub_date": "2025-12-25T00:00:00+08:00",
+      "updated_at": "2025-12-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DaNotes",
+      "link": "https://g0f.cn/ios/testflight/rss-ec31524d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yNawPthA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yNawPthA\n</a>\n</p>",
+      "pub_date": "2025-12-25T00:00:00+08:00",
+      "updated_at": "2025-12-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Flux: Bluesky App",
+      "link": "https://g0f.cn/ios/testflight/rss-9784ba41/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/u7RVjUVh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/u7RVjUVh\n</a>\n</p>",
+      "pub_date": "2025-12-25T00:00:00+08:00",
+      "updated_at": "2025-12-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Loxie Camera",
+      "link": "https://g0f.cn/ios/testflight/rss-dc73eb18/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XPYMFzqZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XPYMFzqZ\n</a>\n</p>",
+      "pub_date": "2025-12-25T00:00:00+08:00",
+      "updated_at": "2025-12-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "注视",
+      "link": "https://wang618.cn/zhu-shi.html",
+      "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%AE%87%E5%AE%99.mp4?sign=OMw52vlVTtR-X25wcYHwVOWG87F12sja7oTy3UWuCv8=:0\"></video>\n<p>近来沉迷宇宙科普，越深究越心生震撼。那片遥远缥缈的奥尔特云，不是边界，而是困住我们的永恒牢笼。细究便知，它是太阳系最外层天然铸就的结界，冰冷又厚重。人类想要真正踏出这方天地，从来都是难如登天。我们多像困在生态箱里的蝼蚁，眼前纵有星河璀璨，脚下却是无形囚笼，看似天地辽阔，实则无处可逃。我们俯身凝望蚁巢生态箱，总觉蝼蚁奔忙渺小又有趣；殊不知，或许正有高等文明，隔着奥尔特云这层透明屏障，以同样玩味的目光，静静注视着人类的起落与奔忙。补充：目前人类飞得最远的探测器（旅行者 1 号），飞行 48 年，现在距离太阳约 160 AU（160 × 1.496×10⁸ = 2.3936×10¹⁰ 千米，即 239.36 亿千米），连奥尔特云内层都没进入，按现有速度，要飞 300 年才能抵达奥尔特云外层，飞出则需要约 3 万年。</p>\n<p><img alt=\"注视.webp\" src=\"https://wang618.cn/content/uploadfile/202512/7e221766589402.webp\" /><br />\n<img alt=\"奥尔特云.webp\" src=\"https://wang618.cn/content/uploadfile/202512/a8311766589977.webp\" /></p>",
+      "pub_date": "2025-12-24T23:26:50+08:00",
+      "updated_at": "2025-12-24T23:26:50+08:00",
       "author": "旺东",
       "site_name": "旺东自留地",
       "site_url": "https://wang618.cn/",
@@ -10028,17 +10149,6 @@
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
       "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "音乐裁缝",
-      "link": "https://wang618.cn/yin-yue-cai-feng.html",
-      "description": "<p>分享一下，我用 AI 生成的歌曲。本质就是杯加了香精的工业奶茶，外观上奶沫丰盈、茶色诱人，看似与真奶茶别无二致；可入口才知寡淡无味，既没有原创音乐的肌理与温度，更谈不上打动人心的灵魂。<a href=\"https://wang618.cn/ai-music.html\" target=\"_blank\" title=\"点击收听完整歌单\">完整歌单</a></p>\n<audio controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/music/AI%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7.mp3?sign=0PIoV1ENVT0zMc8s5-3s__V5N-UKAJqo9Q1t2izHj7g=:0\"></audio>",
-      "pub_date": "2025-10-17T16:52:15+08:00",
-      "updated_at": "2025-10-17T16:52:15+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "MiniBili",
