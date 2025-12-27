@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-27T10:01:06.471694+08:00",
+  "updated_at": "2025-12-27T14:38:14.968436+08:00",
   "total_sites": 6,
-  "total_posts": 488,
+  "total_posts": 491,
   "sites": [
     {
       "name": "LiuSheng",
@@ -178,6 +178,39 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "ACCM",
+          "link": "https://g0f.cn/ios/testflight/rss-88600869/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ghgu1Qy4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ghgu1Qy4\n</a>\n</p>",
+          "pub_date": "2025-12-27T00:00:00+08:00",
+          "updated_at": "2025-12-27T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Cosmic Life Coach",
+          "link": "https://g0f.cn/ios/testflight/rss-0a9606c3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1sD6P6Ku\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1sD6P6Ku\n</a>\n</p>",
+          "pub_date": "2025-12-27T00:00:00+08:00",
+          "updated_at": "2025-12-27T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "WallStreetStocks",
+          "link": "https://g0f.cn/ios/testflight/rss-ee2607c2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NcqWcThv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NcqWcThv\n</a>\n</p>",
+          "pub_date": "2025-12-27T00:00:00+08:00",
+          "updated_at": "2025-12-27T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "54052.co.za",
           "link": "https://g0f.cn/ios/testflight/rss-579a8f61/",
@@ -5420,6 +5453,39 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "ACCM",
+      "link": "https://g0f.cn/ios/testflight/rss-88600869/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ghgu1Qy4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ghgu1Qy4\n</a>\n</p>",
+      "pub_date": "2025-12-27T00:00:00+08:00",
+      "updated_at": "2025-12-27T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Cosmic Life Coach",
+      "link": "https://g0f.cn/ios/testflight/rss-0a9606c3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1sD6P6Ku\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1sD6P6Ku\n</a>\n</p>",
+      "pub_date": "2025-12-27T00:00:00+08:00",
+      "updated_at": "2025-12-27T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "WallStreetStocks",
+      "link": "https://g0f.cn/ios/testflight/rss-ee2607c2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NcqWcThv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NcqWcThv\n</a>\n</p>",
+      "pub_date": "2025-12-27T00:00:00+08:00",
+      "updated_at": "2025-12-27T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "54052.co.za",
       "link": "https://g0f.cn/ios/testflight/rss-579a8f61/",
