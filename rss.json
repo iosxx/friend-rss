@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-28T20:51:20.233703+08:00",
+  "updated_at": "2025-12-29T02:36:11.004984+08:00",
   "total_sites": 6,
-  "total_posts": 502,
+  "total_posts": 506,
   "sites": [
     {
       "name": "LiuSheng",
@@ -226,6 +226,50 @@
           "title": "Thunderbird: Free Your Inbox",
           "link": "https://g0f.cn/ios/testflight/rss-b90e15f1/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ER3hRBSz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ER3hRBSz\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ToMe - Guarda y encuentra",
+          "link": "https://g0f.cn/ios/testflight/rss-467501c1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xx8jyykk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xx8jyykk\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Tuttii Beta",
+          "link": "https://g0f.cn/ios/testflight/rss-5c087c25/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2dTbntXZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2dTbntXZ\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Word of the Day by LookUp",
+          "link": "https://g0f.cn/ios/testflight/rss-6478da3c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XLVl74eV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XLVl74eV\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "豆瓣",
+          "link": "https://g0f.cn/ios/testflight/rss-f15df5c8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cyaKFpOu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cyaKFpOu\n</a>\n</p>",
           "pub_date": "2025-12-28T00:00:00+08:00",
           "updated_at": "2025-12-28T00:00:00+08:00",
           "author": "",
@@ -5633,6 +5677,50 @@
       "title": "Thunderbird: Free Your Inbox",
       "link": "https://g0f.cn/ios/testflight/rss-b90e15f1/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ER3hRBSz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ER3hRBSz\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ToMe - Guarda y encuentra",
+      "link": "https://g0f.cn/ios/testflight/rss-467501c1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xx8jyykk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xx8jyykk\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Tuttii Beta",
+      "link": "https://g0f.cn/ios/testflight/rss-5c087c25/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2dTbntXZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2dTbntXZ\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Word of the Day by LookUp",
+      "link": "https://g0f.cn/ios/testflight/rss-6478da3c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XLVl74eV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XLVl74eV\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "豆瓣",
+      "link": "https://g0f.cn/ios/testflight/rss-f15df5c8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cyaKFpOu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cyaKFpOu\n</a>\n</p>",
       "pub_date": "2025-12-28T00:00:00+08:00",
       "updated_at": "2025-12-28T00:00:00+08:00",
       "author": "",
