@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-28T14:38:33.856425+08:00",
+  "updated_at": "2025-12-28T20:51:20.233703+08:00",
   "total_sites": 6,
-  "total_posts": 500,
+  "total_posts": 502,
   "sites": [
     {
       "name": "LiuSheng",
@@ -182,6 +182,28 @@
           "title": "LLMConnect • AI Chat",
           "link": "https://g0f.cn/ios/testflight/rss-df51d96b/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/a3qqFPcv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/a3qqFPcv\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "PriceEqualizer:Localize Prices",
+          "link": "https://g0f.cn/ios/testflight/rss-0511c5da/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/BzNEergR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/BzNEergR\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Seats.aero",
+          "link": "https://g0f.cn/ios/testflight/rss-23f32447/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JnDn5QPV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JnDn5QPV\n</a>\n</p>",
           "pub_date": "2025-12-28T00:00:00+08:00",
           "updated_at": "2025-12-28T00:00:00+08:00",
           "author": "",
@@ -5567,6 +5589,28 @@
       "title": "LLMConnect • AI Chat",
       "link": "https://g0f.cn/ios/testflight/rss-df51d96b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/a3qqFPcv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/a3qqFPcv\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "PriceEqualizer:Localize Prices",
+      "link": "https://g0f.cn/ios/testflight/rss-0511c5da/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/BzNEergR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/BzNEergR\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Seats.aero",
+      "link": "https://g0f.cn/ios/testflight/rss-23f32447/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JnDn5QPV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JnDn5QPV\n</a>\n</p>",
       "pub_date": "2025-12-28T00:00:00+08:00",
       "updated_at": "2025-12-28T00:00:00+08:00",
       "author": "",
