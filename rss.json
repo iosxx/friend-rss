@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-28T02:35:15.495386+08:00",
+  "updated_at": "2025-12-28T10:21:29.871743+08:00",
   "total_sites": 6,
-  "total_posts": 496,
+  "total_posts": 497,
   "sites": [
     {
       "name": "LiuSheng",
@@ -215,6 +215,17 @@
           "title": "Couch Streamer",
           "link": "https://g0f.cn/ios/testflight/rss-50437c5b/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/46eGdwqE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/46eGdwqE\n</a>\n</p>",
+          "pub_date": "2025-12-27T00:00:00+08:00",
+          "updated_at": "2025-12-27T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DreamWeavePRO",
+          "link": "https://g0f.cn/ios/testflight/rss-5b7e2f93/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/h64KN6wa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/h64KN6wa\n</a>\n</p>",
           "pub_date": "2025-12-27T00:00:00+08:00",
           "updated_at": "2025-12-27T00:00:00+08:00",
           "author": "",
@@ -5545,6 +5556,17 @@
       "title": "Couch Streamer",
       "link": "https://g0f.cn/ios/testflight/rss-50437c5b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/46eGdwqE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/46eGdwqE\n</a>\n</p>",
+      "pub_date": "2025-12-27T00:00:00+08:00",
+      "updated_at": "2025-12-27T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DreamWeavePRO",
+      "link": "https://g0f.cn/ios/testflight/rss-5b7e2f93/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/h64KN6wa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/h64KN6wa\n</a>\n</p>",
       "pub_date": "2025-12-27T00:00:00+08:00",
       "updated_at": "2025-12-27T00:00:00+08:00",
       "author": "",
