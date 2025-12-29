@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-29T02:36:11.004984+08:00",
+  "updated_at": "2025-12-29T10:19:39.287409+08:00",
   "total_sites": 6,
-  "total_posts": 506,
+  "total_posts": 512,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,6 +168,28 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "AstroDX-Beta (Group D)",
+          "link": "https://g0f.cn/ios/testflight/rss-97a3dc91/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/T6qKfV6f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/T6qKfV6f\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "AstroDX-Beta (Group E)",
+          "link": "https://g0f.cn/ios/testflight/rss-9ce817b6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sMm1MCYc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sMm1MCYc\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "GetFollow AI",
           "link": "https://g0f.cn/ios/testflight/rss-8b177735/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uaCAW6bn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uaCAW6bn\n</a>\n</p>",
@@ -179,9 +201,53 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Glass 2048",
+          "link": "https://g0f.cn/ios/testflight/rss-3439502d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aCGEKekw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aCGEKekw\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Glass 2048",
+          "link": "https://g0f.cn/ios/testflight/rss-a531e6ae/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KMHzTnY5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KMHzTnY5\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Glass 2048",
+          "link": "https://g0f.cn/ios/testflight/rss-b841abc4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HaHGzmCX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HaHGzmCX\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "LLMConnect • AI Chat",
           "link": "https://g0f.cn/ios/testflight/rss-df51d96b/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/a3qqFPcv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/a3qqFPcv\n</a>\n</p>",
+          "pub_date": "2025-12-28T00:00:00+08:00",
+          "updated_at": "2025-12-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Mageki",
+          "link": "https://g0f.cn/ios/testflight/rss-e13f6769/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/efWEB1qC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/efWEB1qC\n</a>\n</p>",
           "pub_date": "2025-12-28T00:00:00+08:00",
           "updated_at": "2025-12-28T00:00:00+08:00",
           "author": "",
@@ -5619,6 +5685,28 @@
   ],
   "all_posts": [
     {
+      "title": "AstroDX-Beta (Group D)",
+      "link": "https://g0f.cn/ios/testflight/rss-97a3dc91/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/T6qKfV6f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/T6qKfV6f\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "AstroDX-Beta (Group E)",
+      "link": "https://g0f.cn/ios/testflight/rss-9ce817b6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sMm1MCYc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sMm1MCYc\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "GetFollow AI",
       "link": "https://g0f.cn/ios/testflight/rss-8b177735/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uaCAW6bn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uaCAW6bn\n</a>\n</p>",
@@ -5630,9 +5718,53 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Glass 2048",
+      "link": "https://g0f.cn/ios/testflight/rss-3439502d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aCGEKekw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aCGEKekw\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Glass 2048",
+      "link": "https://g0f.cn/ios/testflight/rss-a531e6ae/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KMHzTnY5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KMHzTnY5\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Glass 2048",
+      "link": "https://g0f.cn/ios/testflight/rss-b841abc4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HaHGzmCX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HaHGzmCX\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "LLMConnect • AI Chat",
       "link": "https://g0f.cn/ios/testflight/rss-df51d96b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/a3qqFPcv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/a3qqFPcv\n</a>\n</p>",
+      "pub_date": "2025-12-28T00:00:00+08:00",
+      "updated_at": "2025-12-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Mageki",
+      "link": "https://g0f.cn/ios/testflight/rss-e13f6769/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/efWEB1qC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/efWEB1qC\n</a>\n</p>",
       "pub_date": "2025-12-28T00:00:00+08:00",
       "updated_at": "2025-12-28T00:00:00+08:00",
       "author": "",
