@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-29T14:43:02.948716+08:00",
+  "updated_at": "2025-12-29T20:56:30.713953+08:00",
   "total_sites": 6,
-  "total_posts": 516,
+  "total_posts": 519,
   "sites": [
     {
       "name": "LiuSheng",
@@ -179,6 +179,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Glass 2048",
+          "link": "https://g0f.cn/ios/testflight/rss-9e5b45c2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nYBks4Qf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nYBks4Qf\n</a>\n</p>",
+          "pub_date": "2025-12-29T00:00:00+08:00",
+          "updated_at": "2025-12-29T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "iOiO App",
           "link": "https://g0f.cn/ios/testflight/rss-a6c74ed3/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/D96MstZu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/D96MstZu\n</a>\n</p>",
@@ -204,6 +215,28 @@
           "title": "Mister Keyboard - Build & Type",
           "link": "https://g0f.cn/ios/testflight/rss-c9db4577/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wVRqHTbF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wVRqHTbF\n</a>\n</p>",
+          "pub_date": "2025-12-29T00:00:00+08:00",
+          "updated_at": "2025-12-29T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pawket Change",
+          "link": "https://g0f.cn/ios/testflight/rss-2fea6c7b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pduJaUfP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pduJaUfP\n</a>\n</p>",
+          "pub_date": "2025-12-29T00:00:00+08:00",
+          "updated_at": "2025-12-29T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "轻糖",
+          "link": "https://g0f.cn/ios/testflight/rss-1a939c32/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dacaS8Rm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dacaS8Rm\n</a>\n</p>",
           "pub_date": "2025-12-29T00:00:00+08:00",
           "updated_at": "2025-12-29T00:00:00+08:00",
           "author": "",
@@ -5142,6 +5175,124 @@
       ]
     },
     {
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "posts": [
+        {
+          "title": "我为开心消消乐怒冲一块钱！",
+          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
+          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
+          "pub_date": "2025-11-15T14:41:01+08:00",
+          "updated_at": "2025-11-15T14:41:01+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "一个悠闲的周六",
+          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
+          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
+          "pub_date": "2025-11-08T21:22:20+08:00",
+          "updated_at": "2025-11-08T21:22:20+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
+          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
+          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
+          "pub_date": "2025-11-07T20:59:02+08:00",
+          "updated_at": "2025-11-07T20:59:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
+          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "pub_date": "2025-11-04T14:21:57+08:00",
+          "updated_at": "2025-11-04T14:21:57+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
+          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
+          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
+          "pub_date": "2025-10-22T13:48:08+08:00",
+          "updated_at": "2025-10-22T13:48:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "我的小橘猫三岁了哦~",
+          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
+          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
+          "pub_date": "2025-10-20T20:12:22+08:00",
+          "updated_at": "2025-10-20T20:12:22+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "八九月小结【二五年】",
+          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
+          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
+          "pub_date": "2025-10-09T15:07:02+08:00",
+          "updated_at": "2025-10-09T15:07:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
+          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
+          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
+          "pub_date": "2025-09-03T15:34:53+08:00",
+          "updated_at": "2025-09-03T15:34:53+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
+          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
+          "description": "新婚买房",
+          "pub_date": "2025-09-02T15:28:33+08:00",
+          "updated_at": "2025-09-02T15:28:33+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Android 和 ios 利用企业微信实现手机验证码共享🎉",
+          "link": "https://blog.lichenghao.cn/article/od5noe30udw6",
+          "description": "之前分享过，利用 Bark 来实现 使用 Bark 和小伙伴共享验证码！ | 故事的程序猿 ，但是最近李老师换 Android 手机了，那么 Bark 只能用在 IOS 客户端上。所以就有了这次分享。",
+          "pub_date": "2025-08-22T22:00:08+08:00",
+          "updated_at": "2025-08-22T22:00:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        }
+      ]
+    },
+    {
       "name": "小十博客",
       "url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png",
@@ -5381,129 +5532,22 @@
       ]
     },
     {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "我为开心消消乐怒冲一块钱！",
-          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
-          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
-          "pub_date": "2025-11-15T14:41:01+08:00",
-          "updated_at": "2025-11-15T14:41:01+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "一个悠闲的周六",
-          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
-          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
-          "pub_date": "2025-11-08T21:22:20+08:00",
-          "updated_at": "2025-11-08T21:22:20+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
-          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
-          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
-          "pub_date": "2025-11-07T20:59:02+08:00",
-          "updated_at": "2025-11-07T20:59:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
-          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "pub_date": "2025-11-04T14:21:57+08:00",
-          "updated_at": "2025-11-04T14:21:57+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
-          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
-          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
-          "pub_date": "2025-10-22T13:48:08+08:00",
-          "updated_at": "2025-10-22T13:48:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "我的小橘猫三岁了哦~",
-          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
-          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
-          "pub_date": "2025-10-20T20:12:22+08:00",
-          "updated_at": "2025-10-20T20:12:22+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "八九月小结【二五年】",
-          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
-          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
-          "pub_date": "2025-10-09T15:07:02+08:00",
-          "updated_at": "2025-10-09T15:07:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
-          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
-          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
-          "pub_date": "2025-09-03T15:34:53+08:00",
-          "updated_at": "2025-09-03T15:34:53+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
-          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
-          "description": "新婚买房",
-          "pub_date": "2025-09-02T15:28:33+08:00",
-          "updated_at": "2025-09-02T15:28:33+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "Android 和 ios 利用企业微信实现手机验证码共享🎉",
-          "link": "https://blog.lichenghao.cn/article/od5noe30udw6",
-          "description": "之前分享过，利用 Bark 来实现 使用 Bark 和小伙伴共享验证码！ | 故事的程序猿 ，但是最近李老师换 Android 手机了，那么 Bark 只能用在 IOS 客户端上。所以就有了这次分享。",
-          "pub_date": "2025-08-22T22:00:08+08:00",
-          "updated_at": "2025-08-22T22:00:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        }
-      ]
-    },
-    {
       "name": "旺东自留地",
       "url": "https://wang618.cn/",
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp",
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
+        {
+          "title": "阴间饮料诚不欺我",
+          "link": "https://wang618.cn/yin-jian-yin-liao-cheng-bu-qi-wo.html",
+          "description": "<p>一时好奇囤了蛇草水，“阴间饮料”果然名不虚传！自诩饮遍百味能拿捏，一口下去直接原地裂开：气泡呛喉，冲鼻药味齁得嗓子眼发紧，比藿香正气水还劝退。十二瓶囤货堪称大型自坑现场，悔到捶胸！灵机一动有了邪恶想法，打算喊好友来家吃饭打扑克，输家惩罚就是畅饮这瓶“灵魂饮品”！</p>\n<p><img alt=\"蛇草水01.webp\" src=\"https://wang618.cn/content/uploadfile/202512/52311766994913.webp\" /><br />\n<img alt=\"蛇草水02.webp\" src=\"https://wang618.cn/content/uploadfile/202512/2d791766994916.webp\" /></p>",
+          "pub_date": "2025-12-29T15:56:11+08:00",
+          "updated_at": "2025-12-29T15:56:11+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
         {
           "title": "捕获毒液",
           "link": "https://wang618.cn/bu-huo-du-ye.html",
@@ -5712,26 +5756,37 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "藏支氏扇骨",
-          "link": "https://wang618.cn/cang-zhi-shi-shan-gu.html",
-          "description": "<p>今日幸获当代竹刻艺术巨擘支慈庵先生所制扇骨一柄，实为难得。支慈庵原籍江苏吴县（今苏州），以留青竹刻技艺名震艺坛。其作品工致雅净，将书法、绘画、雕刻三艺熔于一炉，不仅是 20 世纪中国竹刻艺术的杰出代表，更位列国家规定 “扇子类代表作不准出境” 的名家名录，艺术价值与收藏地位毋庸置疑。支慈庵与张大千、江寒汀等书画名家交往甚密，张大千早年订制的特殊扇骨多由其雕制，他亦曾为江寒汀等画家的画稿进行雕刻，这类名家合作之作，艺术价值与收藏价值更胜一筹。此外，竹刻材质本身不易保存，而支慈庵作品存世数量有限，历经岁月流传，保存完好的精品愈发稀少，稀缺性进一步推高了其市场价值。</p>\n<p><img alt=\"支慈庵扇骨1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/09261761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/7f7d1761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/33371761229326.webp\" /></p>",
-          "pub_date": "2025-10-23T22:28:49+08:00",
-          "updated_at": "2025-10-23T22:28:49+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
     {
+      "title": "阴间饮料诚不欺我",
+      "link": "https://wang618.cn/yin-jian-yin-liao-cheng-bu-qi-wo.html",
+      "description": "<p>一时好奇囤了蛇草水，“阴间饮料”果然名不虚传！自诩饮遍百味能拿捏，一口下去直接原地裂开：气泡呛喉，冲鼻药味齁得嗓子眼发紧，比藿香正气水还劝退。十二瓶囤货堪称大型自坑现场，悔到捶胸！灵机一动有了邪恶想法，打算喊好友来家吃饭打扑克，输家惩罚就是畅饮这瓶“灵魂饮品”！</p>\n<p><img alt=\"蛇草水01.webp\" src=\"https://wang618.cn/content/uploadfile/202512/52311766994913.webp\" /><br />\n<img alt=\"蛇草水02.webp\" src=\"https://wang618.cn/content/uploadfile/202512/2d791766994916.webp\" /></p>",
+      "pub_date": "2025-12-29T15:56:11+08:00",
+      "updated_at": "2025-12-29T15:56:11+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
       "title": "Adobe Acrobat Reader: Sign PDF",
       "link": "https://g0f.cn/ios/testflight/rss-b68a0c53/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8XhFnQlp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8XhFnQlp\n</a>\n</p>",
+      "pub_date": "2025-12-29T00:00:00+08:00",
+      "updated_at": "2025-12-29T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Glass 2048",
+      "link": "https://g0f.cn/ios/testflight/rss-9e5b45c2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nYBks4Qf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nYBks4Qf\n</a>\n</p>",
       "pub_date": "2025-12-29T00:00:00+08:00",
       "updated_at": "2025-12-29T00:00:00+08:00",
       "author": "",
@@ -5765,6 +5820,28 @@
       "title": "Mister Keyboard - Build & Type",
       "link": "https://g0f.cn/ios/testflight/rss-c9db4577/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wVRqHTbF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wVRqHTbF\n</a>\n</p>",
+      "pub_date": "2025-12-29T00:00:00+08:00",
+      "updated_at": "2025-12-29T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pawket Change",
+      "link": "https://g0f.cn/ios/testflight/rss-2fea6c7b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pduJaUfP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pduJaUfP\n</a>\n</p>",
+      "pub_date": "2025-12-29T00:00:00+08:00",
+      "updated_at": "2025-12-29T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "轻糖",
+      "link": "https://g0f.cn/ios/testflight/rss-1a939c32/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dacaS8Rm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dacaS8Rm\n</a>\n</p>",
       "pub_date": "2025-12-29T00:00:00+08:00",
       "updated_at": "2025-12-29T00:00:00+08:00",
       "author": "",
@@ -11150,17 +11227,6 @@
       "site_name": "小十博客",
       "site_url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png"
-    },
-    {
-      "title": "藏支氏扇骨",
-      "link": "https://wang618.cn/cang-zhi-shi-shan-gu.html",
-      "description": "<p>今日幸获当代竹刻艺术巨擘支慈庵先生所制扇骨一柄，实为难得。支慈庵原籍江苏吴县（今苏州），以留青竹刻技艺名震艺坛。其作品工致雅净，将书法、绘画、雕刻三艺熔于一炉，不仅是 20 世纪中国竹刻艺术的杰出代表，更位列国家规定 “扇子类代表作不准出境” 的名家名录，艺术价值与收藏地位毋庸置疑。支慈庵与张大千、江寒汀等书画名家交往甚密，张大千早年订制的特殊扇骨多由其雕制，他亦曾为江寒汀等画家的画稿进行雕刻，这类名家合作之作，艺术价值与收藏价值更胜一筹。此外，竹刻材质本身不易保存，而支慈庵作品存世数量有限，历经岁月流传，保存完好的精品愈发稀少，稀缺性进一步推高了其市场价值。</p>\n<p><img alt=\"支慈庵扇骨1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/09261761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/7f7d1761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/33371761229326.webp\" /></p>",
-      "pub_date": "2025-10-23T22:28:49+08:00",
-      "updated_at": "2025-10-23T22:28:49+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "终于初步完成了从Typecho到Hugo的网站迁移",
