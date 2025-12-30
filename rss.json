@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-30T20:55:46.131174+08:00",
+  "updated_at": "2025-12-31T02:39:00.010985+08:00",
   "total_sites": 6,
-  "total_posts": 529,
+  "total_posts": 530,
   "sites": [
     {
       "name": "LiuSheng",
@@ -5637,6 +5637,17 @@
       "feed_url": "https://www.xiaoten.com/index.xml",
       "posts": [
         {
+          "title": "记一次曲折的手术陪护",
+          "link": "https://www.xiaoten.com/posts/2025/12/tortuous-surgery-accompaniment/",
+          "description": "<p>最近这段时间，博客断更了一阵。不是因为忙于代码或折腾服务器，而是家里发生了一些事。母亲在老家医院检查出甲状腺结节，为求心安，决定让她来郑州，到某三甲医院做进一步诊治。</p>",
+          "pub_date": "2025-12-30T20:59:53+08:00",
+          "updated_at": "2025-12-30T20:59:53+08:00",
+          "author": "",
+          "site_name": "小十博客",
+          "site_url": "https://www.xiaoten.com/",
+          "avatar": "https://www.xiaoten.com/avatar.png"
+        },
+        {
           "title": "Hugo侧边目录实现：页面双列布局 + Sticky + ScrollSpy 高亮",
           "link": "https://www.xiaoten.com/posts/2025/12/hugo-toc-sidebar-scrollspy/",
           "description": "<p>前段时间，写了篇\n<a href=\"https://www.xiaoten.com/posts/2025/12/2025-year-in-review\">\n2025年终总结\n</a>，但整篇博客没有经过成熟的归纳、整理，导致最终内容过长，在没有成熟的索引目录加持下，阅读体验很不好。</p>\n<p>虽然在正文开头启用了目录功能，但只能实现一次性地快速定位，如需再定位另一标题，则需再返回顶部，重新点击目录中的标题。</p>",
@@ -5871,6 +5882,17 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "记一次曲折的手术陪护",
+      "link": "https://www.xiaoten.com/posts/2025/12/tortuous-surgery-accompaniment/",
+      "description": "<p>最近这段时间，博客断更了一阵。不是因为忙于代码或折腾服务器，而是家里发生了一些事。母亲在老家医院检查出甲状腺结节，为求心安，决定让她来郑州，到某三甲医院做进一步诊治。</p>",
+      "pub_date": "2025-12-30T20:59:53+08:00",
+      "updated_at": "2025-12-30T20:59:53+08:00",
+      "author": "",
+      "site_name": "小十博客",
+      "site_url": "https://www.xiaoten.com/",
+      "avatar": "https://www.xiaoten.com/avatar.png"
+    },
     {
       "title": "Consigliary",
       "link": "https://g0f.cn/ios/testflight/rss-9be86738/",
