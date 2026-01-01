@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-01T14:41:22.679854+08:00",
+  "updated_at": "2026-01-01T20:54:09.694983+08:00",
   "total_sites": 6,
-  "total_posts": 538,
+  "total_posts": 541,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,6 +168,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "AnyTrip",
+          "link": "https://g0f.cn/ios/testflight/rss-7019a427/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/z4jEQC9Z\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/z4jEQC9Z\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "BlurBlend",
           "link": "https://g0f.cn/ios/testflight/rss-8d129934/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Jt1Ck5Fv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Jt1Ck5Fv\n</a>\n</p>",
@@ -201,9 +212,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Glass 2048",
+          "link": "https://g0f.cn/ios/testflight/rss-b92c14a3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ra2jPAWE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ra2jPAWE\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "GrowStash",
           "link": "https://g0f.cn/ios/testflight/rss-311acff5/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kNur4rhg\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kNur4rhg\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Habit Tracker: Pact",
+          "link": "https://g0f.cn/ios/testflight/rss-429f3c03/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/grGWVJkF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/grGWVJkF\n</a>\n</p>",
           "pub_date": "2026-01-01T00:00:00+08:00",
           "updated_at": "2026-01-01T00:00:00+08:00",
           "author": "",
@@ -5971,6 +6004,17 @@
   ],
   "all_posts": [
     {
+      "title": "AnyTrip",
+      "link": "https://g0f.cn/ios/testflight/rss-7019a427/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/z4jEQC9Z\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/z4jEQC9Z\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "BlurBlend",
       "link": "https://g0f.cn/ios/testflight/rss-8d129934/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Jt1Ck5Fv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Jt1Ck5Fv\n</a>\n</p>",
@@ -6004,9 +6048,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Glass 2048",
+      "link": "https://g0f.cn/ios/testflight/rss-b92c14a3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ra2jPAWE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ra2jPAWE\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "GrowStash",
       "link": "https://g0f.cn/ios/testflight/rss-311acff5/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kNur4rhg\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kNur4rhg\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Habit Tracker: Pact",
+      "link": "https://g0f.cn/ios/testflight/rss-429f3c03/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/grGWVJkF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/grGWVJkF\n</a>\n</p>",
       "pub_date": "2026-01-01T00:00:00+08:00",
       "updated_at": "2026-01-01T00:00:00+08:00",
       "author": "",
