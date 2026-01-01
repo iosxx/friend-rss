@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-01T10:22:03.953004+08:00",
+  "updated_at": "2026-01-01T14:41:22.679854+08:00",
   "total_sites": 6,
-  "total_posts": 530,
+  "total_posts": 538,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,94 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "BlurBlend",
+          "link": "https://g0f.cn/ios/testflight/rss-8d129934/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Jt1Ck5Fv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Jt1Ck5Fv\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Curator Photo Album",
+          "link": "https://g0f.cn/ios/testflight/rss-5d2a8cd6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6m7w8UzA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6m7w8UzA\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DomoTown",
+          "link": "https://g0f.cn/ios/testflight/rss-b9a7ed37/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yYWkE72G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yYWkE72G\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "GrowStash",
+          "link": "https://g0f.cn/ios/testflight/rss-311acff5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kNur4rhg\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kNur4rhg\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "MarchingDogsShop",
+          "link": "https://g0f.cn/ios/testflight/rss-64d0a0dd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nRAJGwCe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nRAJGwCe\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Super Easy Slides",
+          "link": "https://g0f.cn/ios/testflight/rss-47901b7d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XfMpJyCh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XfMpJyCh\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Tapes: Audio Workspace",
+          "link": "https://g0f.cn/ios/testflight/rss-34c775f4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kzJxP5cx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kzJxP5cx\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "VetMate Pet Diary",
+          "link": "https://g0f.cn/ios/testflight/rss-4da70b3e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6qndRzUE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6qndRzUE\n</a>\n</p>",
+          "pub_date": "2026-01-01T00:00:00+08:00",
+          "updated_at": "2026-01-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Consigliary",
           "link": "https://g0f.cn/ios/testflight/rss-9be86738/",
@@ -5882,6 +5970,94 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "BlurBlend",
+      "link": "https://g0f.cn/ios/testflight/rss-8d129934/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Jt1Ck5Fv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Jt1Ck5Fv\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Curator Photo Album",
+      "link": "https://g0f.cn/ios/testflight/rss-5d2a8cd6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6m7w8UzA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6m7w8UzA\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DomoTown",
+      "link": "https://g0f.cn/ios/testflight/rss-b9a7ed37/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yYWkE72G\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yYWkE72G\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "GrowStash",
+      "link": "https://g0f.cn/ios/testflight/rss-311acff5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kNur4rhg\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kNur4rhg\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "MarchingDogsShop",
+      "link": "https://g0f.cn/ios/testflight/rss-64d0a0dd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nRAJGwCe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nRAJGwCe\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Super Easy Slides",
+      "link": "https://g0f.cn/ios/testflight/rss-47901b7d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XfMpJyCh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XfMpJyCh\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Tapes: Audio Workspace",
+      "link": "https://g0f.cn/ios/testflight/rss-34c775f4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kzJxP5cx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kzJxP5cx\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "VetMate Pet Diary",
+      "link": "https://g0f.cn/ios/testflight/rss-4da70b3e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6qndRzUE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6qndRzUE\n</a>\n</p>",
+      "pub_date": "2026-01-01T00:00:00+08:00",
+      "updated_at": "2026-01-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "你好2026",
       "link": "https://wang618.cn/ni-hao-2026.html",
