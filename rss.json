@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-02T14:40:58.509492+08:00",
+  "updated_at": "2026-01-02T20:53:11.576051+08:00",
   "total_sites": 6,
-  "total_posts": 550,
+  "total_posts": 555,
   "sites": [
     {
       "name": "LiuSheng",
@@ -155,22 +155,70 @@
       ]
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
-    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Eimi",
+          "link": "https://g0f.cn/ios/testflight/rss-f14a9121/",
+          "description": "<p>#Eimi\n<a href=\"https://testflight.apple.com/join/ew2SUX7n\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ew2SUX7n\n</a>\n“这是一个可以将你关心的事，变成每日卡片的app，科技资讯、天气预报、语言学习 — 都可以变成一张张小卡片在合适的时间推送给你”\nApple\nJoin the Eimi beta\nAvailable on iOS</p>",
+          "pub_date": "2026-01-02T03:29:00+08:00",
+          "updated_at": "2026-01-02T03:29:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Drippi: Liquid Timer",
+          "link": "https://g0f.cn/ios/testflight/rss-4e066592/",
+          "description": "<dl>\n<dt>#Drippi</dt>\n<dd>Liquid Timer\n<a href=\"https://testflight.apple.com/join/k4JX7jYx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/k4JX7jYx\n</a>\nsrc:\n<a href=\"https://x.com/josesaezmerino/status/1998816803397710129?s=20\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://x.com/josesaezmerino/status/1998816803397710129?s=20\n</a>\nApple\nJoin the Drippi: Liquid Timer beta\nAvailable on iOS</dd>\n</dl>",
+          "pub_date": "2026-01-02T03:28:00+08:00",
+          "updated_at": "2026-01-02T03:28:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Binge Buddy",
+          "link": "https://g0f.cn/ios/testflight/rss-3dd93c0e/",
+          "description": "<p>#Binge\nBuddy\n<a href=\"https://testflight.apple.com/join/Hxex2M6J\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Hxex2M6J\n</a>\nApple\nJoin the Binge Buddy beta\nAvailable on iOS</p>",
+          "pub_date": "2026-01-02T03:27:00+08:00",
+          "updated_at": "2026-01-02T03:27:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Celia Global",
           "link": "https://g0f.cn/ios/testflight/rss-fddda006/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wAg54jX6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wAg54jX6\n</a>\n</p>",
+          "pub_date": "2026-01-02T00:00:00+08:00",
+          "updated_at": "2026-01-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Fint: Budget & Expense Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-667ea283/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hngKvmjB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hngKvmjB\n</a>\n</p>",
+          "pub_date": "2026-01-02T00:00:00+08:00",
+          "updated_at": "2026-01-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Ohere Wallet - Pay & Get Paid",
+          "link": "https://g0f.cn/ios/testflight/rss-49df3a82/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jsf7ZPVr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jsf7ZPVr\n</a>\n</p>",
           "pub_date": "2026-01-02T00:00:00+08:00",
           "updated_at": "2026-01-02T00:00:00+08:00",
           "author": "",
@@ -5505,6 +5553,13 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
+    {
       "name": "故事的程序猿",
       "url": "https://blog.lichenghao.cn/",
       "avatar": "https://blog.lichenghao.cn/avatar.svg",
@@ -6103,9 +6158,64 @@
   ],
   "all_posts": [
     {
+      "title": "Eimi",
+      "link": "https://g0f.cn/ios/testflight/rss-f14a9121/",
+      "description": "<p>#Eimi\n<a href=\"https://testflight.apple.com/join/ew2SUX7n\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ew2SUX7n\n</a>\n“这是一个可以将你关心的事，变成每日卡片的app，科技资讯、天气预报、语言学习 — 都可以变成一张张小卡片在合适的时间推送给你”\nApple\nJoin the Eimi beta\nAvailable on iOS</p>",
+      "pub_date": "2026-01-02T03:29:00+08:00",
+      "updated_at": "2026-01-02T03:29:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Drippi: Liquid Timer",
+      "link": "https://g0f.cn/ios/testflight/rss-4e066592/",
+      "description": "<dl>\n<dt>#Drippi</dt>\n<dd>Liquid Timer\n<a href=\"https://testflight.apple.com/join/k4JX7jYx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/k4JX7jYx\n</a>\nsrc:\n<a href=\"https://x.com/josesaezmerino/status/1998816803397710129?s=20\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://x.com/josesaezmerino/status/1998816803397710129?s=20\n</a>\nApple\nJoin the Drippi: Liquid Timer beta\nAvailable on iOS</dd>\n</dl>",
+      "pub_date": "2026-01-02T03:28:00+08:00",
+      "updated_at": "2026-01-02T03:28:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Binge Buddy",
+      "link": "https://g0f.cn/ios/testflight/rss-3dd93c0e/",
+      "description": "<p>#Binge\nBuddy\n<a href=\"https://testflight.apple.com/join/Hxex2M6J\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Hxex2M6J\n</a>\nApple\nJoin the Binge Buddy beta\nAvailable on iOS</p>",
+      "pub_date": "2026-01-02T03:27:00+08:00",
+      "updated_at": "2026-01-02T03:27:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Celia Global",
       "link": "https://g0f.cn/ios/testflight/rss-fddda006/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wAg54jX6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wAg54jX6\n</a>\n</p>",
+      "pub_date": "2026-01-02T00:00:00+08:00",
+      "updated_at": "2026-01-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Fint: Budget & Expense Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-667ea283/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hngKvmjB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hngKvmjB\n</a>\n</p>",
+      "pub_date": "2026-01-02T00:00:00+08:00",
+      "updated_at": "2026-01-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Ohere Wallet - Pay & Get Paid",
+      "link": "https://g0f.cn/ios/testflight/rss-49df3a82/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jsf7ZPVr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jsf7ZPVr\n</a>\n</p>",
       "pub_date": "2026-01-02T00:00:00+08:00",
       "updated_at": "2026-01-02T00:00:00+08:00",
       "author": "",
