@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-02T10:06:53.499277+08:00",
+  "updated_at": "2026-01-02T14:40:58.509492+08:00",
   "total_sites": 6,
-  "total_posts": 548,
+  "total_posts": 550,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Celia Global",
+          "link": "https://g0f.cn/ios/testflight/rss-fddda006/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wAg54jX6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wAg54jX6\n</a>\n</p>",
+          "pub_date": "2026-01-02T00:00:00+08:00",
+          "updated_at": "2026-01-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "OldOS 15",
+          "link": "https://g0f.cn/ios/testflight/rss-ff49cec5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KMDa2EEa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KMDa2EEa\n</a>\n</p>",
+          "pub_date": "2026-01-02T00:00:00+08:00",
+          "updated_at": "2026-01-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "AnyTrip",
           "link": "https://g0f.cn/ios/testflight/rss-7019a427/",
@@ -6080,6 +6102,28 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Celia Global",
+      "link": "https://g0f.cn/ios/testflight/rss-fddda006/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wAg54jX6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wAg54jX6\n</a>\n</p>",
+      "pub_date": "2026-01-02T00:00:00+08:00",
+      "updated_at": "2026-01-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "OldOS 15",
+      "link": "https://g0f.cn/ios/testflight/rss-ff49cec5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KMDa2EEa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KMDa2EEa\n</a>\n</p>",
+      "pub_date": "2026-01-02T00:00:00+08:00",
+      "updated_at": "2026-01-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "AnyTrip",
       "link": "https://g0f.cn/ios/testflight/rss-7019a427/",
