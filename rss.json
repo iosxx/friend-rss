@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-03T20:51:04.536221+08:00",
+  "updated_at": "2026-01-04T02:35:30.092258+08:00",
   "total_sites": 6,
-  "total_posts": 569,
+  "total_posts": 571,
   "sites": [
     {
       "name": "LiuSheng",
@@ -182,6 +182,28 @@
           "title": "Leavn: Ai Bible",
           "link": "https://g0f.cn/ios/testflight/rss-a8267e99/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Vz6KSEVf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Vz6KSEVf\n</a>\n</p>",
+          "pub_date": "2026-01-03T00:00:00+08:00",
+          "updated_at": "2026-01-03T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-7745716b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=8FG-NTSW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=8FG-NTSW\n</a>\n</p>",
+          "pub_date": "2026-01-03T00:00:00+08:00",
+          "updated_at": "2026-01-03T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Moti.app",
+          "link": "https://g0f.cn/ios/testflight/rss-0fdff142/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1UsCwgsh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1UsCwgsh\n</a>\n</p>",
           "pub_date": "2026-01-03T00:00:00+08:00",
           "updated_at": "2026-01-03T00:00:00+08:00",
           "author": "",
@@ -6337,6 +6359,28 @@
       "title": "Leavn: Ai Bible",
       "link": "https://g0f.cn/ios/testflight/rss-a8267e99/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Vz6KSEVf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Vz6KSEVf\n</a>\n</p>",
+      "pub_date": "2026-01-03T00:00:00+08:00",
+      "updated_at": "2026-01-03T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-7745716b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=8FG-NTSW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=8FG-NTSW\n</a>\n</p>",
+      "pub_date": "2026-01-03T00:00:00+08:00",
+      "updated_at": "2026-01-03T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Moti.app",
+      "link": "https://g0f.cn/ios/testflight/rss-0fdff142/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1UsCwgsh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1UsCwgsh\n</a>\n</p>",
       "pub_date": "2026-01-03T00:00:00+08:00",
       "updated_at": "2026-01-03T00:00:00+08:00",
       "author": "",
