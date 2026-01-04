@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-04T10:23:42.149435+08:00",
+  "updated_at": "2026-01-04T14:39:25.999887+08:00",
   "total_sites": 6,
-  "total_posts": 578,
+  "total_posts": 582,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Rad.fm",
+          "link": "https://g0f.cn/ios/testflight/rss-fe58ecb9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/0rMKBcIc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/0rMKBcIc\n</a>\n</p>",
+          "pub_date": "2026-01-04T00:00:00+08:00",
+          "updated_at": "2026-01-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "STEMpump",
+          "link": "https://g0f.cn/ios/testflight/rss-c8982719/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1M8yawZx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1M8yawZx\n</a>\n</p>",
+          "pub_date": "2026-01-04T00:00:00+08:00",
+          "updated_at": "2026-01-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Stretcha",
+          "link": "https://g0f.cn/ios/testflight/rss-6979d2e6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sWQnQGNA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sWQnQGNA\n</a>\n</p>",
+          "pub_date": "2026-01-04T00:00:00+08:00",
+          "updated_at": "2026-01-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "VibeCode: Care Plan",
+          "link": "https://g0f.cn/ios/testflight/rss-1dc3cf4d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kCvMXEfT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kCvMXEfT\n</a>\n</p>",
+          "pub_date": "2026-01-04T00:00:00+08:00",
+          "updated_at": "2026-01-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "书墨 阅读器，多文件格式支持，书源支持，内置浏览器功能，有声小说：",
           "link": "https://g0f.cn/ios/testflight/rss-29950573/",
@@ -6410,6 +6454,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Rad.fm",
+      "link": "https://g0f.cn/ios/testflight/rss-fe58ecb9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/0rMKBcIc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/0rMKBcIc\n</a>\n</p>",
+      "pub_date": "2026-01-04T00:00:00+08:00",
+      "updated_at": "2026-01-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "STEMpump",
+      "link": "https://g0f.cn/ios/testflight/rss-c8982719/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1M8yawZx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1M8yawZx\n</a>\n</p>",
+      "pub_date": "2026-01-04T00:00:00+08:00",
+      "updated_at": "2026-01-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Stretcha",
+      "link": "https://g0f.cn/ios/testflight/rss-6979d2e6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sWQnQGNA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sWQnQGNA\n</a>\n</p>",
+      "pub_date": "2026-01-04T00:00:00+08:00",
+      "updated_at": "2026-01-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "VibeCode: Care Plan",
+      "link": "https://g0f.cn/ios/testflight/rss-1dc3cf4d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kCvMXEfT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kCvMXEfT\n</a>\n</p>",
+      "pub_date": "2026-01-04T00:00:00+08:00",
+      "updated_at": "2026-01-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "出门偶遇",
       "link": "https://wang618.cn/chu-men-ou-yu.html",
