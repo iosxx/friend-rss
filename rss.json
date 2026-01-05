@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-01-05T20:58:37.310437+08:00",
+  "updated_at": "2026-01-06T02:40:42.000457+08:00",
   "total_sites": 6,
-  "total_posts": 601,
+  "total_posts": 605,
   "sites": [
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -162,15 +155,44 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
+    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "8Ø8™",
+          "link": "https://g0f.cn/ios/testflight/rss-23ade253/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zZ6GPb9p\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zZ6GPb9p\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "AI Lister",
           "link": "https://g0f.cn/ios/testflight/rss-34b1581f/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vcHQfPNp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vcHQfPNp\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Black Star - A better way.",
+          "link": "https://g0f.cn/ios/testflight/rss-4fdfeb02/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wyj4keKZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wyj4keKZ\n</a>\n</p>",
           "pub_date": "2026-01-05T00:00:00+08:00",
           "updated_at": "2026-01-05T00:00:00+08:00",
           "author": "",
@@ -193,6 +215,17 @@
           "title": "ChefAI",
           "link": "https://g0f.cn/ios/testflight/rss-2a12513e/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mXSR7GVz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mXSR7GVz\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Divyo",
+          "link": "https://g0f.cn/ios/testflight/rss-00499ee2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/juzHDqC8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/juzHDqC8\n</a>\n</p>",
           "pub_date": "2026-01-05T00:00:00+08:00",
           "updated_at": "2026-01-05T00:00:00+08:00",
           "author": "",
@@ -226,6 +259,17 @@
           "title": "Lios Calibre Viewer",
           "link": "https://g0f.cn/ios/testflight/rss-420128f5/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xjCRSE8u\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xjCRSE8u\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Rituallly",
+          "link": "https://g0f.cn/ios/testflight/rss-4adb45e4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/DRsz3uhS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/DRsz3uhS\n</a>\n</p>",
           "pub_date": "2026-01-05T00:00:00+08:00",
           "updated_at": "2026-01-05T00:00:00+08:00",
           "author": "",
@@ -6664,9 +6708,31 @@
   ],
   "all_posts": [
     {
+      "title": "8Ø8™",
+      "link": "https://g0f.cn/ios/testflight/rss-23ade253/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zZ6GPb9p\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zZ6GPb9p\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "AI Lister",
       "link": "https://g0f.cn/ios/testflight/rss-34b1581f/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vcHQfPNp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vcHQfPNp\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Black Star - A better way.",
+      "link": "https://g0f.cn/ios/testflight/rss-4fdfeb02/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wyj4keKZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wyj4keKZ\n</a>\n</p>",
       "pub_date": "2026-01-05T00:00:00+08:00",
       "updated_at": "2026-01-05T00:00:00+08:00",
       "author": "",
@@ -6689,6 +6755,17 @@
       "title": "ChefAI",
       "link": "https://g0f.cn/ios/testflight/rss-2a12513e/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mXSR7GVz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mXSR7GVz\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Divyo",
+      "link": "https://g0f.cn/ios/testflight/rss-00499ee2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/juzHDqC8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/juzHDqC8\n</a>\n</p>",
       "pub_date": "2026-01-05T00:00:00+08:00",
       "updated_at": "2026-01-05T00:00:00+08:00",
       "author": "",
@@ -6722,6 +6799,17 @@
       "title": "Lios Calibre Viewer",
       "link": "https://g0f.cn/ios/testflight/rss-420128f5/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xjCRSE8u\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xjCRSE8u\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Rituallly",
+      "link": "https://g0f.cn/ios/testflight/rss-4adb45e4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/DRsz3uhS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/DRsz3uhS\n</a>\n</p>",
       "pub_date": "2026-01-05T00:00:00+08:00",
       "updated_at": "2026-01-05T00:00:00+08:00",
       "author": "",
