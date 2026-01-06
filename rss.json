@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-06T20:56:16.640510+08:00",
+  "updated_at": "2026-01-07T02:39:31.894581+08:00",
   "total_sites": 6,
-  "total_posts": 621,
+  "total_posts": 625,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,9 +168,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "BandLab – Music Maker & Beats",
+          "link": "https://g0f.cn/ios/testflight/rss-fbf9a3d4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/BwbEj9Xx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/BwbEj9Xx\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Chess Clock Mobile",
           "link": "https://g0f.cn/ios/testflight/rss-0105cc4b/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qe52FUmk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qe52FUmk\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Easlo Experiments",
+          "link": "https://g0f.cn/ios/testflight/rss-389d1360/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cha21BaZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cha21BaZ\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "GameTrack",
+          "link": "https://g0f.cn/ios/testflight/rss-29ec0866/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/O1g5pDoY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/O1g5pDoY\n</a>\n</p>",
           "pub_date": "2026-01-06T00:00:00+08:00",
           "updated_at": "2026-01-06T00:00:00+08:00",
           "author": "",
@@ -259,6 +292,17 @@
           "title": "Starkeeper",
           "link": "https://g0f.cn/ios/testflight/rss-d5036d76/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/37q6squK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/37q6squK\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Subradar",
+          "link": "https://g0f.cn/ios/testflight/rss-474d4b93/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3hgzHwWR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3hgzHwWR\n</a>\n</p>",
           "pub_date": "2026-01-06T00:00:00+08:00",
           "updated_at": "2026-01-06T00:00:00+08:00",
           "author": "",
@@ -6895,9 +6939,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "BandLab – Music Maker & Beats",
+      "link": "https://g0f.cn/ios/testflight/rss-fbf9a3d4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/BwbEj9Xx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/BwbEj9Xx\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Chess Clock Mobile",
       "link": "https://g0f.cn/ios/testflight/rss-0105cc4b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qe52FUmk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qe52FUmk\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Easlo Experiments",
+      "link": "https://g0f.cn/ios/testflight/rss-389d1360/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cha21BaZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cha21BaZ\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "GameTrack",
+      "link": "https://g0f.cn/ios/testflight/rss-29ec0866/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/O1g5pDoY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/O1g5pDoY\n</a>\n</p>",
       "pub_date": "2026-01-06T00:00:00+08:00",
       "updated_at": "2026-01-06T00:00:00+08:00",
       "author": "",
@@ -6986,6 +7063,17 @@
       "title": "Starkeeper",
       "link": "https://g0f.cn/ios/testflight/rss-d5036d76/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/37q6squK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/37q6squK\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Subradar",
+      "link": "https://g0f.cn/ios/testflight/rss-474d4b93/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3hgzHwWR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3hgzHwWR\n</a>\n</p>",
       "pub_date": "2026-01-06T00:00:00+08:00",
       "updated_at": "2026-01-06T00:00:00+08:00",
       "author": "",
