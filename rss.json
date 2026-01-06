@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-06T10:06:50.630814+08:00",
+  "updated_at": "2026-01-06T14:42:05.909141+08:00",
   "total_sites": 6,
-  "total_posts": 611,
+  "total_posts": 617,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,72 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Grocery Smart",
+          "link": "https://g0f.cn/ios/testflight/rss-9137346a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q6EAxFgF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q6EAxFgF\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Mango Baby: Newborn Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-3ea074e7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/td8w79RD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/td8w79RD\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Shutter",
+          "link": "https://g0f.cn/ios/testflight/rss-1fa8efa7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WVG18xsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WVG18xsQ\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Spark MtG Life Counter",
+          "link": "https://g0f.cn/ios/testflight/rss-75d55e08/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1mzs783Y\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1mzs783Y\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Starkeeper",
+          "link": "https://g0f.cn/ios/testflight/rss-d5036d76/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/37q6squK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/37q6squK\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "WireView",
+          "link": "https://g0f.cn/ios/testflight/rss-3588136e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/BKtSdmwt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/BKtSdmwt\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "8Ø8™",
           "link": "https://g0f.cn/ios/testflight/rss-23ade253/",
@@ -6773,6 +6839,72 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Grocery Smart",
+      "link": "https://g0f.cn/ios/testflight/rss-9137346a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q6EAxFgF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q6EAxFgF\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Mango Baby: Newborn Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-3ea074e7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/td8w79RD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/td8w79RD\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Shutter",
+      "link": "https://g0f.cn/ios/testflight/rss-1fa8efa7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WVG18xsQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WVG18xsQ\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Spark MtG Life Counter",
+      "link": "https://g0f.cn/ios/testflight/rss-75d55e08/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1mzs783Y\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1mzs783Y\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Starkeeper",
+      "link": "https://g0f.cn/ios/testflight/rss-d5036d76/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/37q6squK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/37q6squK\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "WireView",
+      "link": "https://g0f.cn/ios/testflight/rss-3588136e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/BKtSdmwt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/BKtSdmwt\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "8Ø8™",
       "link": "https://g0f.cn/ios/testflight/rss-23ade253/",
