@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-06T02:40:42.000457+08:00",
+  "updated_at": "2026-01-06T10:06:50.630814+08:00",
   "total_sites": 6,
-  "total_posts": 605,
+  "total_posts": 611,
   "sites": [
     {
       "name": "LiuSheng",
@@ -190,6 +190,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Avocadough",
+          "link": "https://g0f.cn/ios/testflight/rss-1d1da909/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UVmwmzQI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UVmwmzQI\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Black Star - A better way.",
           "link": "https://g0f.cn/ios/testflight/rss-4fdfeb02/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wyj4keKZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wyj4keKZ\n</a>\n</p>",
@@ -234,6 +245,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Eureka AI",
+          "link": "https://g0f.cn/ios/testflight/rss-442052d3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tZxrg1qU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tZxrg1qU\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Glitch...",
           "link": "https://g0f.cn/ios/testflight/rss-cc0d3a40/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bOEH9HcZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bOEH9HcZ\n</a>\n</p>",
@@ -256,9 +278,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "iParcelBox",
+          "link": "https://g0f.cn/ios/testflight/rss-f645f1e9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SedIq9Qc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SedIq9Qc\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Lios Calibre Viewer",
           "link": "https://g0f.cn/ios/testflight/rss-420128f5/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xjCRSE8u\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xjCRSE8u\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Magic Teleport",
+          "link": "https://g0f.cn/ios/testflight/rss-6077b2e2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Geqbbd8X\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Geqbbd8X\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Music Player: Vinyl Fetish",
+          "link": "https://g0f.cn/ios/testflight/rss-f72ca509/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wph2KGSO\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wph2KGSO\n</a>\n</p>",
           "pub_date": "2026-01-05T00:00:00+08:00",
           "updated_at": "2026-01-05T00:00:00+08:00",
           "author": "",
@@ -281,6 +336,17 @@
           "title": "Studio – AI Gallery & Editor",
           "link": "https://g0f.cn/ios/testflight/rss-61f718cc/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HXkcV473\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HXkcV473\n</a>\n</p>",
+          "pub_date": "2026-01-05T00:00:00+08:00",
+          "updated_at": "2026-01-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "UIGame",
+          "link": "https://g0f.cn/ios/testflight/rss-c63cd4dd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/59HmFSn1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/59HmFSn1\n</a>\n</p>",
           "pub_date": "2026-01-05T00:00:00+08:00",
           "updated_at": "2026-01-05T00:00:00+08:00",
           "author": "",
@@ -6730,6 +6796,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Avocadough",
+      "link": "https://g0f.cn/ios/testflight/rss-1d1da909/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UVmwmzQI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UVmwmzQI\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Black Star - A better way.",
       "link": "https://g0f.cn/ios/testflight/rss-4fdfeb02/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wyj4keKZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wyj4keKZ\n</a>\n</p>",
@@ -6774,6 +6851,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Eureka AI",
+      "link": "https://g0f.cn/ios/testflight/rss-442052d3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tZxrg1qU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tZxrg1qU\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Glitch...",
       "link": "https://g0f.cn/ios/testflight/rss-cc0d3a40/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bOEH9HcZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bOEH9HcZ\n</a>\n</p>",
@@ -6796,9 +6884,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "iParcelBox",
+      "link": "https://g0f.cn/ios/testflight/rss-f645f1e9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SedIq9Qc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SedIq9Qc\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Lios Calibre Viewer",
       "link": "https://g0f.cn/ios/testflight/rss-420128f5/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xjCRSE8u\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xjCRSE8u\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Magic Teleport",
+      "link": "https://g0f.cn/ios/testflight/rss-6077b2e2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Geqbbd8X\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Geqbbd8X\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Music Player: Vinyl Fetish",
+      "link": "https://g0f.cn/ios/testflight/rss-f72ca509/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wph2KGSO\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wph2KGSO\n</a>\n</p>",
       "pub_date": "2026-01-05T00:00:00+08:00",
       "updated_at": "2026-01-05T00:00:00+08:00",
       "author": "",
@@ -6821,6 +6942,17 @@
       "title": "Studio – AI Gallery & Editor",
       "link": "https://g0f.cn/ios/testflight/rss-61f718cc/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HXkcV473\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HXkcV473\n</a>\n</p>",
+      "pub_date": "2026-01-05T00:00:00+08:00",
+      "updated_at": "2026-01-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "UIGame",
+      "link": "https://g0f.cn/ios/testflight/rss-c63cd4dd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/59HmFSn1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/59HmFSn1\n</a>\n</p>",
       "pub_date": "2026-01-05T00:00:00+08:00",
       "updated_at": "2026-01-05T00:00:00+08:00",
       "author": "",
