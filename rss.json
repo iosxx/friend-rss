@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-06T14:42:05.909141+08:00",
+  "updated_at": "2026-01-06T20:56:16.640510+08:00",
   "total_sites": 6,
-  "total_posts": 617,
+  "total_posts": 621,
   "sites": [
     {
       "name": "LiuSheng",
@@ -140,17 +140,6 @@
           "site_name": "LiuSheng",
           "site_url": "https://blog.liushen.fun/",
           "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "企业微信实用操作指南",
-          "link": "https://blog.liushen.fun/posts/c00eee1d/",
-          "description": "刚开始用企业微信时，总觉得它是多余的累赘，占空间又麻烦。但用了一段时间后，意外发现它其实很好用，甚至在某些方面比普通微信更强。这篇文章就简单聊聊，正确开启企业微信的方式吧！",
-          "pub_date": "2025-07-10T17:09:00+08:00",
-          "updated_at": "2025-07-10T17:10:00+08:00",
-          "author": "",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
         }
       ]
     },
@@ -168,6 +157,28 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "snapchat",
+          "link": "https://g0f.cn/ios/testflight/rss-786d61e9/",
+          "description": "<p>#snapchat</p>\n<p>\n<a href=\"https://testflight.apple.com/join/p7hGbZUR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p7hGbZUR\n</a>\nApple\nJoin the Snapchat beta\nAvailable on iOS</p>",
+          "pub_date": "2026-01-06T03:11:00+08:00",
+          "updated_at": "2026-01-06T03:11:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Chess Clock Mobile",
+          "link": "https://g0f.cn/ios/testflight/rss-0105cc4b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qe52FUmk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qe52FUmk\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Grocery Smart",
           "link": "https://g0f.cn/ios/testflight/rss-9137346a/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q6EAxFgF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q6EAxFgF\n</a>\n</p>",
@@ -179,9 +190,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Instnce",
+          "link": "https://g0f.cn/ios/testflight/rss-52045940/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/X8VQ8XBe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/X8VQ8XBe\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Manga x Manga VHS",
+          "link": "https://g0f.cn/ios/testflight/rss-28591cca/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kgpmIC7f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kgpmIC7f\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Mango Baby: Newborn Tracker",
           "link": "https://g0f.cn/ios/testflight/rss-3ea074e7/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/td8w79RD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/td8w79RD\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "shotsnapp",
+          "link": "https://g0f.cn/ios/testflight/rss-21beec87/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3XJHgEen\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3XJHgEen\n</a>\n</p>",
           "pub_date": "2026-01-06T00:00:00+08:00",
           "updated_at": "2026-01-06T00:00:00+08:00",
           "author": "",
@@ -6840,6 +6884,28 @@
   ],
   "all_posts": [
     {
+      "title": "snapchat",
+      "link": "https://g0f.cn/ios/testflight/rss-786d61e9/",
+      "description": "<p>#snapchat</p>\n<p>\n<a href=\"https://testflight.apple.com/join/p7hGbZUR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p7hGbZUR\n</a>\nApple\nJoin the Snapchat beta\nAvailable on iOS</p>",
+      "pub_date": "2026-01-06T03:11:00+08:00",
+      "updated_at": "2026-01-06T03:11:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Chess Clock Mobile",
+      "link": "https://g0f.cn/ios/testflight/rss-0105cc4b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qe52FUmk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qe52FUmk\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Grocery Smart",
       "link": "https://g0f.cn/ios/testflight/rss-9137346a/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q6EAxFgF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q6EAxFgF\n</a>\n</p>",
@@ -6851,9 +6917,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Instnce",
+      "link": "https://g0f.cn/ios/testflight/rss-52045940/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/X8VQ8XBe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/X8VQ8XBe\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Manga x Manga VHS",
+      "link": "https://g0f.cn/ios/testflight/rss-28591cca/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kgpmIC7f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kgpmIC7f\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Mango Baby: Newborn Tracker",
       "link": "https://g0f.cn/ios/testflight/rss-3ea074e7/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/td8w79RD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/td8w79RD\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "shotsnapp",
+      "link": "https://g0f.cn/ios/testflight/rss-21beec87/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3XJHgEen\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3XJHgEen\n</a>\n</p>",
       "pub_date": "2026-01-06T00:00:00+08:00",
       "updated_at": "2026-01-06T00:00:00+08:00",
       "author": "",
@@ -13610,17 +13709,6 @@
       "description": "在武汉的四年时光里，我经历了许多成长，也学会了独立。从那个懵懂的孩子，渐渐变成了小伙子。而西安，这座我生活了十余年的家，却始终未曾被我真正探寻。趁着这个难得的暑假，我决定重新走进这座历史悠久的古城，细细品味她的风华与故事，重新认识那个藏在记忆深处的西安。",
       "pub_date": "2025-07-18T12:00:00+08:00",
       "updated_at": "2025-07-18T12:00:00+08:00",
-      "author": "",
-      "site_name": "LiuSheng",
-      "site_url": "https://blog.liushen.fun/",
-      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "企业微信实用操作指南",
-      "link": "https://blog.liushen.fun/posts/c00eee1d/",
-      "description": "刚开始用企业微信时，总觉得它是多余的累赘，占空间又麻烦。但用了一段时间后，意外发现它其实很好用，甚至在某些方面比普通微信更强。这篇文章就简单聊聊，正确开启企业微信的方式吧！",
-      "pub_date": "2025-07-10T17:09:00+08:00",
-      "updated_at": "2025-07-10T17:10:00+08:00",
       "author": "",
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
