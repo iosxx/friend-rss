@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-07T02:39:31.894581+08:00",
+  "updated_at": "2026-01-07T10:06:34.555803+08:00",
   "total_sites": 6,
-  "total_posts": 625,
+  "total_posts": 628,
   "sites": [
     {
       "name": "LiuSheng",
@@ -223,6 +223,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Habee - Habit Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-6a1fb57b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2xFY2Tw6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2xFY2Tw6\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Instnce",
           "link": "https://g0f.cn/ios/testflight/rss-52045940/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/X8VQ8XBe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/X8VQ8XBe\n</a>\n</p>",
@@ -248,6 +259,28 @@
           "title": "Mango Baby: Newborn Tracker",
           "link": "https://g0f.cn/ios/testflight/rss-3ea074e7/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/td8w79RD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/td8w79RD\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Nuri.com",
+          "link": "https://g0f.cn/ios/testflight/rss-74667b2c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wJj4ZPtw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wJj4ZPtw\n</a>\n</p>",
+          "pub_date": "2026-01-06T00:00:00+08:00",
+          "updated_at": "2026-01-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pencil Treningslogg",
+          "link": "https://g0f.cn/ios/testflight/rss-42d6479e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gGmEzmd4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gGmEzmd4\n</a>\n</p>",
           "pub_date": "2026-01-06T00:00:00+08:00",
           "updated_at": "2026-01-06T00:00:00+08:00",
           "author": "",
@@ -6994,6 +7027,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Habee - Habit Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-6a1fb57b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2xFY2Tw6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2xFY2Tw6\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Instnce",
       "link": "https://g0f.cn/ios/testflight/rss-52045940/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/X8VQ8XBe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/X8VQ8XBe\n</a>\n</p>",
@@ -7019,6 +7063,28 @@
       "title": "Mango Baby: Newborn Tracker",
       "link": "https://g0f.cn/ios/testflight/rss-3ea074e7/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/td8w79RD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/td8w79RD\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Nuri.com",
+      "link": "https://g0f.cn/ios/testflight/rss-74667b2c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wJj4ZPtw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wJj4ZPtw\n</a>\n</p>",
+      "pub_date": "2026-01-06T00:00:00+08:00",
+      "updated_at": "2026-01-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pencil Treningslogg",
+      "link": "https://g0f.cn/ios/testflight/rss-42d6479e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gGmEzmd4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gGmEzmd4\n</a>\n</p>",
       "pub_date": "2026-01-06T00:00:00+08:00",
       "updated_at": "2026-01-06T00:00:00+08:00",
       "author": "",
