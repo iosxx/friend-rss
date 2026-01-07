@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-07T20:57:22.021683+08:00",
+  "updated_at": "2026-01-08T02:40:45.323571+08:00",
   "total_sites": 6,
-  "total_posts": 639,
+  "total_posts": 643,
   "sites": [
     {
       "name": "LiuSheng",
@@ -9,6 +9,17 @@
       "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp",
       "feed_url": "https://blog.liushen.fun/atom.xml",
       "posts": [
+        {
+          "title": "2025，清风已至，正帆向星海",
+          "link": "https://blog.liushen.fun/posts/5db5181d/",
+          "description": "2025逐渐走向尾声。这一年经历了考研失利的低谷，也迎来了走入工作的转折。从自我修复到角色转换，从校园走向职场，在实践中学习、在挫折中前行。第一次凭借自己的能力获得收入，完成了人生的初次积累。回望这一年，真实而坚定，推动我继续向前。",
+          "pub_date": "2026-01-07T16:06:00+08:00",
+          "updated_at": "2026-01-07T16:07:00+08:00",
+          "author": "",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
         {
           "title": "部署一只麦麦QQ机器人",
           "link": "https://blog.liushen.fun/posts/83890fe8/",
@@ -157,6 +168,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "已满，但先收藏一下",
+          "link": "https://g0f.cn/ios/testflight/rss-f4581bcc/",
+          "description": "<p>已满，但先收藏一下\n<a href=\"https://testflight.apple.com/join/VCIvwk2g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCIvwk2g\n</a>\nApple\n加入 Beta 版“Quantumult X”\n适用于 iOS 和 Apple tvOS</p>",
+          "pub_date": "2026-01-07T08:22:00+08:00",
+          "updated_at": "2026-01-07T08:22:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Aurory: Amiko Legends",
           "link": "https://g0f.cn/ios/testflight/rss-93d05cfd/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FuaxsScP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FuaxsScP\n</a>\n</p>",
@@ -171,6 +193,17 @@
           "title": "Azkarly",
           "link": "https://g0f.cn/ios/testflight/rss-091d4a53/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/J38ZETwb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/J38ZETwb\n</a>\n</p>",
+          "pub_date": "2026-01-07T00:00:00+08:00",
+          "updated_at": "2026-01-07T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "bijou for Last.fm",
+          "link": "https://g0f.cn/ios/testflight/rss-edcafd02/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cwu9KBIF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cwu9KBIF\n</a>\n</p>",
           "pub_date": "2026-01-07T00:00:00+08:00",
           "updated_at": "2026-01-07T00:00:00+08:00",
           "author": "",
@@ -237,6 +270,17 @@
           "title": "Life Admin Hub – Bills & Subs",
           "link": "https://g0f.cn/ios/testflight/rss-6dfecbe1/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZVdnx1EQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZVdnx1EQ\n</a>\n</p>",
+          "pub_date": "2026-01-07T00:00:00+08:00",
+          "updated_at": "2026-01-07T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-0d762ce0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BN8-9TC7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BN8-9TC7\n</a>\n</p>",
           "pub_date": "2026-01-07T00:00:00+08:00",
           "updated_at": "2026-01-07T00:00:00+08:00",
           "author": "",
@@ -7082,6 +7126,28 @@
   ],
   "all_posts": [
     {
+      "title": "2025，清风已至，正帆向星海",
+      "link": "https://blog.liushen.fun/posts/5db5181d/",
+      "description": "2025逐渐走向尾声。这一年经历了考研失利的低谷，也迎来了走入工作的转折。从自我修复到角色转换，从校园走向职场，在实践中学习、在挫折中前行。第一次凭借自己的能力获得收入，完成了人生的初次积累。回望这一年，真实而坚定，推动我继续向前。",
+      "pub_date": "2026-01-07T16:06:00+08:00",
+      "updated_at": "2026-01-07T16:07:00+08:00",
+      "author": "",
+      "site_name": "LiuSheng",
+      "site_url": "https://blog.liushen.fun/",
+      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+    },
+    {
+      "title": "已满，但先收藏一下",
+      "link": "https://g0f.cn/ios/testflight/rss-f4581bcc/",
+      "description": "<p>已满，但先收藏一下\n<a href=\"https://testflight.apple.com/join/VCIvwk2g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCIvwk2g\n</a>\nApple\n加入 Beta 版“Quantumult X”\n适用于 iOS 和 Apple tvOS</p>",
+      "pub_date": "2026-01-07T08:22:00+08:00",
+      "updated_at": "2026-01-07T08:22:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Aurory: Amiko Legends",
       "link": "https://g0f.cn/ios/testflight/rss-93d05cfd/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FuaxsScP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FuaxsScP\n</a>\n</p>",
@@ -7096,6 +7162,17 @@
       "title": "Azkarly",
       "link": "https://g0f.cn/ios/testflight/rss-091d4a53/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/J38ZETwb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/J38ZETwb\n</a>\n</p>",
+      "pub_date": "2026-01-07T00:00:00+08:00",
+      "updated_at": "2026-01-07T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "bijou for Last.fm",
+      "link": "https://g0f.cn/ios/testflight/rss-edcafd02/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cwu9KBIF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cwu9KBIF\n</a>\n</p>",
       "pub_date": "2026-01-07T00:00:00+08:00",
       "updated_at": "2026-01-07T00:00:00+08:00",
       "author": "",
@@ -7162,6 +7239,17 @@
       "title": "Life Admin Hub – Bills & Subs",
       "link": "https://g0f.cn/ios/testflight/rss-6dfecbe1/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZVdnx1EQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZVdnx1EQ\n</a>\n</p>",
+      "pub_date": "2026-01-07T00:00:00+08:00",
+      "updated_at": "2026-01-07T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-0d762ce0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BN8-9TC7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=BN8-9TC7\n</a>\n</p>",
       "pub_date": "2026-01-07T00:00:00+08:00",
       "updated_at": "2026-01-07T00:00:00+08:00",
       "author": "",
