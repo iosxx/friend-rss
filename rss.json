@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-09T10:08:02.539610+08:00",
+  "updated_at": "2026-01-09T14:42:04.303936+08:00",
   "total_sites": 6,
-  "total_posts": 662,
+  "total_posts": 666,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "BULL BITCOIN",
+          "link": "https://g0f.cn/ios/testflight/rss-41e6ad7b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FJbE4JPN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FJbE4JPN\n</a>\n</p>",
+          "pub_date": "2026-01-09T00:00:00+08:00",
+          "updated_at": "2026-01-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Gifski",
+          "link": "https://g0f.cn/ios/testflight/rss-752262d0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/iCyHNNIA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/iCyHNNIA\n</a>\n</p>",
+          "pub_date": "2026-01-09T00:00:00+08:00",
+          "updated_at": "2026-01-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "MLBB Beta",
+          "link": "https://g0f.cn/ios/testflight/rss-072e6289/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yYjKTTlT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yYjKTTlT\n</a>\n</p>",
+          "pub_date": "2026-01-09T00:00:00+08:00",
+          "updated_at": "2026-01-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Solforge Fusion",
+          "link": "https://g0f.cn/ios/testflight/rss-176ca504/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/DTyhsMrA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/DTyhsMrA\n</a>\n</p>",
+          "pub_date": "2026-01-09T00:00:00+08:00",
+          "updated_at": "2026-01-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Budgit App",
           "link": "https://g0f.cn/ios/testflight/rss-1b4fd2f4/",
@@ -7334,6 +7378,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "BULL BITCOIN",
+      "link": "https://g0f.cn/ios/testflight/rss-41e6ad7b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FJbE4JPN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FJbE4JPN\n</a>\n</p>",
+      "pub_date": "2026-01-09T00:00:00+08:00",
+      "updated_at": "2026-01-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Gifski",
+      "link": "https://g0f.cn/ios/testflight/rss-752262d0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/iCyHNNIA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/iCyHNNIA\n</a>\n</p>",
+      "pub_date": "2026-01-09T00:00:00+08:00",
+      "updated_at": "2026-01-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "MLBB Beta",
+      "link": "https://g0f.cn/ios/testflight/rss-072e6289/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yYjKTTlT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yYjKTTlT\n</a>\n</p>",
+      "pub_date": "2026-01-09T00:00:00+08:00",
+      "updated_at": "2026-01-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Solforge Fusion",
+      "link": "https://g0f.cn/ios/testflight/rss-176ca504/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/DTyhsMrA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/DTyhsMrA\n</a>\n</p>",
+      "pub_date": "2026-01-09T00:00:00+08:00",
+      "updated_at": "2026-01-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "昨夜惊魂",
       "link": "https://wang618.cn/zuo-ye-jing-hun.html",
