@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-10T14:37:38.587191+08:00",
+  "updated_at": "2026-01-10T20:51:08.542752+08:00",
   "total_sites": 6,
-  "total_posts": 691,
+  "total_posts": 695,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,9 +168,31 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "推友自荐 一个简单的日历app，可以设置每年农历/阳历提前几天提醒生日，重要日子，小组件支持倒数日提醒，天气预报，支持icloud同步 ：",
+          "link": "https://g0f.cn/ios/testflight/rss-8fde5850/",
+          "description": "<p>#推友自荐\n一个简单的日历app，可以设置每年农历/阳历提前几天提醒生日，重要日子，小组件支持倒数日提醒，天气预报，支持icloud同步 ：\n<a href=\"https://testflight.apple.com/join/fAcjDDUu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fAcjDDUu\n</a>\nApple\nJoin the Calendery - 极简农历天气日历 beta\nAvailable on iOS</p>",
+          "pub_date": "2026-01-10T04:17:00+08:00",
+          "updated_at": "2026-01-10T04:17:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Aphid: Clone Yourself",
           "link": "https://g0f.cn/ios/testflight/rss-2e58108d/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cg7fYaNt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cg7fYaNt\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DistractionFree: Screen Time",
+          "link": "https://g0f.cn/ios/testflight/rss-269267a1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5aZJFUWz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5aZJFUWz\n</a>\n</p>",
           "pub_date": "2026-01-10T00:00:00+08:00",
           "updated_at": "2026-01-10T00:00:00+08:00",
           "author": "",
@@ -223,6 +245,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Moca Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-cd79336c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/n5c24VjT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/n5c24VjT\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "NSYB",
           "link": "https://g0f.cn/ios/testflight/rss-430ae77a/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zp3DtMVb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zp3DtMVb\n</a>\n</p>",
@@ -237,6 +270,17 @@
           "title": "Quantumult X",
           "link": "https://g0f.cn/ios/testflight/rss-5a1b0930/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCIvwk2g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCIvwk2g\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Thawe - Professional Network",
+          "link": "https://g0f.cn/ios/testflight/rss-bf5580c8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jXNBKR6n\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jXNBKR6n\n</a>\n</p>",
           "pub_date": "2026-01-10T00:00:00+08:00",
           "updated_at": "2026-01-10T00:00:00+08:00",
           "author": "",
@@ -7654,9 +7698,31 @@
   ],
   "all_posts": [
     {
+      "title": "推友自荐 一个简单的日历app，可以设置每年农历/阳历提前几天提醒生日，重要日子，小组件支持倒数日提醒，天气预报，支持icloud同步 ：",
+      "link": "https://g0f.cn/ios/testflight/rss-8fde5850/",
+      "description": "<p>#推友自荐\n一个简单的日历app，可以设置每年农历/阳历提前几天提醒生日，重要日子，小组件支持倒数日提醒，天气预报，支持icloud同步 ：\n<a href=\"https://testflight.apple.com/join/fAcjDDUu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fAcjDDUu\n</a>\nApple\nJoin the Calendery - 极简农历天气日历 beta\nAvailable on iOS</p>",
+      "pub_date": "2026-01-10T04:17:00+08:00",
+      "updated_at": "2026-01-10T04:17:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Aphid: Clone Yourself",
       "link": "https://g0f.cn/ios/testflight/rss-2e58108d/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cg7fYaNt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cg7fYaNt\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DistractionFree: Screen Time",
+      "link": "https://g0f.cn/ios/testflight/rss-269267a1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5aZJFUWz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5aZJFUWz\n</a>\n</p>",
       "pub_date": "2026-01-10T00:00:00+08:00",
       "updated_at": "2026-01-10T00:00:00+08:00",
       "author": "",
@@ -7709,6 +7775,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Moca Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-cd79336c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/n5c24VjT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/n5c24VjT\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "NSYB",
       "link": "https://g0f.cn/ios/testflight/rss-430ae77a/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zp3DtMVb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zp3DtMVb\n</a>\n</p>",
@@ -7723,6 +7800,17 @@
       "title": "Quantumult X",
       "link": "https://g0f.cn/ios/testflight/rss-5a1b0930/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCIvwk2g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCIvwk2g\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Thawe - Professional Network",
+      "link": "https://g0f.cn/ios/testflight/rss-bf5580c8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jXNBKR6n\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jXNBKR6n\n</a>\n</p>",
       "pub_date": "2026-01-10T00:00:00+08:00",
       "updated_at": "2026-01-10T00:00:00+08:00",
       "author": "",
