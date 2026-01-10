@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-10T10:03:53.048502+08:00",
+  "updated_at": "2026-01-10T14:37:38.587191+08:00",
   "total_sites": 6,
-  "total_posts": 684,
+  "total_posts": 691,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,83 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Aphid: Clone Yourself",
+          "link": "https://g0f.cn/ios/testflight/rss-2e58108d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cg7fYaNt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cg7fYaNt\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "External Persona Testing",
+          "link": "https://g0f.cn/ios/testflight/rss-cc714cc8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/msXJrOc6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/msXJrOc6\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Folio db",
+          "link": "https://g0f.cn/ios/testflight/rss-8e8b647e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gdRFC2JH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gdRFC2JH\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "IRCCloud",
+          "link": "https://g0f.cn/ios/testflight/rss-b8235a7b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/MApr7Une\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/MApr7Une\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Manga Clash - Warrior Arena",
+          "link": "https://g0f.cn/ios/testflight/rss-e21d6f74/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/htIpxyDx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/htIpxyDx\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "NSYB",
+          "link": "https://g0f.cn/ios/testflight/rss-430ae77a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zp3DtMVb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zp3DtMVb\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Quantumult X",
+          "link": "https://g0f.cn/ios/testflight/rss-5a1b0930/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCIvwk2g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCIvwk2g\n</a>\n</p>",
+          "pub_date": "2026-01-10T00:00:00+08:00",
+          "updated_at": "2026-01-10T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "",
           "link": "https://g0f.cn/ios/testflight/rss-08b17770/",
@@ -7576,6 +7653,83 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Aphid: Clone Yourself",
+      "link": "https://g0f.cn/ios/testflight/rss-2e58108d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cg7fYaNt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cg7fYaNt\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "External Persona Testing",
+      "link": "https://g0f.cn/ios/testflight/rss-cc714cc8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/msXJrOc6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/msXJrOc6\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Folio db",
+      "link": "https://g0f.cn/ios/testflight/rss-8e8b647e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gdRFC2JH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gdRFC2JH\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "IRCCloud",
+      "link": "https://g0f.cn/ios/testflight/rss-b8235a7b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/MApr7Une\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/MApr7Une\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Manga Clash - Warrior Arena",
+      "link": "https://g0f.cn/ios/testflight/rss-e21d6f74/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/htIpxyDx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/htIpxyDx\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "NSYB",
+      "link": "https://g0f.cn/ios/testflight/rss-430ae77a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zp3DtMVb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zp3DtMVb\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Quantumult X",
+      "link": "https://g0f.cn/ios/testflight/rss-5a1b0930/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCIvwk2g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCIvwk2g\n</a>\n</p>",
+      "pub_date": "2026-01-10T00:00:00+08:00",
+      "updated_at": "2026-01-10T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "",
       "link": "https://g0f.cn/ios/testflight/rss-08b17770/",
