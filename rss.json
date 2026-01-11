@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-11T20:52:22.104523+08:00",
+  "updated_at": "2026-01-12T02:36:11.802216+08:00",
   "total_sites": 6,
-  "total_posts": 712,
+  "total_posts": 718,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,9 +168,53 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "ARENA® - Chat, Trade, Hang out",
+          "link": "https://g0f.cn/ios/testflight/rss-bb900352/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aX92Z6iw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aX92Z6iw\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "BeepFit Timer",
+          "link": "https://g0f.cn/ios/testflight/rss-1df581b9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bYVUdY3r\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bYVUdY3r\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "BitNasdaq: Buy BTC & Crypto",
+          "link": "https://g0f.cn/ios/testflight/rss-8fb72d73/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wr82YLnR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wr82YLnR\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Comind Note",
           "link": "https://g0f.cn/ios/testflight/rss-b9ab05f6/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7Nq5PPw6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7Nq5PPw6\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Daily by Yuhang",
+          "link": "https://g0f.cn/ios/testflight/rss-2bee752b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hrhzGsp1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hrhzGsp1\n</a>\n</p>",
           "pub_date": "2026-01-11T00:00:00+08:00",
           "updated_at": "2026-01-11T00:00:00+08:00",
           "author": "",
@@ -256,9 +300,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Spark - Social In Your Hands",
+          "link": "https://g0f.cn/ios/testflight/rss-386f9c9a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uYpnjh37\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uYpnjh37\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Suptho",
           "link": "https://g0f.cn/ios/testflight/rss-2f17c432/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/OSBjZlhn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/OSBjZlhn\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "TuCuento: Your Bedtime Story",
+          "link": "https://g0f.cn/ios/testflight/rss-8aaa1572/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/f2tWGmqW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/f2tWGmqW\n</a>\n</p>",
           "pub_date": "2026-01-11T00:00:00+08:00",
           "updated_at": "2026-01-11T00:00:00+08:00",
           "author": "",
@@ -7885,9 +7951,53 @@
   ],
   "all_posts": [
     {
+      "title": "ARENA® - Chat, Trade, Hang out",
+      "link": "https://g0f.cn/ios/testflight/rss-bb900352/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aX92Z6iw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aX92Z6iw\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "BeepFit Timer",
+      "link": "https://g0f.cn/ios/testflight/rss-1df581b9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bYVUdY3r\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bYVUdY3r\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "BitNasdaq: Buy BTC & Crypto",
+      "link": "https://g0f.cn/ios/testflight/rss-8fb72d73/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wr82YLnR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wr82YLnR\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Comind Note",
       "link": "https://g0f.cn/ios/testflight/rss-b9ab05f6/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7Nq5PPw6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7Nq5PPw6\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Daily by Yuhang",
+      "link": "https://g0f.cn/ios/testflight/rss-2bee752b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hrhzGsp1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hrhzGsp1\n</a>\n</p>",
       "pub_date": "2026-01-11T00:00:00+08:00",
       "updated_at": "2026-01-11T00:00:00+08:00",
       "author": "",
@@ -7973,9 +8083,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Spark - Social In Your Hands",
+      "link": "https://g0f.cn/ios/testflight/rss-386f9c9a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uYpnjh37\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uYpnjh37\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Suptho",
       "link": "https://g0f.cn/ios/testflight/rss-2f17c432/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/OSBjZlhn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/OSBjZlhn\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "TuCuento: Your Bedtime Story",
+      "link": "https://g0f.cn/ios/testflight/rss-8aaa1572/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/f2tWGmqW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/f2tWGmqW\n</a>\n</p>",
       "pub_date": "2026-01-11T00:00:00+08:00",
       "updated_at": "2026-01-11T00:00:00+08:00",
       "author": "",
