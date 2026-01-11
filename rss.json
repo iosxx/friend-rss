@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-11T10:23:09.183356+08:00",
+  "updated_at": "2026-01-11T14:39:25.713489+08:00",
   "total_sites": 6,
-  "total_posts": 701,
+  "total_posts": 706,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,61 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Comind Note",
+          "link": "https://g0f.cn/ios/testflight/rss-b9ab05f6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7Nq5PPw6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7Nq5PPw6\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Hand Mirror",
+          "link": "https://g0f.cn/ios/testflight/rss-b8dd606d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bnUjZUkE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bnUjZUkE\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "HearHere - Podcasts",
+          "link": "https://g0f.cn/ios/testflight/rss-a62b7b10/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wDSe8FWU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wDSe8FWU\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Suptho",
+          "link": "https://g0f.cn/ios/testflight/rss-2f17c432/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/OSBjZlhn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/OSBjZlhn\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Two Way : Walkie Talkie",
+          "link": "https://g0f.cn/ios/testflight/rss-6a2f11f7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/fTRSm3eV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fTRSm3eV\n</a>\n</p>",
+          "pub_date": "2026-01-11T00:00:00+08:00",
+          "updated_at": "2026-01-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "JSTV",
           "link": "https://g0f.cn/ios/testflight/rss-4f3d1059/",
@@ -7763,6 +7818,61 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Comind Note",
+      "link": "https://g0f.cn/ios/testflight/rss-b9ab05f6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7Nq5PPw6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7Nq5PPw6\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Hand Mirror",
+      "link": "https://g0f.cn/ios/testflight/rss-b8dd606d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bnUjZUkE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bnUjZUkE\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "HearHere - Podcasts",
+      "link": "https://g0f.cn/ios/testflight/rss-a62b7b10/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wDSe8FWU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wDSe8FWU\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Suptho",
+      "link": "https://g0f.cn/ios/testflight/rss-2f17c432/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/OSBjZlhn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/OSBjZlhn\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Two Way : Walkie Talkie",
+      "link": "https://g0f.cn/ios/testflight/rss-6a2f11f7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/fTRSm3eV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fTRSm3eV\n</a>\n</p>",
+      "pub_date": "2026-01-11T00:00:00+08:00",
+      "updated_at": "2026-01-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "JSTV",
       "link": "https://g0f.cn/ios/testflight/rss-4f3d1059/",
