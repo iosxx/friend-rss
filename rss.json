@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-01-12T20:59:15.522839+08:00",
+  "updated_at": "2026-01-13T02:40:35.530628+08:00",
   "total_sites": 6,
-  "total_posts": 728,
+  "total_posts": 734,
   "sites": [
+    {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -155,18 +162,22 @@
       ]
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
-    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Avalon - MindStruct",
+          "link": "https://g0f.cn/ios/testflight/rss-987b8353/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/b3SV1ntM\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/b3SV1ntM\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Bloom - Weight, no numbers",
           "link": "https://g0f.cn/ios/testflight/rss-76cb78ac/",
@@ -190,6 +201,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Haptix Studio",
+          "link": "https://g0f.cn/ios/testflight/rss-2e67475b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HJn3mbb3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HJn3mbb3\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Hue Rush",
           "link": "https://g0f.cn/ios/testflight/rss-48d5b17e/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SnVQv2Pa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SnVQv2Pa\n</a>\n</p>",
@@ -201,9 +223,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "iAppStore",
+          "link": "https://g0f.cn/ios/testflight/rss-67768599/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XXEQdVKN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XXEQdVKN\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "IslamTools",
           "link": "https://g0f.cn/ios/testflight/rss-58a9d497/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TKpH96Vm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TKpH96Vm\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "KDE Connect",
+          "link": "https://g0f.cn/ios/testflight/rss-552d5fc9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vxCluwBF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vxCluwBF\n</a>\n</p>",
           "pub_date": "2026-01-12T00:00:00+08:00",
           "updated_at": "2026-01-12T00:00:00+08:00",
           "author": "",
@@ -226,6 +270,28 @@
           "title": "Microwave - Videos",
           "link": "https://g0f.cn/ios/testflight/rss-b1d76863/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cVxV1W3g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cVxV1W3g\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "MTA - Đối tác",
+          "link": "https://g0f.cn/ios/testflight/rss-595471e9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/db6jgYfJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/db6jgYfJ\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Spectra - System Monitor",
+          "link": "https://g0f.cn/ios/testflight/rss-2f678226/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SHDm9HrJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SHDm9HrJ\n</a>\n</p>",
           "pub_date": "2026-01-12T00:00:00+08:00",
           "updated_at": "2026-01-12T00:00:00+08:00",
           "author": "",
@@ -8061,6 +8127,17 @@
   ],
   "all_posts": [
     {
+      "title": "Avalon - MindStruct",
+      "link": "https://g0f.cn/ios/testflight/rss-987b8353/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/b3SV1ntM\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/b3SV1ntM\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Bloom - Weight, no numbers",
       "link": "https://g0f.cn/ios/testflight/rss-76cb78ac/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KvFTacSt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KvFTacSt\n</a>\n</p>",
@@ -8083,6 +8160,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Haptix Studio",
+      "link": "https://g0f.cn/ios/testflight/rss-2e67475b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HJn3mbb3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HJn3mbb3\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Hue Rush",
       "link": "https://g0f.cn/ios/testflight/rss-48d5b17e/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SnVQv2Pa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SnVQv2Pa\n</a>\n</p>",
@@ -8094,9 +8182,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "iAppStore",
+      "link": "https://g0f.cn/ios/testflight/rss-67768599/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XXEQdVKN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XXEQdVKN\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "IslamTools",
       "link": "https://g0f.cn/ios/testflight/rss-58a9d497/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TKpH96Vm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TKpH96Vm\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "KDE Connect",
+      "link": "https://g0f.cn/ios/testflight/rss-552d5fc9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vxCluwBF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vxCluwBF\n</a>\n</p>",
       "pub_date": "2026-01-12T00:00:00+08:00",
       "updated_at": "2026-01-12T00:00:00+08:00",
       "author": "",
@@ -8119,6 +8229,28 @@
       "title": "Microwave - Videos",
       "link": "https://g0f.cn/ios/testflight/rss-b1d76863/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cVxV1W3g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cVxV1W3g\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "MTA - Đối tác",
+      "link": "https://g0f.cn/ios/testflight/rss-595471e9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/db6jgYfJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/db6jgYfJ\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Spectra - System Monitor",
+      "link": "https://g0f.cn/ios/testflight/rss-2f678226/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SHDm9HrJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SHDm9HrJ\n</a>\n</p>",
       "pub_date": "2026-01-12T00:00:00+08:00",
       "updated_at": "2026-01-12T00:00:00+08:00",
       "author": "",
