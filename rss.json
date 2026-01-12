@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-12T10:13:34.507253+08:00",
+  "updated_at": "2026-01-12T14:45:39.850031+08:00",
   "total_sites": 6,
-  "total_posts": 721,
+  "total_posts": 726,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,61 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Bloom - Weight, no numbers",
+          "link": "https://g0f.cn/ios/testflight/rss-76cb78ac/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KvFTacSt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KvFTacSt\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Cal.com",
+          "link": "https://g0f.cn/ios/testflight/rss-0c25c784/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qxAmsPcw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qxAmsPcw\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Hue Rush",
+          "link": "https://g0f.cn/ios/testflight/rss-48d5b17e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SnVQv2Pa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SnVQv2Pa\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Maxine - One rep max tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-64e644e0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Qerbuzfj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Qerbuzfj\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Weeklet",
+          "link": "https://g0f.cn/ios/testflight/rss-3eb5e1c6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZefsqgEe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZefsqgEe\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "ARENA® - Chat, Trade, Hang out",
           "link": "https://g0f.cn/ios/testflight/rss-bb900352/",
@@ -7983,6 +8038,61 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Bloom - Weight, no numbers",
+      "link": "https://g0f.cn/ios/testflight/rss-76cb78ac/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KvFTacSt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KvFTacSt\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Cal.com",
+      "link": "https://g0f.cn/ios/testflight/rss-0c25c784/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qxAmsPcw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qxAmsPcw\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Hue Rush",
+      "link": "https://g0f.cn/ios/testflight/rss-48d5b17e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SnVQv2Pa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SnVQv2Pa\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Maxine - One rep max tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-64e644e0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Qerbuzfj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Qerbuzfj\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Weeklet",
+      "link": "https://g0f.cn/ios/testflight/rss-3eb5e1c6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZefsqgEe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZefsqgEe\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "ARENA® - Chat, Trade, Hang out",
       "link": "https://g0f.cn/ios/testflight/rss-bb900352/",
