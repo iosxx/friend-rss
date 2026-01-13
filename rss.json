@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-01-13T02:40:35.530628+08:00",
+  "updated_at": "2026-01-13T10:04:21.634242+08:00",
   "total_sites": 6,
-  "total_posts": 734,
+  "total_posts": 741,
   "sites": [
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -162,6 +155,13 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
+    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
@@ -193,6 +193,17 @@
           "title": "Cal.com",
           "link": "https://g0f.cn/ios/testflight/rss-0c25c784/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qxAmsPcw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qxAmsPcw\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "doomlingo",
+          "link": "https://g0f.cn/ios/testflight/rss-b017ff8d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ce41kHRX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ce41kHRX\n</a>\n</p>",
           "pub_date": "2026-01-12T00:00:00+08:00",
           "updated_at": "2026-01-12T00:00:00+08:00",
           "author": "",
@@ -289,6 +300,28 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Nautica WooCommerce",
+          "link": "https://g0f.cn/ios/testflight/rss-26a2d45c/",
+          "description": "<p>Status: Open</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Runes - Riftbound Companion",
+          "link": "https://g0f.cn/ios/testflight/rss-b900baad/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gTHEHMbw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gTHEHMbw\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Spectra - System Monitor",
           "link": "https://g0f.cn/ios/testflight/rss-2f678226/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SHDm9HrJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SHDm9HrJ\n</a>\n</p>",
@@ -300,9 +333,53 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "TROP",
+          "link": "https://g0f.cn/ios/testflight/rss-5ecbe59c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CgNuBDPB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CgNuBDPB\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "UTM Remote Virtual Machines",
+          "link": "https://g0f.cn/ios/testflight/rss-0b5f6d8c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mFlnyMv3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mFlnyMv3\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "UTM SE: Retro PC emulator",
+          "link": "https://g0f.cn/ios/testflight/rss-c6180ad7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/scqwW9gJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/scqwW9gJ\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Weeklet",
           "link": "https://g0f.cn/ios/testflight/rss-3eb5e1c6/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZefsqgEe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZefsqgEe\n</a>\n</p>",
+          "pub_date": "2026-01-12T00:00:00+08:00",
+          "updated_at": "2026-01-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "YummiGo: Social Food & Recipes",
+          "link": "https://g0f.cn/ios/testflight/rss-b6cdc3d1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2ZKDWsg4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2ZKDWsg4\n</a>\n</p>",
           "pub_date": "2026-01-12T00:00:00+08:00",
           "updated_at": "2026-01-12T00:00:00+08:00",
           "author": "",
@@ -8160,6 +8237,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "doomlingo",
+      "link": "https://g0f.cn/ios/testflight/rss-b017ff8d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ce41kHRX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ce41kHRX\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Haptix Studio",
       "link": "https://g0f.cn/ios/testflight/rss-2e67475b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HJn3mbb3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HJn3mbb3\n</a>\n</p>",
@@ -8248,6 +8336,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Nautica WooCommerce",
+      "link": "https://g0f.cn/ios/testflight/rss-26a2d45c/",
+      "description": "<p>Status: Open</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Runes - Riftbound Companion",
+      "link": "https://g0f.cn/ios/testflight/rss-b900baad/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gTHEHMbw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gTHEHMbw\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Spectra - System Monitor",
       "link": "https://g0f.cn/ios/testflight/rss-2f678226/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SHDm9HrJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SHDm9HrJ\n</a>\n</p>",
@@ -8259,9 +8369,53 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "TROP",
+      "link": "https://g0f.cn/ios/testflight/rss-5ecbe59c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CgNuBDPB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CgNuBDPB\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "UTM Remote Virtual Machines",
+      "link": "https://g0f.cn/ios/testflight/rss-0b5f6d8c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mFlnyMv3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mFlnyMv3\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "UTM SE: Retro PC emulator",
+      "link": "https://g0f.cn/ios/testflight/rss-c6180ad7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/scqwW9gJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/scqwW9gJ\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Weeklet",
       "link": "https://g0f.cn/ios/testflight/rss-3eb5e1c6/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZefsqgEe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZefsqgEe\n</a>\n</p>",
+      "pub_date": "2026-01-12T00:00:00+08:00",
+      "updated_at": "2026-01-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "YummiGo: Social Food & Recipes",
+      "link": "https://g0f.cn/ios/testflight/rss-b6cdc3d1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2ZKDWsg4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2ZKDWsg4\n</a>\n</p>",
       "pub_date": "2026-01-12T00:00:00+08:00",
       "updated_at": "2026-01-12T00:00:00+08:00",
       "author": "",
