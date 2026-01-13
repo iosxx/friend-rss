@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-13T10:04:21.634242+08:00",
+  "updated_at": "2026-01-13T14:42:14.503588+08:00",
   "total_sites": 6,
-  "total_posts": 741,
+  "total_posts": 748,
   "sites": [
     {
       "name": "LiuSheng",
@@ -167,6 +167,83 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Click Browser",
+          "link": "https://g0f.cn/ios/testflight/rss-e32ecb08/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qh5aQC9s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qh5aQC9s\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "gitbruv",
+          "link": "https://g0f.cn/ios/testflight/rss-65ee0e90/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mzuYx2Um\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mzuYx2Um\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Microsoft Excel",
+          "link": "https://g0f.cn/ios/testflight/rss-c185b721/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3lIiz1eZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3lIiz1eZ\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "NAVAI-AI Navigation Assistant",
+          "link": "https://g0f.cn/ios/testflight/rss-ba7a9abb/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9K2Deant\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9K2Deant\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Shadow PC",
+          "link": "https://g0f.cn/ios/testflight/rss-3ccbbd92/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PxpSW79P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PxpSW79P\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Sofra - Gel Beraber Olsun",
+          "link": "https://g0f.cn/ios/testflight/rss-bbab25fd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9Ank7cdX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9Ank7cdX\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "stashy",
+          "link": "https://g0f.cn/ios/testflight/rss-5bf455bd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KBYqHCuD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KBYqHCuD\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Avalon - MindStruct",
           "link": "https://g0f.cn/ios/testflight/rss-987b8353/",
@@ -8203,6 +8280,83 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Click Browser",
+      "link": "https://g0f.cn/ios/testflight/rss-e32ecb08/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qh5aQC9s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qh5aQC9s\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "gitbruv",
+      "link": "https://g0f.cn/ios/testflight/rss-65ee0e90/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mzuYx2Um\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mzuYx2Um\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Microsoft Excel",
+      "link": "https://g0f.cn/ios/testflight/rss-c185b721/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3lIiz1eZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3lIiz1eZ\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "NAVAI-AI Navigation Assistant",
+      "link": "https://g0f.cn/ios/testflight/rss-ba7a9abb/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9K2Deant\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9K2Deant\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Shadow PC",
+      "link": "https://g0f.cn/ios/testflight/rss-3ccbbd92/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PxpSW79P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PxpSW79P\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Sofra - Gel Beraber Olsun",
+      "link": "https://g0f.cn/ios/testflight/rss-bbab25fd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9Ank7cdX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9Ank7cdX\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "stashy",
+      "link": "https://g0f.cn/ios/testflight/rss-5bf455bd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KBYqHCuD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KBYqHCuD\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Avalon - MindStruct",
       "link": "https://g0f.cn/ios/testflight/rss-987b8353/",
