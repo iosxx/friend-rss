@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-13T20:59:08.565220+08:00",
+  "updated_at": "2026-01-14T02:38:01.350434+08:00",
   "total_sites": 6,
-  "total_posts": 750,
+  "total_posts": 754,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,6 +168,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Chronomizer: Custom Watchfaces",
+          "link": "https://g0f.cn/ios/testflight/rss-d7e89e2b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/m5xuQxCN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/m5xuQxCN\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Click Browser",
           "link": "https://g0f.cn/ios/testflight/rss-e32ecb08/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qh5aQC9s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qh5aQC9s\n</a>\n</p>",
@@ -190,9 +201,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Coupon Distributor",
+          "link": "https://g0f.cn/ios/testflight/rss-33bdb0df/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZPnsDprw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZPnsDprw\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "gitbruv",
           "link": "https://g0f.cn/ios/testflight/rss-65ee0e90/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mzuYx2Um\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mzuYx2Um\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Interactions Playground",
+          "link": "https://g0f.cn/ios/testflight/rss-8a9779b2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/W81B1UD2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/W81B1UD2\n</a>\n</p>",
           "pub_date": "2026-01-13T00:00:00+08:00",
           "updated_at": "2026-01-13T00:00:00+08:00",
           "author": "",
@@ -215,6 +248,17 @@
           "title": "NAVAI-AI Navigation Assistant",
           "link": "https://g0f.cn/ios/testflight/rss-ba7a9abb/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9K2Deant\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9K2Deant\n</a>\n</p>",
+          "pub_date": "2026-01-13T00:00:00+08:00",
+          "updated_at": "2026-01-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Orion Browser by Kagi",
+          "link": "https://g0f.cn/ios/testflight/rss-9cfe64b9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ezjp0k4z\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ezjp0k4z\n</a>\n</p>",
           "pub_date": "2026-01-13T00:00:00+08:00",
           "updated_at": "2026-01-13T00:00:00+08:00",
           "author": "",
@@ -8303,6 +8347,17 @@
   ],
   "all_posts": [
     {
+      "title": "Chronomizer: Custom Watchfaces",
+      "link": "https://g0f.cn/ios/testflight/rss-d7e89e2b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/m5xuQxCN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/m5xuQxCN\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Click Browser",
       "link": "https://g0f.cn/ios/testflight/rss-e32ecb08/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qh5aQC9s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qh5aQC9s\n</a>\n</p>",
@@ -8325,9 +8380,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Coupon Distributor",
+      "link": "https://g0f.cn/ios/testflight/rss-33bdb0df/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZPnsDprw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZPnsDprw\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "gitbruv",
       "link": "https://g0f.cn/ios/testflight/rss-65ee0e90/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mzuYx2Um\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mzuYx2Um\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Interactions Playground",
+      "link": "https://g0f.cn/ios/testflight/rss-8a9779b2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/W81B1UD2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/W81B1UD2\n</a>\n</p>",
       "pub_date": "2026-01-13T00:00:00+08:00",
       "updated_at": "2026-01-13T00:00:00+08:00",
       "author": "",
@@ -8350,6 +8427,17 @@
       "title": "NAVAI-AI Navigation Assistant",
       "link": "https://g0f.cn/ios/testflight/rss-ba7a9abb/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9K2Deant\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9K2Deant\n</a>\n</p>",
+      "pub_date": "2026-01-13T00:00:00+08:00",
+      "updated_at": "2026-01-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Orion Browser by Kagi",
+      "link": "https://g0f.cn/ios/testflight/rss-9cfe64b9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ezjp0k4z\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ezjp0k4z\n</a>\n</p>",
       "pub_date": "2026-01-13T00:00:00+08:00",
       "updated_at": "2026-01-13T00:00:00+08:00",
       "author": "",
