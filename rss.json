@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-01-14T20:58:54.345261+08:00",
+  "updated_at": "2026-01-15T02:40:37.465780+08:00",
   "total_sites": 6,
-  "total_posts": 765,
+  "total_posts": 769,
   "sites": [
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -179,6 +172,39 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Don't Snooze",
+          "link": "https://g0f.cn/ios/testflight/rss-5beab603/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cSZED8zj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cSZED8zj\n</a>\n</p>",
+          "pub_date": "2026-01-14T00:00:00+08:00",
+          "updated_at": "2026-01-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Elio - プライベートAIアシスタント",
+          "link": "https://g0f.cn/ios/testflight/rss-5b124a69/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Eb1TbTSq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Eb1TbTSq\n</a>\n</p>",
+          "pub_date": "2026-01-14T00:00:00+08:00",
+          "updated_at": "2026-01-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Grande Alert",
+          "link": "https://g0f.cn/ios/testflight/rss-52638cbf/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/51J6bmGb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/51J6bmGb\n</a>\n</p>",
+          "pub_date": "2026-01-14T00:00:00+08:00",
+          "updated_at": "2026-01-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Player Go TV",
           "link": "https://g0f.cn/ios/testflight/rss-dd186aa6/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cd8SFNDG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cd8SFNDG\n</a>\n</p>",
@@ -193,6 +219,17 @@
           "title": "RVFAX",
           "link": "https://g0f.cn/ios/testflight/rss-76dd5230/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Qj2uxsY2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Qj2uxsY2\n</a>\n</p>",
+          "pub_date": "2026-01-14T00:00:00+08:00",
+          "updated_at": "2026-01-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Silent Killer",
+          "link": "https://g0f.cn/ios/testflight/rss-33052df9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3DP415Bb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3DP415Bb\n</a>\n</p>",
           "pub_date": "2026-01-14T00:00:00+08:00",
           "updated_at": "2026-01-14T00:00:00+08:00",
           "author": "",
@@ -8464,6 +8501,13 @@
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
+    },
+    {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
     }
   ],
   "all_posts": [
@@ -8490,6 +8534,39 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Don't Snooze",
+      "link": "https://g0f.cn/ios/testflight/rss-5beab603/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cSZED8zj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cSZED8zj\n</a>\n</p>",
+      "pub_date": "2026-01-14T00:00:00+08:00",
+      "updated_at": "2026-01-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Elio - プライベートAIアシスタント",
+      "link": "https://g0f.cn/ios/testflight/rss-5b124a69/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Eb1TbTSq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Eb1TbTSq\n</a>\n</p>",
+      "pub_date": "2026-01-14T00:00:00+08:00",
+      "updated_at": "2026-01-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Grande Alert",
+      "link": "https://g0f.cn/ios/testflight/rss-52638cbf/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/51J6bmGb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/51J6bmGb\n</a>\n</p>",
+      "pub_date": "2026-01-14T00:00:00+08:00",
+      "updated_at": "2026-01-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Player Go TV",
       "link": "https://g0f.cn/ios/testflight/rss-dd186aa6/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cd8SFNDG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cd8SFNDG\n</a>\n</p>",
@@ -8504,6 +8581,17 @@
       "title": "RVFAX",
       "link": "https://g0f.cn/ios/testflight/rss-76dd5230/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Qj2uxsY2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Qj2uxsY2\n</a>\n</p>",
+      "pub_date": "2026-01-14T00:00:00+08:00",
+      "updated_at": "2026-01-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Silent Killer",
+      "link": "https://g0f.cn/ios/testflight/rss-33052df9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3DP415Bb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3DP415Bb\n</a>\n</p>",
       "pub_date": "2026-01-14T00:00:00+08:00",
       "updated_at": "2026-01-14T00:00:00+08:00",
       "author": "",
