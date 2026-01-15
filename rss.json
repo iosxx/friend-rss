@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-15T10:06:08.392065+08:00",
+  "updated_at": "2026-01-15T14:41:41.213643+08:00",
   "total_sites": 6,
-  "total_posts": 776,
+  "total_posts": 782,
   "sites": [
     {
       "name": "LiuSheng",
@@ -156,6 +156,72 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Black Star - A better way.",
+          "link": "https://g0f.cn/ios/testflight/rss-b0b77082/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wyj4keKZ#:~:text=Installing%20a%20beta%20iOS%20or,click%20%22View%20in%20TestFlight%22\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wyj4keKZ#:~:text=Installing%20a%20beta%20iOS%20or,click%20%22View%20in%20TestFlight%22\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Craftify for Minecraft",
+          "link": "https://g0f.cn/ios/testflight/rss-c81fae19/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tV1BEmH6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tV1BEmH6\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lekh AI",
+          "link": "https://g0f.cn/ios/testflight/rss-bad4ff6a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KHnEZ5wj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KHnEZ5wj\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pulse - keep your life on beat",
+          "link": "https://g0f.cn/ios/testflight/rss-7dac4ece/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JJBeYura\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JJBeYura\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "RustDesk Remote Desktop",
+          "link": "https://g0f.cn/ios/testflight/rss-b7ec4180/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KBG9EsZW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KBG9EsZW\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "smol - journal",
+          "link": "https://g0f.cn/ios/testflight/rss-aa2bd839/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p1RtSQ64\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p1RtSQ64\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Angle - Digested News",
           "link": "https://g0f.cn/ios/testflight/rss-e15681f9/",
@@ -8588,6 +8654,72 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Black Star - A better way.",
+      "link": "https://g0f.cn/ios/testflight/rss-b0b77082/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wyj4keKZ#:~:text=Installing%20a%20beta%20iOS%20or,click%20%22View%20in%20TestFlight%22\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wyj4keKZ#:~:text=Installing%20a%20beta%20iOS%20or,click%20%22View%20in%20TestFlight%22\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Craftify for Minecraft",
+      "link": "https://g0f.cn/ios/testflight/rss-c81fae19/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tV1BEmH6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tV1BEmH6\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lekh AI",
+      "link": "https://g0f.cn/ios/testflight/rss-bad4ff6a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KHnEZ5wj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KHnEZ5wj\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pulse - keep your life on beat",
+      "link": "https://g0f.cn/ios/testflight/rss-7dac4ece/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JJBeYura\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JJBeYura\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "RustDesk Remote Desktop",
+      "link": "https://g0f.cn/ios/testflight/rss-b7ec4180/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KBG9EsZW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KBG9EsZW\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "smol - journal",
+      "link": "https://g0f.cn/ios/testflight/rss-aa2bd839/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p1RtSQ64\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p1RtSQ64\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Angle - Digested News",
       "link": "https://g0f.cn/ios/testflight/rss-e15681f9/",
