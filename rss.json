@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-15T14:41:41.213643+08:00",
+  "updated_at": "2026-01-15T20:57:35.544554+08:00",
   "total_sites": 6,
-  "total_posts": 782,
+  "total_posts": 785,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,6 +168,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Bookmark - Reading Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-58037316/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Rse1GRgt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Rse1GRgt\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Craftify for Minecraft",
           "link": "https://g0f.cn/ios/testflight/rss-c81fae19/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tV1BEmH6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tV1BEmH6\n</a>\n</p>",
@@ -215,6 +226,28 @@
           "title": "smol - journal",
           "link": "https://g0f.cn/ios/testflight/rss-aa2bd839/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p1RtSQ64\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p1RtSQ64\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Taivel",
+          "link": "https://g0f.cn/ios/testflight/rss-bf197586/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KAXAU5rQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KAXAU5rQ\n</a>\n</p>",
+          "pub_date": "2026-01-15T00:00:00+08:00",
+          "updated_at": "2026-01-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "YourMeal: AI Calorie Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-34b762d5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/J9wDvqaU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/J9wDvqaU\n</a>\n</p>",
           "pub_date": "2026-01-15T00:00:00+08:00",
           "updated_at": "2026-01-15T00:00:00+08:00",
           "author": "",
@@ -8666,6 +8699,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Bookmark - Reading Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-58037316/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Rse1GRgt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Rse1GRgt\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Craftify for Minecraft",
       "link": "https://g0f.cn/ios/testflight/rss-c81fae19/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tV1BEmH6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tV1BEmH6\n</a>\n</p>",
@@ -8713,6 +8757,28 @@
       "title": "smol - journal",
       "link": "https://g0f.cn/ios/testflight/rss-aa2bd839/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p1RtSQ64\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p1RtSQ64\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Taivel",
+      "link": "https://g0f.cn/ios/testflight/rss-bf197586/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KAXAU5rQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KAXAU5rQ\n</a>\n</p>",
+      "pub_date": "2026-01-15T00:00:00+08:00",
+      "updated_at": "2026-01-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "YourMeal: AI Calorie Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-34b762d5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/J9wDvqaU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/J9wDvqaU\n</a>\n</p>",
       "pub_date": "2026-01-15T00:00:00+08:00",
       "updated_at": "2026-01-15T00:00:00+08:00",
       "author": "",
