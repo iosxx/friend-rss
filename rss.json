@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-17T10:02:07.256466+08:00",
+  "updated_at": "2026-01-17T14:38:03.053775+08:00",
   "total_sites": 6,
-  "total_posts": 807,
+  "total_posts": 815,
   "sites": [
     {
       "name": "LiuSheng",
@@ -156,6 +156,94 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "BibiGPT",
+          "link": "https://g0f.cn/ios/testflight/rss-781fd085/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Fy1J27Cv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Fy1J27Cv\n</a>\n</p>",
+          "pub_date": "2026-01-17T00:00:00+08:00",
+          "updated_at": "2026-01-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "FloHub",
+          "link": "https://g0f.cn/ios/testflight/rss-fe561906/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sb28cAZ7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sb28cAZ7\n</a>\n</p>",
+          "pub_date": "2026-01-17T00:00:00+08:00",
+          "updated_at": "2026-01-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "KuboRush",
+          "link": "https://g0f.cn/ios/testflight/rss-2bf2bea9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/N28QH5bx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/N28QH5bx\n</a>\n</p>",
+          "pub_date": "2026-01-17T00:00:00+08:00",
+          "updated_at": "2026-01-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Moon Player: AI-Enhanced 3D",
+          "link": "https://g0f.cn/ios/testflight/rss-aae737a8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vQBVKm3Q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vQBVKm3Q\n</a>\n</p>",
+          "pub_date": "2026-01-17T00:00:00+08:00",
+          "updated_at": "2026-01-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Padel Pointer",
+          "link": "https://g0f.cn/ios/testflight/rss-fa79a674/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/E2nP61Kv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/E2nP61Kv\n</a>\n</p>",
+          "pub_date": "2026-01-17T00:00:00+08:00",
+          "updated_at": "2026-01-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Think Tok - Tik Tok for Logic",
+          "link": "https://g0f.cn/ios/testflight/rss-6551c713/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Zer9sgYB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Zer9sgYB\n</a>\n</p>",
+          "pub_date": "2026-01-17T00:00:00+08:00",
+          "updated_at": "2026-01-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "VineWall",
+          "link": "https://g0f.cn/ios/testflight/rss-0e9776f2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sq1TTt6f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sq1TTt6f\n</a>\n</p>",
+          "pub_date": "2026-01-17T00:00:00+08:00",
+          "updated_at": "2026-01-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Zerocard",
+          "link": "https://g0f.cn/ios/testflight/rss-ad3b5902/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Bm7Pr72p\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Bm7Pr72p\n</a>\n</p>",
+          "pub_date": "2026-01-17T00:00:00+08:00",
+          "updated_at": "2026-01-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "AdGuard VPN – Unlimited & Fast",
           "link": "https://g0f.cn/ios/testflight/rss-80e7ed5a/",
@@ -8929,6 +9017,94 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "BibiGPT",
+      "link": "https://g0f.cn/ios/testflight/rss-781fd085/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Fy1J27Cv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Fy1J27Cv\n</a>\n</p>",
+      "pub_date": "2026-01-17T00:00:00+08:00",
+      "updated_at": "2026-01-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "FloHub",
+      "link": "https://g0f.cn/ios/testflight/rss-fe561906/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sb28cAZ7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sb28cAZ7\n</a>\n</p>",
+      "pub_date": "2026-01-17T00:00:00+08:00",
+      "updated_at": "2026-01-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "KuboRush",
+      "link": "https://g0f.cn/ios/testflight/rss-2bf2bea9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/N28QH5bx\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/N28QH5bx\n</a>\n</p>",
+      "pub_date": "2026-01-17T00:00:00+08:00",
+      "updated_at": "2026-01-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Moon Player: AI-Enhanced 3D",
+      "link": "https://g0f.cn/ios/testflight/rss-aae737a8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vQBVKm3Q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vQBVKm3Q\n</a>\n</p>",
+      "pub_date": "2026-01-17T00:00:00+08:00",
+      "updated_at": "2026-01-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Padel Pointer",
+      "link": "https://g0f.cn/ios/testflight/rss-fa79a674/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/E2nP61Kv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/E2nP61Kv\n</a>\n</p>",
+      "pub_date": "2026-01-17T00:00:00+08:00",
+      "updated_at": "2026-01-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Think Tok - Tik Tok for Logic",
+      "link": "https://g0f.cn/ios/testflight/rss-6551c713/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Zer9sgYB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Zer9sgYB\n</a>\n</p>",
+      "pub_date": "2026-01-17T00:00:00+08:00",
+      "updated_at": "2026-01-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "VineWall",
+      "link": "https://g0f.cn/ios/testflight/rss-0e9776f2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sq1TTt6f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sq1TTt6f\n</a>\n</p>",
+      "pub_date": "2026-01-17T00:00:00+08:00",
+      "updated_at": "2026-01-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Zerocard",
+      "link": "https://g0f.cn/ios/testflight/rss-ad3b5902/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Bm7Pr72p\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Bm7Pr72p\n</a>\n</p>",
+      "pub_date": "2026-01-17T00:00:00+08:00",
+      "updated_at": "2026-01-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "AdGuard VPN – Unlimited & Fast",
       "link": "https://g0f.cn/ios/testflight/rss-80e7ed5a/",
