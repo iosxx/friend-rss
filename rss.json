@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-18T10:21:52.040102+08:00",
+  "updated_at": "2026-01-18T14:38:37.002595+08:00",
   "total_sites": 6,
-  "total_posts": 825,
+  "total_posts": 828,
   "sites": [
     {
       "name": "LiuSheng",
@@ -156,6 +156,39 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "NekoSurf",
+          "link": "https://g0f.cn/ios/testflight/rss-57d45827/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ky5bRwMY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ky5bRwMY\n</a>\n</p>",
+          "pub_date": "2026-01-18T00:00:00+08:00",
+          "updated_at": "2026-01-18T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Nuvio - Content Manager",
+          "link": "https://g0f.cn/ios/testflight/rss-48417680/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/QkKMGRqp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/QkKMGRqp\n</a>\n</p>",
+          "pub_date": "2026-01-18T00:00:00+08:00",
+          "updated_at": "2026-01-18T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "PepCalc Pro",
+          "link": "https://g0f.cn/ios/testflight/rss-0c761ec7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RPa67VTt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RPa67VTt\n</a>\n</p>",
+          "pub_date": "2026-01-18T00:00:00+08:00",
+          "updated_at": "2026-01-18T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "抖音",
           "link": "https://g0f.cn/ios/testflight/rss-740396e5/",
@@ -9127,6 +9160,39 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "NekoSurf",
+      "link": "https://g0f.cn/ios/testflight/rss-57d45827/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ky5bRwMY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ky5bRwMY\n</a>\n</p>",
+      "pub_date": "2026-01-18T00:00:00+08:00",
+      "updated_at": "2026-01-18T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Nuvio - Content Manager",
+      "link": "https://g0f.cn/ios/testflight/rss-48417680/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/QkKMGRqp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/QkKMGRqp\n</a>\n</p>",
+      "pub_date": "2026-01-18T00:00:00+08:00",
+      "updated_at": "2026-01-18T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "PepCalc Pro",
+      "link": "https://g0f.cn/ios/testflight/rss-0c761ec7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RPa67VTt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RPa67VTt\n</a>\n</p>",
+      "pub_date": "2026-01-18T00:00:00+08:00",
+      "updated_at": "2026-01-18T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "亮瞎双眼的键盘",
       "link": "https://wang618.cn/liang-xia-shuang-yan-de-jian-pan.html",
