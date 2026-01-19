@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-19T10:19:23.074750+08:00",
+  "updated_at": "2026-01-19T14:48:15.511496+08:00",
   "total_sites": 6,
-  "total_posts": 836,
+  "total_posts": 841,
   "sites": [
     {
       "name": "LiuSheng",
@@ -156,6 +156,61 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Flex2Ride",
+          "link": "https://g0f.cn/ios/testflight/rss-b536f296/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t7WCd9Az\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t7WCd9Az\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Flex2Ride(Driver)",
+          "link": "https://g0f.cn/ios/testflight/rss-4b04e6fb/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WKS8bdhE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WKS8bdhE\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "LinxMemo: Family Contact Notes",
+          "link": "https://g0f.cn/ios/testflight/rss-b9904def/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9UVTzxtP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9UVTzxtP\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pinsdex",
+          "link": "https://g0f.cn/ios/testflight/rss-81901d39/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/MZKFZTdK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/MZKFZTdK\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "quassama",
+          "link": "https://g0f.cn/ios/testflight/rss-b39091f9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z77bghge\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z77bghge\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "ComicGlass",
           "link": "https://g0f.cn/ios/testflight/rss-fde89e92/",
@@ -9248,6 +9303,61 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Flex2Ride",
+      "link": "https://g0f.cn/ios/testflight/rss-b536f296/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t7WCd9Az\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t7WCd9Az\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Flex2Ride(Driver)",
+      "link": "https://g0f.cn/ios/testflight/rss-4b04e6fb/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WKS8bdhE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WKS8bdhE\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "LinxMemo: Family Contact Notes",
+      "link": "https://g0f.cn/ios/testflight/rss-b9904def/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9UVTzxtP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9UVTzxtP\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pinsdex",
+      "link": "https://g0f.cn/ios/testflight/rss-81901d39/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/MZKFZTdK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/MZKFZTdK\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "quassama",
+      "link": "https://g0f.cn/ios/testflight/rss-b39091f9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z77bghge\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z77bghge\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "ComicGlass",
       "link": "https://g0f.cn/ios/testflight/rss-fde89e92/",
