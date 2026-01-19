@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-19T14:48:15.511496+08:00",
+  "updated_at": "2026-01-19T21:02:18.690565+08:00",
   "total_sites": 6,
-  "total_posts": 841,
+  "total_posts": 845,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Bonvo.Ski - 3D Ski & Snowboard",
+          "link": "https://g0f.cn/ios/testflight/rss-c0edb40d/",
+          "description": "<p>#Bonvo\n.Ski - 3D Ski &amp; Snowboard\n<a href=\"https://testflight.apple.com/join/t1xT7SXk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t1xT7SXk\n</a>\nApple\nJoin the Bonvo.Ski - 3D Ski &amp; Snowboard beta\nAvailable on iOS</p>",
+          "pub_date": "2026-01-19T06:08:00+08:00",
+          "updated_at": "2026-01-19T06:08:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Flex2Ride",
           "link": "https://g0f.cn/ios/testflight/rss-b536f296/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t7WCd9Az\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t7WCd9Az\n</a>\n</p>",
@@ -201,9 +212,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Prologue Audiobook Player",
+          "link": "https://g0f.cn/ios/testflight/rss-a6b76504/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mmH46578\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mmH46578\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "quassama",
           "link": "https://g0f.cn/ios/testflight/rss-b39091f9/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z77bghge\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z77bghge\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SuperCat.AI",
+          "link": "https://g0f.cn/ios/testflight/rss-6c50602b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1YtJyxCN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1YtJyxCN\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Tubular Pro",
+          "link": "https://g0f.cn/ios/testflight/rss-86bc1015/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ppbZMyvV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ppbZMyvV\n</a>\n</p>",
           "pub_date": "2026-01-19T00:00:00+08:00",
           "updated_at": "2026-01-19T00:00:00+08:00",
           "author": "",
@@ -9304,6 +9348,17 @@
   ],
   "all_posts": [
     {
+      "title": "Bonvo.Ski - 3D Ski & Snowboard",
+      "link": "https://g0f.cn/ios/testflight/rss-c0edb40d/",
+      "description": "<p>#Bonvo\n.Ski - 3D Ski &amp; Snowboard\n<a href=\"https://testflight.apple.com/join/t1xT7SXk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t1xT7SXk\n</a>\nApple\nJoin the Bonvo.Ski - 3D Ski &amp; Snowboard beta\nAvailable on iOS</p>",
+      "pub_date": "2026-01-19T06:08:00+08:00",
+      "updated_at": "2026-01-19T06:08:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Flex2Ride",
       "link": "https://g0f.cn/ios/testflight/rss-b536f296/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t7WCd9Az\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t7WCd9Az\n</a>\n</p>",
@@ -9348,9 +9403,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Prologue Audiobook Player",
+      "link": "https://g0f.cn/ios/testflight/rss-a6b76504/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mmH46578\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mmH46578\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "quassama",
       "link": "https://g0f.cn/ios/testflight/rss-b39091f9/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z77bghge\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z77bghge\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SuperCat.AI",
+      "link": "https://g0f.cn/ios/testflight/rss-6c50602b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1YtJyxCN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1YtJyxCN\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Tubular Pro",
+      "link": "https://g0f.cn/ios/testflight/rss-86bc1015/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ppbZMyvV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ppbZMyvV\n</a>\n</p>",
       "pub_date": "2026-01-19T00:00:00+08:00",
       "updated_at": "2026-01-19T00:00:00+08:00",
       "author": "",
