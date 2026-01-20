@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-20T02:39:54.936548+08:00",
+  "updated_at": "2026-01-20T10:08:04.440104+08:00",
   "total_sites": 6,
-  "total_posts": 850,
+  "total_posts": 856,
   "sites": [
     {
       "name": "LiuSheng",
@@ -168,6 +168,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "ClashKing",
+          "link": "https://g0f.cn/ios/testflight/rss-28de456b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6Q8dfnMX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6Q8dfnMX\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Flex2Ride",
           "link": "https://g0f.cn/ios/testflight/rss-b536f296/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t7WCd9Az\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t7WCd9Az\n</a>\n</p>",
@@ -201,6 +212,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "KWO Health",
+          "link": "https://g0f.cn/ios/testflight/rss-63a92cd8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qcBc8enR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qcBc8enR\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "LinxMemo: Family Contact Notes",
           "link": "https://g0f.cn/ios/testflight/rss-b9904def/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9UVTzxtP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9UVTzxtP\n</a>\n</p>",
@@ -223,6 +245,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Mbuntu",
+          "link": "https://g0f.cn/ios/testflight/rss-a6d62101/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aDVXKCIm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aDVXKCIm\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Moshi: SSH & MOSH Terminal",
           "link": "https://g0f.cn/ios/testflight/rss-e8e0a94a/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yApyT263\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yApyT263\n</a>\n</p>",
@@ -237,6 +270,28 @@
           "title": "MyWalmart",
           "link": "https://g0f.cn/ios/testflight/rss-5fe0ff87/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bqo4smK7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bqo4smK7\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "On My Bingo Card",
+          "link": "https://g0f.cn/ios/testflight/rss-297a9b3d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wvuuKsd7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wvuuKsd7\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Overdue: another To do app",
+          "link": "https://g0f.cn/ios/testflight/rss-e3ac9268/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xZR12ufn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xZR12ufn\n</a>\n</p>",
           "pub_date": "2026-01-19T00:00:00+08:00",
           "updated_at": "2026-01-19T00:00:00+08:00",
           "author": "",
@@ -303,6 +358,17 @@
           "title": "Tubular Pro",
           "link": "https://g0f.cn/ios/testflight/rss-86bc1015/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ppbZMyvV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ppbZMyvV\n</a>\n</p>",
+          "pub_date": "2026-01-19T00:00:00+08:00",
+          "updated_at": "2026-01-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ZeoLink",
+          "link": "https://g0f.cn/ios/testflight/rss-bfdbe050/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/fpD2Qg6N\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fpD2Qg6N\n</a>\n</p>",
           "pub_date": "2026-01-19T00:00:00+08:00",
           "updated_at": "2026-01-19T00:00:00+08:00",
           "author": "",
@@ -9414,6 +9480,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "ClashKing",
+      "link": "https://g0f.cn/ios/testflight/rss-28de456b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6Q8dfnMX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6Q8dfnMX\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Flex2Ride",
       "link": "https://g0f.cn/ios/testflight/rss-b536f296/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t7WCd9Az\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t7WCd9Az\n</a>\n</p>",
@@ -9447,6 +9524,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "KWO Health",
+      "link": "https://g0f.cn/ios/testflight/rss-63a92cd8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qcBc8enR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qcBc8enR\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "LinxMemo: Family Contact Notes",
       "link": "https://g0f.cn/ios/testflight/rss-b9904def/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9UVTzxtP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9UVTzxtP\n</a>\n</p>",
@@ -9469,6 +9557,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Mbuntu",
+      "link": "https://g0f.cn/ios/testflight/rss-a6d62101/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aDVXKCIm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aDVXKCIm\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Moshi: SSH & MOSH Terminal",
       "link": "https://g0f.cn/ios/testflight/rss-e8e0a94a/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yApyT263\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yApyT263\n</a>\n</p>",
@@ -9483,6 +9582,28 @@
       "title": "MyWalmart",
       "link": "https://g0f.cn/ios/testflight/rss-5fe0ff87/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bqo4smK7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bqo4smK7\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "On My Bingo Card",
+      "link": "https://g0f.cn/ios/testflight/rss-297a9b3d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wvuuKsd7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wvuuKsd7\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Overdue: another To do app",
+      "link": "https://g0f.cn/ios/testflight/rss-e3ac9268/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xZR12ufn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xZR12ufn\n</a>\n</p>",
       "pub_date": "2026-01-19T00:00:00+08:00",
       "updated_at": "2026-01-19T00:00:00+08:00",
       "author": "",
@@ -9549,6 +9670,17 @@
       "title": "Tubular Pro",
       "link": "https://g0f.cn/ios/testflight/rss-86bc1015/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ppbZMyvV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ppbZMyvV\n</a>\n</p>",
+      "pub_date": "2026-01-19T00:00:00+08:00",
+      "updated_at": "2026-01-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ZeoLink",
+      "link": "https://g0f.cn/ios/testflight/rss-bfdbe050/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/fpD2Qg6N\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fpD2Qg6N\n</a>\n</p>",
       "pub_date": "2026-01-19T00:00:00+08:00",
       "updated_at": "2026-01-19T00:00:00+08:00",
       "author": "",
