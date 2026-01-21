@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-21T02:51:26.744403+08:00",
+  "updated_at": "2026-01-21T10:11:05.873336+08:00",
   "total_sites": 6,
-  "total_posts": 864,
+  "total_posts": 865,
   "sites": [
     {
       "name": "LiuSheng",
@@ -156,6 +156,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Bitcoin Stack Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-8cc8186a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q3r3ugQG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q3r3ugQG\n</a>\n</p>",
+          "pub_date": "2026-01-20T00:00:00+08:00",
+          "updated_at": "2026-01-20T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Quizzi - 1v1 Trivia Duels",
           "link": "https://g0f.cn/ios/testflight/rss-2600f383/",
@@ -9577,6 +9588,17 @@
       "site_name": "小十博客",
       "site_url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png"
+    },
+    {
+      "title": "Bitcoin Stack Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-8cc8186a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q3r3ugQG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q3r3ugQG\n</a>\n</p>",
+      "pub_date": "2026-01-20T00:00:00+08:00",
+      "updated_at": "2026-01-20T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
       "title": "Quizzi - 1v1 Trivia Duels",
