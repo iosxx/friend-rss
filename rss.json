@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-01-21T10:11:05.873336+08:00",
+  "updated_at": "2026-01-21T14:45:51.116730+08:00",
   "total_sites": 6,
-  "total_posts": 865,
+  "total_posts": 867,
   "sites": [
+    {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -129,26 +136,8 @@
           "site_name": "LiuSheng",
           "site_url": "https://blog.liushen.fun/",
           "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "Forgejo及其Action自部署简明教程",
-          "link": "https://blog.liushen.fun/posts/de5fc13c/",
-          "description": "前几天刚搭好了自己的 Forgejo 私有 Git 服务，之后出去玩了几天一直没动它。正好有朋友问起如何部署 Forgejo 及其 Actions 支持，发现网上相关资料不多。最近天气炎热，我也正宅在家，就抽空整理了这篇部署教程，希望能帮到有同样需求的你！",
-          "pub_date": "2025-07-25T14:00:21+08:00",
-          "updated_at": "2025-07-25T14:01:21+08:00",
-          "author": "",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
         }
       ]
-    },
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
     },
     {
       "name": "果粉圈",
@@ -156,6 +145,39 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "fastreadi",
+          "link": "https://g0f.cn/ios/testflight/rss-a478d2e3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z9BEttWa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z9BEttWa\n</a>\n</p>",
+          "pub_date": "2026-01-21T00:00:00+08:00",
+          "updated_at": "2026-01-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Shuttle",
+          "link": "https://g0f.cn/ios/testflight/rss-fe928ef9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/eHspBtH4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/eHspBtH4\n</a>\n</p>",
+          "pub_date": "2026-01-21T00:00:00+08:00",
+          "updated_at": "2026-01-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SUMMTUBE",
+          "link": "https://g0f.cn/ios/testflight/rss-ab0e3998/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dyqDQX5f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dyqDQX5f\n</a>\n</p>",
+          "pub_date": "2026-01-21T00:00:00+08:00",
+          "updated_at": "2026-01-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Bitcoin Stack Tracker",
           "link": "https://g0f.cn/ios/testflight/rss-8cc8186a/",
@@ -9567,6 +9589,39 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "fastreadi",
+      "link": "https://g0f.cn/ios/testflight/rss-a478d2e3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z9BEttWa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z9BEttWa\n</a>\n</p>",
+      "pub_date": "2026-01-21T00:00:00+08:00",
+      "updated_at": "2026-01-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Shuttle",
+      "link": "https://g0f.cn/ios/testflight/rss-fe928ef9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/eHspBtH4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/eHspBtH4\n</a>\n</p>",
+      "pub_date": "2026-01-21T00:00:00+08:00",
+      "updated_at": "2026-01-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SUMMTUBE",
+      "link": "https://g0f.cn/ios/testflight/rss-ab0e3998/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dyqDQX5f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dyqDQX5f\n</a>\n</p>",
+      "pub_date": "2026-01-21T00:00:00+08:00",
+      "updated_at": "2026-01-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "轴体上墙辣面收尾",
       "link": "https://wang618.cn/zhou-ti-shang-qiang-la-mian-shou-wei.html",
@@ -19066,17 +19121,6 @@
       "description": "西安近日酷热难耐，烈日灼心，仿佛空气都在冒烟。正巧父母的单位临时放假，我们一拍即合，决定说走就走，逃离城市的炙烤。目的地选在太白县，却并不止步于此，一路走走停停，穿越关中山地，探访沿途名山大川，在山林间寻一份盛夏里难得的清凉与宁静。",
       "pub_date": "2025-08-08T05:50:21+08:00",
       "updated_at": "2025-08-08T05:51:21+08:00",
-      "author": "",
-      "site_name": "LiuSheng",
-      "site_url": "https://blog.liushen.fun/",
-      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "Forgejo及其Action自部署简明教程",
-      "link": "https://blog.liushen.fun/posts/de5fc13c/",
-      "description": "前几天刚搭好了自己的 Forgejo 私有 Git 服务，之后出去玩了几天一直没动它。正好有朋友问起如何部署 Forgejo 及其 Actions 支持，发现网上相关资料不多。最近天气炎热，我也正宅在家，就抽空整理了这篇部署教程，希望能帮到有同样需求的你！",
-      "pub_date": "2025-07-25T14:00:21+08:00",
-      "updated_at": "2025-07-25T14:01:21+08:00",
       "author": "",
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
