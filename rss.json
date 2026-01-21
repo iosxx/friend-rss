@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-21T21:01:47.250962+08:00",
+  "updated_at": "2026-01-22T02:51:34.465888+08:00",
   "total_sites": 6,
-  "total_posts": 869,
+  "total_posts": 872,
   "sites": [
     {
       "name": "LiuSheng",
@@ -179,6 +179,28 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-73be3a57/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=7XJ-2TVK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=7XJ-2TVK\n</a>\n</p>",
+          "pub_date": "2026-01-21T00:00:00+08:00",
+          "updated_at": "2026-01-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ParkMe-IOS",
+          "link": "https://g0f.cn/ios/testflight/rss-4a49e6f2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/lWGBjx19\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/lWGBjx19\n</a>\n</p>",
+          "pub_date": "2026-01-21T00:00:00+08:00",
+          "updated_at": "2026-01-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Shuttle",
           "link": "https://g0f.cn/ios/testflight/rss-fe928ef9/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/eHspBtH4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/eHspBtH4\n</a>\n</p>",
@@ -193,6 +215,17 @@
           "title": "SUMMTUBE",
           "link": "https://g0f.cn/ios/testflight/rss-ab0e3998/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dyqDQX5f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dyqDQX5f\n</a>\n</p>",
+          "pub_date": "2026-01-21T00:00:00+08:00",
+          "updated_at": "2026-01-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "VLC media player",
+          "link": "https://g0f.cn/ios/testflight/rss-831eac69/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q6gm0qgr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q6gm0qgr\n</a>\n</p>",
           "pub_date": "2026-01-21T00:00:00+08:00",
           "updated_at": "2026-01-21T00:00:00+08:00",
           "author": "",
@@ -9656,6 +9689,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-73be3a57/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=7XJ-2TVK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=7XJ-2TVK\n</a>\n</p>",
+      "pub_date": "2026-01-21T00:00:00+08:00",
+      "updated_at": "2026-01-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ParkMe-IOS",
+      "link": "https://g0f.cn/ios/testflight/rss-4a49e6f2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/lWGBjx19\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/lWGBjx19\n</a>\n</p>",
+      "pub_date": "2026-01-21T00:00:00+08:00",
+      "updated_at": "2026-01-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Shuttle",
       "link": "https://g0f.cn/ios/testflight/rss-fe928ef9/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/eHspBtH4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/eHspBtH4\n</a>\n</p>",
@@ -9670,6 +9725,17 @@
       "title": "SUMMTUBE",
       "link": "https://g0f.cn/ios/testflight/rss-ab0e3998/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dyqDQX5f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dyqDQX5f\n</a>\n</p>",
+      "pub_date": "2026-01-21T00:00:00+08:00",
+      "updated_at": "2026-01-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "VLC media player",
+      "link": "https://g0f.cn/ios/testflight/rss-831eac69/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/q6gm0qgr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/q6gm0qgr\n</a>\n</p>",
       "pub_date": "2026-01-21T00:00:00+08:00",
       "updated_at": "2026-01-21T00:00:00+08:00",
       "author": "",
