@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-01-21T14:45:51.116730+08:00",
+  "updated_at": "2026-01-21T21:01:47.250962+08:00",
   "total_sites": 6,
-  "total_posts": 867,
+  "total_posts": 869,
   "sites": [
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -140,15 +133,44 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
+    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "CineSync Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-44c342ab/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KUxxVK9e\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KUxxVK9e\n</a>\n</p>",
+          "pub_date": "2026-01-21T00:00:00+08:00",
+          "updated_at": "2026-01-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "fastreadi",
           "link": "https://g0f.cn/ios/testflight/rss-a478d2e3/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z9BEttWa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z9BEttWa\n</a>\n</p>",
+          "pub_date": "2026-01-21T00:00:00+08:00",
+          "updated_at": "2026-01-21T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "FlashNews: Speed Reader",
+          "link": "https://g0f.cn/ios/testflight/rss-178f64ee/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/U6D3S25v\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/U6D3S25v\n</a>\n</p>",
           "pub_date": "2026-01-21T00:00:00+08:00",
           "updated_at": "2026-01-21T00:00:00+08:00",
           "author": "",
@@ -9366,6 +9388,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "两件数码好物",
+          "link": "https://wang618.cn/liang-jian-shu-ma-hao-wu.html",
+          "description": "<p>近日成功种草了两件好物：坚果 NUT65 套件与飞傲 DISC 音乐播放器。NUT65 采用三模双 GASKET 结构，铝壳经过 220 目阳极工艺处理，质感细腻；碰珠快拆设计方便拆装，还带拾音灯功能，氛围感拉满。为它搭配了芭比轴和锻碳键帽，手感扎实、声音清脆，打字体验非常出色！这把套件性价比很高，非常值得入手。飞傲 DISC 的圆形触控屏是我特别喜欢的设计，颜值高、操作直观。专门买来连接车机，上车蓝牙一连就能听歌，再也不用在车机里来回切换音乐 APP，体验顺滑很多。播放器支持蓝牙连接，双 CS43131 解码芯片在同价位里表现很亮眼，是入门播放器里的佼佼者。</p>\n<p><img alt=\"铝坨坨01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/18d01768989182.webp\" /></p>\n<p><img alt=\"铝坨坨02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/12531768989182.webp\" /></p>\n<p><img alt=\"铝坨坨03.webp\" src=\"https://wang618.cn/content/uploadfile/202601/85ef1768989182.webp\" /></p>\n<p><img alt=\"播放器01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/1caf1768989182.webp\" /></p>\n<p><img alt=\"播放器02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/cd5b1768989182.webp\" /></p>\n<p><img alt=\"播放器03.webp\" src=\"https://wang618.cn/content/uploadfile/202601/30691768989182.webp\" /></p>",
+          "pub_date": "2026-01-21T17:52:53+08:00",
+          "updated_at": "2026-01-21T17:52:53+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "轴体上墙辣面收尾",
           "link": "https://wang618.cn/zhou-ti-shang-qiang-la-mian-shou-wei.html",
           "description": "<p>今天折腾了一整天，终于把墙面的洞洞板装好了，把所有轴体都整整齐齐收纳上墙。买了 48 个罐子和 10 块洞洞板，忙完顺手煮了碗辣到怀疑人生的地狱拉面，爽！</p>\n<p><img alt=\"轴体上墙.webp\" src=\"https://wang618.cn/content/uploadfile/202601/6e751768921589.webp\" /><br />\n<img alt=\"地狱拉面.webp\" src=\"https://wang618.cn/content/uploadfile/202601/60311768921589.webp\" /></p>",
@@ -9573,26 +9606,48 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "杯暖映从容",
-          "link": "https://wang618.cn/bei-nuan-ying-cong-rong.html",
-          "description": "<p>今日收到  <a href=\"https://www.pipishe.com\">皮哥</a>  礼物保温杯，掌心裹着瓷面的温润，忽然读懂了这份礼物里的默契：原来时光早已悄悄铺垫，是时候让枸杞的清甜，浸润往后的晨昏，慢慢走、细细品，把每个平凡日子都酿成回甘。保温杯里的枸杞，从不是丈量岁月的刻度，而是与生活温柔和解的注脚。褪去了年少时的锋芒与莽撞，日子在时光的文火中，熬煮出几分从容自持，恰如中年男人藏在沉稳底色里的柔软，于三餐四季的烟火寻常中，默默守护着一份细水长流的安稳。</p>\n<p><img alt=\"皮哥的礼物1.webp\" src=\"https://wang618.cn/content/uploadfile/202511/23381764329942.webp\" /><br />\n<img alt=\"皮哥的礼物2.webp\" src=\"https://wang618.cn/content/uploadfile/202511/fec61764329942.webp\" /></p>",
-          "pub_date": "2025-11-28T19:19:55+08:00",
-          "updated_at": "2025-11-28T19:19:55+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
     {
+      "title": "两件数码好物",
+      "link": "https://wang618.cn/liang-jian-shu-ma-hao-wu.html",
+      "description": "<p>近日成功种草了两件好物：坚果 NUT65 套件与飞傲 DISC 音乐播放器。NUT65 采用三模双 GASKET 结构，铝壳经过 220 目阳极工艺处理，质感细腻；碰珠快拆设计方便拆装，还带拾音灯功能，氛围感拉满。为它搭配了芭比轴和锻碳键帽，手感扎实、声音清脆，打字体验非常出色！这把套件性价比很高，非常值得入手。飞傲 DISC 的圆形触控屏是我特别喜欢的设计，颜值高、操作直观。专门买来连接车机，上车蓝牙一连就能听歌，再也不用在车机里来回切换音乐 APP，体验顺滑很多。播放器支持蓝牙连接，双 CS43131 解码芯片在同价位里表现很亮眼，是入门播放器里的佼佼者。</p>\n<p><img alt=\"铝坨坨01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/18d01768989182.webp\" /></p>\n<p><img alt=\"铝坨坨02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/12531768989182.webp\" /></p>\n<p><img alt=\"铝坨坨03.webp\" src=\"https://wang618.cn/content/uploadfile/202601/85ef1768989182.webp\" /></p>\n<p><img alt=\"播放器01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/1caf1768989182.webp\" /></p>\n<p><img alt=\"播放器02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/cd5b1768989182.webp\" /></p>\n<p><img alt=\"播放器03.webp\" src=\"https://wang618.cn/content/uploadfile/202601/30691768989182.webp\" /></p>",
+      "pub_date": "2026-01-21T17:52:53+08:00",
+      "updated_at": "2026-01-21T17:52:53+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
+      "title": "CineSync Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-44c342ab/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KUxxVK9e\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KUxxVK9e\n</a>\n</p>",
+      "pub_date": "2026-01-21T00:00:00+08:00",
+      "updated_at": "2026-01-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "fastreadi",
       "link": "https://g0f.cn/ios/testflight/rss-a478d2e3/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z9BEttWa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z9BEttWa\n</a>\n</p>",
+      "pub_date": "2026-01-21T00:00:00+08:00",
+      "updated_at": "2026-01-21T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "FlashNews: Speed Reader",
+      "link": "https://g0f.cn/ios/testflight/rss-178f64ee/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/U6D3S25v\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/U6D3S25v\n</a>\n</p>",
       "pub_date": "2026-01-21T00:00:00+08:00",
       "updated_at": "2026-01-21T00:00:00+08:00",
       "author": "",
@@ -18498,17 +18553,6 @@
       "site_name": "小十博客",
       "site_url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png"
-    },
-    {
-      "title": "杯暖映从容",
-      "link": "https://wang618.cn/bei-nuan-ying-cong-rong.html",
-      "description": "<p>今日收到  <a href=\"https://www.pipishe.com\">皮哥</a>  礼物保温杯，掌心裹着瓷面的温润，忽然读懂了这份礼物里的默契：原来时光早已悄悄铺垫，是时候让枸杞的清甜，浸润往后的晨昏，慢慢走、细细品，把每个平凡日子都酿成回甘。保温杯里的枸杞，从不是丈量岁月的刻度，而是与生活温柔和解的注脚。褪去了年少时的锋芒与莽撞，日子在时光的文火中，熬煮出几分从容自持，恰如中年男人藏在沉稳底色里的柔软，于三餐四季的烟火寻常中，默默守护着一份细水长流的安稳。</p>\n<p><img alt=\"皮哥的礼物1.webp\" src=\"https://wang618.cn/content/uploadfile/202511/23381764329942.webp\" /><br />\n<img alt=\"皮哥的礼物2.webp\" src=\"https://wang618.cn/content/uploadfile/202511/fec61764329942.webp\" /></p>",
-      "pub_date": "2025-11-28T19:19:55+08:00",
-      "updated_at": "2025-11-28T19:19:55+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "我的第二篇文章",
