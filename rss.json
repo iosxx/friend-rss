@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-23T02:41:28.814045+08:00",
+  "updated_at": "2026-01-23T10:07:48.515888+08:00",
   "total_sites": 6,
-  "total_posts": 886,
+  "total_posts": 891,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,28 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "DuchessDraft",
+          "link": "https://g0f.cn/ios/testflight/rss-243aa800/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/4CRR7zR9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/4CRR7zR9\n</a>\n</p>",
+          "pub_date": "2026-01-22T00:00:00+08:00",
+          "updated_at": "2026-01-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Essential Popstar Life Sim",
+          "link": "https://g0f.cn/ios/testflight/rss-23c40ca4/",
+          "description": "<p>Status: Open</p>",
+          "pub_date": "2026-01-22T00:00:00+08:00",
+          "updated_at": "2026-01-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "hyperPad Visual Coding on iPad",
           "link": "https://g0f.cn/ios/testflight/rss-f0760450/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2tOMSM6Z\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2tOMSM6Z\n</a>\n</p>",
@@ -201,6 +223,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Monero One",
+          "link": "https://g0f.cn/ios/testflight/rss-0e135ba7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/D2MwtphY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/D2MwtphY\n</a>\n</p>",
+          "pub_date": "2026-01-22T00:00:00+08:00",
+          "updated_at": "2026-01-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Mytess",
           "link": "https://g0f.cn/ios/testflight/rss-bda8c147/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UmK4HvCV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UmK4HvCV\n</a>\n</p>",
@@ -212,9 +245,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Speed Read RSVP",
+          "link": "https://g0f.cn/ios/testflight/rss-9fa11d8b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wGRtm3Vt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wGRtm3Vt\n</a>\n</p>",
+          "pub_date": "2026-01-22T00:00:00+08:00",
+          "updated_at": "2026-01-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Windows App Mobile Beta",
           "link": "https://g0f.cn/ios/testflight/rss-b8484bff/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vkLIflUJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vkLIflUJ\n</a>\n</p>",
+          "pub_date": "2026-01-22T00:00:00+08:00",
+          "updated_at": "2026-01-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "うさぎ将棋",
+          "link": "https://g0f.cn/ios/testflight/rss-24e40163/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pC9QFKW8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pC9QFKW8\n</a>\n</p>",
           "pub_date": "2026-01-22T00:00:00+08:00",
           "updated_at": "2026-01-22T00:00:00+08:00",
           "author": "",
@@ -9799,6 +9854,28 @@
   ],
   "all_posts": [
     {
+      "title": "DuchessDraft",
+      "link": "https://g0f.cn/ios/testflight/rss-243aa800/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/4CRR7zR9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/4CRR7zR9\n</a>\n</p>",
+      "pub_date": "2026-01-22T00:00:00+08:00",
+      "updated_at": "2026-01-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Essential Popstar Life Sim",
+      "link": "https://g0f.cn/ios/testflight/rss-23c40ca4/",
+      "description": "<p>Status: Open</p>",
+      "pub_date": "2026-01-22T00:00:00+08:00",
+      "updated_at": "2026-01-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "hyperPad Visual Coding on iPad",
       "link": "https://g0f.cn/ios/testflight/rss-f0760450/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2tOMSM6Z\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2tOMSM6Z\n</a>\n</p>",
@@ -9854,6 +9931,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Monero One",
+      "link": "https://g0f.cn/ios/testflight/rss-0e135ba7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/D2MwtphY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/D2MwtphY\n</a>\n</p>",
+      "pub_date": "2026-01-22T00:00:00+08:00",
+      "updated_at": "2026-01-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Mytess",
       "link": "https://g0f.cn/ios/testflight/rss-bda8c147/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UmK4HvCV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UmK4HvCV\n</a>\n</p>",
@@ -9865,9 +9953,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Speed Read RSVP",
+      "link": "https://g0f.cn/ios/testflight/rss-9fa11d8b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wGRtm3Vt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wGRtm3Vt\n</a>\n</p>",
+      "pub_date": "2026-01-22T00:00:00+08:00",
+      "updated_at": "2026-01-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Windows App Mobile Beta",
       "link": "https://g0f.cn/ios/testflight/rss-b8484bff/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vkLIflUJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vkLIflUJ\n</a>\n</p>",
+      "pub_date": "2026-01-22T00:00:00+08:00",
+      "updated_at": "2026-01-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "うさぎ将棋",
+      "link": "https://g0f.cn/ios/testflight/rss-24e40163/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pC9QFKW8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pC9QFKW8\n</a>\n</p>",
       "pub_date": "2026-01-22T00:00:00+08:00",
       "updated_at": "2026-01-22T00:00:00+08:00",
       "author": "",
