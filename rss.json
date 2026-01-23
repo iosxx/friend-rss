@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-23T14:42:25.192033+08:00",
+  "updated_at": "2026-01-23T20:59:16.017367+08:00",
   "total_sites": 6,
-  "total_posts": 895,
+  "total_posts": 900,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Cichlid Log Pro",
+          "link": "https://g0f.cn/ios/testflight/rss-f86a2621/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8dCwNAR2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8dCwNAR2\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Flow · Casual Money Tracker",
           "link": "https://g0f.cn/ios/testflight/rss-58956970/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pumSW2WF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pumSW2WF\n</a>\n</p>",
@@ -168,6 +179,28 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "NAM Rewards",
+          "link": "https://g0f.cn/ios/testflight/rss-f9e682c1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nJkCd8UH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nJkCd8UH\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "NaturistaSocial",
+          "link": "https://g0f.cn/ios/testflight/rss-b1ca097f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RZAbUGBk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RZAbUGBk\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Steppers - Social Step Tracker",
           "link": "https://g0f.cn/ios/testflight/rss-233deb43/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Rams3t51\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Rams3t51\n</a>\n</p>",
@@ -182,6 +215,28 @@
           "title": "Taglo (783cca)",
           "link": "https://g0f.cn/ios/testflight/rss-890ec75e/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zcwGsUwZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zcwGsUwZ\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Wave.It",
+          "link": "https://g0f.cn/ios/testflight/rss-52821b1a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dtvQb4mA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dtvQb4mA\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "豆包输入法",
+          "link": "https://g0f.cn/ios/testflight/rss-cc8d2a8c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wUz8czx3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wUz8czx3\n</a>\n</p>",
           "pub_date": "2026-01-23T00:00:00+08:00",
           "updated_at": "2026-01-23T00:00:00+08:00",
           "author": "",
@@ -9898,6 +9953,17 @@
   ],
   "all_posts": [
     {
+      "title": "Cichlid Log Pro",
+      "link": "https://g0f.cn/ios/testflight/rss-f86a2621/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8dCwNAR2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8dCwNAR2\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Flow · Casual Money Tracker",
       "link": "https://g0f.cn/ios/testflight/rss-58956970/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pumSW2WF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pumSW2WF\n</a>\n</p>",
@@ -9920,6 +9986,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "NAM Rewards",
+      "link": "https://g0f.cn/ios/testflight/rss-f9e682c1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nJkCd8UH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nJkCd8UH\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "NaturistaSocial",
+      "link": "https://g0f.cn/ios/testflight/rss-b1ca097f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RZAbUGBk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RZAbUGBk\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Steppers - Social Step Tracker",
       "link": "https://g0f.cn/ios/testflight/rss-233deb43/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Rams3t51\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Rams3t51\n</a>\n</p>",
@@ -9934,6 +10022,28 @@
       "title": "Taglo (783cca)",
       "link": "https://g0f.cn/ios/testflight/rss-890ec75e/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zcwGsUwZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zcwGsUwZ\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Wave.It",
+      "link": "https://g0f.cn/ios/testflight/rss-52821b1a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dtvQb4mA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dtvQb4mA\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "豆包输入法",
+      "link": "https://g0f.cn/ios/testflight/rss-cc8d2a8c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wUz8czx3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wUz8czx3\n</a>\n</p>",
       "pub_date": "2026-01-23T00:00:00+08:00",
       "updated_at": "2026-01-23T00:00:00+08:00",
       "author": "",
