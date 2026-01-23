@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-23T10:07:48.515888+08:00",
+  "updated_at": "2026-01-23T14:42:25.192033+08:00",
   "total_sites": 6,
-  "total_posts": 891,
+  "total_posts": 895,
   "sites": [
     {
       "name": "LiuSheng",
@@ -145,6 +145,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Flow · Casual Money Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-58956970/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pumSW2WF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pumSW2WF\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-55096a69/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=5EP-XHGJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=5EP-XHGJ\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Steppers - Social Step Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-233deb43/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Rams3t51\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Rams3t51\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Taglo (783cca)",
+          "link": "https://g0f.cn/ios/testflight/rss-890ec75e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zcwGsUwZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zcwGsUwZ\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "DuchessDraft",
           "link": "https://g0f.cn/ios/testflight/rss-243aa800/",
@@ -9853,6 +9897,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Flow · Casual Money Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-58956970/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pumSW2WF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pumSW2WF\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-55096a69/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=5EP-XHGJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=5EP-XHGJ\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Steppers - Social Step Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-233deb43/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Rams3t51\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Rams3t51\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Taglo (783cca)",
+      "link": "https://g0f.cn/ios/testflight/rss-890ec75e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zcwGsUwZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zcwGsUwZ\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "DuchessDraft",
       "link": "https://g0f.cn/ios/testflight/rss-243aa800/",
