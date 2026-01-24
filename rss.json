@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-24T10:04:18.691399+08:00",
+  "updated_at": "2026-01-24T14:39:07.517287+08:00",
   "total_sites": 6,
-  "total_posts": 912,
+  "total_posts": 919,
   "sites": [
     {
       "name": "LiuSheng",
@@ -145,6 +145,83 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Cash App",
+          "link": "https://g0f.cn/ios/testflight/rss-213e0aed/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/An0RiOFF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/An0RiOFF\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Codea",
+          "link": "https://g0f.cn/ios/testflight/rss-597049a4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JTBukCEX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JTBukCEX\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ColorSlurp",
+          "link": "https://g0f.cn/ios/testflight/rss-0e7422c6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xxEw2j1X\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xxEw2j1X\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Nook Earn App",
+          "link": "https://g0f.cn/ios/testflight/rss-5d79605c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JNpnbmwB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JNpnbmwB\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Photo Library Export",
+          "link": "https://g0f.cn/ios/testflight/rss-ee2f9ac4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SBVQEq3n\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SBVQEq3n\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Prism for Minecraft",
+          "link": "https://g0f.cn/ios/testflight/rss-c2e71b34/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RGvf9X6b\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RGvf9X6b\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "虹ぶら",
+          "link": "https://g0f.cn/ios/testflight/rss-cdc82217/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/va3gyNyf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/va3gyNyf\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Call of Duty: Mobile Beta Test",
           "link": "https://g0f.cn/ios/testflight/rss-40f00987/",
@@ -10084,6 +10161,83 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Cash App",
+      "link": "https://g0f.cn/ios/testflight/rss-213e0aed/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/An0RiOFF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/An0RiOFF\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Codea",
+      "link": "https://g0f.cn/ios/testflight/rss-597049a4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JTBukCEX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JTBukCEX\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ColorSlurp",
+      "link": "https://g0f.cn/ios/testflight/rss-0e7422c6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xxEw2j1X\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xxEw2j1X\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Nook Earn App",
+      "link": "https://g0f.cn/ios/testflight/rss-5d79605c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JNpnbmwB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JNpnbmwB\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Photo Library Export",
+      "link": "https://g0f.cn/ios/testflight/rss-ee2f9ac4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SBVQEq3n\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SBVQEq3n\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Prism for Minecraft",
+      "link": "https://g0f.cn/ios/testflight/rss-c2e71b34/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RGvf9X6b\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RGvf9X6b\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "虹ぶら",
+      "link": "https://g0f.cn/ios/testflight/rss-cdc82217/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/va3gyNyf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/va3gyNyf\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "河南博物院两小时纪行：下篇",
       "link": "https://www.xiaoten.com/posts/2026/01/henan-museum-tour-part-3/",
