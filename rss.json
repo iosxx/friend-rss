@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-24T02:41:52.681597+08:00",
+  "updated_at": "2026-01-24T10:04:18.691399+08:00",
   "total_sites": 6,
-  "total_posts": 906,
+  "total_posts": 912,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Call of Duty: Mobile Beta Test",
+          "link": "https://g0f.cn/ios/testflight/rss-40f00987/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7M4pPKqb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7M4pPKqb\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Cichlid Log Pro",
           "link": "https://g0f.cn/ios/testflight/rss-f86a2621/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8dCwNAR2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8dCwNAR2\n</a>\n</p>",
@@ -157,9 +168,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Clash Mi",
+          "link": "https://g0f.cn/ios/testflight/rss-76be1a2c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bjHXktB3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bjHXktB3\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Daily Journal: Everlog",
           "link": "https://g0f.cn/ios/testflight/rss-d05f6efc/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2R5Lko3q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2R5Lko3q\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Deen Tracker: Prayer Times +",
+          "link": "https://g0f.cn/ios/testflight/rss-85195046/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pTR64vQ2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pTR64vQ2\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Expo Go",
+          "link": "https://g0f.cn/ios/testflight/rss-36d57cb9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GZJxxfUU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GZJxxfUU\n</a>\n</p>",
           "pub_date": "2026-01-23T00:00:00+08:00",
           "updated_at": "2026-01-23T00:00:00+08:00",
           "author": "",
@@ -223,9 +267,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Orni",
+          "link": "https://g0f.cn/ios/testflight/rss-ad2b032a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/4ZprApsP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/4ZprApsP\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Quorum Messenger",
           "link": "https://g0f.cn/ios/testflight/rss-0fe38aed/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PPzryGCU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PPzryGCU\n</a>\n</p>",
+          "pub_date": "2026-01-23T00:00:00+08:00",
+          "updated_at": "2026-01-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Revenue Stats - an Admob App",
+          "link": "https://g0f.cn/ios/testflight/rss-256b47ab/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mfZBjAYH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mfZBjAYH\n</a>\n</p>",
           "pub_date": "2026-01-23T00:00:00+08:00",
           "updated_at": "2026-01-23T00:00:00+08:00",
           "author": "",
@@ -10041,6 +10107,17 @@
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
+      "title": "Call of Duty: Mobile Beta Test",
+      "link": "https://g0f.cn/ios/testflight/rss-40f00987/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7M4pPKqb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7M4pPKqb\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Cichlid Log Pro",
       "link": "https://g0f.cn/ios/testflight/rss-f86a2621/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8dCwNAR2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8dCwNAR2\n</a>\n</p>",
@@ -10052,9 +10129,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Clash Mi",
+      "link": "https://g0f.cn/ios/testflight/rss-76be1a2c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bjHXktB3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bjHXktB3\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Daily Journal: Everlog",
       "link": "https://g0f.cn/ios/testflight/rss-d05f6efc/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2R5Lko3q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2R5Lko3q\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Deen Tracker: Prayer Times +",
+      "link": "https://g0f.cn/ios/testflight/rss-85195046/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pTR64vQ2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pTR64vQ2\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Expo Go",
+      "link": "https://g0f.cn/ios/testflight/rss-36d57cb9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GZJxxfUU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GZJxxfUU\n</a>\n</p>",
       "pub_date": "2026-01-23T00:00:00+08:00",
       "updated_at": "2026-01-23T00:00:00+08:00",
       "author": "",
@@ -10118,9 +10228,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Orni",
+      "link": "https://g0f.cn/ios/testflight/rss-ad2b032a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/4ZprApsP\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/4ZprApsP\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Quorum Messenger",
       "link": "https://g0f.cn/ios/testflight/rss-0fe38aed/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PPzryGCU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PPzryGCU\n</a>\n</p>",
+      "pub_date": "2026-01-23T00:00:00+08:00",
+      "updated_at": "2026-01-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Revenue Stats - an Admob App",
+      "link": "https://g0f.cn/ios/testflight/rss-256b47ab/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mfZBjAYH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mfZBjAYH\n</a>\n</p>",
       "pub_date": "2026-01-23T00:00:00+08:00",
       "updated_at": "2026-01-23T00:00:00+08:00",
       "author": "",
