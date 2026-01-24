@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-24T20:52:26.898078+08:00",
+  "updated_at": "2026-01-25T02:37:09.000278+08:00",
   "total_sites": 6,
-  "total_posts": 923,
+  "total_posts": 927,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Batti App",
+          "link": "https://g0f.cn/ios/testflight/rss-c8003aa7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/h86KaGNs\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/h86KaGNs\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Cash App",
           "link": "https://g0f.cn/ios/testflight/rss-213e0aed/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/An0RiOFF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/An0RiOFF\n</a>\n</p>",
@@ -171,6 +182,17 @@
           "title": "ColorSlurp",
           "link": "https://g0f.cn/ios/testflight/rss-0e7422c6/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xxEw2j1X\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xxEw2j1X\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Dharma Wellness App",
+          "link": "https://g0f.cn/ios/testflight/rss-6974127e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jJ13qerG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jJ13qerG\n</a>\n</p>",
           "pub_date": "2026-01-24T00:00:00+08:00",
           "updated_at": "2026-01-24T00:00:00+08:00",
           "author": "",
@@ -234,6 +256,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "PVstats Pro",
+          "link": "https://g0f.cn/ios/testflight/rss-97829a71/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UGB9BkV1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UGB9BkV1\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "SpookyDoge",
           "link": "https://g0f.cn/ios/testflight/rss-861b88a0/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VmVcPpGk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VmVcPpGk\n</a>\n</p>",
@@ -248,6 +281,17 @@
           "title": "StarPlayrX",
           "link": "https://g0f.cn/ios/testflight/rss-dc390db1/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ecz0xXvf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ecz0xXvf\n</a>\n</p>",
+          "pub_date": "2026-01-24T00:00:00+08:00",
+          "updated_at": "2026-01-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Valeo - Evolved Money",
+          "link": "https://g0f.cn/ios/testflight/rss-a482b566/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XDwZBTZ8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XDwZBTZ8\n</a>\n</p>",
           "pub_date": "2026-01-24T00:00:00+08:00",
           "updated_at": "2026-01-24T00:00:00+08:00",
           "author": "",
@@ -10206,6 +10250,17 @@
   ],
   "all_posts": [
     {
+      "title": "Batti App",
+      "link": "https://g0f.cn/ios/testflight/rss-c8003aa7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/h86KaGNs\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/h86KaGNs\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Cash App",
       "link": "https://g0f.cn/ios/testflight/rss-213e0aed/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/An0RiOFF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/An0RiOFF\n</a>\n</p>",
@@ -10231,6 +10286,17 @@
       "title": "ColorSlurp",
       "link": "https://g0f.cn/ios/testflight/rss-0e7422c6/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xxEw2j1X\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xxEw2j1X\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Dharma Wellness App",
+      "link": "https://g0f.cn/ios/testflight/rss-6974127e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jJ13qerG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jJ13qerG\n</a>\n</p>",
       "pub_date": "2026-01-24T00:00:00+08:00",
       "updated_at": "2026-01-24T00:00:00+08:00",
       "author": "",
@@ -10294,6 +10360,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "PVstats Pro",
+      "link": "https://g0f.cn/ios/testflight/rss-97829a71/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UGB9BkV1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UGB9BkV1\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "SpookyDoge",
       "link": "https://g0f.cn/ios/testflight/rss-861b88a0/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VmVcPpGk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VmVcPpGk\n</a>\n</p>",
@@ -10308,6 +10385,17 @@
       "title": "StarPlayrX",
       "link": "https://g0f.cn/ios/testflight/rss-dc390db1/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ecz0xXvf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ecz0xXvf\n</a>\n</p>",
+      "pub_date": "2026-01-24T00:00:00+08:00",
+      "updated_at": "2026-01-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Valeo - Evolved Money",
+      "link": "https://g0f.cn/ios/testflight/rss-a482b566/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XDwZBTZ8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XDwZBTZ8\n</a>\n</p>",
       "pub_date": "2026-01-24T00:00:00+08:00",
       "updated_at": "2026-01-24T00:00:00+08:00",
       "author": "",
