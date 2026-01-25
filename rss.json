@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-25T20:54:09.816238+08:00",
+  "updated_at": "2026-01-26T02:37:15.762375+08:00",
   "total_sites": 6,
-  "total_posts": 935,
+  "total_posts": 936,
   "sites": [
     {
       "name": "LiuSheng",
@@ -183,6 +183,17 @@
           "title": "IG Mobile",
           "link": "https://g0f.cn/ios/testflight/rss-3e13f76c/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YirpiDN2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YirpiDN2\n</a>\n</p>",
+          "pub_date": "2026-01-25T00:00:00+08:00",
+          "updated_at": "2026-01-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-0af4a089/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=2U8-XZST\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=2U8-XZST\n</a>\n</p>",
           "pub_date": "2026-01-25T00:00:00+08:00",
           "updated_at": "2026-01-25T00:00:00+08:00",
           "author": "",
@@ -10386,6 +10397,17 @@
       "title": "IG Mobile",
       "link": "https://g0f.cn/ios/testflight/rss-3e13f76c/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YirpiDN2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YirpiDN2\n</a>\n</p>",
+      "pub_date": "2026-01-25T00:00:00+08:00",
+      "updated_at": "2026-01-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-0af4a089/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=2U8-XZST\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=2U8-XZST\n</a>\n</p>",
       "pub_date": "2026-01-25T00:00:00+08:00",
       "updated_at": "2026-01-25T00:00:00+08:00",
       "author": "",
