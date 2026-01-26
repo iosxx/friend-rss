@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-26T02:37:15.762375+08:00",
+  "updated_at": "2026-01-26T10:24:25.920136+08:00",
   "total_sites": 6,
-  "total_posts": 936,
+  "total_posts": 939,
   "sites": [
     {
       "name": "LiuSheng",
@@ -180,6 +180,28 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Compound Interest NS",
+          "link": "https://g0f.cn/ios/testflight/rss-03e7395d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2ATu7V64\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2ATu7V64\n</a>\n</p>",
+          "pub_date": "2026-01-25T00:00:00+08:00",
+          "updated_at": "2026-01-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DiaBLE",
+          "link": "https://g0f.cn/ios/testflight/rss-33b42129/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/s4vTFYpC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/s4vTFYpC\n</a>\n</p>",
+          "pub_date": "2026-01-25T00:00:00+08:00",
+          "updated_at": "2026-01-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "IG Mobile",
           "link": "https://g0f.cn/ios/testflight/rss-3e13f76c/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YirpiDN2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YirpiDN2\n</a>\n</p>",
@@ -205,6 +227,17 @@
           "title": "Muslimin",
           "link": "https://g0f.cn/ios/testflight/rss-876cdd6b/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gWJWjjdQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gWJWjjdQ\n</a>\n</p>",
+          "pub_date": "2026-01-25T00:00:00+08:00",
+          "updated_at": "2026-01-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SageVox",
+          "link": "https://g0f.cn/ios/testflight/rss-361f230a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Rk6M2NHR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Rk6M2NHR\n</a>\n</p>",
           "pub_date": "2026-01-25T00:00:00+08:00",
           "updated_at": "2026-01-25T00:00:00+08:00",
           "author": "",
@@ -10394,6 +10427,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Compound Interest NS",
+      "link": "https://g0f.cn/ios/testflight/rss-03e7395d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2ATu7V64\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2ATu7V64\n</a>\n</p>",
+      "pub_date": "2026-01-25T00:00:00+08:00",
+      "updated_at": "2026-01-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DiaBLE",
+      "link": "https://g0f.cn/ios/testflight/rss-33b42129/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/s4vTFYpC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/s4vTFYpC\n</a>\n</p>",
+      "pub_date": "2026-01-25T00:00:00+08:00",
+      "updated_at": "2026-01-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "IG Mobile",
       "link": "https://g0f.cn/ios/testflight/rss-3e13f76c/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YirpiDN2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YirpiDN2\n</a>\n</p>",
@@ -10419,6 +10474,17 @@
       "title": "Muslimin",
       "link": "https://g0f.cn/ios/testflight/rss-876cdd6b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gWJWjjdQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gWJWjjdQ\n</a>\n</p>",
+      "pub_date": "2026-01-25T00:00:00+08:00",
+      "updated_at": "2026-01-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SageVox",
+      "link": "https://g0f.cn/ios/testflight/rss-361f230a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Rk6M2NHR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Rk6M2NHR\n</a>\n</p>",
       "pub_date": "2026-01-25T00:00:00+08:00",
       "updated_at": "2026-01-25T00:00:00+08:00",
       "author": "",
