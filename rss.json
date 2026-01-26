@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-26T21:00:41.895883+08:00",
+  "updated_at": "2026-01-27T02:44:18.598651+08:00",
   "total_sites": 6,
-  "total_posts": 946,
+  "total_posts": 952,
   "sites": [
     {
       "name": "LiuSheng",
@@ -191,6 +191,50 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Compass - AI thinking partner",
+          "link": "https://g0f.cn/ios/testflight/rss-8c94b36a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zCVctEub\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zCVctEub\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Early Entry",
+          "link": "https://g0f.cn/ios/testflight/rss-cbea1d06/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6U1a2uNa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6U1a2uNa\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Fleeker",
+          "link": "https://g0f.cn/ios/testflight/rss-76101f85/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yh7qu8nJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yh7qu8nJ\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Infomaniak Mail",
+          "link": "https://g0f.cn/ios/testflight/rss-3325638e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t8dXx60N\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t8dXx60N\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "JustSay AI",
           "link": "https://g0f.cn/ios/testflight/rss-cce73525/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCpm2UEa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCpm2UEa\n</a>\n</p>",
@@ -213,6 +257,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "MenubarX - Floating Browser",
+          "link": "https://g0f.cn/ios/testflight/rss-b468db3c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Tqr03a4h\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Tqr03a4h\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "OldOS 16",
           "link": "https://g0f.cn/ios/testflight/rss-1ca96a2b/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1CU9rpC7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1CU9rpC7\n</a>\n</p>",
@@ -227,6 +282,17 @@
           "title": "OpenVision",
           "link": "https://g0f.cn/ios/testflight/rss-47163c5d/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sc7xqKnq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sc7xqKnq\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Reading List: Book Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-38b14c90/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kBS5mVao\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kBS5mVao\n</a>\n</p>",
           "pub_date": "2026-01-26T00:00:00+08:00",
           "updated_at": "2026-01-26T00:00:00+08:00",
           "author": "",
@@ -10515,6 +10581,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Compass - AI thinking partner",
+      "link": "https://g0f.cn/ios/testflight/rss-8c94b36a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zCVctEub\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zCVctEub\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Early Entry",
+      "link": "https://g0f.cn/ios/testflight/rss-cbea1d06/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6U1a2uNa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6U1a2uNa\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Fleeker",
+      "link": "https://g0f.cn/ios/testflight/rss-76101f85/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yh7qu8nJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yh7qu8nJ\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Infomaniak Mail",
+      "link": "https://g0f.cn/ios/testflight/rss-3325638e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t8dXx60N\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t8dXx60N\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "JustSay AI",
       "link": "https://g0f.cn/ios/testflight/rss-cce73525/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCpm2UEa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCpm2UEa\n</a>\n</p>",
@@ -10537,6 +10647,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "MenubarX - Floating Browser",
+      "link": "https://g0f.cn/ios/testflight/rss-b468db3c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Tqr03a4h\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Tqr03a4h\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "OldOS 16",
       "link": "https://g0f.cn/ios/testflight/rss-1ca96a2b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1CU9rpC7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1CU9rpC7\n</a>\n</p>",
@@ -10551,6 +10672,17 @@
       "title": "OpenVision",
       "link": "https://g0f.cn/ios/testflight/rss-47163c5d/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sc7xqKnq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sc7xqKnq\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Reading List: Book Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-38b14c90/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kBS5mVao\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kBS5mVao\n</a>\n</p>",
       "pub_date": "2026-01-26T00:00:00+08:00",
       "updated_at": "2026-01-26T00:00:00+08:00",
       "author": "",
