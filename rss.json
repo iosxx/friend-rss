@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-26T10:24:25.920136+08:00",
+  "updated_at": "2026-01-26T14:46:52.136063+08:00",
   "total_sites": 6,
-  "total_posts": 939,
+  "total_posts": 943,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Budget Buddy - Smart Finance",
+          "link": "https://g0f.cn/ios/testflight/rss-e8179b91/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NChajKrS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NChajKrS\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "JustSay AI",
+          "link": "https://g0f.cn/ios/testflight/rss-cce73525/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCpm2UEa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCpm2UEa\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "OldOS 16",
+          "link": "https://g0f.cn/ios/testflight/rss-1ca96a2b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1CU9rpC7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1CU9rpC7\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "OpenVision",
+          "link": "https://g0f.cn/ios/testflight/rss-47163c5d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sc7xqKnq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sc7xqKnq\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "ASIAIR",
           "link": "https://g0f.cn/ios/testflight/rss-3d2fe928/",
@@ -10382,6 +10426,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Budget Buddy - Smart Finance",
+      "link": "https://g0f.cn/ios/testflight/rss-e8179b91/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NChajKrS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NChajKrS\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "JustSay AI",
+      "link": "https://g0f.cn/ios/testflight/rss-cce73525/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCpm2UEa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCpm2UEa\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "OldOS 16",
+      "link": "https://g0f.cn/ios/testflight/rss-1ca96a2b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1CU9rpC7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1CU9rpC7\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "OpenVision",
+      "link": "https://g0f.cn/ios/testflight/rss-47163c5d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sc7xqKnq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sc7xqKnq\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "这把排位打的爽",
       "link": "https://wang618.cn/zhe-ba-pai-wei-da-de-shuang.html",
