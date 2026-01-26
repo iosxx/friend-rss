@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-26T14:46:52.136063+08:00",
+  "updated_at": "2026-01-26T21:00:41.895883+08:00",
   "total_sites": 6,
-  "total_posts": 943,
+  "total_posts": 946,
   "sites": [
     {
       "name": "LiuSheng",
@@ -158,6 +158,28 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Baskit - Shopping List",
+          "link": "https://g0f.cn/ios/testflight/rss-bce0cb4f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p47txUDn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p47txUDn\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "BlipPay",
+          "link": "https://g0f.cn/ios/testflight/rss-fa817aa6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Pz35T6yS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Pz35T6yS\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Budget Buddy - Smart Finance",
           "link": "https://g0f.cn/ios/testflight/rss-e8179b91/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NChajKrS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NChajKrS\n</a>\n</p>",
@@ -172,6 +194,17 @@
           "title": "JustSay AI",
           "link": "https://g0f.cn/ios/testflight/rss-cce73525/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCpm2UEa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCpm2UEa\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lumvo – Study in the U.S.",
+          "link": "https://g0f.cn/ios/testflight/rss-59d9d749/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/s3u3h8HH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/s3u3h8HH\n</a>\n</p>",
           "pub_date": "2026-01-26T00:00:00+08:00",
           "updated_at": "2026-01-26T00:00:00+08:00",
           "author": "",
@@ -9791,6 +9824,17 @@
       "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
         {
+          "title": "快来领取你的“免费”域名！",
+          "link": "https://blog.lichenghao.cn/article/uqxdi8kwbypw",
+          "description": "这个开源项目：FreeDomain，由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。",
+          "pub_date": "2026-01-26T14:29:48+08:00",
+          "updated_at": "2026-01-26T14:29:48+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
           "title": "断更了一段时间，因为在家当“月嫂”~",
           "link": "https://blog.lichenghao.cn/article/94pz3do3m0y4",
           "description": "断更了一段时间，因为在家全职带娃一个多月。",
@@ -9884,17 +9928,6 @@
           "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
           "pub_date": "2025-09-03T15:34:53+08:00",
           "updated_at": "2025-09-03T15:34:53+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
-          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
-          "description": "新婚买房",
-          "pub_date": "2025-09-02T15:28:33+08:00",
-          "updated_at": "2025-09-02T15:28:33+08:00",
           "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
           "site_name": "故事的程序猿",
           "site_url": "https://blog.lichenghao.cn/",
@@ -10203,6 +10236,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "地又震矣",
+          "link": "https://wang618.cn/de-you-zhen-yi.html",
+          "description": "<p>甘肃这几年冬季频发地震。吊灯晃动明显，手机地震预警也在疯狂报警，着实让人受惊不小。</p>\n<p><img alt=\"地震01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/b50a1769423778.webp\" /><br />\n<img alt=\"地震02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/67ab1769423777.webp\" /></p>",
+          "pub_date": "2026-01-26T18:32:46+08:00",
+          "updated_at": "2026-01-26T18:32:46+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "这把排位打的爽",
           "link": "https://wang618.cn/zhe-ba-pai-wei-da-de-shuang.html",
           "description": "<p>这把排位打得太轻松，对面操作充满童真，让我毫无压力地达成了 25 连杀，顺手把核弹也整了出来！</p>\n<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E8%BF%99%E6%8A%8A%E6%8E%92%E4%BD%8D%E6%89%93%E7%9A%84%E7%88%BD.mp4?sign=SjmGF-FX-ccfPe8yt1RCD9xsLIBbYQZbVW5-py1jZOM=:0\"></video>",
@@ -10410,22 +10454,55 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "Next.js 高危漏洞",
-          "link": "https://wang618.cn/nextjs-gao-wei-lou-dong.html",
-          "description": "<p>近期特定版本的 Next.js 存在严重安全漏洞，使用 Umami、Lobechat、Dify 等开源项目的朋友抓紧升级，攻击者仅发送一条恶意请求就可在你的服务器上执行恶意代码。<br />\n漏洞信息参考：<a href=\"https://avd.aliyun.com/detail?id=AVD-2025-66478\">https://avd.aliyun.com/detail?id=AVD-2025-66478</a><br />\n恶意IP黑名单：<a href=\"https://wang618.cn/iphmd.html\">https://wang618.cn/iphmd.html</a></p>",
-          "pub_date": "2025-12-06T18:29:56+08:00",
-          "updated_at": "2025-12-06T18:29:56+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
+    {
+      "title": "地又震矣",
+      "link": "https://wang618.cn/de-you-zhen-yi.html",
+      "description": "<p>甘肃这几年冬季频发地震。吊灯晃动明显，手机地震预警也在疯狂报警，着实让人受惊不小。</p>\n<p><img alt=\"地震01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/b50a1769423778.webp\" /><br />\n<img alt=\"地震02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/67ab1769423777.webp\" /></p>",
+      "pub_date": "2026-01-26T18:32:46+08:00",
+      "updated_at": "2026-01-26T18:32:46+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
+      "title": "快来领取你的“免费”域名！",
+      "link": "https://blog.lichenghao.cn/article/uqxdi8kwbypw",
+      "description": "这个开源项目：FreeDomain，由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。",
+      "pub_date": "2026-01-26T14:29:48+08:00",
+      "updated_at": "2026-01-26T14:29:48+08:00",
+      "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+      "site_name": "故事的程序猿",
+      "site_url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
+      "title": "Baskit - Shopping List",
+      "link": "https://g0f.cn/ios/testflight/rss-bce0cb4f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p47txUDn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p47txUDn\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "BlipPay",
+      "link": "https://g0f.cn/ios/testflight/rss-fa817aa6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Pz35T6yS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Pz35T6yS\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Budget Buddy - Smart Finance",
       "link": "https://g0f.cn/ios/testflight/rss-e8179b91/",
@@ -10441,6 +10518,17 @@
       "title": "JustSay AI",
       "link": "https://g0f.cn/ios/testflight/rss-cce73525/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VCpm2UEa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VCpm2UEa\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lumvo – Study in the U.S.",
+      "link": "https://g0f.cn/ios/testflight/rss-59d9d749/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/s3u3h8HH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/s3u3h8HH\n</a>\n</p>",
       "pub_date": "2026-01-26T00:00:00+08:00",
       "updated_at": "2026-01-26T00:00:00+08:00",
       "author": "",
@@ -19491,17 +19579,6 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
-      "title": "Next.js 高危漏洞",
-      "link": "https://wang618.cn/nextjs-gao-wei-lou-dong.html",
-      "description": "<p>近期特定版本的 Next.js 存在严重安全漏洞，使用 Umami、Lobechat、Dify 等开源项目的朋友抓紧升级，攻击者仅发送一条恶意请求就可在你的服务器上执行恶意代码。<br />\n漏洞信息参考：<a href=\"https://avd.aliyun.com/detail?id=AVD-2025-66478\">https://avd.aliyun.com/detail?id=AVD-2025-66478</a><br />\n恶意IP黑名单：<a href=\"https://wang618.cn/iphmd.html\">https://wang618.cn/iphmd.html</a></p>",
-      "pub_date": "2025-12-06T18:29:56+08:00",
-      "updated_at": "2025-12-06T18:29:56+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-    },
-    {
       "title": "推友自荐 支持多源和云盘的音乐播放器：",
       "link": "https://g0f.cn/ios/testflight/rss-4d54924f/",
       "description": "<p>#推友自荐\n支持多源和云盘的音乐播放器：\n<a href=\"https://testflight.apple.com/join/3EasG6Uv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3EasG6Uv\n</a>\nApple\nJoin the Musical beta\nAvailable on iOS</p>",
@@ -20750,17 +20827,6 @@
       "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
       "pub_date": "2025-09-03T15:34:53+08:00",
       "updated_at": "2025-09-03T15:34:53+08:00",
-      "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-      "site_name": "故事的程序猿",
-      "site_url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg"
-    },
-    {
-      "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
-      "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
-      "description": "新婚买房",
-      "pub_date": "2025-09-02T15:28:33+08:00",
-      "updated_at": "2025-09-02T15:28:33+08:00",
       "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
       "site_name": "故事的程序猿",
       "site_url": "https://blog.lichenghao.cn/",
