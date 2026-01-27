@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-27T02:44:18.598651+08:00",
+  "updated_at": "2026-01-27T10:20:55.608525+08:00",
   "total_sites": 6,
-  "total_posts": 952,
+  "total_posts": 954,
   "sites": [
     {
       "name": "LiuSheng",
@@ -158,6 +158,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Archimedes Editor",
+          "link": "https://g0f.cn/ios/testflight/rss-ba19e0b8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/fN2pFYhp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fN2pFYhp\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Baskit - Shopping List",
           "link": "https://g0f.cn/ios/testflight/rss-bce0cb4f/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p47txUDn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p47txUDn\n</a>\n</p>",
@@ -293,6 +304,17 @@
           "title": "Reading List: Book Tracker",
           "link": "https://g0f.cn/ios/testflight/rss-38b14c90/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kBS5mVao\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kBS5mVao\n</a>\n</p>",
+          "pub_date": "2026-01-26T00:00:00+08:00",
+          "updated_at": "2026-01-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Vukosi",
+          "link": "https://g0f.cn/ios/testflight/rss-62483d24/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/me61tj4g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/me61tj4g\n</a>\n</p>",
           "pub_date": "2026-01-26T00:00:00+08:00",
           "updated_at": "2026-01-26T00:00:00+08:00",
           "author": "",
@@ -10548,6 +10570,17 @@
       "avatar": "https://blog.lichenghao.cn/avatar.svg"
     },
     {
+      "title": "Archimedes Editor",
+      "link": "https://g0f.cn/ios/testflight/rss-ba19e0b8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/fN2pFYhp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fN2pFYhp\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Baskit - Shopping List",
       "link": "https://g0f.cn/ios/testflight/rss-bce0cb4f/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/p47txUDn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/p47txUDn\n</a>\n</p>",
@@ -10683,6 +10716,17 @@
       "title": "Reading List: Book Tracker",
       "link": "https://g0f.cn/ios/testflight/rss-38b14c90/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kBS5mVao\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kBS5mVao\n</a>\n</p>",
+      "pub_date": "2026-01-26T00:00:00+08:00",
+      "updated_at": "2026-01-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Vukosi",
+      "link": "https://g0f.cn/ios/testflight/rss-62483d24/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/me61tj4g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/me61tj4g\n</a>\n</p>",
       "pub_date": "2026-01-26T00:00:00+08:00",
       "updated_at": "2026-01-26T00:00:00+08:00",
       "author": "",
