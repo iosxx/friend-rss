@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-28T21:02:46.428452+08:00",
+  "updated_at": "2026-01-29T02:44:55.815150+08:00",
   "total_sites": 6,
-  "total_posts": 973,
+  "total_posts": 977,
   "sites": [
     {
       "name": "木木木木木",
@@ -180,6 +180,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Costify: Expense Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-71f3d738/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UvHmC4fF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UvHmC4fF\n</a>\n</p>",
+          "pub_date": "2026-01-28T00:00:00+08:00",
+          "updated_at": "2026-01-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Gravitas Dream",
           "link": "https://g0f.cn/ios/testflight/rss-a2a464d9/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GA1AGeek\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GA1AGeek\n</a>\n</p>",
@@ -194,6 +205,39 @@
           "title": "Mahjong Slide",
           "link": "https://g0f.cn/ios/testflight/rss-93895665/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VyJUUpgD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VyJUUpgD\n</a>\n</p>",
+          "pub_date": "2026-01-28T00:00:00+08:00",
+          "updated_at": "2026-01-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Stoky AI",
+          "link": "https://g0f.cn/ios/testflight/rss-ff222a16/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pPJjjEZY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pPJjjEZY\n</a>\n</p>",
+          "pub_date": "2026-01-28T00:00:00+08:00",
+          "updated_at": "2026-01-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Teleprompter App - Autokue",
+          "link": "https://g0f.cn/ios/testflight/rss-575c237f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aNDVCz8D\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aNDVCz8D\n</a>\n</p>",
+          "pub_date": "2026-01-28T00:00:00+08:00",
+          "updated_at": "2026-01-28T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Tourna: Local Guides & Tours",
+          "link": "https://g0f.cn/ios/testflight/rss-219eb669/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nHJ6JjPQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nHJ6JjPQ\n</a>\n</p>",
           "pub_date": "2026-01-28T00:00:00+08:00",
           "updated_at": "2026-01-28T00:00:00+08:00",
           "author": "",
@@ -10779,6 +10823,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Costify: Expense Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-71f3d738/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UvHmC4fF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UvHmC4fF\n</a>\n</p>",
+      "pub_date": "2026-01-28T00:00:00+08:00",
+      "updated_at": "2026-01-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Gravitas Dream",
       "link": "https://g0f.cn/ios/testflight/rss-a2a464d9/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GA1AGeek\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GA1AGeek\n</a>\n</p>",
@@ -10793,6 +10848,39 @@
       "title": "Mahjong Slide",
       "link": "https://g0f.cn/ios/testflight/rss-93895665/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VyJUUpgD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VyJUUpgD\n</a>\n</p>",
+      "pub_date": "2026-01-28T00:00:00+08:00",
+      "updated_at": "2026-01-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Stoky AI",
+      "link": "https://g0f.cn/ios/testflight/rss-ff222a16/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pPJjjEZY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pPJjjEZY\n</a>\n</p>",
+      "pub_date": "2026-01-28T00:00:00+08:00",
+      "updated_at": "2026-01-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Teleprompter App - Autokue",
+      "link": "https://g0f.cn/ios/testflight/rss-575c237f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aNDVCz8D\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aNDVCz8D\n</a>\n</p>",
+      "pub_date": "2026-01-28T00:00:00+08:00",
+      "updated_at": "2026-01-28T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Tourna: Local Guides & Tours",
+      "link": "https://g0f.cn/ios/testflight/rss-219eb669/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nHJ6JjPQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nHJ6JjPQ\n</a>\n</p>",
       "pub_date": "2026-01-28T00:00:00+08:00",
       "updated_at": "2026-01-28T00:00:00+08:00",
       "author": "",
