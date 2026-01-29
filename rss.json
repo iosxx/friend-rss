@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-29T21:09:52.362042+08:00",
+  "updated_at": "2026-01-30T02:56:11.645317+08:00",
   "total_sites": 6,
-  "total_posts": 987,
+  "total_posts": 992,
   "sites": [
     {
       "name": "LiuSheng",
@@ -159,6 +159,17 @@
       "posts": [
         {
           "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-7b910857/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=6BA-BIYZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=6BA-BIYZ\n</a>\n</p>",
+          "pub_date": "2026-01-29T00:00:00+08:00",
+          "updated_at": "2026-01-29T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume - Build Influence",
           "link": "https://g0f.cn/ios/testflight/rss-90801057/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4PH-BLTW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4PH-BLTW\n</a>\n</p>",
           "pub_date": "2026-01-29T00:00:00+08:00",
@@ -180,9 +191,53 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Lume - Build Influence",
+          "link": "https://g0f.cn/ios/testflight/rss-f22274ae/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=GA3-PHBN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=GA3-PHBN\n</a>\n</p>",
+          "pub_date": "2026-01-29T00:00:00+08:00",
+          "updated_at": "2026-01-29T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "OneWeekFocus - 时间记录与节奏可视化",
+          "link": "https://g0f.cn/ios/testflight/rss-d6fc68a4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nj2tUB4s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nj2tUB4s\n</a>\n</p>",
+          "pub_date": "2026-01-29T00:00:00+08:00",
+          "updated_at": "2026-01-29T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SchrittFuerSchritt",
+          "link": "https://g0f.cn/ios/testflight/rss-aa824564/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WZ16jq2V\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WZ16jq2V\n</a>\n</p>",
+          "pub_date": "2026-01-29T00:00:00+08:00",
+          "updated_at": "2026-01-29T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Today: Trading Made Social",
           "link": "https://g0f.cn/ios/testflight/rss-656bb199/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t1tScCfd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t1tScCfd\n</a>\n</p>",
+          "pub_date": "2026-01-29T00:00:00+08:00",
+          "updated_at": "2026-01-29T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Transporta'm",
+          "link": "https://g0f.cn/ios/testflight/rss-34bade42/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Des4dQTY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Des4dQTY\n</a>\n</p>",
           "pub_date": "2026-01-29T00:00:00+08:00",
           "updated_at": "2026-01-29T00:00:00+08:00",
           "author": "",
@@ -10912,6 +10967,17 @@
   "all_posts": [
     {
       "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-7b910857/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=6BA-BIYZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=6BA-BIYZ\n</a>\n</p>",
+      "pub_date": "2026-01-29T00:00:00+08:00",
+      "updated_at": "2026-01-29T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume - Build Influence",
       "link": "https://g0f.cn/ios/testflight/rss-90801057/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4PH-BLTW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4PH-BLTW\n</a>\n</p>",
       "pub_date": "2026-01-29T00:00:00+08:00",
@@ -10933,9 +10999,53 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Lume - Build Influence",
+      "link": "https://g0f.cn/ios/testflight/rss-f22274ae/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=GA3-PHBN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=GA3-PHBN\n</a>\n</p>",
+      "pub_date": "2026-01-29T00:00:00+08:00",
+      "updated_at": "2026-01-29T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "OneWeekFocus - 时间记录与节奏可视化",
+      "link": "https://g0f.cn/ios/testflight/rss-d6fc68a4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nj2tUB4s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nj2tUB4s\n</a>\n</p>",
+      "pub_date": "2026-01-29T00:00:00+08:00",
+      "updated_at": "2026-01-29T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SchrittFuerSchritt",
+      "link": "https://g0f.cn/ios/testflight/rss-aa824564/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WZ16jq2V\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WZ16jq2V\n</a>\n</p>",
+      "pub_date": "2026-01-29T00:00:00+08:00",
+      "updated_at": "2026-01-29T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Today: Trading Made Social",
       "link": "https://g0f.cn/ios/testflight/rss-656bb199/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t1tScCfd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t1tScCfd\n</a>\n</p>",
+      "pub_date": "2026-01-29T00:00:00+08:00",
+      "updated_at": "2026-01-29T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Transporta'm",
+      "link": "https://g0f.cn/ios/testflight/rss-34bade42/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Des4dQTY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Des4dQTY\n</a>\n</p>",
       "pub_date": "2026-01-29T00:00:00+08:00",
       "updated_at": "2026-01-29T00:00:00+08:00",
       "author": "",
