@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-30T10:32:53.673967+08:00",
+  "updated_at": "2026-01-30T14:58:34.100672+08:00",
   "total_sites": 6,
-  "total_posts": 999,
+  "total_posts": 1002,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,39 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "CZR",
+          "link": "https://g0f.cn/ios/testflight/rss-4271b38d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wXwyNrKy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wXwyNrKy\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "mosie around",
+          "link": "https://g0f.cn/ios/testflight/rss-92048fac/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bgpBZraD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bgpBZraD\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Strnger",
+          "link": "https://g0f.cn/ios/testflight/rss-c3e1af74/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nUDESUbp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nUDESUbp\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Bookmarks AI: Video Scan",
           "link": "https://g0f.cn/ios/testflight/rss-b84a1383/",
@@ -11042,6 +11075,39 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "CZR",
+      "link": "https://g0f.cn/ios/testflight/rss-4271b38d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wXwyNrKy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wXwyNrKy\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "mosie around",
+      "link": "https://g0f.cn/ios/testflight/rss-92048fac/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bgpBZraD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bgpBZraD\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Strnger",
+      "link": "https://g0f.cn/ios/testflight/rss-c3e1af74/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nUDESUbp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nUDESUbp\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Bookmarks AI: Video Scan",
       "link": "https://g0f.cn/ios/testflight/rss-b84a1383/",
