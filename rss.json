@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-30T21:08:19.268007+08:00",
+  "updated_at": "2026-01-31T02:52:50.165336+08:00",
   "total_sites": 6,
-  "total_posts": 1005,
+  "total_posts": 1011,
   "sites": [
     {
       "name": "LiuSheng",
@@ -158,9 +158,53 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Affinity Designer 2 iPad Beta",
+          "link": "https://g0f.cn/ios/testflight/rss-044f0e1c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/g1ygf6P7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/g1ygf6P7\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Ca听风",
+          "link": "https://g0f.cn/ios/testflight/rss-98218259/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pwanvCkY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pwanvCkY\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Code App",
+          "link": "https://g0f.cn/ios/testflight/rss-38c34f39/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EgZ8sE2P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EgZ8sE2P\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "CZR",
           "link": "https://g0f.cn/ios/testflight/rss-4271b38d/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wXwyNrKy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wXwyNrKy\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ListenNow+",
+          "link": "https://g0f.cn/ios/testflight/rss-957e7571/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1Zl3Z4GG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1Zl3Z4GG\n</a>\n</p>",
           "pub_date": "2026-01-30T00:00:00+08:00",
           "updated_at": "2026-01-30T00:00:00+08:00",
           "author": "",
@@ -202,9 +246,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Pablo - AI Voice Chat",
+          "link": "https://g0f.cn/ios/testflight/rss-194ded9f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/raZGq35o\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/raZGq35o\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Strnger",
           "link": "https://g0f.cn/ios/testflight/rss-c3e1af74/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nUDESUbp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nUDESUbp\n</a>\n</p>",
+          "pub_date": "2026-01-30T00:00:00+08:00",
+          "updated_at": "2026-01-30T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "STT Animation",
+          "link": "https://g0f.cn/ios/testflight/rss-ca1189d8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YdefqF22\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YdefqF22\n</a>\n</p>",
           "pub_date": "2026-01-30T00:00:00+08:00",
           "updated_at": "2026-01-30T00:00:00+08:00",
           "author": "",
@@ -11109,9 +11175,53 @@
   ],
   "all_posts": [
     {
+      "title": "Affinity Designer 2 iPad Beta",
+      "link": "https://g0f.cn/ios/testflight/rss-044f0e1c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/g1ygf6P7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/g1ygf6P7\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Ca听风",
+      "link": "https://g0f.cn/ios/testflight/rss-98218259/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pwanvCkY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pwanvCkY\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Code App",
+      "link": "https://g0f.cn/ios/testflight/rss-38c34f39/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EgZ8sE2P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EgZ8sE2P\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "CZR",
       "link": "https://g0f.cn/ios/testflight/rss-4271b38d/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/wXwyNrKy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wXwyNrKy\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ListenNow+",
+      "link": "https://g0f.cn/ios/testflight/rss-957e7571/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1Zl3Z4GG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1Zl3Z4GG\n</a>\n</p>",
       "pub_date": "2026-01-30T00:00:00+08:00",
       "updated_at": "2026-01-30T00:00:00+08:00",
       "author": "",
@@ -11153,9 +11263,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Pablo - AI Voice Chat",
+      "link": "https://g0f.cn/ios/testflight/rss-194ded9f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/raZGq35o\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/raZGq35o\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Strnger",
       "link": "https://g0f.cn/ios/testflight/rss-c3e1af74/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nUDESUbp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nUDESUbp\n</a>\n</p>",
+      "pub_date": "2026-01-30T00:00:00+08:00",
+      "updated_at": "2026-01-30T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "STT Animation",
+      "link": "https://g0f.cn/ios/testflight/rss-ca1189d8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YdefqF22\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YdefqF22\n</a>\n</p>",
       "pub_date": "2026-01-30T00:00:00+08:00",
       "updated_at": "2026-01-30T00:00:00+08:00",
       "author": "",
