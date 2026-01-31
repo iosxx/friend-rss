@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-01-31T10:28:33.396452+08:00",
+  "updated_at": "2026-01-31T14:48:54.949481+08:00",
   "total_sites": 6,
-  "total_posts": 1024,
+  "total_posts": 1033,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,105 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Aerofly FS Global",
+          "link": "https://g0f.cn/ios/testflight/rss-6687545d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/O2K1t3YG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/O2K1t3YG\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "BTC Forecast",
+          "link": "https://g0f.cn/ios/testflight/rss-538b0886/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZdABVksV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZdABVksV\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Ghostcoin",
+          "link": "https://g0f.cn/ios/testflight/rss-6ec0cf2d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YGpRHZgf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YGpRHZgf\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "iSocialize Social Commerce",
+          "link": "https://g0f.cn/ios/testflight/rss-1e73cfad/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WQnDR1X8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WQnDR1X8\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "iSocialize Social Commerce",
+          "link": "https://g0f.cn/ios/testflight/rss-9c0e89af/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/93FtWrsv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/93FtWrsv\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "It Plays Music",
+          "link": "https://g0f.cn/ios/testflight/rss-0a8dc969/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/K83G1ZoS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/K83G1ZoS\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pocket Informant",
+          "link": "https://g0f.cn/ios/testflight/rss-67f107f8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/h1WB27ar\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/h1WB27ar\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Turf - Live Sports Predictions",
+          "link": "https://g0f.cn/ios/testflight/rss-b2ae8ec9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gX71AjfV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gX71AjfV\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "即梦AI - 抖音旗下AI图片和视频工具",
+          "link": "https://g0f.cn/ios/testflight/rss-ba658b6a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pt9UssJq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pt9UssJq\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "UTM Virtual Machines",
           "link": "https://g0f.cn/ios/testflight/rss-954d46cf/",
@@ -11317,6 +11416,105 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Aerofly FS Global",
+      "link": "https://g0f.cn/ios/testflight/rss-6687545d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/O2K1t3YG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/O2K1t3YG\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "BTC Forecast",
+      "link": "https://g0f.cn/ios/testflight/rss-538b0886/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZdABVksV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZdABVksV\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Ghostcoin",
+      "link": "https://g0f.cn/ios/testflight/rss-6ec0cf2d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/YGpRHZgf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/YGpRHZgf\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "iSocialize Social Commerce",
+      "link": "https://g0f.cn/ios/testflight/rss-1e73cfad/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WQnDR1X8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WQnDR1X8\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "iSocialize Social Commerce",
+      "link": "https://g0f.cn/ios/testflight/rss-9c0e89af/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/93FtWrsv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/93FtWrsv\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "It Plays Music",
+      "link": "https://g0f.cn/ios/testflight/rss-0a8dc969/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/K83G1ZoS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/K83G1ZoS\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pocket Informant",
+      "link": "https://g0f.cn/ios/testflight/rss-67f107f8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/h1WB27ar\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/h1WB27ar\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Turf - Live Sports Predictions",
+      "link": "https://g0f.cn/ios/testflight/rss-b2ae8ec9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gX71AjfV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gX71AjfV\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "即梦AI - 抖音旗下AI图片和视频工具",
+      "link": "https://g0f.cn/ios/testflight/rss-ba658b6a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pt9UssJq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pt9UssJq\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "UTM Virtual Machines",
       "link": "https://g0f.cn/ios/testflight/rss-954d46cf/",
