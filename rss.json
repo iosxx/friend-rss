@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-01T10:53:29.343983+08:00",
+  "updated_at": "2026-02-01T14:57:30.818717+08:00",
   "total_sites": 6,
-  "total_posts": 1040,
+  "total_posts": 1044,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Kitsune for MyAnimeList",
+          "link": "https://g0f.cn/ios/testflight/rss-d7b1f725/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PgrnyTFZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PgrnyTFZ\n</a>\n</p>",
+          "pub_date": "2026-02-01T00:00:00+08:00",
+          "updated_at": "2026-02-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Microsoft Outlook",
+          "link": "https://g0f.cn/ios/testflight/rss-75636ab9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/AhS6fRDK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/AhS6fRDK\n</a>\n</p>",
+          "pub_date": "2026-02-01T00:00:00+08:00",
+          "updated_at": "2026-02-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "NoUrge: Quit Porn Addiction",
+          "link": "https://g0f.cn/ios/testflight/rss-a8cee026/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gpH6a8At\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gpH6a8At\n</a>\n</p>",
+          "pub_date": "2026-02-01T00:00:00+08:00",
+          "updated_at": "2026-02-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "TravelTracker Beta",
+          "link": "https://g0f.cn/ios/testflight/rss-2ebb9123/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UDzzeGjK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UDzzeGjK\n</a>\n</p>",
+          "pub_date": "2026-02-01T00:00:00+08:00",
+          "updated_at": "2026-02-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Aerofly FS Global",
           "link": "https://g0f.cn/ios/testflight/rss-6687545d/",
@@ -11493,6 +11537,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Kitsune for MyAnimeList",
+      "link": "https://g0f.cn/ios/testflight/rss-d7b1f725/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PgrnyTFZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PgrnyTFZ\n</a>\n</p>",
+      "pub_date": "2026-02-01T00:00:00+08:00",
+      "updated_at": "2026-02-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Microsoft Outlook",
+      "link": "https://g0f.cn/ios/testflight/rss-75636ab9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/AhS6fRDK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/AhS6fRDK\n</a>\n</p>",
+      "pub_date": "2026-02-01T00:00:00+08:00",
+      "updated_at": "2026-02-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "NoUrge: Quit Porn Addiction",
+      "link": "https://g0f.cn/ios/testflight/rss-a8cee026/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gpH6a8At\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gpH6a8At\n</a>\n</p>",
+      "pub_date": "2026-02-01T00:00:00+08:00",
+      "updated_at": "2026-02-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "TravelTracker Beta",
+      "link": "https://g0f.cn/ios/testflight/rss-2ebb9123/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UDzzeGjK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UDzzeGjK\n</a>\n</p>",
+      "pub_date": "2026-02-01T00:00:00+08:00",
+      "updated_at": "2026-02-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Aerofly FS Global",
       "link": "https://g0f.cn/ios/testflight/rss-6687545d/",
