@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-01T02:40:30.242770+08:00",
+  "updated_at": "2026-02-01T10:53:29.343983+08:00",
   "total_sites": 6,
-  "total_posts": 1039,
+  "total_posts": 1040,
   "sites": [
     {
       "name": "LiuSheng",
@@ -282,6 +282,17 @@
           "title": "PCalc",
           "link": "https://g0f.cn/ios/testflight/rss-6487d62c/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qCCdSLT1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qCCdSLT1\n</a>\n</p>",
+          "pub_date": "2026-01-31T00:00:00+08:00",
+          "updated_at": "2026-01-31T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "PicoVPN",
+          "link": "https://g0f.cn/ios/testflight/rss-801bb068/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ptyJqfbh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ptyJqfbh\n</a>\n</p>",
           "pub_date": "2026-01-31T00:00:00+08:00",
           "updated_at": "2026-01-31T00:00:00+08:00",
           "author": "",
@@ -11607,6 +11618,17 @@
       "title": "PCalc",
       "link": "https://g0f.cn/ios/testflight/rss-6487d62c/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qCCdSLT1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qCCdSLT1\n</a>\n</p>",
+      "pub_date": "2026-01-31T00:00:00+08:00",
+      "updated_at": "2026-01-31T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "PicoVPN",
+      "link": "https://g0f.cn/ios/testflight/rss-801bb068/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ptyJqfbh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ptyJqfbh\n</a>\n</p>",
       "pub_date": "2026-01-31T00:00:00+08:00",
       "updated_at": "2026-01-31T00:00:00+08:00",
       "author": "",
