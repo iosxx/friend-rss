@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-02T10:43:12.852150+08:00",
+  "updated_at": "2026-02-02T15:09:31.069263+08:00",
   "total_sites": 6,
-  "total_posts": 1055,
+  "total_posts": 1059,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "F-Chat",
+          "link": "https://g0f.cn/ios/testflight/rss-ffebe7a7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/edDvFLl6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/edDvFLl6\n</a>\n</p>",
+          "pub_date": "2026-02-02T00:00:00+08:00",
+          "updated_at": "2026-02-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Joon: Needs, Wants, & Savings",
+          "link": "https://g0f.cn/ios/testflight/rss-e5f4d801/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cBy2uYxk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cBy2uYxk\n</a>\n</p>",
+          "pub_date": "2026-02-02T00:00:00+08:00",
+          "updated_at": "2026-02-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "WalletAppV2",
+          "link": "https://g0f.cn/ios/testflight/rss-0b590821/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/09bTAryp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/09bTAryp\n</a>\n</p>",
+          "pub_date": "2026-02-02T00:00:00+08:00",
+          "updated_at": "2026-02-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Zerogaspy",
+          "link": "https://g0f.cn/ios/testflight/rss-efe79dc2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/S6P9q7Xj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/S6P9q7Xj\n</a>\n</p>",
+          "pub_date": "2026-02-02T00:00:00+08:00",
+          "updated_at": "2026-02-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "元宝 app 送现金活动",
           "link": "https://g0f.cn/ios/testflight/rss-145fb23c/",
@@ -11668,6 +11712,50 @@
       "site_name": "故事的程序猿",
       "site_url": "https://blog.lichenghao.cn/",
       "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
+      "title": "F-Chat",
+      "link": "https://g0f.cn/ios/testflight/rss-ffebe7a7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/edDvFLl6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/edDvFLl6\n</a>\n</p>",
+      "pub_date": "2026-02-02T00:00:00+08:00",
+      "updated_at": "2026-02-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Joon: Needs, Wants, & Savings",
+      "link": "https://g0f.cn/ios/testflight/rss-e5f4d801/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cBy2uYxk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cBy2uYxk\n</a>\n</p>",
+      "pub_date": "2026-02-02T00:00:00+08:00",
+      "updated_at": "2026-02-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "WalletAppV2",
+      "link": "https://g0f.cn/ios/testflight/rss-0b590821/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/09bTAryp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/09bTAryp\n</a>\n</p>",
+      "pub_date": "2026-02-02T00:00:00+08:00",
+      "updated_at": "2026-02-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Zerogaspy",
+      "link": "https://g0f.cn/ios/testflight/rss-efe79dc2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/S6P9q7Xj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/S6P9q7Xj\n</a>\n</p>",
+      "pub_date": "2026-02-02T00:00:00+08:00",
+      "updated_at": "2026-02-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
       "title": "元宝 app 送现金活动",
