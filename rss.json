@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-02T02:42:40.877632+08:00",
+  "updated_at": "2026-02-02T10:43:12.852150+08:00",
   "total_sites": 6,
-  "total_posts": 1053,
+  "total_posts": 1055,
   "sites": [
     {
       "name": "LiuSheng",
@@ -246,6 +246,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Mim",
+          "link": "https://g0f.cn/ios/testflight/rss-eb82045f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9UndzF6P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9UndzF6P\n</a>\n</p>",
+          "pub_date": "2026-02-01T00:00:00+08:00",
+          "updated_at": "2026-02-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "NoUrge: Quit Porn Addiction",
           "link": "https://g0f.cn/ios/testflight/rss-a8cee026/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gpH6a8At\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gpH6a8At\n</a>\n</p>",
@@ -282,6 +293,17 @@
           "title": "TwoNav 6: Routes and Maps",
           "link": "https://g0f.cn/ios/testflight/rss-62c4ef7e/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/d0uLPpsj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/d0uLPpsj\n</a>\n</p>",
+          "pub_date": "2026-02-01T00:00:00+08:00",
+          "updated_at": "2026-02-01T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Xega AI",
+          "link": "https://g0f.cn/ios/testflight/rss-3a06683a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nMvFwnS4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nMvFwnS4\n</a>\n</p>",
           "pub_date": "2026-02-01T00:00:00+08:00",
           "updated_at": "2026-02-01T00:00:00+08:00",
           "author": "",
@@ -11001,6 +11023,17 @@
       "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
         {
+          "title": "1月总结，姐姐哭完，弟弟哭",
+          "link": "https://blog.lichenghao.cn/article/tvy9tleuqmhx",
+          "description": "这个月可以说比上个月轻快多了，因为育儿嫂代替了我大部分工作，父母把老大也带回北京了，家里真是灰常的“热闹”~",
+          "pub_date": "2026-02-02T08:55:13+08:00",
+          "updated_at": "2026-02-02T08:55:13+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
           "title": "快来领取你的“免费”域名！",
           "link": "https://blog.lichenghao.cn/article/uqxdi8kwbypw",
           "description": "这个开源项目：FreeDomain，由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。",
@@ -11094,17 +11127,6 @@
           "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
           "pub_date": "2025-10-09T15:07:02+08:00",
           "updated_at": "2025-10-09T15:07:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
-          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
-          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
-          "pub_date": "2025-09-03T15:34:53+08:00",
-          "updated_at": "2025-09-03T15:34:53+08:00",
           "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
           "site_name": "故事的程序猿",
           "site_url": "https://blog.lichenghao.cn/",
@@ -11637,6 +11659,17 @@
   ],
   "all_posts": [
     {
+      "title": "1月总结，姐姐哭完，弟弟哭",
+      "link": "https://blog.lichenghao.cn/article/tvy9tleuqmhx",
+      "description": "这个月可以说比上个月轻快多了，因为育儿嫂代替了我大部分工作，父母把老大也带回北京了，家里真是灰常的“热闹”~",
+      "pub_date": "2026-02-02T08:55:13+08:00",
+      "updated_at": "2026-02-02T08:55:13+08:00",
+      "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+      "site_name": "故事的程序猿",
+      "site_url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
       "title": "元宝 app 送现金活动",
       "link": "https://g0f.cn/ios/testflight/rss-145fb23c/",
       "description": "<p>元宝 app 送现金活动\n春节元宝红包已就位，复制口令打开App抢！ HU5598 c:/C4OBHI83GM</p>",
@@ -11725,6 +11758,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Mim",
+      "link": "https://g0f.cn/ios/testflight/rss-eb82045f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9UndzF6P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9UndzF6P\n</a>\n</p>",
+      "pub_date": "2026-02-01T00:00:00+08:00",
+      "updated_at": "2026-02-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "NoUrge: Quit Porn Addiction",
       "link": "https://g0f.cn/ios/testflight/rss-a8cee026/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gpH6a8At\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gpH6a8At\n</a>\n</p>",
@@ -11761,6 +11805,17 @@
       "title": "TwoNav 6: Routes and Maps",
       "link": "https://g0f.cn/ios/testflight/rss-62c4ef7e/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/d0uLPpsj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/d0uLPpsj\n</a>\n</p>",
+      "pub_date": "2026-02-01T00:00:00+08:00",
+      "updated_at": "2026-02-01T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Xega AI",
+      "link": "https://g0f.cn/ios/testflight/rss-3a06683a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nMvFwnS4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nMvFwnS4\n</a>\n</p>",
       "pub_date": "2026-02-01T00:00:00+08:00",
       "updated_at": "2026-02-01T00:00:00+08:00",
       "author": "",
@@ -23174,17 +23229,6 @@
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
       "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
-      "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
-      "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
-      "pub_date": "2025-09-03T15:34:53+08:00",
-      "updated_at": "2025-09-03T15:34:53+08:00",
-      "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-      "site_name": "故事的程序猿",
-      "site_url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg"
     },
     {
       "title": "第三方1Panel应用商店不完全指北",
