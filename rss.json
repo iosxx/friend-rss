@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-02T21:12:37.509752+08:00",
+  "updated_at": "2026-02-03T10:39:37.380972+08:00",
   "total_sites": 6,
-  "total_posts": 1059,
+  "total_posts": 1060,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "ArcBreaker: Ringfall Arena",
+          "link": "https://g0f.cn/ios/testflight/rss-6aae991b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8T94eFRf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8T94eFRf\n</a>\n</p>",
+          "pub_date": "2026-02-02T00:00:00+08:00",
+          "updated_at": "2026-02-02T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "F-Chat",
           "link": "https://g0f.cn/ios/testflight/rss-ffebe7a7/",
@@ -11067,6 +11078,17 @@
       "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
         {
+          "title": "2026年2月是823年一遇的特殊月份？",
+          "link": "https://blog.lichenghao.cn/article/2c2mag07cse1",
+          "description": "人民日报：本质是利用一些人对数字的不敏感和对历法的陌生，把常见的历法现象包装成难得一遇的所谓“奇观”，再通过“转发获财运”等诱导式传播，甚至借机推销服务，其本质都是网络营销。",
+          "pub_date": "2026-02-03T08:56:39+08:00",
+          "updated_at": "2026-02-03T08:56:39+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
           "title": "1月总结，姐姐哭完，弟弟哭",
           "link": "https://blog.lichenghao.cn/article/tvy9tleuqmhx",
           "description": "这个月可以说比上个月轻快多了，因为育儿嫂代替了我大部分工作，父母把老大也带回北京了，家里真是灰常的“热闹”~",
@@ -11160,17 +11182,6 @@
           "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
           "pub_date": "2025-10-20T20:12:22+08:00",
           "updated_at": "2025-10-20T20:12:22+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "八九月小结【二五年】",
-          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
-          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
-          "pub_date": "2025-10-09T15:07:02+08:00",
-          "updated_at": "2025-10-09T15:07:02+08:00",
           "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
           "site_name": "故事的程序猿",
           "site_url": "https://blog.lichenghao.cn/",
@@ -11703,6 +11714,17 @@
   ],
   "all_posts": [
     {
+      "title": "2026年2月是823年一遇的特殊月份？",
+      "link": "https://blog.lichenghao.cn/article/2c2mag07cse1",
+      "description": "人民日报：本质是利用一些人对数字的不敏感和对历法的陌生，把常见的历法现象包装成难得一遇的所谓“奇观”，再通过“转发获财运”等诱导式传播，甚至借机推销服务，其本质都是网络营销。",
+      "pub_date": "2026-02-03T08:56:39+08:00",
+      "updated_at": "2026-02-03T08:56:39+08:00",
+      "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+      "site_name": "故事的程序猿",
+      "site_url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
       "title": "1月总结，姐姐哭完，弟弟哭",
       "link": "https://blog.lichenghao.cn/article/tvy9tleuqmhx",
       "description": "这个月可以说比上个月轻快多了，因为育儿嫂代替了我大部分工作，父母把老大也带回北京了，家里真是灰常的“热闹”~",
@@ -11712,6 +11734,17 @@
       "site_name": "故事的程序猿",
       "site_url": "https://blog.lichenghao.cn/",
       "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
+      "title": "ArcBreaker: Ringfall Arena",
+      "link": "https://g0f.cn/ios/testflight/rss-6aae991b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8T94eFRf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8T94eFRf\n</a>\n</p>",
+      "pub_date": "2026-02-02T00:00:00+08:00",
+      "updated_at": "2026-02-02T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
       "title": "F-Chat",
@@ -23273,17 +23306,6 @@
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
       "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "八九月小结【二五年】",
-      "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
-      "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
-      "pub_date": "2025-10-09T15:07:02+08:00",
-      "updated_at": "2025-10-09T15:07:02+08:00",
-      "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-      "site_name": "故事的程序猿",
-      "site_url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg"
     },
     {
       "title": "不同姿势部署Anheyu-App应用",
