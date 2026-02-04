@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-04T15:00:42.776576+08:00",
+  "updated_at": "2026-02-04T21:12:43.489600+08:00",
   "total_sites": 6,
-  "total_posts": 1085,
+  "total_posts": 1093,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,28 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Cnav",
+          "link": "https://g0f.cn/ios/testflight/rss-31d35db7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Zq8371Kk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Zq8371Kk\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Coppice",
+          "link": "https://g0f.cn/ios/testflight/rss-c73b19e5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z2j1UB3Y\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z2j1UB3Y\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Flickplay: #1 Collector App",
           "link": "https://g0f.cn/ios/testflight/rss-a262cdbb/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xr5o788R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xr5o788R\n</a>\n</p>",
@@ -202,9 +224,75 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "NSNS.",
+          "link": "https://g0f.cn/ios/testflight/rss-6f90ddd0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9hF8fyw2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9hF8fyw2\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Papanca",
+          "link": "https://g0f.cn/ios/testflight/rss-eac6acc4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cn3xNZS7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cn3xNZS7\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Remaining - Simple Budgeting",
+          "link": "https://g0f.cn/ios/testflight/rss-ea6bafec/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JU3PvjA2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JU3PvjA2\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "The Fraction Calculator",
+          "link": "https://g0f.cn/ios/testflight/rss-553d8a7a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3mrjy25S\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3mrjy25S\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "The Slate",
+          "link": "https://g0f.cn/ios/testflight/rss-1537b619/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JunwMCP3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JunwMCP3\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "VirtualKim - 6502 Emulator",
           "link": "https://g0f.cn/ios/testflight/rss-2f47583b/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vIXAtuLo\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vIXAtuLo\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "超自然行動組-和趙露思一起玩",
+          "link": "https://g0f.cn/ios/testflight/rss-99b3f06a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Gua5xT38\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Gua5xT38\n</a>\n</p>",
           "pub_date": "2026-02-04T00:00:00+08:00",
           "updated_at": "2026-02-04T00:00:00+08:00",
           "author": "",
@@ -11989,6 +12077,28 @@
   ],
   "all_posts": [
     {
+      "title": "Cnav",
+      "link": "https://g0f.cn/ios/testflight/rss-31d35db7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Zq8371Kk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Zq8371Kk\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Coppice",
+      "link": "https://g0f.cn/ios/testflight/rss-c73b19e5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z2j1UB3Y\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z2j1UB3Y\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Flickplay: #1 Collector App",
       "link": "https://g0f.cn/ios/testflight/rss-a262cdbb/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xr5o788R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xr5o788R\n</a>\n</p>",
@@ -12044,9 +12154,75 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "NSNS.",
+      "link": "https://g0f.cn/ios/testflight/rss-6f90ddd0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9hF8fyw2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9hF8fyw2\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Papanca",
+      "link": "https://g0f.cn/ios/testflight/rss-eac6acc4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cn3xNZS7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cn3xNZS7\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Remaining - Simple Budgeting",
+      "link": "https://g0f.cn/ios/testflight/rss-ea6bafec/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JU3PvjA2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JU3PvjA2\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "The Fraction Calculator",
+      "link": "https://g0f.cn/ios/testflight/rss-553d8a7a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3mrjy25S\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3mrjy25S\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "The Slate",
+      "link": "https://g0f.cn/ios/testflight/rss-1537b619/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JunwMCP3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JunwMCP3\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "VirtualKim - 6502 Emulator",
       "link": "https://g0f.cn/ios/testflight/rss-2f47583b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vIXAtuLo\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vIXAtuLo\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "超自然行動組-和趙露思一起玩",
+      "link": "https://g0f.cn/ios/testflight/rss-99b3f06a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Gua5xT38\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Gua5xT38\n</a>\n</p>",
       "pub_date": "2026-02-04T00:00:00+08:00",
       "updated_at": "2026-02-04T00:00:00+08:00",
       "author": "",
