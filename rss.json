@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-04T10:33:46.859693+08:00",
+  "updated_at": "2026-02-04T15:00:42.776576+08:00",
   "total_sites": 6,
-  "total_posts": 1079,
+  "total_posts": 1085,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,72 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Flickplay: #1 Collector App",
+          "link": "https://g0f.cn/ios/testflight/rss-a262cdbb/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xr5o788R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xr5o788R\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "flo - Navidrome Client",
+          "link": "https://g0f.cn/ios/testflight/rss-3320189e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/913htqtU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/913htqtU\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "KeyPad - Keyboard and Remote",
+          "link": "https://g0f.cn/ios/testflight/rss-9777bd30/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/W1e52VsI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/W1e52VsI\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Landmarks - World Architecture",
+          "link": "https://g0f.cn/ios/testflight/rss-26a7cd5d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/oODurCGu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/oODurCGu\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Launch HQ",
+          "link": "https://g0f.cn/ios/testflight/rss-7096c5a9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xtsngSeT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xtsngSeT\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "VirtualKim - 6502 Emulator",
+          "link": "https://g0f.cn/ios/testflight/rss-2f47583b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vIXAtuLo\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vIXAtuLo\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "areoHDR",
           "link": "https://g0f.cn/ios/testflight/rss-07178f5c/",
@@ -11922,6 +11988,72 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Flickplay: #1 Collector App",
+      "link": "https://g0f.cn/ios/testflight/rss-a262cdbb/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xr5o788R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xr5o788R\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "flo - Navidrome Client",
+      "link": "https://g0f.cn/ios/testflight/rss-3320189e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/913htqtU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/913htqtU\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "KeyPad - Keyboard and Remote",
+      "link": "https://g0f.cn/ios/testflight/rss-9777bd30/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/W1e52VsI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/W1e52VsI\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Landmarks - World Architecture",
+      "link": "https://g0f.cn/ios/testflight/rss-26a7cd5d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/oODurCGu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/oODurCGu\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Launch HQ",
+      "link": "https://g0f.cn/ios/testflight/rss-7096c5a9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xtsngSeT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xtsngSeT\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "VirtualKim - 6502 Emulator",
+      "link": "https://g0f.cn/ios/testflight/rss-2f47583b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vIXAtuLo\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vIXAtuLo\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "山馈亦有代价",
       "link": "https://wang618.cn/shan-kui-yi-you-dai-jia.html",
