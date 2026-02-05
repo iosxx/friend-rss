@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-05T02:58:28.973117+08:00",
+  "updated_at": "2026-02-05T10:35:31.030682+08:00",
   "total_sites": 6,
-  "total_posts": 1098,
+  "total_posts": 1101,
   "sites": [
     {
       "name": "LiuSheng",
@@ -213,6 +213,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Inspirely: Astro, Yoga & Calm",
+          "link": "https://g0f.cn/ios/testflight/rss-9377fd35/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/QXGaVrUW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/QXGaVrUW\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "KeyPad - Keyboard and Remote",
           "link": "https://g0f.cn/ios/testflight/rss-9777bd30/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/W1e52VsI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/W1e52VsI\n</a>\n</p>",
@@ -260,6 +271,17 @@
           "title": "NSNS.",
           "link": "https://g0f.cn/ios/testflight/rss-6f90ddd0/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9hF8fyw2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9hF8fyw2\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "OnRail",
+          "link": "https://g0f.cn/ios/testflight/rss-23de016e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hwuEywc8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hwuEywc8\n</a>\n</p>",
           "pub_date": "2026-02-04T00:00:00+08:00",
           "updated_at": "2026-02-04T00:00:00+08:00",
           "author": "",
@@ -337,6 +359,17 @@
           "title": "VirtualKim - 6502 Emulator",
           "link": "https://g0f.cn/ios/testflight/rss-2f47583b/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vIXAtuLo\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vIXAtuLo\n</a>\n</p>",
+          "pub_date": "2026-02-04T00:00:00+08:00",
+          "updated_at": "2026-02-04T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Wake Up, Get Up",
+          "link": "https://g0f.cn/ios/testflight/rss-9b752109/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ep7N1F2h\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ep7N1F2h\n</a>\n</p>",
           "pub_date": "2026-02-04T00:00:00+08:00",
           "updated_at": "2026-02-04T00:00:00+08:00",
           "author": "",
@@ -12198,6 +12231,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Inspirely: Astro, Yoga & Calm",
+      "link": "https://g0f.cn/ios/testflight/rss-9377fd35/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/QXGaVrUW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/QXGaVrUW\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "KeyPad - Keyboard and Remote",
       "link": "https://g0f.cn/ios/testflight/rss-9777bd30/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/W1e52VsI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/W1e52VsI\n</a>\n</p>",
@@ -12245,6 +12289,17 @@
       "title": "NSNS.",
       "link": "https://g0f.cn/ios/testflight/rss-6f90ddd0/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9hF8fyw2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9hF8fyw2\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "OnRail",
+      "link": "https://g0f.cn/ios/testflight/rss-23de016e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hwuEywc8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hwuEywc8\n</a>\n</p>",
       "pub_date": "2026-02-04T00:00:00+08:00",
       "updated_at": "2026-02-04T00:00:00+08:00",
       "author": "",
@@ -12322,6 +12377,17 @@
       "title": "VirtualKim - 6502 Emulator",
       "link": "https://g0f.cn/ios/testflight/rss-2f47583b/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vIXAtuLo\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vIXAtuLo\n</a>\n</p>",
+      "pub_date": "2026-02-04T00:00:00+08:00",
+      "updated_at": "2026-02-04T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Wake Up, Get Up",
+      "link": "https://g0f.cn/ios/testflight/rss-9b752109/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ep7N1F2h\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ep7N1F2h\n</a>\n</p>",
       "pub_date": "2026-02-04T00:00:00+08:00",
       "updated_at": "2026-02-04T00:00:00+08:00",
       "author": "",
