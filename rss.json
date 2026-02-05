@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-05T21:14:46.796543+08:00",
+  "updated_at": "2026-02-06T02:57:13.093687+08:00",
   "total_sites": 6,
-  "total_posts": 1112,
+  "total_posts": 1115,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "百度地图",
+          "link": "https://g0f.cn/ios/testflight/rss-2b47523a/",
+          "description": "<p>#百度地图</p>\n<p>\n<a href=\"https://testflight.apple.com/join/WjgWQPVG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WjgWQPVG\n</a>\nApple\nJoin the 百度地图-路线规划,出行必备 beta\nAvailable on iOS</p>",
+          "pub_date": "2026-02-05T09:14:00+08:00",
+          "updated_at": "2026-02-05T09:14:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "AppWage",
           "link": "https://g0f.cn/ios/testflight/rss-a376bbd1/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HLMemeqy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HLMemeqy\n</a>\n</p>",
@@ -191,6 +202,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "FlowReader",
+          "link": "https://g0f.cn/ios/testflight/rss-3b871e26/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tRCk9heb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tRCk9heb\n</a>\n</p>",
+          "pub_date": "2026-02-05T00:00:00+08:00",
+          "updated_at": "2026-02-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "FrameIt Vision",
           "link": "https://g0f.cn/ios/testflight/rss-58f49e09/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Xn5hIgSK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Xn5hIgSK\n</a>\n</p>",
@@ -216,6 +238,17 @@
           "title": "Lume Wallet",
           "link": "https://g0f.cn/ios/testflight/rss-eff00150/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=DF6-HHZ4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=DF6-HHZ4\n</a>\n</p>",
+          "pub_date": "2026-02-05T00:00:00+08:00",
+          "updated_at": "2026-02-05T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Nostrmo",
+          "link": "https://g0f.cn/ios/testflight/rss-d7562d0e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kvGz47De\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kvGz47De\n</a>\n</p>",
           "pub_date": "2026-02-05T00:00:00+08:00",
           "updated_at": "2026-02-05T00:00:00+08:00",
           "author": "",
@@ -12286,6 +12319,17 @@
   ],
   "all_posts": [
     {
+      "title": "百度地图",
+      "link": "https://g0f.cn/ios/testflight/rss-2b47523a/",
+      "description": "<p>#百度地图</p>\n<p>\n<a href=\"https://testflight.apple.com/join/WjgWQPVG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WjgWQPVG\n</a>\nApple\nJoin the 百度地图-路线规划,出行必备 beta\nAvailable on iOS</p>",
+      "pub_date": "2026-02-05T09:14:00+08:00",
+      "updated_at": "2026-02-05T09:14:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "AppWage",
       "link": "https://g0f.cn/ios/testflight/rss-a376bbd1/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HLMemeqy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HLMemeqy\n</a>\n</p>",
@@ -12330,6 +12374,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "FlowReader",
+      "link": "https://g0f.cn/ios/testflight/rss-3b871e26/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tRCk9heb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tRCk9heb\n</a>\n</p>",
+      "pub_date": "2026-02-05T00:00:00+08:00",
+      "updated_at": "2026-02-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "FrameIt Vision",
       "link": "https://g0f.cn/ios/testflight/rss-58f49e09/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Xn5hIgSK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Xn5hIgSK\n</a>\n</p>",
@@ -12355,6 +12410,17 @@
       "title": "Lume Wallet",
       "link": "https://g0f.cn/ios/testflight/rss-eff00150/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=DF6-HHZ4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=DF6-HHZ4\n</a>\n</p>",
+      "pub_date": "2026-02-05T00:00:00+08:00",
+      "updated_at": "2026-02-05T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Nostrmo",
+      "link": "https://g0f.cn/ios/testflight/rss-d7562d0e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kvGz47De\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kvGz47De\n</a>\n</p>",
       "pub_date": "2026-02-05T00:00:00+08:00",
       "updated_at": "2026-02-05T00:00:00+08:00",
       "author": "",
