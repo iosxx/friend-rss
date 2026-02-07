@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-07T21:01:39.576851+08:00",
+  "updated_at": "2026-02-08T02:42:56.844829+08:00",
   "total_sites": 6,
-  "total_posts": 1142,
+  "total_posts": 1145,
   "sites": [
     {
       "name": "LiuSheng",
@@ -141,129 +141,22 @@
       ]
     },
     {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "2026年2月是823年一遇的特殊月份？",
-          "link": "https://blog.lichenghao.cn/article/2c2mag07cse1",
-          "description": "人民日报：本质是利用一些人对数字的不敏感和对历法的陌生，把常见的历法现象包装成难得一遇的所谓“奇观”，再通过“转发获财运”等诱导式传播，甚至借机推销服务，其本质都是网络营销。",
-          "pub_date": "2026-02-03T08:56:39+08:00",
-          "updated_at": "2026-02-03T08:56:39+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "1月总结，姐姐哭完，弟弟哭",
-          "link": "https://blog.lichenghao.cn/article/tvy9tleuqmhx",
-          "description": "这个月可以说比上个月轻快多了，因为育儿嫂代替了我大部分工作，父母把老大也带回北京了，家里真是灰常的“热闹”~",
-          "pub_date": "2026-02-02T08:55:13+08:00",
-          "updated_at": "2026-02-02T08:55:13+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "快来领取你的“免费”域名！",
-          "link": "https://blog.lichenghao.cn/article/uqxdi8kwbypw",
-          "description": "这个开源项目：FreeDomain，由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。",
-          "pub_date": "2026-01-26T14:29:48+08:00",
-          "updated_at": "2026-01-26T14:29:48+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "断更了一段时间，因为在家当“月嫂”~",
-          "link": "https://blog.lichenghao.cn/article/94pz3do3m0y4",
-          "description": "断更了一段时间，因为在家全职带娃一个多月。",
-          "pub_date": "2026-01-04T15:29:16+08:00",
-          "updated_at": "2026-01-04T15:29:16+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "我为开心消消乐怒冲一块钱！",
-          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
-          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
-          "pub_date": "2025-11-15T14:41:01+08:00",
-          "updated_at": "2025-11-15T14:41:01+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "一个悠闲的周六",
-          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
-          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
-          "pub_date": "2025-11-08T21:22:20+08:00",
-          "updated_at": "2025-11-08T21:22:20+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
-          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
-          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
-          "pub_date": "2025-11-07T20:59:02+08:00",
-          "updated_at": "2025-11-07T20:59:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
-          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "pub_date": "2025-11-04T14:21:57+08:00",
-          "updated_at": "2025-11-04T14:21:57+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
-          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
-          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
-          "pub_date": "2025-10-22T13:48:08+08:00",
-          "updated_at": "2025-10-22T13:48:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "我的小橘猫三岁了哦~",
-          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
-          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
-          "pub_date": "2025-10-20T20:12:22+08:00",
-          "updated_at": "2025-10-20T20:12:22+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        }
-      ]
-    },
-    {
       "name": "果粉圈",
       "url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Aidoku开源版",
+          "link": "https://g0f.cn/ios/testflight/rss-7354084c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/plbnVA5a\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/plbnVA5a\n</a>\n</p>",
+          "pub_date": "2026-02-07T00:00:00+08:00",
+          "updated_at": "2026-02-07T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Aislingeach - AI Image Dreamer",
           "link": "https://g0f.cn/ios/testflight/rss-373287e4/",
@@ -301,6 +194,28 @@
           "title": "KoreFit",
           "link": "https://g0f.cn/ios/testflight/rss-a5a5e948/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TWCtUtpf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TWCtUtpf\n</a>\n</p>",
+          "pub_date": "2026-02-07T00:00:00+08:00",
+          "updated_at": "2026-02-07T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-68556d92/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=HG2-Q7HX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=HG2-Q7HX\n</a>\n</p>",
+          "pub_date": "2026-02-07T00:00:00+08:00",
+          "updated_at": "2026-02-07T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Satu Wallet: Crypto Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-09918128/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y4X81bfb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y4X81bfb\n</a>\n</p>",
           "pub_date": "2026-02-07T00:00:00+08:00",
           "updated_at": "2026-02-07T00:00:00+08:00",
           "author": "",
@@ -12103,6 +12018,124 @@
       ]
     },
     {
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "posts": [
+        {
+          "title": "2026年2月是823年一遇的特殊月份？",
+          "link": "https://blog.lichenghao.cn/article/2c2mag07cse1",
+          "description": "人民日报：本质是利用一些人对数字的不敏感和对历法的陌生，把常见的历法现象包装成难得一遇的所谓“奇观”，再通过“转发获财运”等诱导式传播，甚至借机推销服务，其本质都是网络营销。",
+          "pub_date": "2026-02-03T08:56:39+08:00",
+          "updated_at": "2026-02-03T08:56:39+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "1月总结，姐姐哭完，弟弟哭",
+          "link": "https://blog.lichenghao.cn/article/tvy9tleuqmhx",
+          "description": "这个月可以说比上个月轻快多了，因为育儿嫂代替了我大部分工作，父母把老大也带回北京了，家里真是灰常的“热闹”~",
+          "pub_date": "2026-02-02T08:55:13+08:00",
+          "updated_at": "2026-02-02T08:55:13+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "快来领取你的“免费”域名！",
+          "link": "https://blog.lichenghao.cn/article/uqxdi8kwbypw",
+          "description": "这个开源项目：FreeDomain，由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。",
+          "pub_date": "2026-01-26T14:29:48+08:00",
+          "updated_at": "2026-01-26T14:29:48+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "断更了一段时间，因为在家当“月嫂”~",
+          "link": "https://blog.lichenghao.cn/article/94pz3do3m0y4",
+          "description": "断更了一段时间，因为在家全职带娃一个多月。",
+          "pub_date": "2026-01-04T15:29:16+08:00",
+          "updated_at": "2026-01-04T15:29:16+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "我为开心消消乐怒冲一块钱！",
+          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
+          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
+          "pub_date": "2025-11-15T14:41:01+08:00",
+          "updated_at": "2025-11-15T14:41:01+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "一个悠闲的周六",
+          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
+          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
+          "pub_date": "2025-11-08T21:22:20+08:00",
+          "updated_at": "2025-11-08T21:22:20+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
+          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
+          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
+          "pub_date": "2025-11-07T20:59:02+08:00",
+          "updated_at": "2025-11-07T20:59:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
+          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "pub_date": "2025-11-04T14:21:57+08:00",
+          "updated_at": "2025-11-04T14:21:57+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
+          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
+          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
+          "pub_date": "2025-10-22T13:48:08+08:00",
+          "updated_at": "2025-10-22T13:48:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "我的小橘猫三岁了哦~",
+          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
+          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
+          "pub_date": "2025-10-20T20:12:22+08:00",
+          "updated_at": "2025-10-20T20:12:22+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        }
+      ]
+    },
+    {
       "name": "小十博客",
       "url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png",
@@ -12392,6 +12425,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "农场忆流年",
+          "link": "https://wang618.cn/nong-chang-yi-liu-nian.html",
+          "description": "<p>2026年2月6日，《QQ经典农场》正式开服。这款曾风靡全网的现象级游戏，一经重启，便轻轻勾起无数人藏在时光里的青春回忆。谁不曾定过深夜的闹钟，只为准时守在屏幕前，偷那一株成熟的菜？初识妻子那年，第一次登门拜访，她的小姨与表妹一见面便追着要加我QQ。我当时一头雾水，后来才恍然大悟，原来只为农场偷菜。两人痴迷至极，凌晨四点仍准时上线，得手后还特意发来消息调侃，气得我索性用上挂机宝与辅助工具，24小时在线反击。如今重登农场，画面更清晰，操作更流畅，心境却早已截然不同。并非游戏无趣，而是当年一同熬夜、互相捉弄、笑着偷菜的人，早已不在好友列表里活跃。原来最让人怀念的，从来不是那几块虚拟田地、几株待收作物，而是那段可以为一件小事认真较劲、为一句玩笑熬夜守候、为一群人满心欢喜的时光。农场重启了，可那些一起偷菜的热闹、互相打趣的欢喜、简单又热烈的岁月，却再也回不去了。指尖轻点依旧，只是身边少了同频的人，心里空了一大片，再也填不满当年的热闹与天真。<br />\n<img alt=\"农场忆流年.webp\" src=\"https://wang618.cn/content/uploadfile/202602/42bf1770469439.webp\" /></p>",
+          "pub_date": "2026-02-07T20:54:07+08:00",
+          "updated_at": "2026-02-07T20:54:07+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "荒唐的梦境",
           "link": "https://wang618.cn/huang-tang-de-meng-jing.html",
           "description": "<p>昨晚做了个离谱到家的梦，现在想起来还觉得哭笑不得。梦里的我全副武装躲在战壕里，天空上密密麻麻的无人机不停盘旋，还一股脑地冲我发起自杀式袭击，周围火光冲天、爆炸声不断，场面紧张到不行，可神奇的是，那些无人机怎么炸都炸不到我。更荒唐的是，我一边缩在战壕里躲攻击，一边还腾出手来拿着手机刷红果短剧，完全是沉浸式追剧，丝毫不被旁边的战火影响。合着我这满脑子的红果宇宙，连做梦都没放过我，这后劲也太足了，果然疯癫的剧情看多了，连梦境都得被影响！<br />\n<img alt=\"荒唐的梦境.webp\" src=\"https://wang618.cn/content/uploadfile/202602/b64c1770370093.webp\" /></p>",
@@ -12599,22 +12643,33 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "阿里云ESA免费CDN",
-          "link": "https://wang618.cn/aliyun-mianfei-cdn.html",
-          "description": "<p>阿里云边缘安全加速ESA 可为您的网站提供全球CDN加速、API加速、Web和DDoS防护等一站式安全加速服务。免费版无限流量、支持全球加速、平台 DDoS 防护、免费证书、免费边缘计算等。请按照下图操作，选择 免费版 时长为一年 勾选 到期自动续费（可重复0元续费）。申请地址：<a href=\"https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&amp;recordId=cec37c80d879f45e191cf369fc34d763\">https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&amp;recordId=cec37c80d879f45e191cf369fc34d763</a></p>\n<p><img alt=\"阿里云ESA免费CDN1.webp\" src=\"https://wang618.cn/content/uploadfile/202512/36b61765463043.webp\" /><br />\n<img alt=\"阿里云ESA免费CDN2.webp\" src=\"https://wang618.cn/content/uploadfile/202512/031f1765463787.webp\" /><br />\n<img alt=\"阿里云ESA免费CDN3.webp\" src=\"https://wang618.cn/content/uploadfile/202512/1b861765463787.webp\" /></p>",
-          "pub_date": "2025-12-11T22:28:37+08:00",
-          "updated_at": "2025-12-11T22:28:37+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
+    {
+      "title": "农场忆流年",
+      "link": "https://wang618.cn/nong-chang-yi-liu-nian.html",
+      "description": "<p>2026年2月6日，《QQ经典农场》正式开服。这款曾风靡全网的现象级游戏，一经重启，便轻轻勾起无数人藏在时光里的青春回忆。谁不曾定过深夜的闹钟，只为准时守在屏幕前，偷那一株成熟的菜？初识妻子那年，第一次登门拜访，她的小姨与表妹一见面便追着要加我QQ。我当时一头雾水，后来才恍然大悟，原来只为农场偷菜。两人痴迷至极，凌晨四点仍准时上线，得手后还特意发来消息调侃，气得我索性用上挂机宝与辅助工具，24小时在线反击。如今重登农场，画面更清晰，操作更流畅，心境却早已截然不同。并非游戏无趣，而是当年一同熬夜、互相捉弄、笑着偷菜的人，早已不在好友列表里活跃。原来最让人怀念的，从来不是那几块虚拟田地、几株待收作物，而是那段可以为一件小事认真较劲、为一句玩笑熬夜守候、为一群人满心欢喜的时光。农场重启了，可那些一起偷菜的热闹、互相打趣的欢喜、简单又热烈的岁月，却再也回不去了。指尖轻点依旧，只是身边少了同频的人，心里空了一大片，再也填不满当年的热闹与天真。<br />\n<img alt=\"农场忆流年.webp\" src=\"https://wang618.cn/content/uploadfile/202602/42bf1770469439.webp\" /></p>",
+      "pub_date": "2026-02-07T20:54:07+08:00",
+      "updated_at": "2026-02-07T20:54:07+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
+      "title": "Aidoku开源版",
+      "link": "https://g0f.cn/ios/testflight/rss-7354084c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/plbnVA5a\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/plbnVA5a\n</a>\n</p>",
+      "pub_date": "2026-02-07T00:00:00+08:00",
+      "updated_at": "2026-02-07T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Aislingeach - AI Image Dreamer",
       "link": "https://g0f.cn/ios/testflight/rss-373287e4/",
@@ -12652,6 +12707,28 @@
       "title": "KoreFit",
       "link": "https://g0f.cn/ios/testflight/rss-a5a5e948/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TWCtUtpf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TWCtUtpf\n</a>\n</p>",
+      "pub_date": "2026-02-07T00:00:00+08:00",
+      "updated_at": "2026-02-07T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-68556d92/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=HG2-Q7HX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=HG2-Q7HX\n</a>\n</p>",
+      "pub_date": "2026-02-07T00:00:00+08:00",
+      "updated_at": "2026-02-07T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Satu Wallet: Crypto Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-09918128/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y4X81bfb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y4X81bfb\n</a>\n</p>",
       "pub_date": "2026-02-07T00:00:00+08:00",
       "updated_at": "2026-02-07T00:00:00+08:00",
       "author": "",
@@ -22690,17 +22767,6 @@
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "阿里云ESA免费CDN",
-      "link": "https://wang618.cn/aliyun-mianfei-cdn.html",
-      "description": "<p>阿里云边缘安全加速ESA 可为您的网站提供全球CDN加速、API加速、Web和DDoS防护等一站式安全加速服务。免费版无限流量、支持全球加速、平台 DDoS 防护、免费证书、免费边缘计算等。请按照下图操作，选择 免费版 时长为一年 勾选 到期自动续费（可重复0元续费）。申请地址：<a href=\"https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&amp;recordId=cec37c80d879f45e191cf369fc34d763\">https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&amp;recordId=cec37c80d879f45e191cf369fc34d763</a></p>\n<p><img alt=\"阿里云ESA免费CDN1.webp\" src=\"https://wang618.cn/content/uploadfile/202512/36b61765463043.webp\" /><br />\n<img alt=\"阿里云ESA免费CDN2.webp\" src=\"https://wang618.cn/content/uploadfile/202512/031f1765463787.webp\" /><br />\n<img alt=\"阿里云ESA免费CDN3.webp\" src=\"https://wang618.cn/content/uploadfile/202512/1b861765463787.webp\" /></p>",
-      "pub_date": "2025-12-11T22:28:37+08:00",
-      "updated_at": "2025-12-11T22:28:37+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "A.R.C.A.D.E.",
