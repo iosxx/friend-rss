@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-08T21:02:15.823713+08:00",
+  "updated_at": "2026-02-09T02:45:50.331326+08:00",
   "total_sites": 6,
-  "total_posts": 1157,
+  "total_posts": 1162,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,9 +147,42 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "APTV",
+          "link": "https://g0f.cn/ios/testflight/rss-56ea445c/",
+          "description": "<p>#APTV</p>\n<p>\n<a href=\"https://testflight.apple.com/join/QN934ULR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/QN934ULR\n</a>\nApple\n加入 Beta 版“APTV - M3U播放器”\n使用 TestFlight 是帮助开发者测试 Beta 版 App 的理想方式。</p>",
+          "pub_date": "2026-02-08T10:11:00+08:00",
+          "updated_at": "2026-02-08T10:11:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Chefview: AI Grocery List",
           "link": "https://g0f.cn/ios/testflight/rss-2de239a4/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gsTHX46Q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gsTHX46Q\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "CoHabit (10dcd7)",
+          "link": "https://g0f.cn/ios/testflight/rss-3ca9a0ad/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NVkgs2sR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NVkgs2sR\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Corefeed",
+          "link": "https://g0f.cn/ios/testflight/rss-9c9132f9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/473wJ1Pp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/473wJ1Pp\n</a>\n</p>",
           "pub_date": "2026-02-08T00:00:00+08:00",
           "updated_at": "2026-02-08T00:00:00+08:00",
           "author": "",
@@ -202,9 +235,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Nova - Solana Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-5c4c8b27/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bYCtjgkn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bYCtjgkn\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Orbs",
           "link": "https://g0f.cn/ios/testflight/rss-bafd35d7/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/k2W8SbnC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/k2W8SbnC\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "PR Urgence",
+          "link": "https://g0f.cn/ios/testflight/rss-018bccaf/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mTDAxKXy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mTDAxKXy\n</a>\n</p>",
           "pub_date": "2026-02-08T00:00:00+08:00",
           "updated_at": "2026-02-08T00:00:00+08:00",
           "author": "",
@@ -12781,9 +12836,42 @@
   ],
   "all_posts": [
     {
+      "title": "APTV",
+      "link": "https://g0f.cn/ios/testflight/rss-56ea445c/",
+      "description": "<p>#APTV</p>\n<p>\n<a href=\"https://testflight.apple.com/join/QN934ULR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/QN934ULR\n</a>\nApple\n加入 Beta 版“APTV - M3U播放器”\n使用 TestFlight 是帮助开发者测试 Beta 版 App 的理想方式。</p>",
+      "pub_date": "2026-02-08T10:11:00+08:00",
+      "updated_at": "2026-02-08T10:11:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Chefview: AI Grocery List",
       "link": "https://g0f.cn/ios/testflight/rss-2de239a4/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gsTHX46Q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gsTHX46Q\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "CoHabit (10dcd7)",
+      "link": "https://g0f.cn/ios/testflight/rss-3ca9a0ad/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/NVkgs2sR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NVkgs2sR\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Corefeed",
+      "link": "https://g0f.cn/ios/testflight/rss-9c9132f9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/473wJ1Pp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/473wJ1Pp\n</a>\n</p>",
       "pub_date": "2026-02-08T00:00:00+08:00",
       "updated_at": "2026-02-08T00:00:00+08:00",
       "author": "",
@@ -12836,9 +12924,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Nova - Solana Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-5c4c8b27/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bYCtjgkn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bYCtjgkn\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Orbs",
       "link": "https://g0f.cn/ios/testflight/rss-bafd35d7/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/k2W8SbnC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/k2W8SbnC\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "PR Urgence",
+      "link": "https://g0f.cn/ios/testflight/rss-018bccaf/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mTDAxKXy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mTDAxKXy\n</a>\n</p>",
       "pub_date": "2026-02-08T00:00:00+08:00",
       "updated_at": "2026-02-08T00:00:00+08:00",
       "author": "",
