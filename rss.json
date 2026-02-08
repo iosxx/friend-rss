@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-08T02:42:56.844829+08:00",
+  "updated_at": "2026-02-08T11:14:34.063897+08:00",
   "total_sites": 6,
-  "total_posts": 1145,
+  "total_posts": 1147,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "创建一个互领元宝红包派，有兴趣的可以加入，大家发红包互助： 点击链接加入元宝派：",
+          "link": "https://g0f.cn/ios/testflight/rss-1c6fca16/",
+          "description": "<p>创建一个互领元宝红包派，有兴趣的可以加入，大家发红包互助： 点击链接加入元宝派：\n<a href=\"https://yb.tencent.com/gp/i/BrSwvwP5Fa1f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://yb.tencent.com/gp/i/BrSwvwP5Fa1f\n</a>\nTencent\n快来加入互领红包派\n在元宝派与朋友和元宝一起玩</p>",
+          "pub_date": "2026-02-07T16:28:00+08:00",
+          "updated_at": "2026-02-07T16:28:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Aidoku开源版",
           "link": "https://g0f.cn/ios/testflight/rss-7354084c/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/plbnVA5a\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/plbnVA5a\n</a>\n</p>",
@@ -238,6 +249,17 @@
           "title": "Step Timer",
           "link": "https://g0f.cn/ios/testflight/rss-0e70206f/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qzYzc6Pm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qzYzc6Pm\n</a>\n</p>",
+          "pub_date": "2026-02-07T00:00:00+08:00",
+          "updated_at": "2026-02-07T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Wave Reader",
+          "link": "https://g0f.cn/ios/testflight/rss-7d57ecfa/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6kWz18Sh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6kWz18Sh\n</a>\n</p>",
           "pub_date": "2026-02-07T00:00:00+08:00",
           "updated_at": "2026-02-07T00:00:00+08:00",
           "author": "",
@@ -12660,6 +12682,17 @@
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
+      "title": "创建一个互领元宝红包派，有兴趣的可以加入，大家发红包互助： 点击链接加入元宝派：",
+      "link": "https://g0f.cn/ios/testflight/rss-1c6fca16/",
+      "description": "<p>创建一个互领元宝红包派，有兴趣的可以加入，大家发红包互助： 点击链接加入元宝派：\n<a href=\"https://yb.tencent.com/gp/i/BrSwvwP5Fa1f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://yb.tencent.com/gp/i/BrSwvwP5Fa1f\n</a>\nTencent\n快来加入互领红包派\n在元宝派与朋友和元宝一起玩</p>",
+      "pub_date": "2026-02-07T16:28:00+08:00",
+      "updated_at": "2026-02-07T16:28:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Aidoku开源版",
       "link": "https://g0f.cn/ios/testflight/rss-7354084c/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/plbnVA5a\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/plbnVA5a\n</a>\n</p>",
@@ -12751,6 +12784,17 @@
       "title": "Step Timer",
       "link": "https://g0f.cn/ios/testflight/rss-0e70206f/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qzYzc6Pm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qzYzc6Pm\n</a>\n</p>",
+      "pub_date": "2026-02-07T00:00:00+08:00",
+      "updated_at": "2026-02-07T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Wave Reader",
+      "link": "https://g0f.cn/ios/testflight/rss-7d57ecfa/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6kWz18Sh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6kWz18Sh\n</a>\n</p>",
       "pub_date": "2026-02-07T00:00:00+08:00",
       "updated_at": "2026-02-07T00:00:00+08:00",
       "author": "",
