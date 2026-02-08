@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-08T14:57:56.174703+08:00",
+  "updated_at": "2026-02-08T21:02:15.823713+08:00",
   "total_sites": 6,
-  "total_posts": 1154,
+  "total_posts": 1157,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Chefview: AI Grocery List",
+          "link": "https://g0f.cn/ios/testflight/rss-2de239a4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gsTHX46Q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gsTHX46Q\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Das E-Rezept",
           "link": "https://g0f.cn/ios/testflight/rss-70730228/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rL8GdXdD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rL8GdXdD\n</a>\n</p>",
@@ -194,6 +205,28 @@
           "title": "Orbs",
           "link": "https://g0f.cn/ios/testflight/rss-bafd35d7/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/k2W8SbnC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/k2W8SbnC\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ShakeMemo: Handsfree todo list",
+          "link": "https://g0f.cn/ios/testflight/rss-745e2226/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/F78xGxyE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/F78xGxyE\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Summit: Portfolio Tracking",
+          "link": "https://g0f.cn/ios/testflight/rss-b82faf23/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aKMDk7w7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aKMDk7w7\n</a>\n</p>",
           "pub_date": "2026-02-08T00:00:00+08:00",
           "updated_at": "2026-02-08T00:00:00+08:00",
           "author": "",
@@ -12748,6 +12781,17 @@
   ],
   "all_posts": [
     {
+      "title": "Chefview: AI Grocery List",
+      "link": "https://g0f.cn/ios/testflight/rss-2de239a4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gsTHX46Q\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gsTHX46Q\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Das E-Rezept",
       "link": "https://g0f.cn/ios/testflight/rss-70730228/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rL8GdXdD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rL8GdXdD\n</a>\n</p>",
@@ -12795,6 +12839,28 @@
       "title": "Orbs",
       "link": "https://g0f.cn/ios/testflight/rss-bafd35d7/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/k2W8SbnC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/k2W8SbnC\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ShakeMemo: Handsfree todo list",
+      "link": "https://g0f.cn/ios/testflight/rss-745e2226/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/F78xGxyE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/F78xGxyE\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Summit: Portfolio Tracking",
+      "link": "https://g0f.cn/ios/testflight/rss-b82faf23/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aKMDk7w7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aKMDk7w7\n</a>\n</p>",
       "pub_date": "2026-02-08T00:00:00+08:00",
       "updated_at": "2026-02-08T00:00:00+08:00",
       "author": "",
