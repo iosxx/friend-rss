@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-08T11:14:34.063897+08:00",
+  "updated_at": "2026-02-08T14:57:56.174703+08:00",
   "total_sites": 6,
-  "total_posts": 1147,
+  "total_posts": 1154,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,83 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Das E-Rezept",
+          "link": "https://g0f.cn/ios/testflight/rss-70730228/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rL8GdXdD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rL8GdXdD\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "GGverse",
+          "link": "https://g0f.cn/ios/testflight/rss-adc476cd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ru8dPJA6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ru8dPJA6\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-8c48ec01/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=5QF-EZH7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=5QF-EZH7\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Notepad",
+          "link": "https://g0f.cn/ios/testflight/rss-94fdec29/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3X47Abyd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3X47Abyd\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Orbs",
+          "link": "https://g0f.cn/ios/testflight/rss-bafd35d7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/k2W8SbnC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/k2W8SbnC\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Twin Tails: 3D Home Design",
+          "link": "https://g0f.cn/ios/testflight/rss-93bb081a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kQcKVmK2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kQcKVmK2\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "酷安-分享美好科技生活",
+          "link": "https://g0f.cn/ios/testflight/rss-db40aacc/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mDDiYCzI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mDDiYCzI\n</a>\n</p>",
+          "pub_date": "2026-02-08T00:00:00+08:00",
+          "updated_at": "2026-02-08T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "创建一个互领元宝红包派，有兴趣的可以加入，大家发红包互助： 点击链接加入元宝派：",
           "link": "https://g0f.cn/ios/testflight/rss-1c6fca16/",
@@ -12670,6 +12747,83 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Das E-Rezept",
+      "link": "https://g0f.cn/ios/testflight/rss-70730228/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rL8GdXdD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rL8GdXdD\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "GGverse",
+      "link": "https://g0f.cn/ios/testflight/rss-adc476cd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ru8dPJA6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ru8dPJA6\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-8c48ec01/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=5QF-EZH7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=5QF-EZH7\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Notepad",
+      "link": "https://g0f.cn/ios/testflight/rss-94fdec29/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3X47Abyd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3X47Abyd\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Orbs",
+      "link": "https://g0f.cn/ios/testflight/rss-bafd35d7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/k2W8SbnC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/k2W8SbnC\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Twin Tails: 3D Home Design",
+      "link": "https://g0f.cn/ios/testflight/rss-93bb081a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kQcKVmK2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kQcKVmK2\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "酷安-分享美好科技生活",
+      "link": "https://g0f.cn/ios/testflight/rss-db40aacc/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/mDDiYCzI\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/mDDiYCzI\n</a>\n</p>",
+      "pub_date": "2026-02-08T00:00:00+08:00",
+      "updated_at": "2026-02-08T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "农场忆流年",
       "link": "https://wang618.cn/nong-chang-yi-liu-nian.html",
