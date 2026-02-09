@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-09T21:21:47.851224+08:00",
+  "updated_at": "2026-02-10T03:23:52.977499+08:00",
   "total_sites": 6,
-  "total_posts": 1173,
+  "total_posts": 1174,
   "sites": [
     {
       "name": "LiuSheng",
@@ -216,6 +216,17 @@
           "title": "Tailgate: Call the Shots",
           "link": "https://g0f.cn/ios/testflight/rss-748bb039/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5vnHnYDb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5vnHnYDb\n</a>\n</p>",
+          "pub_date": "2026-02-09T00:00:00+08:00",
+          "updated_at": "2026-02-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "WillPath",
+          "link": "https://g0f.cn/ios/testflight/rss-c28fc1b3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SQMNe3Zn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SQMNe3Zn\n</a>\n</p>",
           "pub_date": "2026-02-09T00:00:00+08:00",
           "updated_at": "2026-02-09T00:00:00+08:00",
           "author": "",
@@ -13037,6 +13048,17 @@
       "title": "Tailgate: Call the Shots",
       "link": "https://g0f.cn/ios/testflight/rss-748bb039/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5vnHnYDb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5vnHnYDb\n</a>\n</p>",
+      "pub_date": "2026-02-09T00:00:00+08:00",
+      "updated_at": "2026-02-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "WillPath",
+      "link": "https://g0f.cn/ios/testflight/rss-c28fc1b3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SQMNe3Zn\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SQMNe3Zn\n</a>\n</p>",
       "pub_date": "2026-02-09T00:00:00+08:00",
       "updated_at": "2026-02-09T00:00:00+08:00",
       "author": "",
