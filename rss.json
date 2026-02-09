@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-09T10:43:52.889927+08:00",
+  "updated_at": "2026-02-09T15:12:21.510712+08:00",
   "total_sites": 6,
-  "total_posts": 1166,
+  "total_posts": 1173,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,83 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Barsha",
+          "link": "https://g0f.cn/ios/testflight/rss-2d72a3a0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5knFDJBk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5knFDJBk\n</a>\n</p>",
+          "pub_date": "2026-02-09T00:00:00+08:00",
+          "updated_at": "2026-02-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Hydrofoil Surfing",
+          "link": "https://g0f.cn/ios/testflight/rss-efc2987a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/w9z36HDc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/w9z36HDc\n</a>\n</p>",
+          "pub_date": "2026-02-09T00:00:00+08:00",
+          "updated_at": "2026-02-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-4a5ef3a2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=13H-T6CQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=13H-T6CQ\n</a>\n</p>",
+          "pub_date": "2026-02-09T00:00:00+08:00",
+          "updated_at": "2026-02-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lumiere: Clawdbot & Agents",
+          "link": "https://g0f.cn/ios/testflight/rss-cc8711d4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sCAYmNAY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sCAYmNAY\n</a>\n</p>",
+          "pub_date": "2026-02-09T00:00:00+08:00",
+          "updated_at": "2026-02-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Power Apps",
+          "link": "https://g0f.cn/ios/testflight/rss-960aaa22/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/u0qAVQC6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/u0qAVQC6\n</a>\n</p>",
+          "pub_date": "2026-02-09T00:00:00+08:00",
+          "updated_at": "2026-02-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "S3XY Companion",
+          "link": "https://g0f.cn/ios/testflight/rss-15eb6b76/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/194LkkmW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/194LkkmW\n</a>\n</p>",
+          "pub_date": "2026-02-09T00:00:00+08:00",
+          "updated_at": "2026-02-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Tailgate: Call the Shots",
+          "link": "https://g0f.cn/ios/testflight/rss-748bb039/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5vnHnYDb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5vnHnYDb\n</a>\n</p>",
+          "pub_date": "2026-02-09T00:00:00+08:00",
+          "updated_at": "2026-02-09T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "APTV",
           "link": "https://g0f.cn/ios/testflight/rss-56ea445c/",
@@ -12879,6 +12956,83 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Barsha",
+      "link": "https://g0f.cn/ios/testflight/rss-2d72a3a0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5knFDJBk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5knFDJBk\n</a>\n</p>",
+      "pub_date": "2026-02-09T00:00:00+08:00",
+      "updated_at": "2026-02-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Hydrofoil Surfing",
+      "link": "https://g0f.cn/ios/testflight/rss-efc2987a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/w9z36HDc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/w9z36HDc\n</a>\n</p>",
+      "pub_date": "2026-02-09T00:00:00+08:00",
+      "updated_at": "2026-02-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-4a5ef3a2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=13H-T6CQ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=13H-T6CQ\n</a>\n</p>",
+      "pub_date": "2026-02-09T00:00:00+08:00",
+      "updated_at": "2026-02-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lumiere: Clawdbot & Agents",
+      "link": "https://g0f.cn/ios/testflight/rss-cc8711d4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sCAYmNAY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sCAYmNAY\n</a>\n</p>",
+      "pub_date": "2026-02-09T00:00:00+08:00",
+      "updated_at": "2026-02-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Power Apps",
+      "link": "https://g0f.cn/ios/testflight/rss-960aaa22/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/u0qAVQC6\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/u0qAVQC6\n</a>\n</p>",
+      "pub_date": "2026-02-09T00:00:00+08:00",
+      "updated_at": "2026-02-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "S3XY Companion",
+      "link": "https://g0f.cn/ios/testflight/rss-15eb6b76/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/194LkkmW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/194LkkmW\n</a>\n</p>",
+      "pub_date": "2026-02-09T00:00:00+08:00",
+      "updated_at": "2026-02-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Tailgate: Call the Shots",
+      "link": "https://g0f.cn/ios/testflight/rss-748bb039/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5vnHnYDb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5vnHnYDb\n</a>\n</p>",
+      "pub_date": "2026-02-09T00:00:00+08:00",
+      "updated_at": "2026-02-09T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "APTV",
       "link": "https://g0f.cn/ios/testflight/rss-56ea445c/",
