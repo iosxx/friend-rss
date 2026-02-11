@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-11T21:23:05.503807+08:00",
+  "updated_at": "2026-02-12T03:10:58.335911+08:00",
   "total_sites": 6,
-  "total_posts": 1203,
+  "total_posts": 1208,
   "sites": [
     {
       "name": "LiuSheng",
@@ -158,9 +158,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Carbon Browser",
+          "link": "https://g0f.cn/ios/testflight/rss-5c0a07c1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Nd0sc84V\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Nd0sc84V\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Dronelink Flight",
           "link": "https://g0f.cn/ios/testflight/rss-ce58affa/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PumJOBFK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PumJOBFK\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ELS",
+          "link": "https://g0f.cn/ios/testflight/rss-97e4c571/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/d4PgF4CK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/d4PgF4CK\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Fraction Steps: Learn Visually",
+          "link": "https://g0f.cn/ios/testflight/rss-c49359c4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VhzZ7q96\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VhzZ7q96\n</a>\n</p>",
           "pub_date": "2026-02-11T00:00:00+08:00",
           "updated_at": "2026-02-11T00:00:00+08:00",
           "author": "",
@@ -205,6 +238,28 @@
           "title": "Nutrilogix AI",
           "link": "https://g0f.cn/ios/testflight/rss-ca3ba5e7/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/R9aNvaJa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/R9aNvaJa\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "WaiMoney",
+          "link": "https://g0f.cn/ios/testflight/rss-cbc7ee25/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rTFZ8k1W\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rTFZ8k1W\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "WaiTime",
+          "link": "https://g0f.cn/ios/testflight/rss-01847def/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RJG8HdhJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RJG8HdhJ\n</a>\n</p>",
           "pub_date": "2026-02-11T00:00:00+08:00",
           "updated_at": "2026-02-11T00:00:00+08:00",
           "author": "",
@@ -13320,9 +13375,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Carbon Browser",
+      "link": "https://g0f.cn/ios/testflight/rss-5c0a07c1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Nd0sc84V\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Nd0sc84V\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Dronelink Flight",
       "link": "https://g0f.cn/ios/testflight/rss-ce58affa/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PumJOBFK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PumJOBFK\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ELS",
+      "link": "https://g0f.cn/ios/testflight/rss-97e4c571/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/d4PgF4CK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/d4PgF4CK\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Fraction Steps: Learn Visually",
+      "link": "https://g0f.cn/ios/testflight/rss-c49359c4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VhzZ7q96\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VhzZ7q96\n</a>\n</p>",
       "pub_date": "2026-02-11T00:00:00+08:00",
       "updated_at": "2026-02-11T00:00:00+08:00",
       "author": "",
@@ -13367,6 +13455,28 @@
       "title": "Nutrilogix AI",
       "link": "https://g0f.cn/ios/testflight/rss-ca3ba5e7/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/R9aNvaJa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/R9aNvaJa\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "WaiMoney",
+      "link": "https://g0f.cn/ios/testflight/rss-cbc7ee25/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rTFZ8k1W\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rTFZ8k1W\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "WaiTime",
+      "link": "https://g0f.cn/ios/testflight/rss-01847def/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RJG8HdhJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RJG8HdhJ\n</a>\n</p>",
       "pub_date": "2026-02-11T00:00:00+08:00",
       "updated_at": "2026-02-11T00:00:00+08:00",
       "author": "",
