@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-11T10:50:09.531353+08:00",
+  "updated_at": "2026-02-11T15:09:49.805599+08:00",
   "total_sites": 6,
-  "total_posts": 1196,
+  "total_posts": 1200,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Dronelink Flight",
+          "link": "https://g0f.cn/ios/testflight/rss-ce58affa/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PumJOBFK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PumJOBFK\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "JobLog - Application Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-66909fb9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9bxP6NCH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9bxP6NCH\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Nutrilogix AI",
+          "link": "https://g0f.cn/ios/testflight/rss-ca3ba5e7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/R9aNvaJa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/R9aNvaJa\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Zero SC",
+          "link": "https://g0f.cn/ios/testflight/rss-0c48978f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3Z9dv4rp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3Z9dv4rp\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "1raket",
           "link": "https://g0f.cn/ios/testflight/rss-449ec7e7/",
@@ -13219,6 +13263,50 @@
       "site_name": "故事的程序猿",
       "site_url": "https://blog.lichenghao.cn/",
       "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
+      "title": "Dronelink Flight",
+      "link": "https://g0f.cn/ios/testflight/rss-ce58affa/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PumJOBFK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PumJOBFK\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "JobLog - Application Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-66909fb9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9bxP6NCH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9bxP6NCH\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Nutrilogix AI",
+      "link": "https://g0f.cn/ios/testflight/rss-ca3ba5e7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/R9aNvaJa\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/R9aNvaJa\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Zero SC",
+      "link": "https://g0f.cn/ios/testflight/rss-0c48978f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3Z9dv4rp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3Z9dv4rp\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
       "title": "1raket",
