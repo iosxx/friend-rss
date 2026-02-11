@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-11T15:09:49.805599+08:00",
+  "updated_at": "2026-02-11T21:23:05.503807+08:00",
   "total_sites": 6,
-  "total_posts": 1200,
+  "total_posts": 1203,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Altitude+",
+          "link": "https://g0f.cn/ios/testflight/rss-80a58137/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EF6yC92h\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EF6yC92h\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Dronelink Flight",
           "link": "https://g0f.cn/ios/testflight/rss-ce58affa/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PumJOBFK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PumJOBFK\n</a>\n</p>",
@@ -158,9 +169,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Intune Company Portal",
+          "link": "https://g0f.cn/ios/testflight/rss-62a4cc32/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bbqF6tUB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bbqF6tUB\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "JobLog - Application Tracker",
           "link": "https://g0f.cn/ios/testflight/rss-66909fb9/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9bxP6NCH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9bxP6NCH\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-2a07278f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=CP4-DIDV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=CP4-DIDV\n</a>\n</p>",
           "pub_date": "2026-02-11T00:00:00+08:00",
           "updated_at": "2026-02-11T00:00:00+08:00",
           "author": "",
@@ -13030,6 +13063,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "骨玩",
+          "link": "https://wang618.cn/gu-wan.html",
+          "description": "<p>大家平时都盘什么文玩？我盘骨头，多年偶尔盘玩，现在已经局部玉化。既能修身养性，又能近战防身，这玩意真不错！<br />\n<img alt=\"骨玩1.webp\" src=\"https://wang618.cn/content/uploadfile/202602/051f1770805152.webp\" /><br />\n<img alt=\"骨玩2.webp\" src=\"https://wang618.cn/content/uploadfile/202602/0ee91770805152.webp\" /></p>",
+          "pub_date": "2026-02-11T18:14:56+08:00",
+          "updated_at": "2026-02-11T18:14:56+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "经不轻传",
           "link": "https://wang618.cn/jing-bu-qing-chuan.html",
           "description": "<p>最近在家闲着没事，又重读了《西游记》原著，看到第九十八回《猿熟马驯方脱壳 功成行满见真如》。唐僧师徒一路千辛万苦，好不容易走到灵山圣地，本以为功德圆满、马上就能拿到真经，没想到拜见阿傩、迦叶两位尊者时，对方竟然公开索要好处。师徒几人跋山涉水，根本没带什么人间财物，拿不出东西应酬。两位尊者干脆就给了他们无字的空白经书，看着像真经，其实一卷卷全是空的，徒有其表。后来如来知道了这事，不但没责怪两位尊者，反而替他们解释说：“经不可轻传，也不能白白拿走。” 仔细琢磨这一段，道理很深，越想越有味道。书里还提到，诵经一遍，换来三斗三升米粒黄金，如来还嫌卖得太便宜。按现在的标准折算，三斗三升黄金大约重 636900 克，以当前金价 1111 元 / 克来算，总价高达七亿多元。只念一遍经就要这么高的价钱，实在让人吃惊。如来这番话，其实同时包含了三层意思：修行的道理、佛门的规矩，还有对人间世事的看透。对内，用“要人事”这件事，破除人的贪念执着，圆满最后一劫，给取经这件事做个彻底了断；对外，点明凡事都有代价，佛法不能随便传、真道不能轻易得，立下佛门传经的规矩；对世人而言，作者借灵山这样神圣的地方，写出最现实的人情世故，照见人心的贪念、世间的冷暖，在神魔鬼怪的故事里，写尽了人间最真实的道理。<br />\n<img alt=\"经不轻传1.webp\" src=\"https://wang618.cn/content/uploadfile/202602/d4121770637086.webp\" /><br />\n<img alt=\"经不轻传2.webp\" src=\"https://wang618.cn/content/uploadfile/202602/47031770637086.webp\" /></p>",
@@ -13237,22 +13281,22 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "懒冬饺酒闲情",
-          "link": "https://wang618.cn/lan-dong-jiao-jiu-xian-qing.html",
-          "description": "<p>冬至如约而至，耳边又响起那句“冬至不端饺子碗，冻掉耳朵没人管”的老话。偷了个懒没下厨，外卖饺子配双合盛啤酒，一口暖食一口酒，这个冬节，舒服又圆满～</p>\n<p><img alt=\"饺子01.webp\" src=\"https://wang618.cn/content/uploadfile/202512/e0ea1766301530.webp\" /></p>\n<p><img alt=\"饺子02.webp\" src=\"https://wang618.cn/content/uploadfile/202512/3b1e1766301530.webp\" /></p>\n<p><img alt=\"饺子03.webp\" src=\"https://wang618.cn/content/uploadfile/202512/b9bc1766301530.webp\" /></p>",
-          "pub_date": "2025-12-21T15:21:05+08:00",
-          "updated_at": "2025-12-21T15:21:05+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
+    {
+      "title": "骨玩",
+      "link": "https://wang618.cn/gu-wan.html",
+      "description": "<p>大家平时都盘什么文玩？我盘骨头，多年偶尔盘玩，现在已经局部玉化。既能修身养性，又能近战防身，这玩意真不错！<br />\n<img alt=\"骨玩1.webp\" src=\"https://wang618.cn/content/uploadfile/202602/051f1770805152.webp\" /><br />\n<img alt=\"骨玩2.webp\" src=\"https://wang618.cn/content/uploadfile/202602/0ee91770805152.webp\" /></p>",
+      "pub_date": "2026-02-11T18:14:56+08:00",
+      "updated_at": "2026-02-11T18:14:56+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
     {
       "title": "25年最后一个工作日！",
       "link": "https://blog.lichenghao.cn/article/u5v652rayigk",
@@ -13263,6 +13307,17 @@
       "site_name": "故事的程序猿",
       "site_url": "https://blog.lichenghao.cn/",
       "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
+      "title": "Altitude+",
+      "link": "https://g0f.cn/ios/testflight/rss-80a58137/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EF6yC92h\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EF6yC92h\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
       "title": "Dronelink Flight",
@@ -13276,9 +13331,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Intune Company Portal",
+      "link": "https://g0f.cn/ios/testflight/rss-62a4cc32/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bbqF6tUB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bbqF6tUB\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "JobLog - Application Tracker",
       "link": "https://g0f.cn/ios/testflight/rss-66909fb9/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9bxP6NCH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9bxP6NCH\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-2a07278f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=CP4-DIDV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=CP4-DIDV\n</a>\n</p>",
       "pub_date": "2026-02-11T00:00:00+08:00",
       "updated_at": "2026-02-11T00:00:00+08:00",
       "author": "",
@@ -22327,17 +22404,6 @@
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "懒冬饺酒闲情",
-      "link": "https://wang618.cn/lan-dong-jiao-jiu-xian-qing.html",
-      "description": "<p>冬至如约而至，耳边又响起那句“冬至不端饺子碗，冻掉耳朵没人管”的老话。偷了个懒没下厨，外卖饺子配双合盛啤酒，一口暖食一口酒，这个冬节，舒服又圆满～</p>\n<p><img alt=\"饺子01.webp\" src=\"https://wang618.cn/content/uploadfile/202512/e0ea1766301530.webp\" /></p>\n<p><img alt=\"饺子02.webp\" src=\"https://wang618.cn/content/uploadfile/202512/3b1e1766301530.webp\" /></p>\n<p><img alt=\"饺子03.webp\" src=\"https://wang618.cn/content/uploadfile/202512/b9bc1766301530.webp\" /></p>",
-      "pub_date": "2025-12-21T15:21:05+08:00",
-      "updated_at": "2025-12-21T15:21:05+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "部署一只麦麦QQ机器人",
