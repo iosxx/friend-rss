@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-12T03:10:58.335911+08:00",
+  "updated_at": "2026-02-12T10:45:34.529655+08:00",
   "total_sites": 6,
-  "total_posts": 1208,
+  "total_posts": 1214,
   "sites": [
     {
       "name": "LiuSheng",
@@ -169,6 +169,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Divine Video",
+          "link": "https://g0f.cn/ios/testflight/rss-eff66466/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/phQERxAb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/phQERxAb\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Dronelink Flight",
           "link": "https://g0f.cn/ios/testflight/rss-ce58affa/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PumJOBFK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PumJOBFK\n</a>\n</p>",
@@ -191,9 +202,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "FediReader: News for Mastodon",
+          "link": "https://g0f.cn/ios/testflight/rss-42d29132/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tFmh7dw4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tFmh7dw4\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Fraction Steps: Learn Visually",
           "link": "https://g0f.cn/ios/testflight/rss-c49359c4/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VhzZ7q96\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VhzZ7q96\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "GoLimitlesss",
+          "link": "https://g0f.cn/ios/testflight/rss-10642e32/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SRHc84tc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SRHc84tc\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "iCost记账-快速简洁好用的记账理财助手&记账软件",
+          "link": "https://g0f.cn/ios/testflight/rss-a826e2fa/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pm1jk978\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pm1jk978\n</a>\n</p>",
           "pub_date": "2026-02-11T00:00:00+08:00",
           "updated_at": "2026-02-11T00:00:00+08:00",
           "author": "",
@@ -246,6 +290,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Twiv for Twitch",
+          "link": "https://g0f.cn/ios/testflight/rss-429be3d5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WyFYW8wE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WyFYW8wE\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "WaiMoney",
           "link": "https://g0f.cn/ios/testflight/rss-cbc7ee25/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rTFZ8k1W\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rTFZ8k1W\n</a>\n</p>",
@@ -260,6 +315,17 @@
           "title": "WaiTime",
           "link": "https://g0f.cn/ios/testflight/rss-01847def/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RJG8HdhJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RJG8HdhJ\n</a>\n</p>",
+          "pub_date": "2026-02-11T00:00:00+08:00",
+          "updated_at": "2026-02-11T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Xeris Command Center",
+          "link": "https://g0f.cn/ios/testflight/rss-129347e1/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yYPY9dry\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yYPY9dry\n</a>\n</p>",
           "pub_date": "2026-02-11T00:00:00+08:00",
           "updated_at": "2026-02-11T00:00:00+08:00",
           "author": "",
@@ -13386,6 +13452,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Divine Video",
+      "link": "https://g0f.cn/ios/testflight/rss-eff66466/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/phQERxAb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/phQERxAb\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Dronelink Flight",
       "link": "https://g0f.cn/ios/testflight/rss-ce58affa/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PumJOBFK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PumJOBFK\n</a>\n</p>",
@@ -13408,9 +13485,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "FediReader: News for Mastodon",
+      "link": "https://g0f.cn/ios/testflight/rss-42d29132/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tFmh7dw4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tFmh7dw4\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Fraction Steps: Learn Visually",
       "link": "https://g0f.cn/ios/testflight/rss-c49359c4/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/VhzZ7q96\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/VhzZ7q96\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "GoLimitlesss",
+      "link": "https://g0f.cn/ios/testflight/rss-10642e32/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SRHc84tc\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SRHc84tc\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "iCost记账-快速简洁好用的记账理财助手&记账软件",
+      "link": "https://g0f.cn/ios/testflight/rss-a826e2fa/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/pm1jk978\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/pm1jk978\n</a>\n</p>",
       "pub_date": "2026-02-11T00:00:00+08:00",
       "updated_at": "2026-02-11T00:00:00+08:00",
       "author": "",
@@ -13463,6 +13573,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Twiv for Twitch",
+      "link": "https://g0f.cn/ios/testflight/rss-429be3d5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WyFYW8wE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WyFYW8wE\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "WaiMoney",
       "link": "https://g0f.cn/ios/testflight/rss-cbc7ee25/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rTFZ8k1W\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rTFZ8k1W\n</a>\n</p>",
@@ -13477,6 +13598,17 @@
       "title": "WaiTime",
       "link": "https://g0f.cn/ios/testflight/rss-01847def/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/RJG8HdhJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RJG8HdhJ\n</a>\n</p>",
+      "pub_date": "2026-02-11T00:00:00+08:00",
+      "updated_at": "2026-02-11T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Xeris Command Center",
+      "link": "https://g0f.cn/ios/testflight/rss-129347e1/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yYPY9dry\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yYPY9dry\n</a>\n</p>",
       "pub_date": "2026-02-11T00:00:00+08:00",
       "updated_at": "2026-02-11T00:00:00+08:00",
       "author": "",
