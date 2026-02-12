@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-12T10:45:34.529655+08:00",
+  "updated_at": "2026-02-12T15:08:48.826524+08:00",
   "total_sites": 6,
-  "total_posts": 1214,
+  "total_posts": 1222,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,94 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Chop - AI Cooking Coach",
+          "link": "https://g0f.cn/ios/testflight/rss-bb0bcc91/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Qk196pu8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Qk196pu8\n</a>\n</p>",
+          "pub_date": "2026-02-12T00:00:00+08:00",
+          "updated_at": "2026-02-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Crosspoint: Logic Puzzle",
+          "link": "https://g0f.cn/ios/testflight/rss-dd7dfc3c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5wTD37YV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5wTD37YV\n</a>\n</p>",
+          "pub_date": "2026-02-12T00:00:00+08:00",
+          "updated_at": "2026-02-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "FitToday",
+          "link": "https://g0f.cn/ios/testflight/rss-60dbfc89/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xySzkez9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xySzkez9\n</a>\n</p>",
+          "pub_date": "2026-02-12T00:00:00+08:00",
+          "updated_at": "2026-02-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Geometria2",
+          "link": "https://g0f.cn/ios/testflight/rss-a1aecf8c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/deeyX7g2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/deeyX7g2\n</a>\n</p>",
+          "pub_date": "2026-02-12T00:00:00+08:00",
+          "updated_at": "2026-02-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lulluna - Sleep & Relax",
+          "link": "https://g0f.cn/ios/testflight/rss-c4046e20/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WCkNtNcf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WCkNtNcf\n</a>\n</p>",
+          "pub_date": "2026-02-12T00:00:00+08:00",
+          "updated_at": "2026-02-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "notes (bb0822)",
+          "link": "https://g0f.cn/ios/testflight/rss-50513dce/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/j8ksWfuE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/j8ksWfuE\n</a>\n</p>",
+          "pub_date": "2026-02-12T00:00:00+08:00",
+          "updated_at": "2026-02-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Pixel Pow",
+          "link": "https://g0f.cn/ios/testflight/rss-46287b8e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/48p6N3Zu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/48p6N3Zu\n</a>\n</p>",
+          "pub_date": "2026-02-12T00:00:00+08:00",
+          "updated_at": "2026-02-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SoIRL - Social in Real Life",
+          "link": "https://g0f.cn/ios/testflight/rss-660a3536/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZjPfZuBH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZjPfZuBH\n</a>\n</p>",
+          "pub_date": "2026-02-12T00:00:00+08:00",
+          "updated_at": "2026-02-12T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Altitude+",
           "link": "https://g0f.cn/ios/testflight/rss-80a58137/",
@@ -13407,6 +13495,94 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Chop - AI Cooking Coach",
+      "link": "https://g0f.cn/ios/testflight/rss-bb0bcc91/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Qk196pu8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Qk196pu8\n</a>\n</p>",
+      "pub_date": "2026-02-12T00:00:00+08:00",
+      "updated_at": "2026-02-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Crosspoint: Logic Puzzle",
+      "link": "https://g0f.cn/ios/testflight/rss-dd7dfc3c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5wTD37YV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5wTD37YV\n</a>\n</p>",
+      "pub_date": "2026-02-12T00:00:00+08:00",
+      "updated_at": "2026-02-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "FitToday",
+      "link": "https://g0f.cn/ios/testflight/rss-60dbfc89/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xySzkez9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xySzkez9\n</a>\n</p>",
+      "pub_date": "2026-02-12T00:00:00+08:00",
+      "updated_at": "2026-02-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Geometria2",
+      "link": "https://g0f.cn/ios/testflight/rss-a1aecf8c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/deeyX7g2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/deeyX7g2\n</a>\n</p>",
+      "pub_date": "2026-02-12T00:00:00+08:00",
+      "updated_at": "2026-02-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lulluna - Sleep & Relax",
+      "link": "https://g0f.cn/ios/testflight/rss-c4046e20/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WCkNtNcf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WCkNtNcf\n</a>\n</p>",
+      "pub_date": "2026-02-12T00:00:00+08:00",
+      "updated_at": "2026-02-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "notes (bb0822)",
+      "link": "https://g0f.cn/ios/testflight/rss-50513dce/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/j8ksWfuE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/j8ksWfuE\n</a>\n</p>",
+      "pub_date": "2026-02-12T00:00:00+08:00",
+      "updated_at": "2026-02-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Pixel Pow",
+      "link": "https://g0f.cn/ios/testflight/rss-46287b8e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/48p6N3Zu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/48p6N3Zu\n</a>\n</p>",
+      "pub_date": "2026-02-12T00:00:00+08:00",
+      "updated_at": "2026-02-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SoIRL - Social in Real Life",
+      "link": "https://g0f.cn/ios/testflight/rss-660a3536/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZjPfZuBH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZjPfZuBH\n</a>\n</p>",
+      "pub_date": "2026-02-12T00:00:00+08:00",
+      "updated_at": "2026-02-12T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "骨玩",
       "link": "https://wang618.cn/gu-wan.html",
