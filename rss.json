@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-13T15:06:00.594517+08:00",
+  "updated_at": "2026-02-13T21:13:24.676076+08:00",
   "total_sites": 6,
-  "total_posts": 1242,
+  "total_posts": 1248,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,28 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Benkyo Box",
+          "link": "https://g0f.cn/ios/testflight/rss-960aee07/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/eHBWUu1u\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/eHBWUu1u\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "BetterTalk: Think Before Send",
+          "link": "https://g0f.cn/ios/testflight/rss-d5eaaf5c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3r465HpT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3r465HpT\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Fitnit",
           "link": "https://g0f.cn/ios/testflight/rss-02d444bb/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/U9bFZrKA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/U9bFZrKA\n</a>\n</p>",
@@ -158,9 +180,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Key Quest Mobile",
+          "link": "https://g0f.cn/ios/testflight/rss-954531b3/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xNvNun4W\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xNvNun4W\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Miracle - Trading Reimagined",
           "link": "https://g0f.cn/ios/testflight/rss-3404fad8/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y4kT7f73\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y4kT7f73\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "OnTime – Stay in Sync",
+          "link": "https://g0f.cn/ios/testflight/rss-ca8ec673/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Yd9bBzSe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Yd9bBzSe\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ROCSI (031eb4)",
+          "link": "https://g0f.cn/ios/testflight/rss-5db1fae4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xqcb8BHY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xqcb8BHY\n</a>\n</p>",
           "pub_date": "2026-02-13T00:00:00+08:00",
           "updated_at": "2026-02-13T00:00:00+08:00",
           "author": "",
@@ -183,6 +238,17 @@
           "title": "Wild-Chase",
           "link": "https://g0f.cn/ios/testflight/rss-4a5d0834/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1Smz3DAY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1Smz3DAY\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "YourMeal: AI Calorie Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-f45ab4dc/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Yz3mXKBp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Yz3mXKBp\n</a>\n</p>",
           "pub_date": "2026-02-13T00:00:00+08:00",
           "updated_at": "2026-02-13T00:00:00+08:00",
           "author": "",
@@ -13716,6 +13782,28 @@
   ],
   "all_posts": [
     {
+      "title": "Benkyo Box",
+      "link": "https://g0f.cn/ios/testflight/rss-960aee07/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/eHBWUu1u\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/eHBWUu1u\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "BetterTalk: Think Before Send",
+      "link": "https://g0f.cn/ios/testflight/rss-d5eaaf5c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3r465HpT\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3r465HpT\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Fitnit",
       "link": "https://g0f.cn/ios/testflight/rss-02d444bb/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/U9bFZrKA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/U9bFZrKA\n</a>\n</p>",
@@ -13727,9 +13815,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Key Quest Mobile",
+      "link": "https://g0f.cn/ios/testflight/rss-954531b3/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xNvNun4W\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xNvNun4W\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Miracle - Trading Reimagined",
       "link": "https://g0f.cn/ios/testflight/rss-3404fad8/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y4kT7f73\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y4kT7f73\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "OnTime – Stay in Sync",
+      "link": "https://g0f.cn/ios/testflight/rss-ca8ec673/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Yd9bBzSe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Yd9bBzSe\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ROCSI (031eb4)",
+      "link": "https://g0f.cn/ios/testflight/rss-5db1fae4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xqcb8BHY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xqcb8BHY\n</a>\n</p>",
       "pub_date": "2026-02-13T00:00:00+08:00",
       "updated_at": "2026-02-13T00:00:00+08:00",
       "author": "",
@@ -13752,6 +13873,17 @@
       "title": "Wild-Chase",
       "link": "https://g0f.cn/ios/testflight/rss-4a5d0834/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1Smz3DAY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1Smz3DAY\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "YourMeal: AI Calorie Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-f45ab4dc/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Yz3mXKBp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Yz3mXKBp\n</a>\n</p>",
       "pub_date": "2026-02-13T00:00:00+08:00",
       "updated_at": "2026-02-13T00:00:00+08:00",
       "author": "",
