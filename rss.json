@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-13T10:46:23.048418+08:00",
+  "updated_at": "2026-02-13T15:06:00.594517+08:00",
   "total_sites": 6,
-  "total_posts": 1237,
+  "total_posts": 1242,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,61 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Fitnit",
+          "link": "https://g0f.cn/ios/testflight/rss-02d444bb/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/U9bFZrKA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/U9bFZrKA\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Miracle - Trading Reimagined",
+          "link": "https://g0f.cn/ios/testflight/rss-3404fad8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y4kT7f73\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y4kT7f73\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "The Daily Gist (629114)",
+          "link": "https://g0f.cn/ios/testflight/rss-9b88f2cc/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CfVJJYEp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CfVJJYEp\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Wild-Chase",
+          "link": "https://g0f.cn/ios/testflight/rss-4a5d0834/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1Smz3DAY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1Smz3DAY\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "野鳥GO",
+          "link": "https://g0f.cn/ios/testflight/rss-c9c5eb5f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/b5vBBmy9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/b5vBBmy9\n</a>\n</p>",
+          "pub_date": "2026-02-13T00:00:00+08:00",
+          "updated_at": "2026-02-13T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Age Better (716277)",
           "link": "https://g0f.cn/ios/testflight/rss-18f95908/",
@@ -13660,6 +13715,61 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Fitnit",
+      "link": "https://g0f.cn/ios/testflight/rss-02d444bb/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/U9bFZrKA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/U9bFZrKA\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Miracle - Trading Reimagined",
+      "link": "https://g0f.cn/ios/testflight/rss-3404fad8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y4kT7f73\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y4kT7f73\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "The Daily Gist (629114)",
+      "link": "https://g0f.cn/ios/testflight/rss-9b88f2cc/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CfVJJYEp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CfVJJYEp\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Wild-Chase",
+      "link": "https://g0f.cn/ios/testflight/rss-4a5d0834/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1Smz3DAY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1Smz3DAY\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "野鳥GO",
+      "link": "https://g0f.cn/ios/testflight/rss-c9c5eb5f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/b5vBBmy9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/b5vBBmy9\n</a>\n</p>",
+      "pub_date": "2026-02-13T00:00:00+08:00",
+      "updated_at": "2026-02-13T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Age Better (716277)",
       "link": "https://g0f.cn/ios/testflight/rss-18f95908/",
