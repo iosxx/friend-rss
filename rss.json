@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-14T14:54:26.673849+08:00",
+  "updated_at": "2026-02-14T21:01:24.319859+08:00",
   "total_sites": 6,
-  "total_posts": 1271,
+  "total_posts": 1277,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,28 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Anemll chat",
+          "link": "https://g0f.cn/ios/testflight/rss-4ffe94ee/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jrQq1D1C\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jrQq1D1C\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Built: Weightlifting Gym Rank",
+          "link": "https://g0f.cn/ios/testflight/rss-5a12a908/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ePqZXTvC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ePqZXTvC\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Cover Your Tail",
           "link": "https://g0f.cn/ios/testflight/rss-7b08d831/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zaq9xhyG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zaq9xhyG\n</a>\n</p>",
@@ -213,9 +235,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "MTG Scanner - Lion’s Eye",
+          "link": "https://g0f.cn/ios/testflight/rss-35eb499f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yj6QDl0H\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yj6QDl0H\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "MyWeight²",
           "link": "https://g0f.cn/ios/testflight/rss-4eee73f5/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tCFT6Kfr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tCFT6Kfr\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Number March",
+          "link": "https://g0f.cn/ios/testflight/rss-b878c446/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/funpkKFW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/funpkKFW\n</a>\n</p>",
           "pub_date": "2026-02-14T00:00:00+08:00",
           "updated_at": "2026-02-14T00:00:00+08:00",
           "author": "",
@@ -235,9 +279,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Project Alfred",
+          "link": "https://g0f.cn/ios/testflight/rss-465d0ae4/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tPzNxp7R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tPzNxp7R\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Sleep Suivour",
           "link": "https://g0f.cn/ios/testflight/rss-41eb6d6e/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CdgnCFbH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CdgnCFbH\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Tickemo - チケット管理 & 推し活ライブ記録",
+          "link": "https://g0f.cn/ios/testflight/rss-c96136c9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7stWmpEk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7stWmpEk\n</a>\n</p>",
           "pub_date": "2026-02-14T00:00:00+08:00",
           "updated_at": "2026-02-14T00:00:00+08:00",
           "author": "",
@@ -14035,6 +14101,28 @@
   ],
   "all_posts": [
     {
+      "title": "Anemll chat",
+      "link": "https://g0f.cn/ios/testflight/rss-4ffe94ee/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jrQq1D1C\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jrQq1D1C\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Built: Weightlifting Gym Rank",
+      "link": "https://g0f.cn/ios/testflight/rss-5a12a908/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ePqZXTvC\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ePqZXTvC\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Cover Your Tail",
       "link": "https://g0f.cn/ios/testflight/rss-7b08d831/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zaq9xhyG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zaq9xhyG\n</a>\n</p>",
@@ -14101,9 +14189,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "MTG Scanner - Lion’s Eye",
+      "link": "https://g0f.cn/ios/testflight/rss-35eb499f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yj6QDl0H\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yj6QDl0H\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "MyWeight²",
       "link": "https://g0f.cn/ios/testflight/rss-4eee73f5/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tCFT6Kfr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tCFT6Kfr\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Number March",
+      "link": "https://g0f.cn/ios/testflight/rss-b878c446/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/funpkKFW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/funpkKFW\n</a>\n</p>",
       "pub_date": "2026-02-14T00:00:00+08:00",
       "updated_at": "2026-02-14T00:00:00+08:00",
       "author": "",
@@ -14123,9 +14233,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Project Alfred",
+      "link": "https://g0f.cn/ios/testflight/rss-465d0ae4/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tPzNxp7R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tPzNxp7R\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Sleep Suivour",
       "link": "https://g0f.cn/ios/testflight/rss-41eb6d6e/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CdgnCFbH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CdgnCFbH\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Tickemo - チケット管理 & 推し活ライブ記録",
+      "link": "https://g0f.cn/ios/testflight/rss-c96136c9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7stWmpEk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7stWmpEk\n</a>\n</p>",
       "pub_date": "2026-02-14T00:00:00+08:00",
       "updated_at": "2026-02-14T00:00:00+08:00",
       "author": "",
