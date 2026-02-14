@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-14T21:01:24.319859+08:00",
+  "updated_at": "2026-02-15T02:42:37.269809+08:00",
   "total_sites": 6,
-  "total_posts": 1277,
+  "total_posts": 1279,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "MiniBili",
+          "link": "https://g0f.cn/ios/testflight/rss-a50478d4/",
+          "description": "<p>#MiniBili</p>\n<p>\n<a href=\"https://testflight.apple.com/join/TgcHSGwb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TgcHSGwb\n</a>\nApple\nJoin the MiniBili beta\nAvailable on iOS</p>",
+          "pub_date": "2026-02-14T06:54:00+08:00",
+          "updated_at": "2026-02-14T06:54:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Anemll chat",
           "link": "https://g0f.cn/ios/testflight/rss-4ffe94ee/",
@@ -304,6 +315,17 @@
           "title": "Tickemo - チケット管理 & 推し活ライブ記録",
           "link": "https://g0f.cn/ios/testflight/rss-c96136c9/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7stWmpEk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7stWmpEk\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Unstoppable Crypto Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-cb7c1644/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JaKdKPY5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JaKdKPY5\n</a>\n</p>",
           "pub_date": "2026-02-14T00:00:00+08:00",
           "updated_at": "2026-02-14T00:00:00+08:00",
           "author": "",
@@ -14101,6 +14123,17 @@
   ],
   "all_posts": [
     {
+      "title": "MiniBili",
+      "link": "https://g0f.cn/ios/testflight/rss-a50478d4/",
+      "description": "<p>#MiniBili</p>\n<p>\n<a href=\"https://testflight.apple.com/join/TgcHSGwb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TgcHSGwb\n</a>\nApple\nJoin the MiniBili beta\nAvailable on iOS</p>",
+      "pub_date": "2026-02-14T06:54:00+08:00",
+      "updated_at": "2026-02-14T06:54:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Anemll chat",
       "link": "https://g0f.cn/ios/testflight/rss-4ffe94ee/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jrQq1D1C\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jrQq1D1C\n</a>\n</p>",
@@ -14258,6 +14291,17 @@
       "title": "Tickemo - チケット管理 & 推し活ライブ記録",
       "link": "https://g0f.cn/ios/testflight/rss-c96136c9/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/7stWmpEk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/7stWmpEk\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Unstoppable Crypto Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-cb7c1644/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/JaKdKPY5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/JaKdKPY5\n</a>\n</p>",
       "pub_date": "2026-02-14T00:00:00+08:00",
       "updated_at": "2026-02-14T00:00:00+08:00",
       "author": "",
