@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-14T10:33:24.537221+08:00",
+  "updated_at": "2026-02-14T14:54:26.673849+08:00",
   "total_sites": 6,
-  "total_posts": 1262,
+  "total_posts": 1271,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,105 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Cover Your Tail",
+          "link": "https://g0f.cn/ios/testflight/rss-7b08d831/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zaq9xhyG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zaq9xhyG\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "FDL合同会社",
+          "link": "https://g0f.cn/ios/testflight/rss-eff7098a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PgWgkat7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PgWgkat7\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Hedron Companion App",
+          "link": "https://g0f.cn/ios/testflight/rss-d26c5226/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Swfqpr54\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Swfqpr54\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "iCardSort",
+          "link": "https://g0f.cn/ios/testflight/rss-e0bb93ee/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sMT7MqYt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sMT7MqYt\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Khada - Model Viewer for LoL",
+          "link": "https://g0f.cn/ios/testflight/rss-c838900b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z0PUW1rU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z0PUW1rU\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lume Wallet",
+          "link": "https://g0f.cn/ios/testflight/rss-65d8d933/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "MyWeight²",
+          "link": "https://g0f.cn/ios/testflight/rss-4eee73f5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tCFT6Kfr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tCFT6Kfr\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "PlayMarket (d54069)",
+          "link": "https://g0f.cn/ios/testflight/rss-035df6fd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y7gE18x7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y7gE18x7\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Sleep Suivour",
+          "link": "https://g0f.cn/ios/testflight/rss-41eb6d6e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CdgnCFbH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CdgnCFbH\n</a>\n</p>",
+          "pub_date": "2026-02-14T00:00:00+08:00",
+          "updated_at": "2026-02-14T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "（CarPlay+tvOS+watchOS+macOS+iOS和iPadOS）的epub3阅读器Silveran Reader感兴趣的速度： testflight.apple.com/join/9Cvs89nz",
           "link": "https://g0f.cn/ios/testflight/rss-2952afe1/",
@@ -13935,6 +14034,105 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Cover Your Tail",
+      "link": "https://g0f.cn/ios/testflight/rss-7b08d831/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zaq9xhyG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zaq9xhyG\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "FDL合同会社",
+      "link": "https://g0f.cn/ios/testflight/rss-eff7098a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/PgWgkat7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/PgWgkat7\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Hedron Companion App",
+      "link": "https://g0f.cn/ios/testflight/rss-d26c5226/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Swfqpr54\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Swfqpr54\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "iCardSort",
+      "link": "https://g0f.cn/ios/testflight/rss-e0bb93ee/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sMT7MqYt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sMT7MqYt\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Khada - Model Viewer for LoL",
+      "link": "https://g0f.cn/ios/testflight/rss-c838900b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Z0PUW1rU\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Z0PUW1rU\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lume Wallet",
+      "link": "https://g0f.cn/ios/testflight/rss-65d8d933/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "MyWeight²",
+      "link": "https://g0f.cn/ios/testflight/rss-4eee73f5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/tCFT6Kfr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/tCFT6Kfr\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "PlayMarket (d54069)",
+      "link": "https://g0f.cn/ios/testflight/rss-035df6fd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y7gE18x7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y7gE18x7\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Sleep Suivour",
+      "link": "https://g0f.cn/ios/testflight/rss-41eb6d6e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/CdgnCFbH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/CdgnCFbH\n</a>\n</p>",
+      "pub_date": "2026-02-14T00:00:00+08:00",
+      "updated_at": "2026-02-14T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "（CarPlay+tvOS+watchOS+macOS+iOS和iPadOS）的epub3阅读器Silveran Reader感兴趣的速度： testflight.apple.com/join/9Cvs89nz",
       "link": "https://g0f.cn/ios/testflight/rss-2952afe1/",
