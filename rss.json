@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-15T21:03:20.930709+08:00",
+  "updated_at": "2026-02-16T02:44:37.527980+08:00",
   "total_sites": 6,
-  "total_posts": 1292,
+  "total_posts": 1297,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,9 +147,42 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Citations",
+          "link": "https://g0f.cn/ios/testflight/rss-05a32ec8/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vxobmPVp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vxobmPVp\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Crusade the Game",
           "link": "https://g0f.cn/ios/testflight/rss-e5e5a751/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/V3d2YBJD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/V3d2YBJD\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Kifu Snap",
+          "link": "https://g0f.cn/ios/testflight/rss-f3f97cef/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/E1qS9vBr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/E1qS9vBr\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "LordOfSavings",
+          "link": "https://g0f.cn/ios/testflight/rss-fa31fa0e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UyhUUgx8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UyhUUgx8\n</a>\n</p>",
           "pub_date": "2026-02-15T00:00:00+08:00",
           "updated_at": "2026-02-15T00:00:00+08:00",
           "author": "",
@@ -172,6 +205,28 @@
           "title": "SteveCFDNS",
           "link": "https://g0f.cn/ios/testflight/rss-90191cdd/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TbvE3b2s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TbvE3b2s\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Sunsear: Avian Combat",
+          "link": "https://g0f.cn/ios/testflight/rss-038b0c5f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xbS1ArdX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xbS1ArdX\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Swae - nostr",
+          "link": "https://g0f.cn/ios/testflight/rss-248a09c2/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/r9f4njzd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/r9f4njzd\n</a>\n</p>",
           "pub_date": "2026-02-15T00:00:00+08:00",
           "updated_at": "2026-02-15T00:00:00+08:00",
           "author": "",
@@ -14277,9 +14332,42 @@
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
+      "title": "Citations",
+      "link": "https://g0f.cn/ios/testflight/rss-05a32ec8/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vxobmPVp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vxobmPVp\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Crusade the Game",
       "link": "https://g0f.cn/ios/testflight/rss-e5e5a751/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/V3d2YBJD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/V3d2YBJD\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Kifu Snap",
+      "link": "https://g0f.cn/ios/testflight/rss-f3f97cef/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/E1qS9vBr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/E1qS9vBr\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "LordOfSavings",
+      "link": "https://g0f.cn/ios/testflight/rss-fa31fa0e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/UyhUUgx8\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/UyhUUgx8\n</a>\n</p>",
       "pub_date": "2026-02-15T00:00:00+08:00",
       "updated_at": "2026-02-15T00:00:00+08:00",
       "author": "",
@@ -14302,6 +14390,28 @@
       "title": "SteveCFDNS",
       "link": "https://g0f.cn/ios/testflight/rss-90191cdd/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TbvE3b2s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TbvE3b2s\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Sunsear: Avian Combat",
+      "link": "https://g0f.cn/ios/testflight/rss-038b0c5f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/xbS1ArdX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/xbS1ArdX\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Swae - nostr",
+      "link": "https://g0f.cn/ios/testflight/rss-248a09c2/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/r9f4njzd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/r9f4njzd\n</a>\n</p>",
       "pub_date": "2026-02-15T00:00:00+08:00",
       "updated_at": "2026-02-15T00:00:00+08:00",
       "author": "",
