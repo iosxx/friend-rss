@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-15T10:46:58.476511+08:00",
+  "updated_at": "2026-02-15T14:57:58.713944+08:00",
   "total_sites": 6,
-  "total_posts": 1287,
+  "total_posts": 1292,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,61 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Crusade the Game",
+          "link": "https://g0f.cn/ios/testflight/rss-e5e5a751/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/V3d2YBJD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/V3d2YBJD\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lore Shop App",
+          "link": "https://g0f.cn/ios/testflight/rss-6dabc723/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ye4AxUTY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ye4AxUTY\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "SteveCFDNS",
+          "link": "https://g0f.cn/ios/testflight/rss-90191cdd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TbvE3b2s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TbvE3b2s\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "TrackBack Symptom Tracker",
+          "link": "https://g0f.cn/ios/testflight/rss-c80eb21a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZWC7qR5p\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZWC7qR5p\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "XZZZX",
+          "link": "https://g0f.cn/ios/testflight/rss-fd109734/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8Qj26trk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8Qj26trk\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "MiniBili",
           "link": "https://g0f.cn/ios/testflight/rss-a50478d4/",
@@ -14210,6 +14265,61 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Crusade the Game",
+      "link": "https://g0f.cn/ios/testflight/rss-e5e5a751/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/V3d2YBJD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/V3d2YBJD\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lore Shop App",
+      "link": "https://g0f.cn/ios/testflight/rss-6dabc723/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ye4AxUTY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ye4AxUTY\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "SteveCFDNS",
+      "link": "https://g0f.cn/ios/testflight/rss-90191cdd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TbvE3b2s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TbvE3b2s\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "TrackBack Symptom Tracker",
+      "link": "https://g0f.cn/ios/testflight/rss-c80eb21a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZWC7qR5p\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZWC7qR5p\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "XZZZX",
+      "link": "https://g0f.cn/ios/testflight/rss-fd109734/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8Qj26trk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8Qj26trk\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "MiniBili",
       "link": "https://g0f.cn/ios/testflight/rss-a50478d4/",
