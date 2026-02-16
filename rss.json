@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-16T10:42:17.394479+08:00",
+  "updated_at": "2026-02-16T15:11:57.188143+08:00",
   "total_sites": 6,
-  "total_posts": 1301,
+  "total_posts": 1305,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "deatour",
+          "link": "https://g0f.cn/ios/testflight/rss-2322a5b5/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/htv5z656\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/htv5z656\n</a>\n</p>",
+          "pub_date": "2026-02-16T00:00:00+08:00",
+          "updated_at": "2026-02-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Learn A Note",
+          "link": "https://g0f.cn/ios/testflight/rss-695c1c8a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qSYveBnk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qSYveBnk\n</a>\n</p>",
+          "pub_date": "2026-02-16T00:00:00+08:00",
+          "updated_at": "2026-02-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Lumida Invest",
+          "link": "https://g0f.cn/ios/testflight/rss-1376561b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5rc2tDZ7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5rc2tDZ7\n</a>\n</p>",
+          "pub_date": "2026-02-16T00:00:00+08:00",
+          "updated_at": "2026-02-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "微信读书",
+          "link": "https://g0f.cn/ios/testflight/rss-6d172dfc/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5MWjLpYl\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5MWjLpYl\n</a>\n</p>",
+          "pub_date": "2026-02-16T00:00:00+08:00",
+          "updated_at": "2026-02-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Citations",
           "link": "https://g0f.cn/ios/testflight/rss-05a32ec8/",
@@ -14364,6 +14408,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "deatour",
+      "link": "https://g0f.cn/ios/testflight/rss-2322a5b5/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/htv5z656\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/htv5z656\n</a>\n</p>",
+      "pub_date": "2026-02-16T00:00:00+08:00",
+      "updated_at": "2026-02-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Learn A Note",
+      "link": "https://g0f.cn/ios/testflight/rss-695c1c8a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qSYveBnk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qSYveBnk\n</a>\n</p>",
+      "pub_date": "2026-02-16T00:00:00+08:00",
+      "updated_at": "2026-02-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Lumida Invest",
+      "link": "https://g0f.cn/ios/testflight/rss-1376561b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5rc2tDZ7\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5rc2tDZ7\n</a>\n</p>",
+      "pub_date": "2026-02-16T00:00:00+08:00",
+      "updated_at": "2026-02-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "微信读书",
+      "link": "https://g0f.cn/ios/testflight/rss-6d172dfc/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5MWjLpYl\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5MWjLpYl\n</a>\n</p>",
+      "pub_date": "2026-02-16T00:00:00+08:00",
+      "updated_at": "2026-02-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "马年大吉",
       "link": "https://wang618.cn/ma-nian-da-ji.html",
