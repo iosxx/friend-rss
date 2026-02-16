@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-16T15:11:57.188143+08:00",
+  "updated_at": "2026-02-16T21:16:23.528973+08:00",
   "total_sites": 6,
-  "total_posts": 1305,
+  "total_posts": 1307,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Buno",
+          "link": "https://g0f.cn/ios/testflight/rss-2a2af82e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ml8Cn0Fs\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ml8Cn0Fs\n</a>\n</p>",
+          "pub_date": "2026-02-16T00:00:00+08:00",
+          "updated_at": "2026-02-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "deatour",
           "link": "https://g0f.cn/ios/testflight/rss-2322a5b5/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/htv5z656\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/htv5z656\n</a>\n</p>",
@@ -183,6 +194,17 @@
           "title": "微信读书",
           "link": "https://g0f.cn/ios/testflight/rss-6d172dfc/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5MWjLpYl\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5MWjLpYl\n</a>\n</p>",
+          "pub_date": "2026-02-16T00:00:00+08:00",
+          "updated_at": "2026-02-16T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "盛云猫Pro",
+          "link": "https://g0f.cn/ios/testflight/rss-d560a477/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/lnXXOHMK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/lnXXOHMK\n</a>\n</p>",
           "pub_date": "2026-02-16T00:00:00+08:00",
           "updated_at": "2026-02-16T00:00:00+08:00",
           "author": "",
@@ -14409,6 +14431,17 @@
   ],
   "all_posts": [
     {
+      "title": "Buno",
+      "link": "https://g0f.cn/ios/testflight/rss-2a2af82e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ml8Cn0Fs\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ml8Cn0Fs\n</a>\n</p>",
+      "pub_date": "2026-02-16T00:00:00+08:00",
+      "updated_at": "2026-02-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "deatour",
       "link": "https://g0f.cn/ios/testflight/rss-2322a5b5/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/htv5z656\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/htv5z656\n</a>\n</p>",
@@ -14445,6 +14478,17 @@
       "title": "微信读书",
       "link": "https://g0f.cn/ios/testflight/rss-6d172dfc/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5MWjLpYl\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5MWjLpYl\n</a>\n</p>",
+      "pub_date": "2026-02-16T00:00:00+08:00",
+      "updated_at": "2026-02-16T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "盛云猫Pro",
+      "link": "https://g0f.cn/ios/testflight/rss-d560a477/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/lnXXOHMK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/lnXXOHMK\n</a>\n</p>",
       "pub_date": "2026-02-16T00:00:00+08:00",
       "updated_at": "2026-02-16T00:00:00+08:00",
       "author": "",
