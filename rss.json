@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-16T02:44:37.527980+08:00",
+  "updated_at": "2026-02-16T10:42:17.394479+08:00",
   "total_sites": 6,
-  "total_posts": 1297,
+  "total_posts": 1301,
   "sites": [
     {
       "name": "LiuSheng",
@@ -202,6 +202,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "PixClaw",
+          "link": "https://g0f.cn/ios/testflight/rss-c9f58d2d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HWbqx8Rm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HWbqx8Rm\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "SteveCFDNS",
           "link": "https://g0f.cn/ios/testflight/rss-90191cdd/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TbvE3b2s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TbvE3b2s\n</a>\n</p>",
@@ -246,9 +257,42 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "TV Knight",
+          "link": "https://g0f.cn/ios/testflight/rss-8131d3fc/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vqhtc4S1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vqhtc4S1\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "XZZZX",
           "link": "https://g0f.cn/ios/testflight/rss-fd109734/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8Qj26trk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8Qj26trk\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "老虎国际-投资全球",
+          "link": "https://g0f.cn/ios/testflight/rss-1fca556a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nGKe3E8R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nGKe3E8R\n</a>\n</p>",
+          "pub_date": "2026-02-15T00:00:00+08:00",
+          "updated_at": "2026-02-15T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "辣条加速-VPN回国出国一键加速",
+          "link": "https://g0f.cn/ios/testflight/rss-0ff3ab70/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/u7DhzhS9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/u7DhzhS9\n</a>\n</p>",
           "pub_date": "2026-02-15T00:00:00+08:00",
           "updated_at": "2026-02-15T00:00:00+08:00",
           "author": "",
@@ -14387,6 +14431,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "PixClaw",
+      "link": "https://g0f.cn/ios/testflight/rss-c9f58d2d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HWbqx8Rm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HWbqx8Rm\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "SteveCFDNS",
       "link": "https://g0f.cn/ios/testflight/rss-90191cdd/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TbvE3b2s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TbvE3b2s\n</a>\n</p>",
@@ -14431,9 +14486,42 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "TV Knight",
+      "link": "https://g0f.cn/ios/testflight/rss-8131d3fc/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vqhtc4S1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vqhtc4S1\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "XZZZX",
       "link": "https://g0f.cn/ios/testflight/rss-fd109734/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8Qj26trk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8Qj26trk\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "老虎国际-投资全球",
+      "link": "https://g0f.cn/ios/testflight/rss-1fca556a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nGKe3E8R\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nGKe3E8R\n</a>\n</p>",
+      "pub_date": "2026-02-15T00:00:00+08:00",
+      "updated_at": "2026-02-15T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "辣条加速-VPN回国出国一键加速",
+      "link": "https://g0f.cn/ios/testflight/rss-0ff3ab70/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/u7DhzhS9\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/u7DhzhS9\n</a>\n</p>",
       "pub_date": "2026-02-15T00:00:00+08:00",
       "updated_at": "2026-02-15T00:00:00+08:00",
       "author": "",
