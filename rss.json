@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-17T15:06:20.315128+08:00",
+  "updated_at": "2026-02-17T21:16:36.974037+08:00",
   "total_sites": 6,
-  "total_posts": 1322,
+  "total_posts": 1325,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "1qjc",
+          "link": "https://g0f.cn/ios/testflight/rss-62f851c6/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aEeeeB7D\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aEeeeB7D\n</a>\n</p>",
+          "pub_date": "2026-02-17T00:00:00+08:00",
+          "updated_at": "2026-02-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "homestream (0c7e75)",
           "link": "https://g0f.cn/ios/testflight/rss-a3a11c96/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/DVSsDHrp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/DVSsDHrp\n</a>\n</p>",
@@ -169,6 +180,17 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "MultiFlow: Property Evaluator",
+          "link": "https://g0f.cn/ios/testflight/rss-1fff3b86/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/4c1cf93z\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/4c1cf93z\n</a>\n</p>",
+          "pub_date": "2026-02-17T00:00:00+08:00",
+          "updated_at": "2026-02-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "mynd",
           "link": "https://g0f.cn/ios/testflight/rss-40bd8af1/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dqjytMWY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dqjytMWY\n</a>\n</p>",
@@ -183,6 +205,17 @@
           "title": "PayPal - Pay, Send, Save",
           "link": "https://g0f.cn/ios/testflight/rss-90015532/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GtF5MEaY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GtF5MEaY\n</a>\n</p>",
+          "pub_date": "2026-02-17T00:00:00+08:00",
+          "updated_at": "2026-02-17T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "PPSSPP - PSP emulator",
+          "link": "https://g0f.cn/ios/testflight/rss-c707527a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uNlhFG0m\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uNlhFG0m\n</a>\n</p>",
           "pub_date": "2026-02-17T00:00:00+08:00",
           "updated_at": "2026-02-17T00:00:00+08:00",
           "author": "",
@@ -14596,6 +14629,17 @@
   ],
   "all_posts": [
     {
+      "title": "1qjc",
+      "link": "https://g0f.cn/ios/testflight/rss-62f851c6/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aEeeeB7D\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aEeeeB7D\n</a>\n</p>",
+      "pub_date": "2026-02-17T00:00:00+08:00",
+      "updated_at": "2026-02-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "homestream (0c7e75)",
       "link": "https://g0f.cn/ios/testflight/rss-a3a11c96/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/DVSsDHrp\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/DVSsDHrp\n</a>\n</p>",
@@ -14618,6 +14662,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "MultiFlow: Property Evaluator",
+      "link": "https://g0f.cn/ios/testflight/rss-1fff3b86/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/4c1cf93z\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/4c1cf93z\n</a>\n</p>",
+      "pub_date": "2026-02-17T00:00:00+08:00",
+      "updated_at": "2026-02-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "mynd",
       "link": "https://g0f.cn/ios/testflight/rss-40bd8af1/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/dqjytMWY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/dqjytMWY\n</a>\n</p>",
@@ -14632,6 +14687,17 @@
       "title": "PayPal - Pay, Send, Save",
       "link": "https://g0f.cn/ios/testflight/rss-90015532/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GtF5MEaY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GtF5MEaY\n</a>\n</p>",
+      "pub_date": "2026-02-17T00:00:00+08:00",
+      "updated_at": "2026-02-17T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "PPSSPP - PSP emulator",
+      "link": "https://g0f.cn/ios/testflight/rss-c707527a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uNlhFG0m\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uNlhFG0m\n</a>\n</p>",
       "pub_date": "2026-02-17T00:00:00+08:00",
       "updated_at": "2026-02-17T00:00:00+08:00",
       "author": "",
