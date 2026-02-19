@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-19T10:41:35.378397+08:00",
+  "updated_at": "2026-02-19T15:08:01.321059+08:00",
   "total_sites": 6,
-  "total_posts": 1359,
+  "total_posts": 1363,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Ant Browser: Web on your Watch· 1h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-d11beb8e/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rM4r9rMB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rM4r9rMB\n</a>\n</p>",
+          "pub_date": "2026-02-19T00:00:00+08:00",
+          "updated_at": "2026-02-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Dööfball· 5h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-8df6c8a0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TEcZwAk3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TEcZwAk3\n</a>\n</p>",
+          "pub_date": "2026-02-19T00:00:00+08:00",
+          "updated_at": "2026-02-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Gunsmoke: Trip to Dodge City· 2h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-d8f556f0/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gyfWfQCh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gyfWfQCh\n</a>\n</p>",
+          "pub_date": "2026-02-19T00:00:00+08:00",
+          "updated_at": "2026-02-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Inventory - Asset Management· 3h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-1a62a77a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aXKHypal\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aXKHypal\n</a>\n</p>",
+          "pub_date": "2026-02-19T00:00:00+08:00",
+          "updated_at": "2026-02-19T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Anchor - Anchored in Sobriety· 13m ago",
           "link": "https://g0f.cn/ios/testflight/rss-c30e183b/",
@@ -15002,6 +15046,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Ant Browser: Web on your Watch· 1h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-d11beb8e/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/rM4r9rMB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/rM4r9rMB\n</a>\n</p>",
+      "pub_date": "2026-02-19T00:00:00+08:00",
+      "updated_at": "2026-02-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Dööfball· 5h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-8df6c8a0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TEcZwAk3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TEcZwAk3\n</a>\n</p>",
+      "pub_date": "2026-02-19T00:00:00+08:00",
+      "updated_at": "2026-02-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Gunsmoke: Trip to Dodge City· 2h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-d8f556f0/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gyfWfQCh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gyfWfQCh\n</a>\n</p>",
+      "pub_date": "2026-02-19T00:00:00+08:00",
+      "updated_at": "2026-02-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Inventory - Asset Management· 3h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-1a62a77a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aXKHypal\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aXKHypal\n</a>\n</p>",
+      "pub_date": "2026-02-19T00:00:00+08:00",
+      "updated_at": "2026-02-19T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Anchor - Anchored in Sobriety· 13m ago",
       "link": "https://g0f.cn/ios/testflight/rss-c30e183b/",
