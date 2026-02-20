@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-20T21:11:10.082534+08:00",
+  "updated_at": "2026-02-21T02:56:49.648145+08:00",
   "total_sites": 6,
-  "total_posts": 1382,
+  "total_posts": 1384,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,6 +147,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "BuildPCBs AI· 3h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-3cfa6861/",
+          "description": "<p>Status: Unknown</p>",
+          "pub_date": "2026-02-20T00:00:00+08:00",
+          "updated_at": "2026-02-20T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Fuel: AI Nutrition· 36m ago",
           "link": "https://g0f.cn/ios/testflight/rss-5f33623d/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/r5UG9tBX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/r5UG9tBX\n</a>\n</p>",
@@ -161,6 +172,17 @@
           "title": "Gratitude Guide· 1h ago",
           "link": "https://g0f.cn/ios/testflight/rss-44535984/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/naMBGS5m\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/naMBGS5m\n</a>\n</p>",
+          "pub_date": "2026-02-20T00:00:00+08:00",
+          "updated_at": "2026-02-20T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "iz - leave your trace· 47s ago",
+          "link": "https://g0f.cn/ios/testflight/rss-37ab163a/",
+          "description": "<p>Status: Unknown</p>",
           "pub_date": "2026-02-20T00:00:00+08:00",
           "updated_at": "2026-02-20T00:00:00+08:00",
           "author": "",
@@ -15256,6 +15278,17 @@
   ],
   "all_posts": [
     {
+      "title": "BuildPCBs AI· 3h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-3cfa6861/",
+      "description": "<p>Status: Unknown</p>",
+      "pub_date": "2026-02-20T00:00:00+08:00",
+      "updated_at": "2026-02-20T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Fuel: AI Nutrition· 36m ago",
       "link": "https://g0f.cn/ios/testflight/rss-5f33623d/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/r5UG9tBX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/r5UG9tBX\n</a>\n</p>",
@@ -15270,6 +15303,17 @@
       "title": "Gratitude Guide· 1h ago",
       "link": "https://g0f.cn/ios/testflight/rss-44535984/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/naMBGS5m\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/naMBGS5m\n</a>\n</p>",
+      "pub_date": "2026-02-20T00:00:00+08:00",
+      "updated_at": "2026-02-20T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "iz - leave your trace· 47s ago",
+      "link": "https://g0f.cn/ios/testflight/rss-37ab163a/",
+      "description": "<p>Status: Unknown</p>",
       "pub_date": "2026-02-20T00:00:00+08:00",
       "updated_at": "2026-02-20T00:00:00+08:00",
       "author": "",
