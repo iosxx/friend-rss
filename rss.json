@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-21T02:56:49.648145+08:00",
+  "updated_at": "2026-02-21T10:29:30.019244+08:00",
   "total_sites": 6,
-  "total_posts": 1384,
+  "total_posts": 1386,
   "sites": [
     {
       "name": "LiuSheng",
@@ -150,6 +150,28 @@
           "title": "BuildPCBs AI· 3h ago",
           "link": "https://g0f.cn/ios/testflight/rss-3cfa6861/",
           "description": "<p>Status: Unknown</p>",
+          "pub_date": "2026-02-20T00:00:00+08:00",
+          "updated_at": "2026-02-20T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DayRing -- Close your day· 26m ago",
+          "link": "https://g0f.cn/ios/testflight/rss-ac984a9c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bn9AfnS4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bn9AfnS4\n</a>\n</p>",
+          "pub_date": "2026-02-20T00:00:00+08:00",
+          "updated_at": "2026-02-20T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "DoMarks· 29m ago",
+          "link": "https://g0f.cn/ios/testflight/rss-66adea99/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SJFLVa6U\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SJFLVa6U\n</a>\n</p>",
           "pub_date": "2026-02-20T00:00:00+08:00",
           "updated_at": "2026-02-20T00:00:00+08:00",
           "author": "",
@@ -15281,6 +15303,28 @@
       "title": "BuildPCBs AI· 3h ago",
       "link": "https://g0f.cn/ios/testflight/rss-3cfa6861/",
       "description": "<p>Status: Unknown</p>",
+      "pub_date": "2026-02-20T00:00:00+08:00",
+      "updated_at": "2026-02-20T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DayRing -- Close your day· 26m ago",
+      "link": "https://g0f.cn/ios/testflight/rss-ac984a9c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bn9AfnS4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bn9AfnS4\n</a>\n</p>",
+      "pub_date": "2026-02-20T00:00:00+08:00",
+      "updated_at": "2026-02-20T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "DoMarks· 29m ago",
+      "link": "https://g0f.cn/ios/testflight/rss-66adea99/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SJFLVa6U\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SJFLVa6U\n</a>\n</p>",
       "pub_date": "2026-02-20T00:00:00+08:00",
       "updated_at": "2026-02-20T00:00:00+08:00",
       "author": "",
