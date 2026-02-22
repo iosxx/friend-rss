@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-22T10:42:16.950846+08:00",
+  "updated_at": "2026-02-22T14:56:45.592879+08:00",
   "total_sites": 6,
-  "total_posts": 1399,
+  "total_posts": 1401,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,28 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Hedwig by Rift Labs· 7h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-c18286dc/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aKXnyjP4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aKXnyjP4\n</a>\n</p>",
+          "pub_date": "2026-02-22T00:00:00+08:00",
+          "updated_at": "2026-02-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "MONOLITH: Camera & Filters· 3h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-9f2c7491/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/BWhmg3Pj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/BWhmg3Pj\n</a>\n</p>",
+          "pub_date": "2026-02-22T00:00:00+08:00",
+          "updated_at": "2026-02-22T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Classmo· 31m ago",
           "link": "https://g0f.cn/ios/testflight/rss-05712530/",
@@ -15442,6 +15464,28 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Hedwig by Rift Labs· 7h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-c18286dc/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aKXnyjP4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aKXnyjP4\n</a>\n</p>",
+      "pub_date": "2026-02-22T00:00:00+08:00",
+      "updated_at": "2026-02-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "MONOLITH: Camera & Filters· 3h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-9f2c7491/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/BWhmg3Pj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/BWhmg3Pj\n</a>\n</p>",
+      "pub_date": "2026-02-22T00:00:00+08:00",
+      "updated_at": "2026-02-22T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "佛山、广州春节五日纪行",
       "link": "https://www.xiaoten.com/posts/2026/02/five-days-in-foshan-guangzhou/",
