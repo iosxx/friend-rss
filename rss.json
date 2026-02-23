@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-23T21:18:13.118843+08:00",
+  "updated_at": "2026-02-24T03:11:36.857974+08:00",
   "total_sites": 6,
-  "total_posts": 1420,
+  "total_posts": 1424,
   "sites": [
     {
       "name": "LiuSheng",
@@ -158,6 +158,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Agendo Week Calendar· 52m ago",
+          "link": "https://g0f.cn/ios/testflight/rss-46b5fe8b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5haRZpJF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5haRZpJF\n</a>\n</p>",
+          "pub_date": "2026-02-23T00:00:00+08:00",
+          "updated_at": "2026-02-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Ctrlavana: Gestão de Viagens· 5h ago",
           "link": "https://g0f.cn/ios/testflight/rss-e0ca18c9/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hWwnxwws\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hWwnxwws\n</a>\n</p>",
@@ -191,9 +202,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Expenses: Simplified Budgeting· 5h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-40e6eb5a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GH2apkQK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GH2apkQK\n</a>\n</p>",
+          "pub_date": "2026-02-23T00:00:00+08:00",
+          "updated_at": "2026-02-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "flowstate.focus· 1h ago",
           "link": "https://g0f.cn/ios/testflight/rss-086fa66a/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WWhUZM6t\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WWhUZM6t\n</a>\n</p>",
+          "pub_date": "2026-02-23T00:00:00+08:00",
+          "updated_at": "2026-02-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "IndiePost· 3h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-76a8cf13/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5kDDFjNe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5kDDFjNe\n</a>\n</p>",
           "pub_date": "2026-02-23T00:00:00+08:00",
           "updated_at": "2026-02-23T00:00:00+08:00",
           "author": "",
@@ -249,6 +282,17 @@
           "title": "Yooz Whisper· 3h ago",
           "link": "https://g0f.cn/ios/testflight/rss-60b2f056/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vU25Uhuy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vU25Uhuy\n</a>\n</p>",
+          "pub_date": "2026-02-23T00:00:00+08:00",
+          "updated_at": "2026-02-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "코스타코· 1h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-e3ea064d/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cB3DnKfJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cB3DnKfJ\n</a>\n</p>",
           "pub_date": "2026-02-23T00:00:00+08:00",
           "updated_at": "2026-02-23T00:00:00+08:00",
           "author": "",
@@ -15674,6 +15718,17 @@
   ],
   "all_posts": [
     {
+      "title": "Agendo Week Calendar· 52m ago",
+      "link": "https://g0f.cn/ios/testflight/rss-46b5fe8b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5haRZpJF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5haRZpJF\n</a>\n</p>",
+      "pub_date": "2026-02-23T00:00:00+08:00",
+      "updated_at": "2026-02-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Ctrlavana: Gestão de Viagens· 5h ago",
       "link": "https://g0f.cn/ios/testflight/rss-e0ca18c9/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hWwnxwws\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hWwnxwws\n</a>\n</p>",
@@ -15707,9 +15762,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Expenses: Simplified Budgeting· 5h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-40e6eb5a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GH2apkQK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GH2apkQK\n</a>\n</p>",
+      "pub_date": "2026-02-23T00:00:00+08:00",
+      "updated_at": "2026-02-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "flowstate.focus· 1h ago",
       "link": "https://g0f.cn/ios/testflight/rss-086fa66a/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WWhUZM6t\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WWhUZM6t\n</a>\n</p>",
+      "pub_date": "2026-02-23T00:00:00+08:00",
+      "updated_at": "2026-02-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "IndiePost· 3h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-76a8cf13/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5kDDFjNe\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5kDDFjNe\n</a>\n</p>",
       "pub_date": "2026-02-23T00:00:00+08:00",
       "updated_at": "2026-02-23T00:00:00+08:00",
       "author": "",
@@ -15765,6 +15842,17 @@
       "title": "Yooz Whisper· 3h ago",
       "link": "https://g0f.cn/ios/testflight/rss-60b2f056/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/vU25Uhuy\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/vU25Uhuy\n</a>\n</p>",
+      "pub_date": "2026-02-23T00:00:00+08:00",
+      "updated_at": "2026-02-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "코스타코· 1h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-e3ea064d/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/cB3DnKfJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/cB3DnKfJ\n</a>\n</p>",
       "pub_date": "2026-02-23T00:00:00+08:00",
       "updated_at": "2026-02-23T00:00:00+08:00",
       "author": "",
