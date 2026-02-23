@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-23T10:42:28.883784+08:00",
+  "updated_at": "2026-02-23T15:12:52.158553+08:00",
   "total_sites": 6,
-  "total_posts": 1411,
+  "total_posts": 1412,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,17 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Ctrlavana: Gestão de Viagens· 5h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-e0ca18c9/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hWwnxwws\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hWwnxwws\n</a>\n</p>",
+          "pub_date": "2026-02-23T00:00:00+08:00",
+          "updated_at": "2026-02-23T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "betterCam - RAW, FILM & METAL· 1h ago",
           "link": "https://g0f.cn/ios/testflight/rss-9d9f4c01/",
@@ -15574,6 +15585,17 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Ctrlavana: Gestão de Viagens· 5h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-e0ca18c9/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hWwnxwws\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hWwnxwws\n</a>\n</p>",
+      "pub_date": "2026-02-23T00:00:00+08:00",
+      "updated_at": "2026-02-23T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "年味",
       "link": "https://blog.liushen.fun/posts/ed97d31c/",
