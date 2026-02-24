@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-24T10:39:43.525653+08:00",
+  "updated_at": "2026-02-24T15:07:34.786339+08:00",
   "total_sites": 6,
-  "total_posts": 1427,
+  "total_posts": 1431,
   "sites": [
     {
       "name": "LiuSheng",
@@ -157,6 +157,50 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Cima· 48m ago",
+          "link": "https://g0f.cn/ios/testflight/rss-bd0cc781/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KeAhn9ES\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KeAhn9ES\n</a>\n</p>",
+          "pub_date": "2026-02-24T00:00:00+08:00",
+          "updated_at": "2026-02-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Cosmick· 1h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-908af52c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y1ajAhC4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y1ajAhC4\n</a>\n</p>",
+          "pub_date": "2026-02-24T00:00:00+08:00",
+          "updated_at": "2026-02-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Metaverser· 3h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-3269cbee/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5ld1oWaN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5ld1oWaN\n</a>\n</p>",
+          "pub_date": "2026-02-24T00:00:00+08:00",
+          "updated_at": "2026-02-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "RocketSim for Xcode Simulator· 4h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-13295aff/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/emGszFpq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/emGszFpq\n</a>\n</p>",
+          "pub_date": "2026-02-24T00:00:00+08:00",
+          "updated_at": "2026-02-24T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "Agendo Week Calendar· 52m ago",
           "link": "https://g0f.cn/ios/testflight/rss-46b5fe8b/",
@@ -15750,6 +15794,50 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "Cima· 48m ago",
+      "link": "https://g0f.cn/ios/testflight/rss-bd0cc781/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/KeAhn9ES\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/KeAhn9ES\n</a>\n</p>",
+      "pub_date": "2026-02-24T00:00:00+08:00",
+      "updated_at": "2026-02-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Cosmick· 1h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-908af52c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y1ajAhC4\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y1ajAhC4\n</a>\n</p>",
+      "pub_date": "2026-02-24T00:00:00+08:00",
+      "updated_at": "2026-02-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Metaverser· 3h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-3269cbee/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/5ld1oWaN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/5ld1oWaN\n</a>\n</p>",
+      "pub_date": "2026-02-24T00:00:00+08:00",
+      "updated_at": "2026-02-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "RocketSim for Xcode Simulator· 4h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-13295aff/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/emGszFpq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/emGszFpq\n</a>\n</p>",
+      "pub_date": "2026-02-24T00:00:00+08:00",
+      "updated_at": "2026-02-24T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "Agendo Week Calendar· 52m ago",
       "link": "https://g0f.cn/ios/testflight/rss-46b5fe8b/",
