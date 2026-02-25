@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-25T10:40:12.386054+08:00",
+  "updated_at": "2026-02-25T15:09:23.814570+08:00",
   "total_sites": 6,
-  "total_posts": 1444,
+  "total_posts": 1450,
   "sites": [
     {
       "name": "LiuSheng",
@@ -146,6 +146,72 @@
       "avatar": "https://tofuwine.github.io/images/profile.png",
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
+        {
+          "title": "Due Tomorrow: Homework Manager· 49m ago",
+          "link": "https://g0f.cn/ios/testflight/rss-e63d7b0b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yMP3Dcfm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yMP3Dcfm\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Gitzy· 4h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-c81ff207/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SB16NCfr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SB16NCfr\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Groomd: Ski Mountain Reports· 6h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-b265aee7/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2VcQX9EA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2VcQX9EA\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ShowShark: Stream Your Media· 5h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-309ae4ce/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HxeHFyWX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HxeHFyWX\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Solitaire: Minimal· 6m ago",
+          "link": "https://g0f.cn/ios/testflight/rss-71129c92/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zKBDp7m5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zKBDp7m5\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "货光光· 6h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-7ff49c0c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Pw6azJBk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Pw6azJBk\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
         {
           "title": "A Dance of Fire and Ice· 1h ago",
           "link": "https://g0f.cn/ios/testflight/rss-bb7d2611/",
@@ -15302,6 +15368,17 @@
       "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
         {
+          "title": "26年，我的开工第一天",
+          "link": "https://blog.lichenghao.cn/article/w3ub9lmx9tqe",
+          "description": "十几天的假期转瞬即逝，好像昨天才放假，今天就开工了。",
+          "pub_date": "2026-02-25T11:22:59+08:00",
+          "updated_at": "2026-02-25T11:22:59+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
           "title": "25年最后一个工作日！",
           "link": "https://blog.lichenghao.cn/article/u5v652rayigk",
           "description": "今天是2026年2月11日，是我25年最后一个工作日！25年的专业牛马就做到这了。",
@@ -15395,17 +15472,6 @@
           "description": "Islands 主题：JetBrains IDE 迎来全新外观",
           "pub_date": "2025-11-04T14:21:57+08:00",
           "updated_at": "2025-11-04T14:21:57+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
-          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
-          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
-          "pub_date": "2025-10-22T13:48:08+08:00",
-          "updated_at": "2025-10-22T13:48:08+08:00",
           "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
           "site_name": "故事的程序猿",
           "site_url": "https://blog.lichenghao.cn/",
@@ -15937,6 +16003,83 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "26年，我的开工第一天",
+      "link": "https://blog.lichenghao.cn/article/w3ub9lmx9tqe",
+      "description": "十几天的假期转瞬即逝，好像昨天才放假，今天就开工了。",
+      "pub_date": "2026-02-25T11:22:59+08:00",
+      "updated_at": "2026-02-25T11:22:59+08:00",
+      "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+      "site_name": "故事的程序猿",
+      "site_url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
+      "title": "Due Tomorrow: Homework Manager· 49m ago",
+      "link": "https://g0f.cn/ios/testflight/rss-e63d7b0b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/yMP3Dcfm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/yMP3Dcfm\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Gitzy· 4h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-c81ff207/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/SB16NCfr\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/SB16NCfr\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Groomd: Ski Mountain Reports· 6h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-b265aee7/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/2VcQX9EA\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/2VcQX9EA\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ShowShark: Stream Your Media· 5h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-309ae4ce/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/HxeHFyWX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/HxeHFyWX\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Solitaire: Minimal· 6m ago",
+      "link": "https://g0f.cn/ios/testflight/rss-71129c92/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zKBDp7m5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zKBDp7m5\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "货光光· 6h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-7ff49c0c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Pw6azJBk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Pw6azJBk\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
     {
       "title": "四载恍如梦",
       "link": "https://wang618.cn/si-zai-huang-ru-meng.html",
@@ -31721,17 +31864,6 @@
       "site_name": "小十博客",
       "site_url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png"
-    },
-    {
-      "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
-      "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
-      "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
-      "pub_date": "2025-10-22T13:48:08+08:00",
-      "updated_at": "2025-10-22T13:48:08+08:00",
-      "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-      "site_name": "故事的程序猿",
-      "site_url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg"
     },
     {
       "title": "在 Hugo 中集成 Memos 多用户微博系统",
