@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-26T15:07:34.641481+08:00",
+  "updated_at": "2026-02-26T21:19:32.279924+08:00",
   "total_sites": 6,
-  "total_posts": 1461,
+  "total_posts": 1466,
   "sites": [
     {
       "name": "LiuSheng",
@@ -147,9 +147,53 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Moonlight XrOS· 4h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-fc887206/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/poWcaME5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/poWcaME5\n</a>\n</p>",
+          "pub_date": "2026-02-26T00:00:00+08:00",
+          "updated_at": "2026-02-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "PCalc TV· 35m ago",
           "link": "https://g0f.cn/ios/testflight/rss-e69636c1/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/DR5CMmej\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/DR5CMmej\n</a>\n</p>",
+          "pub_date": "2026-02-26T00:00:00+08:00",
+          "updated_at": "2026-02-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Quinielas App· 4h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-b464f296/",
+          "description": "<p>Status: Open</p>",
+          "pub_date": "2026-02-26T00:00:00+08:00",
+          "updated_at": "2026-02-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Random Picker App· 22m ago",
+          "link": "https://g0f.cn/ios/testflight/rss-0cef7296/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/e3NMsNtt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/e3NMsNtt\n</a>\n</p>",
+          "pub_date": "2026-02-26T00:00:00+08:00",
+          "updated_at": "2026-02-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "RocketSim for Xcode Simulator· 1h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-4a763f4b/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jNkgt4mf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jNkgt4mf\n</a>\n</p>",
           "pub_date": "2026-02-26T00:00:00+08:00",
           "updated_at": "2026-02-26T00:00:00+08:00",
           "author": "",
@@ -172,6 +216,17 @@
           "title": "Teddy: Camera via Voice· 2h ago",
           "link": "https://g0f.cn/ios/testflight/rss-026472f7/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/chBAxBHK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/chBAxBHK\n</a>\n</p>",
+          "pub_date": "2026-02-26T00:00:00+08:00",
+          "updated_at": "2026-02-26T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Turn Touch· 2h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-435d3677/",
+          "description": "<p>Status: Open</p>",
           "pub_date": "2026-02-26T00:00:00+08:00",
           "updated_at": "2026-02-26T00:00:00+08:00",
           "author": "",
@@ -16125,9 +16180,53 @@
   ],
   "all_posts": [
     {
+      "title": "Moonlight XrOS· 4h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-fc887206/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/poWcaME5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/poWcaME5\n</a>\n</p>",
+      "pub_date": "2026-02-26T00:00:00+08:00",
+      "updated_at": "2026-02-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "PCalc TV· 35m ago",
       "link": "https://g0f.cn/ios/testflight/rss-e69636c1/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/DR5CMmej\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/DR5CMmej\n</a>\n</p>",
+      "pub_date": "2026-02-26T00:00:00+08:00",
+      "updated_at": "2026-02-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Quinielas App· 4h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-b464f296/",
+      "description": "<p>Status: Open</p>",
+      "pub_date": "2026-02-26T00:00:00+08:00",
+      "updated_at": "2026-02-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Random Picker App· 22m ago",
+      "link": "https://g0f.cn/ios/testflight/rss-0cef7296/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/e3NMsNtt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/e3NMsNtt\n</a>\n</p>",
+      "pub_date": "2026-02-26T00:00:00+08:00",
+      "updated_at": "2026-02-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "RocketSim for Xcode Simulator· 1h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-4a763f4b/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/jNkgt4mf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/jNkgt4mf\n</a>\n</p>",
       "pub_date": "2026-02-26T00:00:00+08:00",
       "updated_at": "2026-02-26T00:00:00+08:00",
       "author": "",
@@ -16150,6 +16249,17 @@
       "title": "Teddy: Camera via Voice· 2h ago",
       "link": "https://g0f.cn/ios/testflight/rss-026472f7/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/chBAxBHK\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/chBAxBHK\n</a>\n</p>",
+      "pub_date": "2026-02-26T00:00:00+08:00",
+      "updated_at": "2026-02-26T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Turn Touch· 2h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-435d3677/",
+      "description": "<p>Status: Open</p>",
       "pub_date": "2026-02-26T00:00:00+08:00",
       "updated_at": "2026-02-26T00:00:00+08:00",
       "author": "",
