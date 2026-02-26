@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-26T03:13:24.590729+08:00",
+  "updated_at": "2026-02-26T10:35:23.633889+08:00",
   "total_sites": 6,
-  "total_posts": 1455,
+  "total_posts": 1458,
   "sites": [
     {
       "name": "LiuSheng",
@@ -265,9 +265,31 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Albums: Music Library Player· 5m ago",
+          "link": "https://g0f.cn/ios/testflight/rss-dbf1014a/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y2oJJHxX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y2oJJHxX\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Bionic Reading® Font Keyboard· 49m ago",
           "link": "https://g0f.cn/ios/testflight/rss-efe76fb6/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zq3sGqkS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zq3sGqkS\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "ClawRelay· 2h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-1ebf8b7c/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WwQDyCfS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WwQDyCfS\n</a>\n</p>",
           "pub_date": "2026-02-25T00:00:00+08:00",
           "updated_at": "2026-02-25T00:00:00+08:00",
           "author": "",
@@ -290,6 +312,17 @@
           "title": "Fairtravel Battle CCG· 1h ago",
           "link": "https://g0f.cn/ios/testflight/rss-437e8a05/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EmqUFnLG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EmqUFnLG\n</a>\n</p>",
+          "pub_date": "2026-02-25T00:00:00+08:00",
+          "updated_at": "2026-02-25T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "Founder Runway· 3h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-3bb940ec/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sNfr4KsR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sNfr4KsR\n</a>\n</p>",
           "pub_date": "2026-02-25T00:00:00+08:00",
           "updated_at": "2026-02-25T00:00:00+08:00",
           "author": "",
@@ -16070,9 +16103,31 @@
       "avatar": "https://blog.lichenghao.cn/avatar.svg"
     },
     {
+      "title": "Albums: Music Library Player· 5m ago",
+      "link": "https://g0f.cn/ios/testflight/rss-dbf1014a/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y2oJJHxX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y2oJJHxX\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Bionic Reading® Font Keyboard· 49m ago",
       "link": "https://g0f.cn/ios/testflight/rss-efe76fb6/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/zq3sGqkS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/zq3sGqkS\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "ClawRelay· 2h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-1ebf8b7c/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WwQDyCfS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WwQDyCfS\n</a>\n</p>",
       "pub_date": "2026-02-25T00:00:00+08:00",
       "updated_at": "2026-02-25T00:00:00+08:00",
       "author": "",
@@ -16095,6 +16150,17 @@
       "title": "Fairtravel Battle CCG· 1h ago",
       "link": "https://g0f.cn/ios/testflight/rss-437e8a05/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EmqUFnLG\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EmqUFnLG\n</a>\n</p>",
+      "pub_date": "2026-02-25T00:00:00+08:00",
+      "updated_at": "2026-02-25T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "Founder Runway· 3h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-3bb940ec/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/sNfr4KsR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sNfr4KsR\n</a>\n</p>",
       "pub_date": "2026-02-25T00:00:00+08:00",
       "updated_at": "2026-02-25T00:00:00+08:00",
       "author": "",
