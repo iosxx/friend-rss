@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-01T14:54:29.842039+08:00",
+  "updated_at": "2026-03-01T21:00:31.851919+08:00",
   "total_sites": 6,
-  "total_posts": 1496,
+  "total_posts": 1497,
   "sites": [
     {
       "name": "LiuSheng",
@@ -9,6 +9,17 @@
       "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp",
       "feed_url": "https://blog.liushen.fun/atom.xml",
       "posts": [
+        {
+          "title": "兰空图床深度美化",
+          "link": "https://blog.liushen.fun/posts/eabede01/",
+          "description": "兰空图床已经停止更新，但我一直在用。最近正好在学习 AI 编程，就想着顺手把图床界面美化一下，让自己看着更舒服。于是动手折腾了一番，终于算是改造完成！分享给大家，也顺便水一篇文章～",
+          "pub_date": "2026-03-01T12:40:00+08:00",
+          "updated_at": "2026-03-01T12:41:00+08:00",
+          "author": "",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
         {
           "title": "年味",
           "link": "https://blog.liushen.fun/posts/ed97d31c/",
@@ -16509,6 +16520,17 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "兰空图床深度美化",
+      "link": "https://blog.liushen.fun/posts/eabede01/",
+      "description": "兰空图床已经停止更新，但我一直在用。最近正好在学习 AI 编程，就想着顺手把图床界面美化一下，让自己看着更舒服。于是动手折腾了一番，终于算是改造完成！分享给大家，也顺便水一篇文章～",
+      "pub_date": "2026-03-01T12:40:00+08:00",
+      "updated_at": "2026-03-01T12:41:00+08:00",
+      "author": "",
+      "site_name": "LiuSheng",
+      "site_url": "https://blog.liushen.fun/",
+      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+    },
     {
       "title": "26年2月总结-又迎来二人世界",
       "link": "https://blog.lichenghao.cn/article/8mukqfxknpjy",
