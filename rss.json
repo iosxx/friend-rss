@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-06T14:58:53.159635+08:00",
+  "updated_at": "2026-03-06T21:08:16.047613+08:00",
   "total_sites": 6,
-  "total_posts": 1562,
+  "total_posts": 1565,
   "sites": [
     {
       "name": "LiuSheng",
@@ -158,6 +158,17 @@
       "feed_url": "https://g0f.cn/index.xml",
       "posts": [
         {
+          "title": "Almost Solved True Crime· 3h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-51fe91fd/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EDPYj4FE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EDPYj4FE\n</a>\n</p>",
+          "pub_date": "2026-03-06T00:00:00+08:00",
+          "updated_at": "2026-03-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Clients – Freelance CRM· 5h ago",
           "link": "https://g0f.cn/ios/testflight/rss-c358c105/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/spsVHGSR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/spsVHGSR\n</a>\n</p>",
@@ -169,9 +180,31 @@
           "avatar": "https://tofuwine.github.io/images/profile.png"
         },
         {
+          "title": "Elara Wallet· 3h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-f5111a96/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/F84CCBjM\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/F84CCBjM\n</a>\n</p>",
+          "pub_date": "2026-03-06T00:00:00+08:00",
+          "updated_at": "2026-03-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
           "title": "Gestalt - Easy alt text· 2h ago",
           "link": "https://g0f.cn/ios/testflight/rss-069983f6/",
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/18cWwujz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/18cWwujz\n</a>\n</p>",
+          "pub_date": "2026-03-06T00:00:00+08:00",
+          "updated_at": "2026-03-06T00:00:00+08:00",
+          "author": "",
+          "site_name": "果粉圈",
+          "site_url": "https://g0f.cn",
+          "avatar": "https://tofuwine.github.io/images/profile.png"
+        },
+        {
+          "title": "HorizonRoll· 4h ago",
+          "link": "https://g0f.cn/ios/testflight/rss-e624bc2f/",
+          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/AZQSqxRw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/AZQSqxRw\n</a>\n</p>",
           "pub_date": "2026-03-06T00:00:00+08:00",
           "updated_at": "2026-03-06T00:00:00+08:00",
           "author": "",
@@ -17236,6 +17269,17 @@
   ],
   "all_posts": [
     {
+      "title": "Almost Solved True Crime· 3h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-51fe91fd/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/EDPYj4FE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/EDPYj4FE\n</a>\n</p>",
+      "pub_date": "2026-03-06T00:00:00+08:00",
+      "updated_at": "2026-03-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Clients – Freelance CRM· 5h ago",
       "link": "https://g0f.cn/ios/testflight/rss-c358c105/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/spsVHGSR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/spsVHGSR\n</a>\n</p>",
@@ -17247,9 +17291,31 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
+      "title": "Elara Wallet· 3h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-f5111a96/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/F84CCBjM\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/F84CCBjM\n</a>\n</p>",
+      "pub_date": "2026-03-06T00:00:00+08:00",
+      "updated_at": "2026-03-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
       "title": "Gestalt - Easy alt text· 2h ago",
       "link": "https://g0f.cn/ios/testflight/rss-069983f6/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/18cWwujz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/18cWwujz\n</a>\n</p>",
+      "pub_date": "2026-03-06T00:00:00+08:00",
+      "updated_at": "2026-03-06T00:00:00+08:00",
+      "author": "",
+      "site_name": "果粉圈",
+      "site_url": "https://g0f.cn",
+      "avatar": "https://tofuwine.github.io/images/profile.png"
+    },
+    {
+      "title": "HorizonRoll· 4h ago",
+      "link": "https://g0f.cn/ios/testflight/rss-e624bc2f/",
+      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/AZQSqxRw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/AZQSqxRw\n</a>\n</p>",
       "pub_date": "2026-03-06T00:00:00+08:00",
       "updated_at": "2026-03-06T00:00:00+08:00",
       "author": "",
