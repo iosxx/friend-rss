@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T21:05:06.603663+08:00",
+  "updated_at": "2026-03-16T02:49:01.428186+08:00",
   "total_sites": 6,
   "total_posts": 1648,
   "sites": [
@@ -17633,7 +17633,7 @@
         {
           "title": "足迹地图更新：区域高亮显示",
           "link": "https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/",
-          "description": "<p>距离我第一次发布\n<a href=\"https://www.xiaoten.com/posts/2025/11/amap-powered-footprintmap-shortcode/\" rel=\"noopener noreferrer\" target=\"_blank\">\n基于高德地图实现 Hugo 足迹地图短代码\n</a> 已经过去了一段时间，一直都没有进行更新。</p>\n<p>直到昨天 S 大佬提出了一个高品质需求，更新刻不容缓：</p>\n<figure class=\" has-custom-height\">\n<a class=\"no-a-style\" href=\"https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/images/PixPin_2026-03-15_19-46-54_hu_f4352a051160b94d.png\">\n<img alt=\"需求\" height=\"260\" src=\"https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/images/PixPin_2026-03-15_19-46-54_hu_9de5610eb85c3a93.png\" title=\"需求\" width=\"1200\" />\n</a>\n<figcaption>\n<span class=\"title\">需求</span>\n</figcaption>\n</figure>\n<p>当然最终还是大佬靠自己解决了😈……大家可围观大佬的足迹：\n<a href=\"https://synyan.cn/footprints/\" rel=\"noopener noreferrer\" target=\"_blank\">\n足迹 - 旅行漫记\n</a></p>",
+          "description": "<p>距离我第一次发布\n<a href=\"https://www.xiaoten.com/posts/2025/11/amap-powered-footprintmap-shortcode/\" rel=\"noopener noreferrer\" target=\"_blank\">\n基于高德地图实现 Hugo 足迹地图短代码\n</a> 已经过去了一段时间，一直都没有进行更新。</p>\n<p>直到昨天 S 大佬提出了一个高品质需求，更新刻不容缓：</p>\n<p><img alt=\"\" height=\"368\" src=\"images/PixPin_2026-03-15_19-46-54.png\" width=\"1698\" />\n</p>\n<p>当然最终还是大佬靠自己解决了😈……大家可围观大佬的足迹：\n<a href=\"https://synyan.cn/footprints/\" rel=\"noopener noreferrer\" target=\"_blank\">\n足迹 - 旅行漫记\n</a></p>",
           "pub_date": "2026-03-15T19:42:00+08:00",
           "updated_at": "2026-03-15T20:51:13+08:00",
           "author": "",
@@ -17958,6 +17958,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "黑暗快乐水",
+          "link": "https://wang618.cn/hei-an-kuai-le-shui.html",
+          "description": "<p>在 PDD 下单快乐水，结果首页推荐直接给我看懵，彻底颠覆我对可乐的认知！胡辣汤味、香醋味、藿香味！这哪是快乐水？分明是黑暗饮料阴间大赏！<br />\n<img alt=\"胡辣汤可乐.webp\" src=\"https://wang618.cn/content/uploadfile/202603/50cf1773593613.webp\" /><br />\n<img alt=\"藿香味可乐.webp\" src=\"https://wang618.cn/content/uploadfile/202603/00211773593613.webp\" /><br />\n<img alt=\"香醋味可乐.webp\" src=\"https://wang618.cn/content/uploadfile/202603/034d1773593613.webp\" /></p>",
+          "pub_date": "2026-03-16T00:50:50+08:00",
+          "updated_at": "2026-03-16T00:50:50+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "喵趣",
           "link": "https://wang618.cn/miao-qu.html",
           "description": "<p>我家猫咪打不过邻居家的狸花猫，喊来了“兄弟”，直接把对方团团围住。虽然听不懂喵语，但感觉骂得很脏！狸花猫估计也没想到，对方不讲武德居然还摇人！</p>\n<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%96%B5%E4%B9%8B%E9%9C%B8%E5%87%8C.mp4?sign=tCIMRUHn89aOdGVwKnq728QZ2IoeZ4_Kw1HkbTULdBs=:0\"></video>",
@@ -18165,26 +18176,26 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "体面式掠夺",
-          "link": "https://wang618.cn/ti-mian-shi-lve-duo.html",
-          "description": "<p>世间愈显魔幻，巧取豪夺偏装成“附赠好物”的体面。两斤榨菜八百八十八，一颗白菜一百八十八，一碗泡面一百一十八，荒诞到失语。是商家疯了，还是我与世道脱了轨？罢了，买不起，是我的错，我的错！</p>\n<p><img alt=\"体面式掠夺1.webp\" src=\"https://wang618.cn/content/uploadfile/202512/f1ad1767016217.webp\" /><br />\n<img alt=\"体面式掠夺2.webp\" src=\"https://wang618.cn/content/uploadfile/202512/ca9c1767016217.webp\" /><br />\n<img alt=\"体面式掠夺3.webp\" src=\"https://wang618.cn/content/uploadfile/202512/7c8e1767016218.webp\" /></p>",
-          "pub_date": "2025-12-29T21:55:38+08:00",
-          "updated_at": "2025-12-29T21:55:38+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
     {
+      "title": "黑暗快乐水",
+      "link": "https://wang618.cn/hei-an-kuai-le-shui.html",
+      "description": "<p>在 PDD 下单快乐水，结果首页推荐直接给我看懵，彻底颠覆我对可乐的认知！胡辣汤味、香醋味、藿香味！这哪是快乐水？分明是黑暗饮料阴间大赏！<br />\n<img alt=\"胡辣汤可乐.webp\" src=\"https://wang618.cn/content/uploadfile/202603/50cf1773593613.webp\" /><br />\n<img alt=\"藿香味可乐.webp\" src=\"https://wang618.cn/content/uploadfile/202603/00211773593613.webp\" /><br />\n<img alt=\"香醋味可乐.webp\" src=\"https://wang618.cn/content/uploadfile/202603/034d1773593613.webp\" /></p>",
+      "pub_date": "2026-03-16T00:50:50+08:00",
+      "updated_at": "2026-03-16T00:50:50+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
       "title": "足迹地图更新：区域高亮显示",
       "link": "https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/",
-      "description": "<p>距离我第一次发布\n<a href=\"https://www.xiaoten.com/posts/2025/11/amap-powered-footprintmap-shortcode/\" rel=\"noopener noreferrer\" target=\"_blank\">\n基于高德地图实现 Hugo 足迹地图短代码\n</a> 已经过去了一段时间，一直都没有进行更新。</p>\n<p>直到昨天 S 大佬提出了一个高品质需求，更新刻不容缓：</p>\n<figure class=\" has-custom-height\">\n<a class=\"no-a-style\" href=\"https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/images/PixPin_2026-03-15_19-46-54_hu_f4352a051160b94d.png\">\n<img alt=\"需求\" height=\"260\" src=\"https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/images/PixPin_2026-03-15_19-46-54_hu_9de5610eb85c3a93.png\" title=\"需求\" width=\"1200\" />\n</a>\n<figcaption>\n<span class=\"title\">需求</span>\n</figcaption>\n</figure>\n<p>当然最终还是大佬靠自己解决了😈……大家可围观大佬的足迹：\n<a href=\"https://synyan.cn/footprints/\" rel=\"noopener noreferrer\" target=\"_blank\">\n足迹 - 旅行漫记\n</a></p>",
+      "description": "<p>距离我第一次发布\n<a href=\"https://www.xiaoten.com/posts/2025/11/amap-powered-footprintmap-shortcode/\" rel=\"noopener noreferrer\" target=\"_blank\">\n基于高德地图实现 Hugo 足迹地图短代码\n</a> 已经过去了一段时间，一直都没有进行更新。</p>\n<p>直到昨天 S 大佬提出了一个高品质需求，更新刻不容缓：</p>\n<p><img alt=\"\" height=\"368\" src=\"images/PixPin_2026-03-15_19-46-54.png\" width=\"1698\" />\n</p>\n<p>当然最终还是大佬靠自己解决了😈……大家可围观大佬的足迹：\n<a href=\"https://synyan.cn/footprints/\" rel=\"noopener noreferrer\" target=\"_blank\">\n足迹 - 旅行漫记\n</a></p>",
       "pub_date": "2026-03-15T19:42:00+08:00",
       "updated_at": "2026-03-15T20:51:13+08:00",
       "author": "",
@@ -30940,17 +30951,6 @@
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "体面式掠夺",
-      "link": "https://wang618.cn/ti-mian-shi-lve-duo.html",
-      "description": "<p>世间愈显魔幻，巧取豪夺偏装成“附赠好物”的体面。两斤榨菜八百八十八，一颗白菜一百八十八，一碗泡面一百一十八，荒诞到失语。是商家疯了，还是我与世道脱了轨？罢了，买不起，是我的错，我的错！</p>\n<p><img alt=\"体面式掠夺1.webp\" src=\"https://wang618.cn/content/uploadfile/202512/f1ad1767016217.webp\" /><br />\n<img alt=\"体面式掠夺2.webp\" src=\"https://wang618.cn/content/uploadfile/202512/ca9c1767016217.webp\" /><br />\n<img alt=\"体面式掠夺3.webp\" src=\"https://wang618.cn/content/uploadfile/202512/7c8e1767016218.webp\" /></p>",
-      "pub_date": "2025-12-29T21:55:38+08:00",
-      "updated_at": "2025-12-29T21:55:38+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "Adobe Acrobat Reader: Sign PDF",
