@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T15:06:01.024580+08:00",
+  "updated_at": "2026-03-15T21:05:06.603663+08:00",
   "total_sites": 6,
   "total_posts": 1648,
   "sites": [
@@ -103,17 +103,6 @@
           "description": "最近发现一款潜力十足的博客应用anheyu-app，作者anzhiyu专业可靠。我虽暂不迁移，但已购入Pro版支持。本文不仅是推荐，更详细介绍了anheyu-app的安装流程，供有兴趣的朋友参考。",
           "pub_date": "2025-09-30T15:59:58+08:00",
           "updated_at": "2025-09-30T15:59:59+08:00",
-          "author": "",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "Casdoor强行兼容Artalk社交登录",
-          "link": "https://blog.liushen.fun/posts/8624756e/",
-          "description": "距离去上海还有三天，就趁这之前再更一篇文章吧！最近折腾了清羽通行证，接入了一些支持OAuth2的平台，但也有部分平台暂不支持，后面打算通过Nginx来补充认证。这篇文章主要分享一下如何给Artalk对接Casdoor认证。",
-          "pub_date": "2025-09-16T15:50:21+08:00",
-          "updated_at": "2025-09-16T15:51:21+08:00",
           "author": "",
           "site_name": "LiuSheng",
           "site_url": "https://blog.liushen.fun/",
@@ -17642,6 +17631,17 @@
       "feed_url": "https://www.xiaoten.com/index.xml",
       "posts": [
         {
+          "title": "足迹地图更新：区域高亮显示",
+          "link": "https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/",
+          "description": "<p>距离我第一次发布\n<a href=\"https://www.xiaoten.com/posts/2025/11/amap-powered-footprintmap-shortcode/\" rel=\"noopener noreferrer\" target=\"_blank\">\n基于高德地图实现 Hugo 足迹地图短代码\n</a> 已经过去了一段时间，一直都没有进行更新。</p>\n<p>直到昨天 S 大佬提出了一个高品质需求，更新刻不容缓：</p>\n<figure class=\" has-custom-height\">\n<a class=\"no-a-style\" href=\"https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/images/PixPin_2026-03-15_19-46-54_hu_f4352a051160b94d.png\">\n<img alt=\"需求\" height=\"260\" src=\"https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/images/PixPin_2026-03-15_19-46-54_hu_9de5610eb85c3a93.png\" title=\"需求\" width=\"1200\" />\n</a>\n<figcaption>\n<span class=\"title\">需求</span>\n</figcaption>\n</figure>\n<p>当然最终还是大佬靠自己解决了😈……大家可围观大佬的足迹：\n<a href=\"https://synyan.cn/footprints/\" rel=\"noopener noreferrer\" target=\"_blank\">\n足迹 - 旅行漫记\n</a></p>",
+          "pub_date": "2026-03-15T19:42:00+08:00",
+          "updated_at": "2026-03-15T20:51:13+08:00",
+          "author": "",
+          "site_name": "小十博客",
+          "site_url": "https://www.xiaoten.com/",
+          "avatar": "https://www.xiaoten.com/avatar.png"
+        },
+        {
           "title": "我用 AI 为 Hugo 打造了博客文章发布平台",
           "link": "https://www.xiaoten.com/posts/2026/03/ai-build-hugo-cms/",
           "description": "<p>自从去年 10 月将博客从 Typecho 迁移到 Hugo 之后，静态博客在访问速度、数据安全和服务器资源占用上的优势让我非常满意。</p>\n<p>但不得不面对静态博客最大的痛点：没有成熟的文章后台发布系统。我一直采用手动创建文件夹并新建 markdown 文件的方式来写博客，特别是我还用到了一些关于图片方面的 Shortcode……</p>",
@@ -18181,6 +18181,17 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "足迹地图更新：区域高亮显示",
+      "link": "https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/",
+      "description": "<p>距离我第一次发布\n<a href=\"https://www.xiaoten.com/posts/2025/11/amap-powered-footprintmap-shortcode/\" rel=\"noopener noreferrer\" target=\"_blank\">\n基于高德地图实现 Hugo 足迹地图短代码\n</a> 已经过去了一段时间，一直都没有进行更新。</p>\n<p>直到昨天 S 大佬提出了一个高品质需求，更新刻不容缓：</p>\n<figure class=\" has-custom-height\">\n<a class=\"no-a-style\" href=\"https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/images/PixPin_2026-03-15_19-46-54_hu_f4352a051160b94d.png\">\n<img alt=\"需求\" height=\"260\" src=\"https://www.xiaoten.com/posts/2026/03/footprintmap-global-highlight-update/images/PixPin_2026-03-15_19-46-54_hu_9de5610eb85c3a93.png\" title=\"需求\" width=\"1200\" />\n</a>\n<figcaption>\n<span class=\"title\">需求</span>\n</figcaption>\n</figure>\n<p>当然最终还是大佬靠自己解决了😈……大家可围观大佬的足迹：\n<a href=\"https://synyan.cn/footprints/\" rel=\"noopener noreferrer\" target=\"_blank\">\n足迹 - 旅行漫记\n</a></p>",
+      "pub_date": "2026-03-15T19:42:00+08:00",
+      "updated_at": "2026-03-15T20:51:13+08:00",
+      "author": "",
+      "site_name": "小十博客",
+      "site_url": "https://www.xiaoten.com/",
+      "avatar": "https://www.xiaoten.com/avatar.png"
+    },
     {
       "title": "喵趣",
       "link": "https://wang618.cn/miao-qu.html",
@@ -36293,17 +36304,6 @@
       "description": "最近发现一款潜力十足的博客应用anheyu-app，作者anzhiyu专业可靠。我虽暂不迁移，但已购入Pro版支持。本文不仅是推荐，更详细介绍了anheyu-app的安装流程，供有兴趣的朋友参考。",
       "pub_date": "2025-09-30T15:59:58+08:00",
       "updated_at": "2025-09-30T15:59:59+08:00",
-      "author": "",
-      "site_name": "LiuSheng",
-      "site_url": "https://blog.liushen.fun/",
-      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "Casdoor强行兼容Artalk社交登录",
-      "link": "https://blog.liushen.fun/posts/8624756e/",
-      "description": "距离去上海还有三天，就趁这之前再更一篇文章吧！最近折腾了清羽通行证，接入了一些支持OAuth2的平台，但也有部分平台暂不支持，后面打算通过Nginx来补充认证。这篇文章主要分享一下如何给Artalk对接Casdoor认证。",
-      "pub_date": "2025-09-16T15:50:21+08:00",
-      "updated_at": "2025-09-16T15:51:21+08:00",
       "author": "",
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
