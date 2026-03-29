@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-29T15:11:59.103587+08:00",
+  "updated_at": "2026-03-29T21:07:55.530106+08:00",
   "total_sites": 6,
-  "total_posts": 1648,
+  "total_posts": 1647,
   "sites": [
     {
       "name": "LiuSheng",
@@ -92,17 +92,6 @@
           "description": "这个假期过得充实又满足。我深入研究了Tinyauth，并成功将其无缝接入到任意Docker应用中，实现了统一身份验证与访问控制，避免服务被滥用。目前已有多个应用启用验证。接下来，我将以Casdoor为核心，构建更完善的通行证生态与配套应用体系。",
           "pub_date": "2025-10-07T08:20:21+08:00",
           "updated_at": "2025-10-12T08:21:21+08:00",
-          "author": "",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "不同姿势部署Anheyu-App应用",
-          "link": "https://blog.liushen.fun/posts/e3f6f966/",
-          "description": "最近发现一款潜力十足的博客应用anheyu-app，作者anzhiyu专业可靠。我虽暂不迁移，但已购入Pro版支持。本文不仅是推荐，更详细介绍了anheyu-app的安装流程，供有兴趣的朋友参考。",
-          "pub_date": "2025-09-30T15:59:58+08:00",
-          "updated_at": "2025-09-30T15:59:59+08:00",
           "author": "",
           "site_name": "LiuSheng",
           "site_url": "https://blog.liushen.fun/",
@@ -17958,6 +17947,28 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "巧妙的改装",
+          "link": "https://wang618.cn/qiao-miao-de-gai-zhuang.html",
+          "description": "<p>把之前打印的羽绒服笔筒稍加改造，秒变趣味十足的时钟摆件。支持 WiFi 同步时间与天气，去掉天线后还自带快充接口，创意与实用兼备。<br />\n<img alt=\"羽绒服时钟01.webp\" src=\"https://wang618.cn/content/uploadfile/202603/ee661774785155.webp\" /><br />\n<img alt=\"羽绒服时钟02.webp\" src=\"https://wang618.cn/content/uploadfile/202603/ee0b1774785155.webp\" /></p>",
+          "pub_date": "2026-03-29T19:52:19+08:00",
+          "updated_at": "2026-03-29T19:52:19+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
+          "title": "秒回冬天",
+          "link": "https://wang618.cn/miao-hui-dong-tian.html",
+          "description": "<p>兰州这天气我真服了！昨天还热到穿短袖，今天直接大雪封山，地球OL 怕不是系统崩了，一键回档到隆冬腊月！</p>\n<p><img alt=\"暴雪01.webp\" src=\"https://wang618.cn/content/uploadfile/202603/4f471774768729.webp\" /><br />\n<img alt=\"暴雪02.webp\" src=\"https://wang618.cn/content/uploadfile/202603/4ba61774768729.webp\" /></p>",
+          "pub_date": "2026-03-29T15:18:41+08:00",
+          "updated_at": "2026-03-29T15:18:41+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "趣味笔筒",
           "link": "https://wang618.cn/qu-wei-bi-tong.html",
           "description": "<p>打印了两款超有意思的笔筒，羽绒服款和防空导弹款，造型超别致！图纸在 Bambu Handy 上就能获取。<br />\n<img alt=\"羽绒服笔筒.webp\" src=\"https://wang618.cn/content/uploadfile/202603/79251774715864.webp\" /><br />\n<img alt=\"防空导弹笔筒.webp\" src=\"https://wang618.cn/content/uploadfile/202603/ec461774715864.webp\" /></p>",
@@ -18154,33 +18165,33 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "两件数码好物",
-          "link": "https://wang618.cn/liang-jian-shu-ma-hao-wu.html",
-          "description": "<p>近日成功种草了两件好物：坚果 NUT65 套件与飞傲 DISC 音乐播放器。NUT65 采用三模双 GASKET 结构，铝壳经过 220 目阳极工艺处理，质感细腻；碰珠快拆设计方便拆装，还带拾音灯功能，氛围感拉满。为它搭配了芭比轴和锻碳键帽，手感扎实、声音清脆，打字体验非常出色！这把套件性价比很高，非常值得入手。飞傲 DISC 的圆形触控屏是我特别喜欢的设计，颜值高、操作直观。专门买来连接车机，上车蓝牙一连就能听歌，再也不用在车机里来回切换音乐 APP，体验顺滑很多。播放器支持蓝牙连接，双 CS43131 解码芯片在同价位里表现很亮眼，是入门播放器里的佼佼者。</p>\n<p><img alt=\"铝坨坨01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/18d01768989182.webp\" /></p>\n<p><img alt=\"铝坨坨02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/12531768989182.webp\" /></p>\n<p><img alt=\"铝坨坨03.webp\" src=\"https://wang618.cn/content/uploadfile/202601/85ef1768989182.webp\" /></p>\n<p><img alt=\"播放器01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/1caf1768989182.webp\" /></p>\n<p><img alt=\"播放器02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/cd5b1768989182.webp\" /></p>\n<p><img alt=\"播放器03.webp\" src=\"https://wang618.cn/content/uploadfile/202601/30691768989182.webp\" /></p>",
-          "pub_date": "2026-01-21T17:52:53+08:00",
-          "updated_at": "2026-01-21T17:52:53+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "轴体上墙辣面收尾",
-          "link": "https://wang618.cn/zhou-ti-shang-qiang-la-mian-shou-wei.html",
-          "description": "<p>今天折腾了一整天，终于把墙面的洞洞板装好了，把所有轴体都整整齐齐收纳上墙。买了 48 个罐子和 10 块洞洞板，忙完顺手煮了碗辣到怀疑人生的地狱拉面，爽！</p>\n<p><img alt=\"轴体上墙.webp\" src=\"https://wang618.cn/content/uploadfile/202601/6e751768921589.webp\" /><br />\n<img alt=\"地狱拉面.webp\" src=\"https://wang618.cn/content/uploadfile/202601/60311768921589.webp\" /></p>",
-          "pub_date": "2026-01-20T23:05:57+08:00",
-          "updated_at": "2026-01-20T23:05:57+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
+    {
+      "title": "巧妙的改装",
+      "link": "https://wang618.cn/qiao-miao-de-gai-zhuang.html",
+      "description": "<p>把之前打印的羽绒服笔筒稍加改造，秒变趣味十足的时钟摆件。支持 WiFi 同步时间与天气，去掉天线后还自带快充接口，创意与实用兼备。<br />\n<img alt=\"羽绒服时钟01.webp\" src=\"https://wang618.cn/content/uploadfile/202603/ee661774785155.webp\" /><br />\n<img alt=\"羽绒服时钟02.webp\" src=\"https://wang618.cn/content/uploadfile/202603/ee0b1774785155.webp\" /></p>",
+      "pub_date": "2026-03-29T19:52:19+08:00",
+      "updated_at": "2026-03-29T19:52:19+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
+    {
+      "title": "秒回冬天",
+      "link": "https://wang618.cn/miao-hui-dong-tian.html",
+      "description": "<p>兰州这天气我真服了！昨天还热到穿短袖，今天直接大雪封山，地球OL 怕不是系统崩了，一键回档到隆冬腊月！</p>\n<p><img alt=\"暴雪01.webp\" src=\"https://wang618.cn/content/uploadfile/202603/4f471774768729.webp\" /><br />\n<img alt=\"暴雪02.webp\" src=\"https://wang618.cn/content/uploadfile/202603/4ba61774768729.webp\" /></p>",
+      "pub_date": "2026-03-29T15:18:41+08:00",
+      "updated_at": "2026-03-29T15:18:41+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
     {
       "title": "趣味笔筒",
       "link": "https://wang618.cn/qu-wei-bi-tong.html",
@@ -26993,17 +27004,6 @@
       "avatar": "https://tofuwine.github.io/images/profile.png"
     },
     {
-      "title": "两件数码好物",
-      "link": "https://wang618.cn/liang-jian-shu-ma-hao-wu.html",
-      "description": "<p>近日成功种草了两件好物：坚果 NUT65 套件与飞傲 DISC 音乐播放器。NUT65 采用三模双 GASKET 结构，铝壳经过 220 目阳极工艺处理，质感细腻；碰珠快拆设计方便拆装，还带拾音灯功能，氛围感拉满。为它搭配了芭比轴和锻碳键帽，手感扎实、声音清脆，打字体验非常出色！这把套件性价比很高，非常值得入手。飞傲 DISC 的圆形触控屏是我特别喜欢的设计，颜值高、操作直观。专门买来连接车机，上车蓝牙一连就能听歌，再也不用在车机里来回切换音乐 APP，体验顺滑很多。播放器支持蓝牙连接，双 CS43131 解码芯片在同价位里表现很亮眼，是入门播放器里的佼佼者。</p>\n<p><img alt=\"铝坨坨01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/18d01768989182.webp\" /></p>\n<p><img alt=\"铝坨坨02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/12531768989182.webp\" /></p>\n<p><img alt=\"铝坨坨03.webp\" src=\"https://wang618.cn/content/uploadfile/202601/85ef1768989182.webp\" /></p>\n<p><img alt=\"播放器01.webp\" src=\"https://wang618.cn/content/uploadfile/202601/1caf1768989182.webp\" /></p>\n<p><img alt=\"播放器02.webp\" src=\"https://wang618.cn/content/uploadfile/202601/cd5b1768989182.webp\" /></p>\n<p><img alt=\"播放器03.webp\" src=\"https://wang618.cn/content/uploadfile/202601/30691768989182.webp\" /></p>",
-      "pub_date": "2026-01-21T17:52:53+08:00",
-      "updated_at": "2026-01-21T17:52:53+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-    },
-    {
       "title": "Blanc Note",
       "link": "https://g0f.cn/ios/testflight/rss-16ccd286/",
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XvAUCdaW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XvAUCdaW\n</a>\n</p>",
@@ -27167,17 +27167,6 @@
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "轴体上墙辣面收尾",
-      "link": "https://wang618.cn/zhou-ti-shang-qiang-la-mian-shou-wei.html",
-      "description": "<p>今天折腾了一整天，终于把墙面的洞洞板装好了，把所有轴体都整整齐齐收纳上墙。买了 48 个罐子和 10 块洞洞板，忙完顺手煮了碗辣到怀疑人生的地狱拉面，爽！</p>\n<p><img alt=\"轴体上墙.webp\" src=\"https://wang618.cn/content/uploadfile/202601/6e751768921589.webp\" /><br />\n<img alt=\"地狱拉面.webp\" src=\"https://wang618.cn/content/uploadfile/202601/60311768921589.webp\" /></p>",
-      "pub_date": "2026-01-20T23:05:57+08:00",
-      "updated_at": "2026-01-20T23:05:57+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "河南博物院两小时纪行：中篇",
@@ -36293,17 +36282,6 @@
       "description": "这个假期过得充实又满足。我深入研究了Tinyauth，并成功将其无缝接入到任意Docker应用中，实现了统一身份验证与访问控制，避免服务被滥用。目前已有多个应用启用验证。接下来，我将以Casdoor为核心，构建更完善的通行证生态与配套应用体系。",
       "pub_date": "2025-10-07T08:20:21+08:00",
       "updated_at": "2025-10-12T08:21:21+08:00",
-      "author": "",
-      "site_name": "LiuSheng",
-      "site_url": "https://blog.liushen.fun/",
-      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "不同姿势部署Anheyu-App应用",
-      "link": "https://blog.liushen.fun/posts/e3f6f966/",
-      "description": "最近发现一款潜力十足的博客应用anheyu-app，作者anzhiyu专业可靠。我虽暂不迁移，但已购入Pro版支持。本文不仅是推荐，更详细介绍了anheyu-app的安装流程，供有兴趣的朋友参考。",
-      "pub_date": "2025-09-30T15:59:58+08:00",
-      "updated_at": "2025-09-30T15:59:59+08:00",
       "author": "",
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
