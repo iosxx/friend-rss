@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-18T10:52:56.978269+08:00",
+  "updated_at": "2026-04-18T15:16:46.808856+08:00",
   "total_sites": 6,
-  "total_posts": 1646,
+  "total_posts": 1645,
   "sites": [
     {
       "name": "LiuSheng",
@@ -17911,17 +17911,6 @@
           "description": "<h2 id=\"摘要\">摘要</h2>\n<p>本文详细阐述在 Hugo 静态网站生成器中集成 Memos 0.18.2 多用户微博系统的完整技术方案。通过 RESTful API 调用、Twikoo 评论系统集成、图片资源处理等关键技术，实现了在静态网站中展示动态微博内容的功能。本文涵盖系统架构设计、核心代码实现、性能优化策略以及部署配置指南，为开发者提供完整的实施参考。样例请见本站\n<a href=\"https://www.xiaoten.com/pages/talk/\" rel=\"noopener noreferrer\" target=\"_blank\">\n说说页面\n</a>。</p>",
           "pub_date": "2025-10-21T23:28:08+08:00",
           "updated_at": "2025-10-21T23:28:08+08:00",
-          "author": "",
-          "site_name": "小十博客",
-          "site_url": "https://www.xiaoten.com/",
-          "avatar": "https://www.xiaoten.com/avatar.png"
-        },
-        {
-          "title": "借助 GitHub Actions 自动化部署 Hugo 网站到自有服务器",
-          "link": "https://www.xiaoten.com/posts/2025/10/automating-hugo-website-deployment-to-your-own-server-with-github-actions/",
-          "description": "<h2 id=\"从手动部署到自动化的工作流演进\">从手动部署到自动化的工作流演进</h2>\n<p>在网站开发的初期阶段，为了深入理解整个发布流程，我一直在本地环境中使用 Hugo 手动生成静态网站。这个过程包括：运行 <code>hugo</code> 命令生成静态文件，手动打包 <code>public</code> 目录，然后通过 SCP 或 FTP 上传到服务器，最后在服务器上解压并配置。虽然这种方法让我对网站部署的每个环节都有了清晰的认识，但随着内容的增多，这种重复性工作变得越来越耗时。</p>",
-          "pub_date": "2025-10-20T13:22:29+08:00",
-          "updated_at": "2025-10-20T13:22:29+08:00",
           "author": "",
           "site_name": "小十博客",
           "site_url": "https://www.xiaoten.com/",
@@ -36249,17 +36238,6 @@
       "description": "<h2 id=\"摘要\">摘要</h2>\n<p>本文详细阐述在 Hugo 静态网站生成器中集成 Memos 0.18.2 多用户微博系统的完整技术方案。通过 RESTful API 调用、Twikoo 评论系统集成、图片资源处理等关键技术，实现了在静态网站中展示动态微博内容的功能。本文涵盖系统架构设计、核心代码实现、性能优化策略以及部署配置指南，为开发者提供完整的实施参考。样例请见本站\n<a href=\"https://www.xiaoten.com/pages/talk/\" rel=\"noopener noreferrer\" target=\"_blank\">\n说说页面\n</a>。</p>",
       "pub_date": "2025-10-21T23:28:08+08:00",
       "updated_at": "2025-10-21T23:28:08+08:00",
-      "author": "",
-      "site_name": "小十博客",
-      "site_url": "https://www.xiaoten.com/",
-      "avatar": "https://www.xiaoten.com/avatar.png"
-    },
-    {
-      "title": "借助 GitHub Actions 自动化部署 Hugo 网站到自有服务器",
-      "link": "https://www.xiaoten.com/posts/2025/10/automating-hugo-website-deployment-to-your-own-server-with-github-actions/",
-      "description": "<h2 id=\"从手动部署到自动化的工作流演进\">从手动部署到自动化的工作流演进</h2>\n<p>在网站开发的初期阶段，为了深入理解整个发布流程，我一直在本地环境中使用 Hugo 手动生成静态网站。这个过程包括：运行 <code>hugo</code> 命令生成静态文件，手动打包 <code>public</code> 目录，然后通过 SCP 或 FTP 上传到服务器，最后在服务器上解压并配置。虽然这种方法让我对网站部署的每个环节都有了清晰的认识，但随着内容的增多，这种重复性工作变得越来越耗时。</p>",
-      "pub_date": "2025-10-20T13:22:29+08:00",
-      "updated_at": "2025-10-20T13:22:29+08:00",
       "author": "",
       "site_name": "小十博客",
       "site_url": "https://www.xiaoten.com/",
