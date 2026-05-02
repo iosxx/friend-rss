@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-02T03:18:54.661120+08:00",
+  "updated_at": "2026-05-02T11:27:10.641231+08:00",
   "total_sites": 6,
-  "total_posts": 1635,
+  "total_posts": 1634,
   "sites": [
     {
       "name": "LiuSheng",
@@ -17389,17 +17389,6 @@
           "description": "<p>苹果为 App Store 发布了一个带搜索、带类别，可供浏览的网页版本：\n<a href=\"https://apps.apple.com/cn/iphone/today\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://apps.apple.com/cn/iphone/today\n</a>\nApp Store\niPhone 版“Today” - App Store\n在 App Store 上查找适用于 iPhone、iPad、Mac 等设备的 App 和游戏。</p>",
           "pub_date": "2025-11-04T06:17:00+08:00",
           "updated_at": "2025-11-04T06:17:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "GitHub",
-          "link": "https://g0f.cn/ios/testflight/rss-cab435c6/",
-          "description": "<p>#GitHub</p>\n<p>\n<a href=\"https://testflight.apple.com/join/NLskzwi5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NLskzwi5\n</a>\nApple\nJoin the GitHub beta\nAvailable on iOS</p>",
-          "pub_date": "2025-11-03T09:04:00+08:00",
-          "updated_at": "2025-11-03T09:04:00+08:00",
           "author": "",
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
@@ -36011,17 +36000,6 @@
       "site_name": "小十博客",
       "site_url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png"
-    },
-    {
-      "title": "GitHub",
-      "link": "https://g0f.cn/ios/testflight/rss-cab435c6/",
-      "description": "<p>#GitHub</p>\n<p>\n<a href=\"https://testflight.apple.com/join/NLskzwi5\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NLskzwi5\n</a>\nApple\nJoin the GitHub beta\nAvailable on iOS</p>",
-      "pub_date": "2025-11-03T09:04:00+08:00",
-      "updated_at": "2025-11-03T09:04:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
     }
   ],
   "failed_sites": [
