@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-04T16:36:26.842260+08:00",
+  "updated_at": "2026-05-04T22:15:25.143184+08:00",
   "total_sites": 6,
-  "total_posts": 1631,
+  "total_posts": 1632,
   "sites": [
     {
       "name": "LiuSheng",
@@ -9,6 +9,17 @@
       "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp",
       "feed_url": "https://blog.liushen.fun/atom.xml",
       "posts": [
+        {
+          "title": "黔山赴夏，清风入怀",
+          "link": "https://blog.liushen.fun/posts/1968ba6c/",
+          "description": "这段时间沉迷AI探索与开发，顺手为兰空图床开源版加入了多项实用功能。借公司培训之机前往贵阳，在轻松与紧凑交织的节奏中完成学习，也体验了黔灵山与民生路等地的风景与美食，是一段难得放松又充实的旅程。",
+          "pub_date": "2026-05-04T12:50:21+08:00",
+          "updated_at": "2026-05-04T12:50:22+08:00",
+          "author": "LiuShen",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
         {
           "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
           "link": "https://blog.liushen.fun/posts/381a41ac/",
@@ -17994,6 +18005,17 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "黔山赴夏，清风入怀",
+      "link": "https://blog.liushen.fun/posts/1968ba6c/",
+      "description": "这段时间沉迷AI探索与开发，顺手为兰空图床开源版加入了多项实用功能。借公司培训之机前往贵阳，在轻松与紧凑交织的节奏中完成学习，也体验了黔灵山与民生路等地的风景与美食，是一段难得放松又充实的旅程。",
+      "pub_date": "2026-05-04T12:50:21+08:00",
+      "updated_at": "2026-05-04T12:50:22+08:00",
+      "author": "LiuShen",
+      "site_name": "LiuSheng",
+      "site_url": "https://blog.liushen.fun/",
+      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+    },
     {
       "title": "劳动成果",
       "link": "https://wang618.cn/lao-dong-cheng-guo.html",
