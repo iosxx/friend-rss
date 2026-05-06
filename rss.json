@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T22:28:04.021868+08:00",
+  "updated_at": "2026-05-07T03:53:05.598683+08:00",
   "total_sites": 6,
   "total_posts": 1628,
   "sites": [
@@ -17477,6 +17477,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "莫贪小便宜",
+          "link": "https://wang618.cn/mo-tan-xiao-pian-yi.html",
+          "description": "<p>买服务器千万别贪低价小便宜！近日 某🦊云 倒闭了！当初营销噱头：16 核 16G 20M 香港服务器，三年仅需 138 元！稍微懂行都知道，这个价格连单独的 IP 租用成本都覆盖不了，更别说硬件、机房带宽和运维开销。这类小商家根本不是正经做服务器业务，只是靠超低价高配当诱饵，疯狂收割扩充用户体量，靠用户规模去拉融资、玩资金盘。一旦后续资金链断裂，直接跑路、关停服务。稍微良心点的，还会发个公告让你备份数据，黑心的直接悄无声息删库失联，业务和数据全盘清零。永远牢记：数据无价！莫贪小便宜！个人建站、部署业务、存放核心数据，千万别贪这种离谱低价的小作坊。踏踏实实选正规大厂，稳定、安全、有保障，才是长久之道。谨慎跟风低价服务器、买断制套餐，资本都是逐利为本！还有别迷信证件齐全，资质再完备，该跑路的照样跑路！再厉害的大厂也有翻车时刻，数据备份永远不能松懈！</p>",
+          "pub_date": "2026-05-07T01:40:02+08:00",
+          "updated_at": "2026-05-07T01:40:02+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        },
+        {
           "title": "藏票寄流年",
           "link": "https://wang618.cn/cang-piao-ji-liu-nian.html",
           "description": "<p>今日收拾旧物，翻出一套钱江八景青铜藏书票。这是父亲当年参加第七届中国艺术节的纪念，一晃竟已二十余载。器物依旧完好如初，岁月却悄然流转。打算寻一方雅致相框装裱珍藏，留住这份时光印记，也留住一段温柔往事与旧日念想。<br />\n<img alt=\"钱江八景青铜藏书票封面.webp\" src=\"https://wang618.cn/content/uploadfile/202605/5b321777970510.webp\" /><br />\n<img alt=\"钱江八景青铜藏书票.webp\" src=\"https://wang618.cn/content/uploadfile/202605/13f71777970510.webp\" /></p>",
@@ -17680,17 +17691,6 @@
           "description": "<p>远赴时，敢闯漫天风沙；归来日，笑对万里暴雪。人生这一路，每一步坎坷都是岁月的雕刻。踏过沙的滚烫，走过雪的寒凉，才懂得：所有的奔赴，终有回甘；所有的历经，皆是风光。</p>\n<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E6%97%85%E8%A1%8C.mp4?sign=G5am4hL8D8xi-emeTmThsmbuFv6SCize8zeOrbXHCtg=:0\"></video>",
           "pub_date": "2026-03-08T14:53:18+08:00",
           "updated_at": "2026-03-08T14:53:18+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "纸牌消失术",
-          "link": "https://wang618.cn/zhi-pai-xiao-shi-shu.html",
-          "description": "<p>神奇纸牌消失魔术：请记住任意一张纸牌，我会让它彻底消失！</p>\n<p></p>",
-          "pub_date": "2026-02-27T00:18:54+08:00",
-          "updated_at": "2026-02-27T00:18:54+08:00",
           "author": "旺东",
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
@@ -17905,7 +17905,7 @@
         {
           "title": "基于高德地图实现 Hugo 足迹地图短代码",
           "link": "https://www.xiaoten.com/posts/2025/11/amap-powered-footprintmap-shortcode/",
-          "description": "<p>依然是受\n<a href=\"https://wangdaodao.com/20251117/amap-track.html\" rel=\"noopener noreferrer\" target=\"_blank\">\n王叨叨：基于高德地图做足迹管理插件\n</a>文章启发，实在眼馋足迹功能，但苦于没有清晰的思路，看到叨叨大神发了这个插件，借助AI，终于抽空完成了这一功能，并融入了一些个人想法：</p>\n<ol>\n<li>与站点主题同步，支持亮/暗模式自适应；</li>\n<li>增加标签筛选功能；</li>\n<li>在地图卡片中，若有多张图片，支持水平滚动并集成灯箱放大查看；</li>\n<li>标记点智能集群，缩小地图时自动合并附近位置；</li>\n<li>集群开关控制，可随时启用或关闭集群功能。</li>\n</ol>\n<p>其余部分则为常规足迹功能的实现。</p>\n<p>本文将简要介绍实现方式，完整的源码已在\n<a href=\"https://github.com/Jiosanity/XiaoTen-FootprintMap\" rel=\"noopener noreferrer\" target=\"_blank\">\nGitHub\n</a> 开源，包含所有 JS、CSS 和示例数据。具体样例在本站&quot;关于&quot;页面，如下所示：</p>\n<div class=\"footprint-map\" id=\"footprintmap-1777825678242345276\" style=\"height: 500px;\">\n<div class=\"footprint-map__loading\">正在加载足迹...</div></div>\n<h2 id=\"主要功能\">主要功能</h2>\n<ul>\n<li><strong>短代码嵌入</strong>：<code>{{&lt; footprintmap &gt;}}</code> 自动注入脚本与样式，按需加载数据。</li>\n<li><strong>JSON 数据支持</strong>：所有足迹数据集中保存在 <code>footprints.json</code> 文件中，便于在 Git 里维护与复用。</li>\n<li><strong>自动标签筛选</strong>：脚本会扫描全部 <code>categories</code> 字段，生成可点击的筛选按钮。</li>\n<li><strong>智能标记集群</strong>：缩小地图时自动将附近位置合并显示，点击集群标记可放大查看详情。</li>\n<li><strong>集群开关控制</strong>：地图底部提供开关按钮，支持亮/暗主题自动适配。</li>\n<li><strong>文章关联</strong>：通过手动设置 <code>url</code> 字段，可添加关联的文章。</li>\n<li><strong>照片轻量查看器</strong>：支持多张图的横向轮播，点击后用自定义 Viewer 放大，适配移动端手势。</li>\n<li><strong>亮/暗主题联动</strong>：跟随站点 <code>dark</code> class 切换高德地图底图与 InfoWindow 样式。</li>\n<li><strong>自定义 Marker 颜色</strong>：通过 <code>markerColor</code> 选择预设（<code>sunset</code> / <code>ocean</code> / <code>violet</code> / <code>forest</code> / <code>amber</code> / <code>citrus</code>），也支持直接写 <code>#RRGGBB</code>。</li>\n<li><strong>移动端优化</strong>：信息卡宽度移动端自适应、字号/间距重排、点击空白区域自动收起 InfoWindow。</li>\n</ul>\n<h2 id=\"json-数据格式\">JSON 数据格式</h2>\n<p><code>footprints.json</code> 中维护一个 <code>locations</code> 数组，字段解释如下：</p>",
+          "description": "<p>依然是受\n<a href=\"https://wangdaodao.com/20251117/amap-track.html\" rel=\"noopener noreferrer\" target=\"_blank\">\n王叨叨：基于高德地图做足迹管理插件\n</a>文章启发，实在眼馋足迹功能，但苦于没有清晰的思路，看到叨叨大神发了这个插件，借助AI，终于抽空完成了这一功能，并融入了一些个人想法：</p>\n<ol>\n<li>与站点主题同步，支持亮/暗模式自适应；</li>\n<li>增加标签筛选功能；</li>\n<li>在地图卡片中，若有多张图片，支持水平滚动并集成灯箱放大查看；</li>\n<li>标记点智能集群，缩小地图时自动合并附近位置；</li>\n<li>集群开关控制，可随时启用或关闭集群功能。</li>\n</ol>\n<p>其余部分则为常规足迹功能的实现。</p>\n<p>本文将简要介绍实现方式，完整的源码已在\n<a href=\"https://github.com/Jiosanity/XiaoTen-FootprintMap\" rel=\"noopener noreferrer\" target=\"_blank\">\nGitHub\n</a> 开源，包含所有 JS、CSS 和示例数据。具体样例在本站&quot;关于&quot;页面，如下所示：</p>\n<div class=\"footprint-map\" id=\"footprintmap-1778080692235422333\" style=\"height: 500px;\">\n<div class=\"footprint-map__loading\">正在加载足迹...</div></div>\n<h2 id=\"主要功能\">主要功能</h2>\n<ul>\n<li><strong>短代码嵌入</strong>：<code>{{&lt; footprintmap &gt;}}</code> 自动注入脚本与样式，按需加载数据。</li>\n<li><strong>JSON 数据支持</strong>：所有足迹数据集中保存在 <code>footprints.json</code> 文件中，便于在 Git 里维护与复用。</li>\n<li><strong>自动标签筛选</strong>：脚本会扫描全部 <code>categories</code> 字段，生成可点击的筛选按钮。</li>\n<li><strong>智能标记集群</strong>：缩小地图时自动将附近位置合并显示，点击集群标记可放大查看详情。</li>\n<li><strong>集群开关控制</strong>：地图底部提供开关按钮，支持亮/暗主题自动适配。</li>\n<li><strong>文章关联</strong>：通过手动设置 <code>url</code> 字段，可添加关联的文章。</li>\n<li><strong>照片轻量查看器</strong>：支持多张图的横向轮播，点击后用自定义 Viewer 放大，适配移动端手势。</li>\n<li><strong>亮/暗主题联动</strong>：跟随站点 <code>dark</code> class 切换高德地图底图与 InfoWindow 样式。</li>\n<li><strong>自定义 Marker 颜色</strong>：通过 <code>markerColor</code> 选择预设（<code>sunset</code> / <code>ocean</code> / <code>violet</code> / <code>forest</code> / <code>amber</code> / <code>citrus</code>），也支持直接写 <code>#RRGGBB</code>。</li>\n<li><strong>移动端优化</strong>：信息卡宽度移动端自适应、字号/间距重排、点击空白区域自动收起 InfoWindow。</li>\n</ul>\n<h2 id=\"json-数据格式\">JSON 数据格式</h2>\n<p><code>footprints.json</code> 中维护一个 <code>locations</code> 数组，字段解释如下：</p>",
           "pub_date": "2025-11-18T15:45:25+08:00",
           "updated_at": "2025-11-21T22:00:00+08:00",
           "author": "",
@@ -17961,6 +17961,17 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "莫贪小便宜",
+      "link": "https://wang618.cn/mo-tan-xiao-pian-yi.html",
+      "description": "<p>买服务器千万别贪低价小便宜！近日 某🦊云 倒闭了！当初营销噱头：16 核 16G 20M 香港服务器，三年仅需 138 元！稍微懂行都知道，这个价格连单独的 IP 租用成本都覆盖不了，更别说硬件、机房带宽和运维开销。这类小商家根本不是正经做服务器业务，只是靠超低价高配当诱饵，疯狂收割扩充用户体量，靠用户规模去拉融资、玩资金盘。一旦后续资金链断裂，直接跑路、关停服务。稍微良心点的，还会发个公告让你备份数据，黑心的直接悄无声息删库失联，业务和数据全盘清零。永远牢记：数据无价！莫贪小便宜！个人建站、部署业务、存放核心数据，千万别贪这种离谱低价的小作坊。踏踏实实选正规大厂，稳定、安全、有保障，才是长久之道。谨慎跟风低价服务器、买断制套餐，资本都是逐利为本！还有别迷信证件齐全，资质再完备，该跑路的照样跑路！再厉害的大厂也有翻车时刻，数据备份永远不能松懈！</p>",
+      "pub_date": "2026-05-07T01:40:02+08:00",
+      "updated_at": "2026-05-07T01:40:02+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+    },
     {
       "title": "藏票寄流年",
       "link": "https://wang618.cn/cang-piao-ji-liu-nian.html",
@@ -19984,17 +19995,6 @@
       "site_name": "故事的程序猿",
       "site_url": "https://blog.lichenghao.cn/",
       "avatar": "https://blog.lichenghao.cn/avatar.svg"
-    },
-    {
-      "title": "纸牌消失术",
-      "link": "https://wang618.cn/zhi-pai-xiao-shi-shu.html",
-      "description": "<p>神奇纸牌消失魔术：请记住任意一张纸牌，我会让它彻底消失！</p>\n<p></p>",
-      "pub_date": "2026-02-27T00:18:54+08:00",
-      "updated_at": "2026-02-27T00:18:54+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
     },
     {
       "title": "Bloc· 4h ago",
@@ -35729,7 +35729,7 @@
     {
       "title": "基于高德地图实现 Hugo 足迹地图短代码",
       "link": "https://www.xiaoten.com/posts/2025/11/amap-powered-footprintmap-shortcode/",
-      "description": "<p>依然是受\n<a href=\"https://wangdaodao.com/20251117/amap-track.html\" rel=\"noopener noreferrer\" target=\"_blank\">\n王叨叨：基于高德地图做足迹管理插件\n</a>文章启发，实在眼馋足迹功能，但苦于没有清晰的思路，看到叨叨大神发了这个插件，借助AI，终于抽空完成了这一功能，并融入了一些个人想法：</p>\n<ol>\n<li>与站点主题同步，支持亮/暗模式自适应；</li>\n<li>增加标签筛选功能；</li>\n<li>在地图卡片中，若有多张图片，支持水平滚动并集成灯箱放大查看；</li>\n<li>标记点智能集群，缩小地图时自动合并附近位置；</li>\n<li>集群开关控制，可随时启用或关闭集群功能。</li>\n</ol>\n<p>其余部分则为常规足迹功能的实现。</p>\n<p>本文将简要介绍实现方式，完整的源码已在\n<a href=\"https://github.com/Jiosanity/XiaoTen-FootprintMap\" rel=\"noopener noreferrer\" target=\"_blank\">\nGitHub\n</a> 开源，包含所有 JS、CSS 和示例数据。具体样例在本站&quot;关于&quot;页面，如下所示：</p>\n<div class=\"footprint-map\" id=\"footprintmap-1777825678242345276\" style=\"height: 500px;\">\n<div class=\"footprint-map__loading\">正在加载足迹...</div></div>\n<h2 id=\"主要功能\">主要功能</h2>\n<ul>\n<li><strong>短代码嵌入</strong>：<code>{{&lt; footprintmap &gt;}}</code> 自动注入脚本与样式，按需加载数据。</li>\n<li><strong>JSON 数据支持</strong>：所有足迹数据集中保存在 <code>footprints.json</code> 文件中，便于在 Git 里维护与复用。</li>\n<li><strong>自动标签筛选</strong>：脚本会扫描全部 <code>categories</code> 字段，生成可点击的筛选按钮。</li>\n<li><strong>智能标记集群</strong>：缩小地图时自动将附近位置合并显示，点击集群标记可放大查看详情。</li>\n<li><strong>集群开关控制</strong>：地图底部提供开关按钮，支持亮/暗主题自动适配。</li>\n<li><strong>文章关联</strong>：通过手动设置 <code>url</code> 字段，可添加关联的文章。</li>\n<li><strong>照片轻量查看器</strong>：支持多张图的横向轮播，点击后用自定义 Viewer 放大，适配移动端手势。</li>\n<li><strong>亮/暗主题联动</strong>：跟随站点 <code>dark</code> class 切换高德地图底图与 InfoWindow 样式。</li>\n<li><strong>自定义 Marker 颜色</strong>：通过 <code>markerColor</code> 选择预设（<code>sunset</code> / <code>ocean</code> / <code>violet</code> / <code>forest</code> / <code>amber</code> / <code>citrus</code>），也支持直接写 <code>#RRGGBB</code>。</li>\n<li><strong>移动端优化</strong>：信息卡宽度移动端自适应、字号/间距重排、点击空白区域自动收起 InfoWindow。</li>\n</ul>\n<h2 id=\"json-数据格式\">JSON 数据格式</h2>\n<p><code>footprints.json</code> 中维护一个 <code>locations</code> 数组，字段解释如下：</p>",
+      "description": "<p>依然是受\n<a href=\"https://wangdaodao.com/20251117/amap-track.html\" rel=\"noopener noreferrer\" target=\"_blank\">\n王叨叨：基于高德地图做足迹管理插件\n</a>文章启发，实在眼馋足迹功能，但苦于没有清晰的思路，看到叨叨大神发了这个插件，借助AI，终于抽空完成了这一功能，并融入了一些个人想法：</p>\n<ol>\n<li>与站点主题同步，支持亮/暗模式自适应；</li>\n<li>增加标签筛选功能；</li>\n<li>在地图卡片中，若有多张图片，支持水平滚动并集成灯箱放大查看；</li>\n<li>标记点智能集群，缩小地图时自动合并附近位置；</li>\n<li>集群开关控制，可随时启用或关闭集群功能。</li>\n</ol>\n<p>其余部分则为常规足迹功能的实现。</p>\n<p>本文将简要介绍实现方式，完整的源码已在\n<a href=\"https://github.com/Jiosanity/XiaoTen-FootprintMap\" rel=\"noopener noreferrer\" target=\"_blank\">\nGitHub\n</a> 开源，包含所有 JS、CSS 和示例数据。具体样例在本站&quot;关于&quot;页面，如下所示：</p>\n<div class=\"footprint-map\" id=\"footprintmap-1778080692235422333\" style=\"height: 500px;\">\n<div class=\"footprint-map__loading\">正在加载足迹...</div></div>\n<h2 id=\"主要功能\">主要功能</h2>\n<ul>\n<li><strong>短代码嵌入</strong>：<code>{{&lt; footprintmap &gt;}}</code> 自动注入脚本与样式，按需加载数据。</li>\n<li><strong>JSON 数据支持</strong>：所有足迹数据集中保存在 <code>footprints.json</code> 文件中，便于在 Git 里维护与复用。</li>\n<li><strong>自动标签筛选</strong>：脚本会扫描全部 <code>categories</code> 字段，生成可点击的筛选按钮。</li>\n<li><strong>智能标记集群</strong>：缩小地图时自动将附近位置合并显示，点击集群标记可放大查看详情。</li>\n<li><strong>集群开关控制</strong>：地图底部提供开关按钮，支持亮/暗主题自动适配。</li>\n<li><strong>文章关联</strong>：通过手动设置 <code>url</code> 字段，可添加关联的文章。</li>\n<li><strong>照片轻量查看器</strong>：支持多张图的横向轮播，点击后用自定义 Viewer 放大，适配移动端手势。</li>\n<li><strong>亮/暗主题联动</strong>：跟随站点 <code>dark</code> class 切换高德地图底图与 InfoWindow 样式。</li>\n<li><strong>自定义 Marker 颜色</strong>：通过 <code>markerColor</code> 选择预设（<code>sunset</code> / <code>ocean</code> / <code>violet</code> / <code>forest</code> / <code>amber</code> / <code>citrus</code>），也支持直接写 <code>#RRGGBB</code>。</li>\n<li><strong>移动端优化</strong>：信息卡宽度移动端自适应、字号/间距重排、点击空白区域自动收起 InfoWindow。</li>\n</ul>\n<h2 id=\"json-数据格式\">JSON 数据格式</h2>\n<p><code>footprints.json</code> 中维护一个 <code>locations</code> 数组，字段解释如下：</p>",
       "pub_date": "2025-11-18T15:45:25+08:00",
       "updated_at": "2025-11-21T22:00:00+08:00",
       "author": "",
