@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-10T03:10:41.613654+08:00",
+  "updated_at": "2026-05-10T11:50:31.074305+08:00",
   "total_sites": 6,
-  "total_posts": 1626,
+  "total_posts": 1625,
   "sites": [
     {
       "name": "LiuSheng",
@@ -17312,17 +17312,6 @@
           "description": "<p>#酷我音乐</p>\n<p>\n<a href=\"https://testflight.apple.com/join/XWYSZMaS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XWYSZMaS\n</a>\nApple\nJoin the 酷我音乐-好音质用酷我 beta\nAvailable on iOS</p>",
           "pub_date": "2025-11-13T02:54:00+08:00",
           "updated_at": "2025-11-13T02:54:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "网易爆米花",
-          "link": "https://g0f.cn/ios/testflight/rss-9961f0d1/",
-          "description": "<p>#网易爆米花</p>\n<p>\n<a href=\"https://testflight.apple.com/join/sIj5iOoj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sIj5iOoj\n</a>\nApple\nJoin the 网易爆米花-智能媒体库，全能云盘网盘播放器 beta\nAvailable on iOS</p>",
-          "pub_date": "2025-11-11T03:55:00+08:00",
-          "updated_at": "2025-11-11T03:55:00+08:00",
           "author": "",
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
@@ -35813,17 +35802,6 @@
       "site_name": "小十博客",
       "site_url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png"
-    },
-    {
-      "title": "网易爆米花",
-      "link": "https://g0f.cn/ios/testflight/rss-9961f0d1/",
-      "description": "<p>#网易爆米花</p>\n<p>\n<a href=\"https://testflight.apple.com/join/sIj5iOoj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/sIj5iOoj\n</a>\nApple\nJoin the 网易爆米花-智能媒体库，全能云盘网盘播放器 beta\nAvailable on iOS</p>",
-      "pub_date": "2025-11-11T03:55:00+08:00",
-      "updated_at": "2025-11-11T03:55:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
     }
   ],
   "failed_sites": [
