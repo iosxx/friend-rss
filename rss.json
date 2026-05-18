@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-18T03:16:24.407450+08:00",
+  "updated_at": "2026-05-18T12:10:02.918050+08:00",
   "total_sites": 6,
-  "total_posts": 1618,
+  "total_posts": 1616,
   "sites": [
     {
       "name": "LiuSheng",
@@ -17257,28 +17257,6 @@
           "description": "<p>#推友自荐</p>\n<p>\n<a href=\"https://testflight.apple.com/join/t1xT7SXk\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t1xT7SXk\n</a>\nApple\nJoin the Bonvo Ski Maps beta\nAvailable on iOS</p>",
           "pub_date": "2025-11-24T00:03:00+08:00",
           "updated_at": "2025-11-24T00:03:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "豆包输入法",
-          "link": "https://g0f.cn/ios/testflight/rss-910ff5e6/",
-          "description": "<p>#豆包输入法</p>\n<p>\n<a href=\"https://testflight.apple.com/join/wUz8czx3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wUz8czx3\n</a>\nApple\nJoin the 豆包输入法 beta\nAvailable on iOS</p>",
-          "pub_date": "2025-11-19T10:05:00+08:00",
-          "updated_at": "2025-11-19T10:05:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Potatso",
-          "link": "https://g0f.cn/ios/testflight/rss-bc9f7e50/",
-          "description": "<p>#Potatso</p>\n<p>\n<a href=\"https://testflight.apple.com/join/NkF46PRd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NkF46PRd\n</a>\nApple\nJoin the Potatso beta\nAvailable on iOS</p>",
-          "pub_date": "2025-11-19T09:54:00+08:00",
-          "updated_at": "2025-11-19T09:54:00+08:00",
           "author": "",
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
@@ -35626,28 +35604,6 @@
       "site_name": "LiuSheng",
       "site_url": "https://blog.liushen.fun/",
       "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-    },
-    {
-      "title": "豆包输入法",
-      "link": "https://g0f.cn/ios/testflight/rss-910ff5e6/",
-      "description": "<p>#豆包输入法</p>\n<p>\n<a href=\"https://testflight.apple.com/join/wUz8czx3\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/wUz8czx3\n</a>\nApple\nJoin the 豆包输入法 beta\nAvailable on iOS</p>",
-      "pub_date": "2025-11-19T10:05:00+08:00",
-      "updated_at": "2025-11-19T10:05:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Potatso",
-      "link": "https://g0f.cn/ios/testflight/rss-bc9f7e50/",
-      "description": "<p>#Potatso</p>\n<p>\n<a href=\"https://testflight.apple.com/join/NkF46PRd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/NkF46PRd\n</a>\nApple\nJoin the Potatso beta\nAvailable on iOS</p>",
-      "pub_date": "2025-11-19T09:54:00+08:00",
-      "updated_at": "2025-11-19T09:54:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
     }
   ],
   "failed_sites": [
