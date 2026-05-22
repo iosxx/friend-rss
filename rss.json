@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-22T04:00:02.551365+08:00",
+  "updated_at": "2026-05-22T12:08:40.101186+08:00",
   "total_sites": 6,
-  "total_posts": 1616,
+  "total_posts": 1615,
   "sites": [
     {
       "name": "LiuSheng",
@@ -70,17 +70,6 @@
           "description": "最近折腾了一个QQ群机器人，打算让它“潜伏”进群里当普通群友。正好刷到了麦麦机器人这个项目，整体完成度很高，而且最近还新增了 WebUI，对我这种偏爱可视化操作的懒人来说简直是福音。实际部署下来体验也相当顺畅，索性整理一下过程，写一篇部署教程分享给大家。",
           "pub_date": "2025-12-21T15:00:21+08:00",
           "updated_at": "2025-12-21T15:01:21+08:00",
-          "author": "LiuShen",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "魔改笔记八：外挂标签及侧边栏美化",
-          "link": "https://blog.liushen.fun/posts/6010fc85/",
-          "description": "前几天有位朋友想要我博客侧边栏的个人卡片样式和外挂标签，但由于我改动太多，一时间不好直接整理。正好周末有空，就顺手把相关内容重新梳理了一遍，并整理成了一篇简单易懂的教程，希望能对那位朋友有所帮助。这个方法适用于大部分类Butterfly主题。",
-          "pub_date": "2025-11-23T10:00:21+08:00",
-          "updated_at": "2025-11-23T10:01:21+08:00",
           "author": "LiuShen",
           "site_name": "LiuSheng",
           "site_url": "https://blog.liushen.fun/",
@@ -35593,17 +35582,6 @@
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "魔改笔记八：外挂标签及侧边栏美化",
-      "link": "https://blog.liushen.fun/posts/6010fc85/",
-      "description": "前几天有位朋友想要我博客侧边栏的个人卡片样式和外挂标签，但由于我改动太多，一时间不好直接整理。正好周末有空，就顺手把相关内容重新梳理了一遍，并整理成了一篇简单易懂的教程，希望能对那位朋友有所帮助。这个方法适用于大部分类Butterfly主题。",
-      "pub_date": "2025-11-23T10:00:21+08:00",
-      "updated_at": "2025-11-23T10:01:21+08:00",
-      "author": "LiuShen",
-      "site_name": "LiuSheng",
-      "site_url": "https://blog.liushen.fun/",
-      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
     }
   ],
   "failed_sites": [
