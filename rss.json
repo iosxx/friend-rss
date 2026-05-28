@@ -1,8 +1,82 @@
 {
-  "updated_at": "2026-05-28T18:13:05.329021+08:00",
+  "updated_at": "2026-05-29T00:11:27.582873+08:00",
   "total_sites": 6,
   "total_posts": 1610,
   "sites": [
+    {
+      "name": "LiuSheng",
+      "url": "https://blog.liushen.fun/",
+      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp",
+      "feed_url": "https://blog.liushen.fun/atom.xml",
+      "posts": [
+        {
+          "title": "黔山赴夏，清风入怀",
+          "link": "https://blog.liushen.fun/posts/1968ba6c/",
+          "description": "这里是清羽AI，这篇文章记录了博主清羽飞扬近期的生活与工作动态。作者此前沉迷AI模型一个月，并为开源兰空图床添加了Oauth登录、前端Token生成及权限管理等功能。四月上旬，作者前往贵州贵阳贵安新区云上屯参加华为为期两周的培训，期间体验了无交付压力的轻松工作状态。培训之余，他与同伴利用周末时间游览了黔灵山、民生路及白宫等景点，品尝了当地脆哨、炸土豆片、刺梨汁等特色美食，欣赏了黔灵湖的自然风光与白宫的夜景。此外，作者还与培训小组的伙伴们建立了深厚友谊，共同完成柴火灶等团队活动，在并肩作战中收获了愉快的合作体验。",
+          "pub_date": "2026-05-04T12:50:21+08:00",
+          "updated_at": "2026-05-04T12:50:22+08:00",
+          "author": "LiuShen",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
+        {
+          "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
+          "link": "https://blog.liushen.fun/posts/381a41ac/",
+          "description": "这里是清羽AI，这篇文章由清羽飞扬介绍了一款名为ChronoFrame的开源瀑布流相册系统。该项目灵感源自Afilmory，但与之不同的是，ChronoFrame是一个可在线管理的动态照片系统，支持自动解析EXIF信息、展示拍摄位置、地图足迹回溯以及自动生成缩略图等功能，相比静态相册更具交互性。作者柳神对比了TimePlus、PicImpact等竞品，认为ChronoFrame在长期使用体验和视觉呈现上更符合个人需求。文章还提供了Docker部署方案和存储配置建议，六神分享了自己使用天翼云盘结合OpenList和CDN的免存储桶方案以降低成本。全文详细阐述了从静态主题到动态系统的相册搭建历程，为读者提供了完整的项目评估和部署参考。",
+          "pub_date": "2026-04-04T16:00:00+08:00",
+          "updated_at": "2026-04-04T16:01:00+08:00",
+          "author": "LiuShen",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
+        {
+          "title": "兰空图床深度美化",
+          "link": "https://blog.liushen.fun/posts/eabede01/",
+          "description": "这里是清羽AI，这篇文章记录了LiuShen利用GitHub Copilot与AI工具，对停更的兰空图床v2进行深度UI美化的全过程：重写登录页、上传组件、控制台与仪表盘，统一圆角扁平轻量风格，保留绿色主调并适配浅色模式；提供源码与Docker两种覆盖部署方案，强调先备份再替换，附完整仓库地址及镜像willowgod/lsky-liushen，支持一键全新容器部署，无需改动核心逻辑即可体验升级后的视觉与交互。",
+          "pub_date": "2026-03-01T12:40:00+08:00",
+          "updated_at": "2026-03-01T12:41:00+08:00",
+          "author": "LiuShen",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
+        {
+          "title": "年味",
+          "link": "https://blog.liushen.fun/posts/ed97d31c/",
+          "description": "这里是清羽AI，这篇文章讲述了作者回家过年的经历和感受。作者发现，随着时间的推移，年味越来越淡，小时候的快乐也慢慢变得遥远。回家的时间越来越短，年夜饭的气氛和味道依然浓厚，但鞭炮和烟花却少了许多。作者在老家爬山，感受到身体的疲惫和岁月的变迁。年夜饭的菜肴依然丰盛，但作者更珍惜和家人围坐在一起的时光。过年期间，作者还遇到了一些无良商家，出售过期食品，让人感到心凉。虽然雪少了，但作者和朋友们仍在追雪的路上。年过完了，热闹退潮，生活重新归于日常，但作者依然怀念过年的时光。",
+          "pub_date": "2026-02-22T12:31:00+08:00",
+          "updated_at": "2026-02-22T12:32:00+08:00",
+          "author": "LiuShen",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
+        {
+          "title": "2025，清风已至，正帆向星海",
+          "link": "https://blog.liushen.fun/posts/5db5181d/",
+          "description": "这里是清羽AI，这篇文章回顾了作者从2025年考研失败到步入职场的心路历程，记录了在武汉、上海、成都等地的经历和感悟。作者在文中穿插了对黄鹤楼、东湖、湖北省博等地的回忆，以及对家人、老一辈、求职过程和音乐情感的深刻体会。文章以对成长的思考作为结尾，表达了从学生到职场人的蜕变，以及对未来的坚定信念。作者感慨时光荏苒，但依然怀揣着初心，在生活的重压与希冀间找到了自己的方向，决心在职场中发光发热，继续追逐理想。",
+          "pub_date": "2026-01-07T16:06:00+08:00",
+          "updated_at": "2026-01-07T16:07:00+08:00",
+          "author": "LiuShen",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
+        {
+          "title": "部署一只麦麦QQ机器人",
+          "link": "https://blog.liushen.fun/posts/83890fe8/",
+          "description": "这里是清羽AI，这篇文章主要介绍了如何部署麦麦QQ机器人。作者在成都出差期间重新拾起了这个项目，并详细分享了部署教程。麦麦是一个基于大语言模型构建的可交互智能体，旨在模拟真实人类的语言习惯和行为。文章首先介绍了项目的前置要求和文件准备，包括服务器配置、API额度、Linux知识等，然后详细描述了使用Docker进行部署的步骤，包括文件结构、配置修改和启动命令。最后，作者分享了WebUI的使用方法，并总结了部署过程中的体验和感受。",
+          "pub_date": "2025-12-21T15:00:21+08:00",
+          "updated_at": "2025-12-21T15:01:21+08:00",
+          "author": "LiuShen",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        }
+      ]
+    },
     {
       "name": "木木木木木",
       "url": "https://immmmm.com/",
@@ -19,6 +93,124 @@
           "site_name": "木木木木木",
           "site_url": "https://immmmm.com/",
           "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c"
+        }
+      ]
+    },
+    {
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "posts": [
+        {
+          "title": "装修灯具要注意⚠️",
+          "link": "https://blog.lichenghao.cn/article/t0eds9ba8nx5",
+          "description": "家里最近在装修，有两个灯装修的时候需要注意：磁吸轨道灯和天际线灯，一定想好了再用哈哈。",
+          "pub_date": "2026-05-26T08:50:34+08:00",
+          "updated_at": "2026-05-26T08:50:34+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年4月总结-提前的假期",
+          "link": "https://blog.lichenghao.cn/article/od3as0eswjx8",
+          "description": "我的假期从4月24号五点半🕠下班就开始啦~",
+          "pub_date": "2026-05-12T13:40:00+08:00",
+          "updated_at": "2026-05-12T13:40:00+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "SpringBoot多PgSQL数据源的一种方式",
+          "link": "https://blog.lichenghao.cn/article/x271vtyokfgi",
+          "description": "SpringBoot配置多个PgSQL的一种方式。",
+          "pub_date": "2026-05-11T16:43:36+08:00",
+          "updated_at": "2026-05-11T16:43:36+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "带着女儿去广州长隆🚕✈️🦒🐼🐒🐨",
+          "link": "https://blog.lichenghao.cn/article/uq8h77wesh40",
+          "description": "姐姐去了很多动物园了，这次要去广州长隆的大动物园了。",
+          "pub_date": "2026-04-30T21:40:51+08:00",
+          "updated_at": "2026-04-30T21:40:51+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "长春小游",
+          "link": "https://blog.lichenghao.cn/article/yjevsdmguhei",
+          "description": "李老师去长春考试，我作为后勤补给人员随同前往。",
+          "pub_date": "2026-04-27T10:50:33+08:00",
+          "updated_at": "2026-04-27T10:50:33+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "新功能添加:首页友链、画廊...【建站笔记】",
+          "link": "https://blog.lichenghao.cn/article/yrzkfrzykhpu",
+          "description": "网站虽小，功能也挺少哈哈哈~",
+          "pub_date": "2026-04-22T09:54:18+08:00",
+          "updated_at": "2026-04-22T09:54:18+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年3月总结-感冒了哦🤧",
+          "link": "https://blog.lichenghao.cn/article/74t0aa3mmhq8",
+          "description": "北京气象观测代表站观象台入春时间为 3 月 22 日，比常年（1991-2020 年平均）入春时间偏早了 4 天。",
+          "pub_date": "2026-03-31T09:10:00+08:00",
+          "updated_at": "2026-03-31T09:10:00+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "使用Protobuf备份数据",
+          "link": "https://blog.lichenghao.cn/article/wviqhe9gvcth",
+          "description": "一个高效的序列化工具来备份数据，Protobuf 是一个不错的选择!",
+          "pub_date": "2026-03-09T16:19:20+08:00",
+          "updated_at": "2026-03-09T16:19:20+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "新手咖啡入坑指南！你真的需要一台咖啡机吗？",
+          "link": "https://blog.lichenghao.cn/article/xhj0kh4cer1y",
+          "description": "从瑞幸9.9转自己做咖啡，这是一个入坑指南！盘点你需要的东西。",
+          "pub_date": "2026-03-08T11:20:00+08:00",
+          "updated_at": "2026-03-08T11:20:00+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "周日再来首钢园",
+          "link": "https://blog.lichenghao.cn/article/ks2tixejjb0e",
+          "description": "今年的第一个周末休假，我和李老师再次来到了首钢园城市漫步。",
+          "pub_date": "2026-03-02T09:05:18+08:00",
+          "updated_at": "2026-03-02T09:05:18+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         }
       ]
     },
@@ -17143,198 +17335,6 @@
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
           "avatar": "https://tofuwine.github.io/images/profile.png"
-        }
-      ]
-    },
-    {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "装修灯具要注意⚠️",
-          "link": "https://blog.lichenghao.cn/article/t0eds9ba8nx5",
-          "description": "家里最近在装修，有两个灯装修的时候需要注意：磁吸轨道灯和天际线灯，一定想好了再用哈哈。",
-          "pub_date": "2026-05-26T08:50:34+08:00",
-          "updated_at": "2026-05-26T08:50:34+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年4月总结-提前的假期",
-          "link": "https://blog.lichenghao.cn/article/od3as0eswjx8",
-          "description": "我的假期从4月24号五点半🕠下班就开始啦~",
-          "pub_date": "2026-05-12T13:40:00+08:00",
-          "updated_at": "2026-05-12T13:40:00+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "SpringBoot多PgSQL数据源的一种方式",
-          "link": "https://blog.lichenghao.cn/article/x271vtyokfgi",
-          "description": "SpringBoot配置多个PgSQL的一种方式。",
-          "pub_date": "2026-05-11T16:43:36+08:00",
-          "updated_at": "2026-05-11T16:43:36+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "带着女儿去广州长隆🚕✈️🦒🐼🐒🐨",
-          "link": "https://blog.lichenghao.cn/article/uq8h77wesh40",
-          "description": "姐姐去了很多动物园了，这次要去广州长隆的大动物园了。",
-          "pub_date": "2026-04-30T21:40:51+08:00",
-          "updated_at": "2026-04-30T21:40:51+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "长春小游",
-          "link": "https://blog.lichenghao.cn/article/yjevsdmguhei",
-          "description": "李老师去长春考试，我作为后勤补给人员随同前往。",
-          "pub_date": "2026-04-27T10:50:33+08:00",
-          "updated_at": "2026-04-27T10:50:33+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "新功能添加:首页友链、画廊...【建站笔记】",
-          "link": "https://blog.lichenghao.cn/article/yrzkfrzykhpu",
-          "description": "网站虽小，功能也挺少哈哈哈~",
-          "pub_date": "2026-04-22T09:54:18+08:00",
-          "updated_at": "2026-04-22T09:54:18+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年3月总结-感冒了哦🤧",
-          "link": "https://blog.lichenghao.cn/article/74t0aa3mmhq8",
-          "description": "北京气象观测代表站观象台入春时间为 3 月 22 日，比常年（1991-2020 年平均）入春时间偏早了 4 天。",
-          "pub_date": "2026-03-31T09:10:00+08:00",
-          "updated_at": "2026-03-31T09:10:00+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "使用Protobuf备份数据",
-          "link": "https://blog.lichenghao.cn/article/wviqhe9gvcth",
-          "description": "一个高效的序列化工具来备份数据，Protobuf 是一个不错的选择!",
-          "pub_date": "2026-03-09T16:19:20+08:00",
-          "updated_at": "2026-03-09T16:19:20+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "新手咖啡入坑指南！你真的需要一台咖啡机吗？",
-          "link": "https://blog.lichenghao.cn/article/xhj0kh4cer1y",
-          "description": "从瑞幸9.9转自己做咖啡，这是一个入坑指南！盘点你需要的东西。",
-          "pub_date": "2026-03-08T11:20:00+08:00",
-          "updated_at": "2026-03-08T11:20:00+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "周日再来首钢园",
-          "link": "https://blog.lichenghao.cn/article/ks2tixejjb0e",
-          "description": "今年的第一个周末休假，我和李老师再次来到了首钢园城市漫步。",
-          "pub_date": "2026-03-02T09:05:18+08:00",
-          "updated_at": "2026-03-02T09:05:18+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        }
-      ]
-    },
-    {
-      "name": "LiuSheng",
-      "url": "https://blog.liushen.fun/",
-      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp",
-      "feed_url": "https://blog.liushen.fun/atom.xml",
-      "posts": [
-        {
-          "title": "黔山赴夏，清风入怀",
-          "link": "https://blog.liushen.fun/posts/1968ba6c/",
-          "description": "这里是清羽AI，这篇文章记录了博主清羽飞扬近期的生活与工作动态。作者此前沉迷AI模型一个月，并为开源兰空图床添加了Oauth登录、前端Token生成及权限管理等功能。四月上旬，作者前往贵州贵阳贵安新区云上屯参加华为为期两周的培训，期间体验了无交付压力的轻松工作状态。培训之余，他与同伴利用周末时间游览了黔灵山、民生路及白宫等景点，品尝了当地脆哨、炸土豆片、刺梨汁等特色美食，欣赏了黔灵湖的自然风光与白宫的夜景。此外，作者还与培训小组的伙伴们建立了深厚友谊，共同完成柴火灶等团队活动，在并肩作战中收获了愉快的合作体验。",
-          "pub_date": "2026-05-04T12:50:21+08:00",
-          "updated_at": "2026-05-04T12:50:22+08:00",
-          "author": "LiuShen",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
-          "link": "https://blog.liushen.fun/posts/381a41ac/",
-          "description": "这里是清羽AI，这篇文章由清羽飞扬介绍了一款名为ChronoFrame的开源瀑布流相册系统。该项目灵感源自Afilmory，但与之不同的是，ChronoFrame是一个可在线管理的动态照片系统，支持自动解析EXIF信息、展示拍摄位置、地图足迹回溯以及自动生成缩略图等功能，相比静态相册更具交互性。作者柳神对比了TimePlus、PicImpact等竞品，认为ChronoFrame在长期使用体验和视觉呈现上更符合个人需求。文章还提供了Docker部署方案和存储配置建议，六神分享了自己使用天翼云盘结合OpenList和CDN的免存储桶方案以降低成本。全文详细阐述了从静态主题到动态系统的相册搭建历程，为读者提供了完整的项目评估和部署参考。",
-          "pub_date": "2026-04-04T16:00:00+08:00",
-          "updated_at": "2026-04-04T16:01:00+08:00",
-          "author": "LiuShen",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "兰空图床深度美化",
-          "link": "https://blog.liushen.fun/posts/eabede01/",
-          "description": "这里是清羽AI，这篇文章记录了LiuShen利用GitHub Copilot与AI工具，对停更的兰空图床v2进行深度UI美化的全过程：重写登录页、上传组件、控制台与仪表盘，统一圆角扁平轻量风格，保留绿色主调并适配浅色模式；提供源码与Docker两种覆盖部署方案，强调先备份再替换，附完整仓库地址及镜像willowgod/lsky-liushen，支持一键全新容器部署，无需改动核心逻辑即可体验升级后的视觉与交互。",
-          "pub_date": "2026-03-01T12:40:00+08:00",
-          "updated_at": "2026-03-01T12:41:00+08:00",
-          "author": "LiuShen",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "年味",
-          "link": "https://blog.liushen.fun/posts/ed97d31c/",
-          "description": "这里是清羽AI，这篇文章讲述了作者回家过年的经历和感受。作者发现，随着时间的推移，年味越来越淡，小时候的快乐也慢慢变得遥远。回家的时间越来越短，年夜饭的气氛和味道依然浓厚，但鞭炮和烟花却少了许多。作者在老家爬山，感受到身体的疲惫和岁月的变迁。年夜饭的菜肴依然丰盛，但作者更珍惜和家人围坐在一起的时光。过年期间，作者还遇到了一些无良商家，出售过期食品，让人感到心凉。虽然雪少了，但作者和朋友们仍在追雪的路上。年过完了，热闹退潮，生活重新归于日常，但作者依然怀念过年的时光。",
-          "pub_date": "2026-02-22T12:31:00+08:00",
-          "updated_at": "2026-02-22T12:32:00+08:00",
-          "author": "LiuShen",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "2025，清风已至，正帆向星海",
-          "link": "https://blog.liushen.fun/posts/5db5181d/",
-          "description": "这里是清羽AI，这篇文章回顾了作者从2025年考研失败到步入职场的心路历程，记录了在武汉、上海、成都等地的经历和感悟。作者在文中穿插了对黄鹤楼、东湖、湖北省博等地的回忆，以及对家人、老一辈、求职过程和音乐情感的深刻体会。文章以对成长的思考作为结尾，表达了从学生到职场人的蜕变，以及对未来的坚定信念。作者感慨时光荏苒，但依然怀揣着初心，在生活的重压与希冀间找到了自己的方向，决心在职场中发光发热，继续追逐理想。",
-          "pub_date": "2026-01-07T16:06:00+08:00",
-          "updated_at": "2026-01-07T16:07:00+08:00",
-          "author": "LiuShen",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        },
-        {
-          "title": "部署一只麦麦QQ机器人",
-          "link": "https://blog.liushen.fun/posts/83890fe8/",
-          "description": "这里是清羽AI，这篇文章主要介绍了如何部署麦麦QQ机器人。作者在成都出差期间重新拾起了这个项目，并详细分享了部署教程。麦麦是一个基于大语言模型构建的可交互智能体，旨在模拟真实人类的语言习惯和行为。文章首先介绍了项目的前置要求和文件准备，包括服务器配置、API额度、Linux知识等，然后详细描述了使用Docker进行部署的步骤，包括文件结构、配置修改和启动命令。最后，作者分享了WebUI的使用方法，并总结了部署过程中的体验和感受。",
-          "pub_date": "2025-12-21T15:00:21+08:00",
-          "updated_at": "2025-12-21T15:01:21+08:00",
-          "author": "LiuShen",
-          "site_name": "LiuSheng",
-          "site_url": "https://blog.liushen.fun/",
-          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
         }
       ]
     },
