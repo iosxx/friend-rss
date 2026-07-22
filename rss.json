@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T11:16:10.384256+08:00",
+  "updated_at": "2026-07-22T16:35:46.851383+08:00",
   "total_sites": 6,
   "total_posts": 782,
   "sites": [
@@ -104,6 +104,124 @@
           "site_name": "木木木木木",
           "site_url": "https://immmmm.com/",
           "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c"
+        }
+      ]
+    },
+    {
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "posts": [
+        {
+          "title": "SpringBoot下载文件打不开问题",
+          "link": "https://blog.lichenghao.cn/article/f7940r53580s",
+          "description": "",
+          "pub_date": "2026-07-22T14:45:24+08:00",
+          "updated_at": "2026-07-22T14:45:24+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "博客升级,脱骨换皮～",
+          "link": "https://blog.lichenghao.cn/article/znoiqu3hvjse",
+          "description": "博客升级,脱骨换皮～,新的开始啦！",
+          "pub_date": "2026-07-17T15:57:27+08:00",
+          "updated_at": "2026-07-17T15:57:27+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年6月总结-摆烂",
+          "link": "https://blog.lichenghao.cn/article/yaoxhs4oskro",
+          "description": "",
+          "pub_date": "2026-07-07T20:56:03+08:00",
+          "updated_at": "2026-07-07T20:56:03+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "先有潭柘寺，后有北京城~",
+          "link": "https://blog.lichenghao.cn/article/p23c98vduhw8",
+          "description": "",
+          "pub_date": "2026-06-12T10:10:33+08:00",
+          "updated_at": "2026-06-12T10:10:33+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年5月总结-咖啡拉花",
+          "link": "https://blog.lichenghao.cn/article/d466s832b4cj",
+          "description": "",
+          "pub_date": "2026-06-07T09:19:53+08:00",
+          "updated_at": "2026-06-07T09:19:53+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "装修灯具要注意⚠️",
+          "link": "https://blog.lichenghao.cn/article/t0eds9ba8nx5",
+          "description": "",
+          "pub_date": "2026-05-26T08:50:34+08:00",
+          "updated_at": "2026-05-26T08:50:34+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年4月总结-提前的假期",
+          "link": "https://blog.lichenghao.cn/article/od3as0eswjx8",
+          "description": "",
+          "pub_date": "2026-05-12T13:40:00+08:00",
+          "updated_at": "2026-05-12T13:40:00+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "SpringBoot多PgSQL数据源的一种方式",
+          "link": "https://blog.lichenghao.cn/article/x271vtyokfgi",
+          "description": "",
+          "pub_date": "2026-05-11T16:43:36+08:00",
+          "updated_at": "2026-05-11T16:43:36+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "带着女儿去广州长隆🚕✈️🦒🐼🐒🐨",
+          "link": "https://blog.lichenghao.cn/article/uq8h77wesh40",
+          "description": "",
+          "pub_date": "2026-04-30T21:40:51+08:00",
+          "updated_at": "2026-04-30T21:40:51+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "长春小游",
+          "link": "https://blog.lichenghao.cn/article/yjevsdmguhei",
+          "description": "",
+          "pub_date": "2026-04-27T10:50:33+08:00",
+          "updated_at": "2026-04-27T10:50:33+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         }
       ]
     },
@@ -8190,124 +8308,6 @@
       ]
     },
     {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "博客升级,脱骨换皮～",
-          "link": "https://blog.lichenghao.cn/article/znoiqu3hvjse",
-          "description": "博客升级,脱骨换皮～,新的开始啦！",
-          "pub_date": "2026-07-17T15:57:27+08:00",
-          "updated_at": "2026-07-17T15:57:27+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年6月总结-摆烂",
-          "link": "https://blog.lichenghao.cn/article/yaoxhs4oskro",
-          "description": "",
-          "pub_date": "2026-07-07T20:56:03+08:00",
-          "updated_at": "2026-07-07T20:56:03+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "先有潭柘寺，后有北京城~",
-          "link": "https://blog.lichenghao.cn/article/p23c98vduhw8",
-          "description": "",
-          "pub_date": "2026-06-12T10:10:33+08:00",
-          "updated_at": "2026-06-12T10:10:33+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年5月总结-咖啡拉花",
-          "link": "https://blog.lichenghao.cn/article/d466s832b4cj",
-          "description": "",
-          "pub_date": "2026-06-07T09:19:53+08:00",
-          "updated_at": "2026-06-07T09:19:53+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "装修灯具要注意⚠️",
-          "link": "https://blog.lichenghao.cn/article/t0eds9ba8nx5",
-          "description": "",
-          "pub_date": "2026-05-26T08:50:34+08:00",
-          "updated_at": "2026-05-26T08:50:34+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年4月总结-提前的假期",
-          "link": "https://blog.lichenghao.cn/article/od3as0eswjx8",
-          "description": "",
-          "pub_date": "2026-05-12T13:40:00+08:00",
-          "updated_at": "2026-05-12T13:40:00+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "SpringBoot多PgSQL数据源的一种方式",
-          "link": "https://blog.lichenghao.cn/article/x271vtyokfgi",
-          "description": "",
-          "pub_date": "2026-05-11T16:43:36+08:00",
-          "updated_at": "2026-05-11T16:43:36+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "带着女儿去广州长隆🚕✈️🦒🐼🐒🐨",
-          "link": "https://blog.lichenghao.cn/article/uq8h77wesh40",
-          "description": "",
-          "pub_date": "2026-04-30T21:40:51+08:00",
-          "updated_at": "2026-04-30T21:40:51+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "长春小游",
-          "link": "https://blog.lichenghao.cn/article/yjevsdmguhei",
-          "description": "",
-          "pub_date": "2026-04-27T10:50:33+08:00",
-          "updated_at": "2026-04-27T10:50:33+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "新功能添加:首页友链、画廊...【建站笔记】",
-          "link": "https://blog.lichenghao.cn/article/yrzkfrzykhpu",
-          "description": "",
-          "pub_date": "2026-04-22T09:54:18+08:00",
-          "updated_at": "2026-04-22T09:54:18+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        }
-      ]
-    },
-    {
       "name": "小十博客",
       "url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png",
@@ -8656,6 +8656,17 @@
   ],
   "all_posts": [
     {
+      "title": "SpringBoot下载文件打不开问题",
+      "link": "https://blog.lichenghao.cn/article/f7940r53580s",
+      "description": "",
+      "pub_date": "2026-07-22T14:45:24+08:00",
+      "updated_at": "2026-07-22T14:45:24+08:00",
+      "author": "猿1993",
+      "site_name": "故事的程序猿",
+      "site_url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
       "title": "给Rhex论坛做了一个图片自动压缩插件",
       "link": "https://www.xiaoten.com/posts/2026/07/rhex-image-compressor-plugin/",
       "description": "<p>从小就很喜欢折腾论坛程序。</p>\n<p>早些年接触最多的是 Discuz!、phpwind 这些经典 PHP 论坛。从下载安装到更换模板、添加插件、调整版块和用户组权限，最终也没什么人气，只是沉浸于搭建过程。</p>\n<p>最近发现了\n<a href=\"https://github.com/lovedevpanda/Rhex\" rel=\"noopener noreferrer\" target=\"_blank\">\nRhex\n</a>，又产生了部署论坛的兴趣。项目提供 Docker 镜像，Web、Worker 和初始化任务的职责比较清楚；上传既可以使用本地目录，也能继续接入 S3、OSS 等对象存储。对已经使用 1Panel 和 Docker Compose 管理服务的人来说，部署和后续维护都比较直观。</p>\n<p>程序本身的完成度已经很高，不过使用时很快遇到了一个比较具体的需求：<strong>用户上传的图片最好能在写入存储前自动压缩</strong>。</p>\n<p>如果只是在某个上传接口里调用一次图片处理库，这件事并不复杂。但我更希望把它做成一个独立插件：后台可以配置压缩策略、尺寸、质量和输出格式；插件关闭后恢复原有上传流程；以后升级或调整参数时，也不需要继续修改论坛业务代码。</p>\n<p>最终，这个需求不只产生了一个插件，还顺带补上了 Rhex 上传扩展点、修复了一个 PostgreSQL 上传错误，并解决了修改版生产镜像的依赖问题。</p>\n<p>当然，上述全程离不开 AI 的支持。</p>\n<h2 id=\"如何压缩图片\">如何压缩图片</h2>\n<p>Rhex 已经有一套插件系统，upload provider 也提供了 <code>uploadFile()</code>。不过它的用途是让插件<strong>接管最终存储</strong>，而不是在保存之前修改图片内容。</p>\n<p>如果直接使用 <code>uploadFile()</code> 做图片压缩，插件就需要同时负责文件命名、配额、哈希去重、上传记录，以及 local、S3、OSS 等存储逻辑。这样不仅重复实现宿主已有能力，以后 Rhex 调整上传流程时，插件也很容易跟不上。</p>\n<p>另外，现有的 <code>upload.file.before</code> action hook 可以在上传前执行动作，但不能把新的图片 Buffer 交回宿主，因此也无法承担压缩或转码工作。</p>\n<p>比较合适的方式，是让插件只处理图片，把最终存储继续交给 Rhex。</p>\n<h2 id=\"给-upload-provider-增加-transformfile\">给 upload provider 增加 transformFile()</h2>\n<p>我在 Rhex 宿主中增加了一个可选的 <code>transformFile()</code> hook。处理顺序变成：</p>\n<div class=\"codeblock-container\">\n<div class=\"codeblock\">\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-text\"><span class=\"line\"><span class=\"cl\">上传格式与原始大小校验\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; Rhex 水印\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; 插件压缩、缩放或转码\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; 宿主重新检测真实 MIME、文件大小和 SHA-256\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; 去重与上传配额\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; local / S3 / OSS 保存</span></span></code></pre></div>\n<div class=\"codeblock__remain\"><span>剩余 1 行代码</span></div>\n</div>\n<div class=\"codeblock__actions\">\n<button class=\"codeblock__toggle\" hidden=\"hidden\" type=\"button\">展开剩余代码</button>\n</div>\n</div><p>多个 upload provider 可以按照顺序串行处理图片。插件返回新的 <code>Uint8Array</code> 后，宿主会重新检查真实格式、文件大小和哈希，不会直接信任插件返回的文件信息。</p>",
@@ -8973,17 +8984,6 @@
       "site_name": "旺东自留地",
       "site_url": "https://wang618.cn/",
       "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-    },
-    {
-      "title": "新功能添加:首页友链、画廊...【建站笔记】",
-      "link": "https://blog.lichenghao.cn/article/yrzkfrzykhpu",
-      "description": "",
-      "pub_date": "2026-04-22T09:54:18+08:00",
-      "updated_at": "2026-04-22T09:54:18+08:00",
-      "author": "猿1993",
-      "site_name": "故事的程序猿",
-      "site_url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg"
     },
     {
       "title": "春日清食",
