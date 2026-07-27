@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-27T22:47:19.210366+08:00",
+  "updated_at": "2026-07-28T03:41:40.893585+08:00",
   "total_sites": 6,
-  "total_posts": 710,
+  "total_posts": 694,
   "sites": [
     {
       "name": "LiuSheng",
@@ -94,6 +94,124 @@
       "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
       "feed_url": "https://immmmm.com/feed",
       "posts": []
+    },
+    {
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "posts": [
+        {
+          "title": "骑行的尽头是折叠车，应验啦～",
+          "link": "https://blog.lichenghao.cn/article/bpt8rlyktk1s",
+          "description": "",
+          "pub_date": "2026-07-24T08:24:55+08:00",
+          "updated_at": "2026-07-24T08:24:55+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Vercel更新Waline(1.41.3)失败问题",
+          "link": "https://blog.lichenghao.cn/article/7o4qu64ln9fj",
+          "description": "",
+          "pub_date": "2026-07-23T15:52:43+08:00",
+          "updated_at": "2026-07-23T15:52:43+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "SpringBoot下载文件打不开问题",
+          "link": "https://blog.lichenghao.cn/article/f7940r53580s",
+          "description": "",
+          "pub_date": "2026-07-22T14:45:24+08:00",
+          "updated_at": "2026-07-22T14:45:24+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "博客升级,脱骨换皮～",
+          "link": "https://blog.lichenghao.cn/article/znoiqu3hvjse",
+          "description": "博客升级,脱骨换皮～,新的开始啦！",
+          "pub_date": "2026-07-17T15:57:27+08:00",
+          "updated_at": "2026-07-17T15:57:27+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年6月总结-摆烂",
+          "link": "https://blog.lichenghao.cn/article/yaoxhs4oskro",
+          "description": "",
+          "pub_date": "2026-07-07T20:56:03+08:00",
+          "updated_at": "2026-07-07T20:56:03+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "先有潭柘寺，后有北京城~",
+          "link": "https://blog.lichenghao.cn/article/p23c98vduhw8",
+          "description": "",
+          "pub_date": "2026-06-12T10:10:33+08:00",
+          "updated_at": "2026-06-12T10:10:33+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年5月总结-咖啡拉花",
+          "link": "https://blog.lichenghao.cn/article/d466s832b4cj",
+          "description": "",
+          "pub_date": "2026-06-07T09:19:53+08:00",
+          "updated_at": "2026-06-07T09:19:53+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "装修灯具要注意⚠️",
+          "link": "https://blog.lichenghao.cn/article/t0eds9ba8nx5",
+          "description": "",
+          "pub_date": "2026-05-26T08:50:34+08:00",
+          "updated_at": "2026-05-26T08:50:34+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年4月总结-提前的假期",
+          "link": "https://blog.lichenghao.cn/article/od3as0eswjx8",
+          "description": "",
+          "pub_date": "2026-05-12T13:40:00+08:00",
+          "updated_at": "2026-05-12T13:40:00+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "SpringBoot多PgSQL数据源的一种方式",
+          "link": "https://blog.lichenghao.cn/article/x271vtyokfgi",
+          "description": "",
+          "pub_date": "2026-05-11T16:43:36+08:00",
+          "updated_at": "2026-05-11T16:43:36+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        }
+      ]
     },
     {
       "name": "果粉圈",
@@ -7228,300 +7346,6 @@
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
           "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Bookmarks AI: Video Scan",
-          "link": "https://g0f.cn/ios/testflight/rss-b84a1383/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GtTmhBgH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GtTmhBgH\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "com.gsequencer.GSequencer",
-          "link": "https://g0f.cn/ios/testflight/rss-234c2338/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kIXRfXaz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kIXRfXaz\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Heliacal Rise",
-          "link": "https://g0f.cn/ios/testflight/rss-a40f8c62/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qGmBWnUD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qGmBWnUD\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Heliacal Rise",
-          "link": "https://g0f.cn/ios/testflight/rss-dcda0f94/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/B8NbAD9P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/B8NbAD9P\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Lume - Build Influence",
-          "link": "https://g0f.cn/ios/testflight/rss-7b910857/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=6BA-BIYZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=6BA-BIYZ\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Lume - Build Influence",
-          "link": "https://g0f.cn/ios/testflight/rss-90801057/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4PH-BLTW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4PH-BLTW\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Lume - Build Influence",
-          "link": "https://g0f.cn/ios/testflight/rss-99dac277/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4ZB-CG1M\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4ZB-CG1M\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Lume - Build Influence",
-          "link": "https://g0f.cn/ios/testflight/rss-f22274ae/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=GA3-PHBN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=GA3-PHBN\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "NuMe Vibes",
-          "link": "https://g0f.cn/ios/testflight/rss-19b15cca/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/91URg3Wt?ref=producthunt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/91URg3Wt?ref=producthunt\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "OneWeekFocus - 时间记录与节奏可视化",
-          "link": "https://g0f.cn/ios/testflight/rss-d6fc68a4/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nj2tUB4s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nj2tUB4s\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "remain.",
-          "link": "https://g0f.cn/ios/testflight/rss-1eb3bba3/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nptKQ7hj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nptKQ7hj\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "SchrittFuerSchritt",
-          "link": "https://g0f.cn/ios/testflight/rss-aa824564/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WZ16jq2V\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WZ16jq2V\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Today: Trading Made Social",
-          "link": "https://g0f.cn/ios/testflight/rss-656bb199/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t1tScCfd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t1tScCfd\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Transporta'm",
-          "link": "https://g0f.cn/ios/testflight/rss-34bade42/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Des4dQTY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Des4dQTY\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "VeSync",
-          "link": "https://g0f.cn/ios/testflight/rss-d72ca4de/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/fJBKUFNX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fJBKUFNX\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "VFeed - для ВК (VK)",
-          "link": "https://g0f.cn/ios/testflight/rss-2875a02c/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZdC5U0fR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZdC5U0fR\n</a>\n</p>",
-          "pub_date": "2026-01-29T00:00:00+08:00",
-          "updated_at": "2026-01-29T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        }
-      ]
-    },
-    {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "骑行的尽头是折叠车，应验啦～",
-          "link": "https://blog.lichenghao.cn/article/bpt8rlyktk1s",
-          "description": "",
-          "pub_date": "2026-07-24T08:24:55+08:00",
-          "updated_at": "2026-07-24T08:24:55+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "Vercel更新Waline(1.41.3)失败问题",
-          "link": "https://blog.lichenghao.cn/article/7o4qu64ln9fj",
-          "description": "",
-          "pub_date": "2026-07-23T15:52:43+08:00",
-          "updated_at": "2026-07-23T15:52:43+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "SpringBoot下载文件打不开问题",
-          "link": "https://blog.lichenghao.cn/article/f7940r53580s",
-          "description": "",
-          "pub_date": "2026-07-22T14:45:24+08:00",
-          "updated_at": "2026-07-22T14:45:24+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "博客升级,脱骨换皮～",
-          "link": "https://blog.lichenghao.cn/article/znoiqu3hvjse",
-          "description": "博客升级,脱骨换皮～,新的开始啦！",
-          "pub_date": "2026-07-17T15:57:27+08:00",
-          "updated_at": "2026-07-17T15:57:27+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年6月总结-摆烂",
-          "link": "https://blog.lichenghao.cn/article/yaoxhs4oskro",
-          "description": "",
-          "pub_date": "2026-07-07T20:56:03+08:00",
-          "updated_at": "2026-07-07T20:56:03+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "先有潭柘寺，后有北京城~",
-          "link": "https://blog.lichenghao.cn/article/p23c98vduhw8",
-          "description": "",
-          "pub_date": "2026-06-12T10:10:33+08:00",
-          "updated_at": "2026-06-12T10:10:33+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年5月总结-咖啡拉花",
-          "link": "https://blog.lichenghao.cn/article/d466s832b4cj",
-          "description": "",
-          "pub_date": "2026-06-07T09:19:53+08:00",
-          "updated_at": "2026-06-07T09:19:53+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "装修灯具要注意⚠️",
-          "link": "https://blog.lichenghao.cn/article/t0eds9ba8nx5",
-          "description": "",
-          "pub_date": "2026-05-26T08:50:34+08:00",
-          "updated_at": "2026-05-26T08:50:34+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年4月总结-提前的假期",
-          "link": "https://blog.lichenghao.cn/article/od3as0eswjx8",
-          "description": "",
-          "pub_date": "2026-05-12T13:40:00+08:00",
-          "updated_at": "2026-05-12T13:40:00+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "SpringBoot多PgSQL数据源的一种方式",
-          "link": "https://blog.lichenghao.cn/article/x271vtyokfgi",
-          "description": "",
-          "pub_date": "2026-05-11T16:43:36+08:00",
-          "updated_at": "2026-05-11T16:43:36+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         }
       ]
     },
@@ -15491,182 +15315,6 @@
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uYBFM4j2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uYBFM4j2\n</a>\n</p>",
       "pub_date": "2026-01-30T00:00:00+08:00",
       "updated_at": "2026-01-30T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Bookmarks AI: Video Scan",
-      "link": "https://g0f.cn/ios/testflight/rss-b84a1383/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GtTmhBgH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GtTmhBgH\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "com.gsequencer.GSequencer",
-      "link": "https://g0f.cn/ios/testflight/rss-234c2338/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/kIXRfXaz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/kIXRfXaz\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Heliacal Rise",
-      "link": "https://g0f.cn/ios/testflight/rss-a40f8c62/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qGmBWnUD\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qGmBWnUD\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Heliacal Rise",
-      "link": "https://g0f.cn/ios/testflight/rss-dcda0f94/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/B8NbAD9P\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/B8NbAD9P\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Lume - Build Influence",
-      "link": "https://g0f.cn/ios/testflight/rss-7b910857/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=6BA-BIYZ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=6BA-BIYZ\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Lume - Build Influence",
-      "link": "https://g0f.cn/ios/testflight/rss-90801057/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4PH-BLTW\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4PH-BLTW\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Lume - Build Influence",
-      "link": "https://g0f.cn/ios/testflight/rss-99dac277/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4ZB-CG1M\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=4ZB-CG1M\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Lume - Build Influence",
-      "link": "https://g0f.cn/ios/testflight/rss-f22274ae/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=GA3-PHBN\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=GA3-PHBN\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "NuMe Vibes",
-      "link": "https://g0f.cn/ios/testflight/rss-19b15cca/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/91URg3Wt?ref=producthunt\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/91URg3Wt?ref=producthunt\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "OneWeekFocus - 时间记录与节奏可视化",
-      "link": "https://g0f.cn/ios/testflight/rss-d6fc68a4/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nj2tUB4s\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nj2tUB4s\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "remain.",
-      "link": "https://g0f.cn/ios/testflight/rss-1eb3bba3/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/nptKQ7hj\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/nptKQ7hj\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "SchrittFuerSchritt",
-      "link": "https://g0f.cn/ios/testflight/rss-aa824564/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/WZ16jq2V\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/WZ16jq2V\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Today: Trading Made Social",
-      "link": "https://g0f.cn/ios/testflight/rss-656bb199/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/t1tScCfd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/t1tScCfd\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Transporta'm",
-      "link": "https://g0f.cn/ios/testflight/rss-34bade42/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Des4dQTY\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Des4dQTY\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "VeSync",
-      "link": "https://g0f.cn/ios/testflight/rss-d72ca4de/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/fJBKUFNX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/fJBKUFNX\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "VFeed - для ВК (VK)",
-      "link": "https://g0f.cn/ios/testflight/rss-2875a02c/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/ZdC5U0fR\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/ZdC5U0fR\n</a>\n</p>",
-      "pub_date": "2026-01-29T00:00:00+08:00",
-      "updated_at": "2026-01-29T00:00:00+08:00",
       "author": "",
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
