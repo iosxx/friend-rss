@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-04T22:27:17.620595+08:00",
+  "updated_at": "2026-08-05T03:42:43.348096+08:00",
   "total_sites": 6,
-  "total_posts": 572,
+  "total_posts": 555,
   "sites": [
     {
       "name": "LiuSheng",
@@ -94,6 +94,124 @@
       "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
       "feed_url": "https://immmmm.com/feed",
       "posts": []
+    },
+    {
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "posts": [
+        {
+          "title": "26年7月总结-好热丫，但丰富～",
+          "link": "https://blog.lichenghao.cn/article/ayqzxlyxdvns",
+          "description": "",
+          "pub_date": "2026-08-04T08:25:38+08:00",
+          "updated_at": "2026-08-04T08:25:38+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "笑笑三岁生日的一天",
+          "link": "https://blog.lichenghao.cn/article/n7hdie0u40fp",
+          "description": "",
+          "pub_date": "2026-08-02T09:23:19+08:00",
+          "updated_at": "2026-08-02T09:23:19+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "骑行的尽头是折叠车，应验啦～",
+          "link": "https://blog.lichenghao.cn/article/bpt8rlyktk1s",
+          "description": "",
+          "pub_date": "2026-07-24T08:24:55+08:00",
+          "updated_at": "2026-07-24T08:24:55+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Vercel更新Waline(1.41.3)失败问题",
+          "link": "https://blog.lichenghao.cn/article/7o4qu64ln9fj",
+          "description": "",
+          "pub_date": "2026-07-23T15:52:43+08:00",
+          "updated_at": "2026-07-23T15:52:43+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "SpringBoot下载文件打不开问题",
+          "link": "https://blog.lichenghao.cn/article/f7940r53580s",
+          "description": "",
+          "pub_date": "2026-07-22T14:45:24+08:00",
+          "updated_at": "2026-07-22T14:45:24+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "博客升级,脱骨换皮～",
+          "link": "https://blog.lichenghao.cn/article/znoiqu3hvjse",
+          "description": "博客升级,脱骨换皮～,新的开始啦！",
+          "pub_date": "2026-07-17T15:57:27+08:00",
+          "updated_at": "2026-07-17T15:57:27+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年6月总结-摆烂",
+          "link": "https://blog.lichenghao.cn/article/yaoxhs4oskro",
+          "description": "",
+          "pub_date": "2026-07-07T20:56:03+08:00",
+          "updated_at": "2026-07-07T20:56:03+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "先有潭柘寺，后有北京城~",
+          "link": "https://blog.lichenghao.cn/article/p23c98vduhw8",
+          "description": "",
+          "pub_date": "2026-06-12T10:10:33+08:00",
+          "updated_at": "2026-06-12T10:10:33+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年5月总结-咖啡拉花",
+          "link": "https://blog.lichenghao.cn/article/d466s832b4cj",
+          "description": "",
+          "pub_date": "2026-06-07T09:19:53+08:00",
+          "updated_at": "2026-06-07T09:19:53+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "装修灯具要注意⚠️",
+          "link": "https://blog.lichenghao.cn/article/t0eds9ba8nx5",
+          "description": "",
+          "pub_date": "2026-05-26T08:50:34+08:00",
+          "updated_at": "2026-05-26T08:50:34+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        }
+      ]
     },
     {
       "name": "果粉圈",
@@ -5699,311 +5817,6 @@
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
           "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "BiorVault",
-          "link": "https://g0f.cn/ios/testflight/rss-69959621/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uCb2ahWH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uCb2ahWH\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Bleap: Finance & Crypto Card",
-          "link": "https://g0f.cn/ios/testflight/rss-b8e393bf/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/OoZYGkKS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/OoZYGkKS\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Fugl",
-          "link": "https://g0f.cn/ios/testflight/rss-e1b43ed1/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bZIZeB4N\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bZIZeB4N\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Lume Wallet",
-          "link": "https://g0f.cn/ios/testflight/rss-1682c30b/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=FM9-JQ3A\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=FM9-JQ3A\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Lume Wallet",
-          "link": "https://g0f.cn/ios/testflight/rss-82ba3b92/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=QMW-PWAJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=QMW-PWAJ\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Master Indicator",
-          "link": "https://g0f.cn/ios/testflight/rss-fcd2daf3/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hC7en8Xu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hC7en8Xu\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Nimbus for visionOS",
-          "link": "https://g0f.cn/ios/testflight/rss-330cad9e/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9KuqN4R2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9KuqN4R2\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Planark",
-          "link": "https://g0f.cn/ios/testflight/rss-07e44bd9/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/j6jhJ52g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/j6jhJ52g\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "ProgRock.com Radio",
-          "link": "https://g0f.cn/ios/testflight/rss-27c26a9c/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/P86pBznV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/P86pBznV\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Proton VPN: Fast & Secure",
-          "link": "https://g0f.cn/ios/testflight/rss-8addd3d4/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3yl2MSbw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3yl2MSbw\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Recipe Organizer by Vima",
-          "link": "https://g0f.cn/ios/testflight/rss-cfac3a9c/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GQKVfaU1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GQKVfaU1\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Sieve Script Editor",
-          "link": "https://g0f.cn/ios/testflight/rss-17ae3380/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qzNFutsv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qzNFutsv\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Spacian",
-          "link": "https://g0f.cn/ios/testflight/rss-dd3640ac/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aH8ZdKCz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aH8ZdKCz\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Spectrum Weather",
-          "link": "https://g0f.cn/ios/testflight/rss-dce20ecb/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XCSeKYqf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XCSeKYqf\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "VaultAudit AI",
-          "link": "https://g0f.cn/ios/testflight/rss-818a8540/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Wm6brhSB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Wm6brhSB\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "VisualKO",
-          "link": "https://g0f.cn/ios/testflight/rss-e7b37e1b/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8pDzES7h\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8pDzES7h\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Zumy",
-          "link": "https://g0f.cn/ios/testflight/rss-8807bc6a/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ku535ruF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ku535ruF\n</a>\n</p>",
-          "pub_date": "2026-02-06T00:00:00+08:00",
-          "updated_at": "2026-02-06T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        }
-      ]
-    },
-    {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "26年7月总结-好热丫，但丰富～",
-          "link": "https://blog.lichenghao.cn/article/ayqzxlyxdvns",
-          "description": "",
-          "pub_date": "2026-08-04T08:25:38+08:00",
-          "updated_at": "2026-08-04T08:25:38+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "笑笑三岁生日的一天",
-          "link": "https://blog.lichenghao.cn/article/n7hdie0u40fp",
-          "description": "",
-          "pub_date": "2026-08-02T09:23:19+08:00",
-          "updated_at": "2026-08-02T09:23:19+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "骑行的尽头是折叠车，应验啦～",
-          "link": "https://blog.lichenghao.cn/article/bpt8rlyktk1s",
-          "description": "",
-          "pub_date": "2026-07-24T08:24:55+08:00",
-          "updated_at": "2026-07-24T08:24:55+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "Vercel更新Waline(1.41.3)失败问题",
-          "link": "https://blog.lichenghao.cn/article/7o4qu64ln9fj",
-          "description": "",
-          "pub_date": "2026-07-23T15:52:43+08:00",
-          "updated_at": "2026-07-23T15:52:43+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "SpringBoot下载文件打不开问题",
-          "link": "https://blog.lichenghao.cn/article/f7940r53580s",
-          "description": "",
-          "pub_date": "2026-07-22T14:45:24+08:00",
-          "updated_at": "2026-07-22T14:45:24+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "博客升级,脱骨换皮～",
-          "link": "https://blog.lichenghao.cn/article/znoiqu3hvjse",
-          "description": "博客升级,脱骨换皮～,新的开始啦！",
-          "pub_date": "2026-07-17T15:57:27+08:00",
-          "updated_at": "2026-07-17T15:57:27+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年6月总结-摆烂",
-          "link": "https://blog.lichenghao.cn/article/yaoxhs4oskro",
-          "description": "",
-          "pub_date": "2026-07-07T20:56:03+08:00",
-          "updated_at": "2026-07-07T20:56:03+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "先有潭柘寺，后有北京城~",
-          "link": "https://blog.lichenghao.cn/article/p23c98vduhw8",
-          "description": "",
-          "pub_date": "2026-06-12T10:10:33+08:00",
-          "updated_at": "2026-06-12T10:10:33+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年5月总结-咖啡拉花",
-          "link": "https://blog.lichenghao.cn/article/d466s832b4cj",
-          "description": "",
-          "pub_date": "2026-06-07T09:19:53+08:00",
-          "updated_at": "2026-06-07T09:19:53+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "装修灯具要注意⚠️",
-          "link": "https://blog.lichenghao.cn/article/t0eds9ba8nx5",
-          "description": "",
-          "pub_date": "2026-05-26T08:50:34+08:00",
-          "updated_at": "2026-05-26T08:50:34+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         }
       ]
     },
@@ -12444,193 +12257,6 @@
       "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6kWz18Sh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6kWz18Sh\n</a>\n</p>",
       "pub_date": "2026-02-07T00:00:00+08:00",
       "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "BiorVault",
-      "link": "https://g0f.cn/ios/testflight/rss-69959621/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/uCb2ahWH\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/uCb2ahWH\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Bleap: Finance & Crypto Card",
-      "link": "https://g0f.cn/ios/testflight/rss-b8e393bf/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/OoZYGkKS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/OoZYGkKS\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Fugl",
-      "link": "https://g0f.cn/ios/testflight/rss-e1b43ed1/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/bZIZeB4N\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/bZIZeB4N\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Lume Wallet",
-      "link": "https://g0f.cn/ios/testflight/rss-1682c30b/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=FM9-JQ3A\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=FM9-JQ3A\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Lume Wallet",
-      "link": "https://g0f.cn/ios/testflight/rss-82ba3b92/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=QMW-PWAJ\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=QMW-PWAJ\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Master Indicator",
-      "link": "https://g0f.cn/ios/testflight/rss-fcd2daf3/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/hC7en8Xu\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/hC7en8Xu\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Nimbus for visionOS",
-      "link": "https://g0f.cn/ios/testflight/rss-330cad9e/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/9KuqN4R2\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/9KuqN4R2\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Planark",
-      "link": "https://g0f.cn/ios/testflight/rss-07e44bd9/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/j6jhJ52g\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/j6jhJ52g\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "ProgRock.com Radio",
-      "link": "https://g0f.cn/ios/testflight/rss-27c26a9c/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/P86pBznV\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/P86pBznV\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Proton VPN: Fast & Secure",
-      "link": "https://g0f.cn/ios/testflight/rss-8addd3d4/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/3yl2MSbw\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/3yl2MSbw\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Recipe Organizer by Vima",
-      "link": "https://g0f.cn/ios/testflight/rss-cfac3a9c/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/GQKVfaU1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/GQKVfaU1\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Sieve Script Editor",
-      "link": "https://g0f.cn/ios/testflight/rss-17ae3380/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qzNFutsv\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qzNFutsv\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Spacian",
-      "link": "https://g0f.cn/ios/testflight/rss-dd3640ac/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/aH8ZdKCz\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/aH8ZdKCz\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Spectrum Weather",
-      "link": "https://g0f.cn/ios/testflight/rss-dce20ecb/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/XCSeKYqf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/XCSeKYqf\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "VaultAudit AI",
-      "link": "https://g0f.cn/ios/testflight/rss-818a8540/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Wm6brhSB\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Wm6brhSB\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "VisualKO",
-      "link": "https://g0f.cn/ios/testflight/rss-e7b37e1b/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8pDzES7h\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8pDzES7h\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Zumy",
-      "link": "https://g0f.cn/ios/testflight/rss-8807bc6a/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Ku535ruF\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Ku535ruF\n</a>\n</p>",
-      "pub_date": "2026-02-06T00:00:00+08:00",
-      "updated_at": "2026-02-06T00:00:00+08:00",
       "author": "",
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
