@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-08-05T22:20:47.277818+08:00",
+  "updated_at": "2026-08-06T03:41:57.714994+08:00",
   "total_sites": 6,
-  "total_posts": 555,
+  "total_posts": 545,
   "sites": [
+    {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
+    },
     {
       "name": "LiuSheng",
       "url": "https://blog.liushen.fun/",
@@ -87,13 +94,6 @@
           "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
         }
       ]
-    },
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
     },
     {
       "name": "故事的程序猿",
@@ -5703,116 +5703,6 @@
           "description": "<p>创建一个互领元宝红包派，有兴趣的可以加入，大家发红包互助： 点击链接加入元宝派：\n<a href=\"https://yb.tencent.com/gp/i/BrSwvwP5Fa1f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://yb.tencent.com/gp/i/BrSwvwP5Fa1f\n</a>\nTencent\n快来加入互领红包派\n在元宝派与朋友和元宝一起玩</p>",
           "pub_date": "2026-02-07T16:28:00+08:00",
           "updated_at": "2026-02-07T16:28:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Aidoku开源版",
-          "link": "https://g0f.cn/ios/testflight/rss-7354084c/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/plbnVA5a\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/plbnVA5a\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Aislingeach - AI Image Dreamer",
-          "link": "https://g0f.cn/ios/testflight/rss-373287e4/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Q6WyyEpS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Q6WyyEpS\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "BottleAssistant",
-          "link": "https://g0f.cn/ios/testflight/rss-f6c71a7f/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FDz2d633\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FDz2d633\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Cnake!",
-          "link": "https://g0f.cn/ios/testflight/rss-55b08ca6/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gYg7vMtq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gYg7vMtq\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "KoreFit",
-          "link": "https://g0f.cn/ios/testflight/rss-a5a5e948/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TWCtUtpf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TWCtUtpf\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Lume Wallet",
-          "link": "https://g0f.cn/ios/testflight/rss-68556d92/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=HG2-Q7HX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=HG2-Q7HX\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Satu Wallet: Crypto Wallet",
-          "link": "https://g0f.cn/ios/testflight/rss-09918128/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y4X81bfb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y4X81bfb\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Split // Chess",
-          "link": "https://g0f.cn/ios/testflight/rss-30f7c46c/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1U4VzHX1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1U4VzHX1\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Step Timer",
-          "link": "https://g0f.cn/ios/testflight/rss-0e70206f/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qzYzc6Pm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qzYzc6Pm\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "Wave Reader",
-          "link": "https://g0f.cn/ios/testflight/rss-7d57ecfa/",
-          "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6kWz18Sh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6kWz18Sh\n</a>\n</p>",
-          "pub_date": "2026-02-07T00:00:00+08:00",
-          "updated_at": "2026-02-07T00:00:00+08:00",
           "author": "",
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
@@ -12147,116 +12037,6 @@
       "description": "<p>创建一个互领元宝红包派，有兴趣的可以加入，大家发红包互助： 点击链接加入元宝派：\n<a href=\"https://yb.tencent.com/gp/i/BrSwvwP5Fa1f\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://yb.tencent.com/gp/i/BrSwvwP5Fa1f\n</a>\nTencent\n快来加入互领红包派\n在元宝派与朋友和元宝一起玩</p>",
       "pub_date": "2026-02-07T16:28:00+08:00",
       "updated_at": "2026-02-07T16:28:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Aidoku开源版",
-      "link": "https://g0f.cn/ios/testflight/rss-7354084c/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/plbnVA5a\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/plbnVA5a\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Aislingeach - AI Image Dreamer",
-      "link": "https://g0f.cn/ios/testflight/rss-373287e4/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Q6WyyEpS\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Q6WyyEpS\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "BottleAssistant",
-      "link": "https://g0f.cn/ios/testflight/rss-f6c71a7f/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/FDz2d633\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/FDz2d633\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Cnake!",
-      "link": "https://g0f.cn/ios/testflight/rss-55b08ca6/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/gYg7vMtq\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/gYg7vMtq\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "KoreFit",
-      "link": "https://g0f.cn/ios/testflight/rss-a5a5e948/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/TWCtUtpf\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/TWCtUtpf\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Lume Wallet",
-      "link": "https://g0f.cn/ios/testflight/rss-68556d92/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=HG2-Q7HX\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Cs4ddJwY?utm_source=mobile_app&amp;utm_campaign=in_app_default_referral&amp;ref=HG2-Q7HX\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Satu Wallet: Crypto Wallet",
-      "link": "https://g0f.cn/ios/testflight/rss-09918128/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/Y4X81bfb\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/Y4X81bfb\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Split // Chess",
-      "link": "https://g0f.cn/ios/testflight/rss-30f7c46c/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/1U4VzHX1\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/1U4VzHX1\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Step Timer",
-      "link": "https://g0f.cn/ios/testflight/rss-0e70206f/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/qzYzc6Pm\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/qzYzc6Pm\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "Wave Reader",
-      "link": "https://g0f.cn/ios/testflight/rss-7d57ecfa/",
-      "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/6kWz18Sh\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/6kWz18Sh\n</a>\n</p>",
-      "pub_date": "2026-02-07T00:00:00+08:00",
-      "updated_at": "2026-02-07T00:00:00+08:00",
       "author": "",
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
