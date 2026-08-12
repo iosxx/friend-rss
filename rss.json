@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-12T10:21:23.215589+08:00",
+  "updated_at": "2026-08-12T15:39:19.944593+08:00",
   "total_sites": 5,
-  "total_posts": 431,
+  "total_posts": 430,
   "sites": [
     {
       "name": "LiuSheng",
@@ -96,124 +96,6 @@
           "site_name": "LiuSheng",
           "site_url": "https://blog.liushen.fun/",
           "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
-        }
-      ]
-    },
-    {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "南森-小鹿营地「周末露营」",
-          "link": "https://blog.lichenghao.cn/article/jatzq02ai4wa",
-          "description": "",
-          "pub_date": "2026-08-09T21:19:29+08:00",
-          "updated_at": "2026-08-09T21:19:29+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年7月总结-好热丫，但丰富～",
-          "link": "https://blog.lichenghao.cn/article/ayqzxlyxdvns",
-          "description": "",
-          "pub_date": "2026-08-04T08:25:38+08:00",
-          "updated_at": "2026-08-04T08:25:38+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "笑笑三岁生日的一天",
-          "link": "https://blog.lichenghao.cn/article/n7hdie0u40fp",
-          "description": "",
-          "pub_date": "2026-08-02T09:23:19+08:00",
-          "updated_at": "2026-08-02T09:23:19+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "骑行的尽头是折叠车，应验啦～",
-          "link": "https://blog.lichenghao.cn/article/bpt8rlyktk1s",
-          "description": "",
-          "pub_date": "2026-07-24T08:24:55+08:00",
-          "updated_at": "2026-07-24T08:24:55+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "Vercel更新Waline(1.41.3)失败问题",
-          "link": "https://blog.lichenghao.cn/article/7o4qu64ln9fj",
-          "description": "",
-          "pub_date": "2026-07-23T15:52:43+08:00",
-          "updated_at": "2026-07-23T15:52:43+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "SpringBoot下载文件打不开问题",
-          "link": "https://blog.lichenghao.cn/article/f7940r53580s",
-          "description": "",
-          "pub_date": "2026-07-22T14:45:24+08:00",
-          "updated_at": "2026-07-22T14:45:24+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "博客升级,脱骨换皮～",
-          "link": "https://blog.lichenghao.cn/article/znoiqu3hvjse",
-          "description": "博客升级,脱骨换皮～,新的开始啦！",
-          "pub_date": "2026-07-17T15:57:27+08:00",
-          "updated_at": "2026-07-17T15:57:27+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年6月总结-摆烂",
-          "link": "https://blog.lichenghao.cn/article/yaoxhs4oskro",
-          "description": "",
-          "pub_date": "2026-07-07T20:56:03+08:00",
-          "updated_at": "2026-07-07T20:56:03+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "先有潭柘寺，后有北京城~",
-          "link": "https://blog.lichenghao.cn/article/p23c98vduhw8",
-          "description": "",
-          "pub_date": "2026-06-12T10:10:33+08:00",
-          "updated_at": "2026-06-12T10:10:33+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "26年5月总结-咖啡拉花",
-          "link": "https://blog.lichenghao.cn/article/d466s832b4cj",
-          "description": "",
-          "pub_date": "2026-06-07T09:19:53+08:00",
-          "updated_at": "2026-06-07T09:19:53+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         }
       ]
     },
@@ -4435,17 +4317,124 @@
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
           "avatar": "https://tofuwine.github.io/images/profile.png"
+        }
+      ]
+    },
+    {
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "posts": [
+        {
+          "title": "南森-小鹿营地「周末露营」",
+          "link": "https://blog.lichenghao.cn/article/jatzq02ai4wa",
+          "description": "",
+          "pub_date": "2026-08-09T21:19:29+08:00",
+          "updated_at": "2026-08-09T21:19:29+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         },
         {
-          "title": "（CarPlay+tvOS+watchOS+macOS+iOS和iPadOS）的epub3阅读器Silveran Reader感兴趣的速度： testflight.apple.com/join/9Cvs89nz",
-          "link": "https://g0f.cn/ios/testflight/rss-2952afe1/",
-          "description": "<p>（CarPlay+tvOS+watchOS+macOS+iOS和iPadOS）的epub3阅读器Silveran Reader感兴趣的速度：\ntestflight.apple.com/join/9Cvs89nz\nApple\nJoin the Silveran Reader beta\nAvailable on iOS and tvOS</p>",
-          "pub_date": "2026-02-13T12:32:00+08:00",
-          "updated_at": "2026-02-13T12:32:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
+          "title": "26年7月总结-好热丫，但丰富～",
+          "link": "https://blog.lichenghao.cn/article/ayqzxlyxdvns",
+          "description": "",
+          "pub_date": "2026-08-04T08:25:38+08:00",
+          "updated_at": "2026-08-04T08:25:38+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "笑笑三岁生日的一天",
+          "link": "https://blog.lichenghao.cn/article/n7hdie0u40fp",
+          "description": "",
+          "pub_date": "2026-08-02T09:23:19+08:00",
+          "updated_at": "2026-08-02T09:23:19+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "骑行的尽头是折叠车，应验啦～",
+          "link": "https://blog.lichenghao.cn/article/bpt8rlyktk1s",
+          "description": "",
+          "pub_date": "2026-07-24T08:24:55+08:00",
+          "updated_at": "2026-07-24T08:24:55+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Vercel更新Waline(1.41.3)失败问题",
+          "link": "https://blog.lichenghao.cn/article/7o4qu64ln9fj",
+          "description": "",
+          "pub_date": "2026-07-23T15:52:43+08:00",
+          "updated_at": "2026-07-23T15:52:43+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "SpringBoot下载文件打不开问题",
+          "link": "https://blog.lichenghao.cn/article/f7940r53580s",
+          "description": "",
+          "pub_date": "2026-07-22T14:45:24+08:00",
+          "updated_at": "2026-07-22T14:45:24+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "博客升级,脱骨换皮～",
+          "link": "https://blog.lichenghao.cn/article/znoiqu3hvjse",
+          "description": "博客升级,脱骨换皮～,新的开始啦！",
+          "pub_date": "2026-07-17T15:57:27+08:00",
+          "updated_at": "2026-07-17T15:57:27+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年6月总结-摆烂",
+          "link": "https://blog.lichenghao.cn/article/yaoxhs4oskro",
+          "description": "",
+          "pub_date": "2026-07-07T20:56:03+08:00",
+          "updated_at": "2026-07-07T20:56:03+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "先有潭柘寺，后有北京城~",
+          "link": "https://blog.lichenghao.cn/article/p23c98vduhw8",
+          "description": "",
+          "pub_date": "2026-06-12T10:10:33+08:00",
+          "updated_at": "2026-06-12T10:10:33+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "26年5月总结-咖啡拉花",
+          "link": "https://blog.lichenghao.cn/article/d466s832b4cj",
+          "description": "",
+          "pub_date": "2026-06-07T09:19:53+08:00",
+          "updated_at": "2026-06-07T09:19:53+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         }
       ]
     },
@@ -9515,29 +9504,18 @@
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "（CarPlay+tvOS+watchOS+macOS+iOS和iPadOS）的epub3阅读器Silveran Reader感兴趣的速度： testflight.apple.com/join/9Cvs89nz",
-      "link": "https://g0f.cn/ios/testflight/rss-2952afe1/",
-      "description": "<p>（CarPlay+tvOS+watchOS+macOS+iOS和iPadOS）的epub3阅读器Silveran Reader感兴趣的速度：\ntestflight.apple.com/join/9Cvs89nz\nApple\nJoin the Silveran Reader beta\nAvailable on iOS and tvOS</p>",
-      "pub_date": "2026-02-13T12:32:00+08:00",
-      "updated_at": "2026-02-13T12:32:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
     }
   ],
   "failed_sites": [
     {
-      "name": "linuxdo",
-      "url": "https://linux.do",
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
       "feed_url": null,
       "reason": "no_feed_found"
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
+      "name": "linuxdo",
+      "url": "https://linux.do",
       "feed_url": null,
       "reason": "no_feed_found"
     }
