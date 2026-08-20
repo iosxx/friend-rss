@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T09:34:48.466308+08:00",
+  "updated_at": "2026-08-20T14:53:54.410904+08:00",
   "total_sites": 4,
   "total_posts": 274,
   "sites": [
@@ -6068,14 +6068,14 @@
   ],
   "failed_sites": [
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
+      "name": "linuxdo",
+      "url": "https://linux.do",
       "feed_url": null,
       "reason": "no_feed_found"
     },
     {
-      "name": "linuxdo",
-      "url": "https://linux.do",
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
       "feed_url": null,
       "reason": "no_feed_found"
     },
