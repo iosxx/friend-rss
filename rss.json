@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T04:50:25.248725+08:00",
+  "updated_at": "2026-09-03T11:51:49.564654+08:00",
   "total_sites": 4,
-  "total_posts": 77,
+  "total_posts": 76,
   "sites": [
     {
       "name": "LiuSheng",
@@ -661,17 +661,6 @@
           "description": "<p>Status: Open</p>\n<p>TestFlight:\n<a href=\"https://testflight.apple.com/join/8keUvurd\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/8keUvurd\n</a>\n</p>",
           "pub_date": "2026-03-08T00:00:00+08:00",
           "updated_at": "2026-03-08T00:00:00+08:00",
-          "author": "",
-          "site_name": "果粉圈",
-          "site_url": "https://g0f.cn",
-          "avatar": "https://tofuwine.github.io/images/profile.png"
-        },
-        {
-          "title": "优酷",
-          "link": "https://g0f.cn/ios/testflight/rss-cf664851/",
-          "description": "<p>#优酷</p>\n<p>\n<a href=\"https://testflight.apple.com/join/RDuRYxRE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RDuRYxRE\n</a>\nApple\nJoin the 优酷视频HD-《我的山与海》独播 beta\nAvailable on iOS</p>",
-          "pub_date": "2026-03-07T09:19:00+08:00",
-          "updated_at": "2026-03-07T09:19:00+08:00",
           "author": "",
           "site_name": "果粉圈",
           "site_url": "https://g0f.cn",
@@ -1719,29 +1708,18 @@
       "site_name": "果粉圈",
       "site_url": "https://g0f.cn",
       "avatar": "https://tofuwine.github.io/images/profile.png"
-    },
-    {
-      "title": "优酷",
-      "link": "https://g0f.cn/ios/testflight/rss-cf664851/",
-      "description": "<p>#优酷</p>\n<p>\n<a href=\"https://testflight.apple.com/join/RDuRYxRE\" rel=\"noopener noreferrer\" target=\"_blank\">\nhttps://testflight.apple.com/join/RDuRYxRE\n</a>\nApple\nJoin the 优酷视频HD-《我的山与海》独播 beta\nAvailable on iOS</p>",
-      "pub_date": "2026-03-07T09:19:00+08:00",
-      "updated_at": "2026-03-07T09:19:00+08:00",
-      "author": "",
-      "site_name": "果粉圈",
-      "site_url": "https://g0f.cn",
-      "avatar": "https://tofuwine.github.io/images/profile.png"
     }
   ],
   "failed_sites": [
     {
-      "name": "linuxdo",
-      "url": "https://linux.do",
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
       "feed_url": null,
       "reason": "no_feed_found"
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
+      "name": "linuxdo",
+      "url": "https://linux.do",
       "feed_url": null,
       "reason": "no_feed_found"
     },
