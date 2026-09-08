@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-09T00:22:34.497683+08:00",
+  "updated_at": "2026-09-09T04:57:23.936298+08:00",
   "total_sites": 4,
-  "total_posts": 22,
+  "total_posts": 23,
   "sites": [
     {
       "name": "LiuSheng",
@@ -9,6 +9,17 @@
       "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp",
       "feed_url": "https://blog.liushen.fun/atom.xml",
       "posts": [
+        {
+          "title": "近期开发的四个开源项目",
+          "link": "https://blog.liushen.fun/posts/6a6de263/",
+          "description": "这里是清羽AI，这篇文章介绍了站长清羽飞扬近期维护与开发的四个开源项目。首先是对Artalk评论系统的增强，新增了AI内容审核、关键词拦截、AI评论助手及重构后的管理后台，在保留接口兼容的同时提升了反垃圾与互动能力。其次是Memora相册项目，基于Chronoframe重构为Go后端与纯静态前端，接入高德地图替代海外服务，并引入FFmpeg处理与懒加载优化。第三个是hubProxy镜像加速工具，新增了多用户令牌体系、可视化后台管理与拉取统计功能。最后提及了Message Pusher消息推送服务。全文记录了作者从个人需求出发，借助AI工具改造与扩展开源项目的历程。",
+          "pub_date": "2026-09-08T18:12:00+08:00",
+          "updated_at": "2026-09-08T18:13:00+08:00",
+          "author": "LiuShen",
+          "site_name": "LiuSheng",
+          "site_url": "https://blog.liushen.fun/",
+          "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+        },
         {
           "title": "AxonHub - 多模型API智能路由网关",
           "link": "https://blog.liushen.fun/posts/b404081c/",
@@ -279,6 +290,17 @@
   ],
   "all_posts": [
     {
+      "title": "近期开发的四个开源项目",
+      "link": "https://blog.liushen.fun/posts/6a6de263/",
+      "description": "这里是清羽AI，这篇文章介绍了站长清羽飞扬近期维护与开发的四个开源项目。首先是对Artalk评论系统的增强，新增了AI内容审核、关键词拦截、AI评论助手及重构后的管理后台，在保留接口兼容的同时提升了反垃圾与互动能力。其次是Memora相册项目，基于Chronoframe重构为Go后端与纯静态前端，接入高德地图替代海外服务，并引入FFmpeg处理与懒加载优化。第三个是hubProxy镜像加速工具，新增了多用户令牌体系、可视化后台管理与拉取统计功能。最后提及了Message Pusher消息推送服务。全文记录了作者从个人需求出发，借助AI工具改造与扩展开源项目的历程。",
+      "pub_date": "2026-09-08T18:12:00+08:00",
+      "updated_at": "2026-09-08T18:13:00+08:00",
+      "author": "LiuShen",
+      "site_name": "LiuSheng",
+      "site_url": "https://blog.liushen.fun/",
+      "avatar": "https://p.liiiu.cn/i/2025/03/13/67d2fc82d329c.webp"
+    },
+    {
       "title": "26年8月总结-入园准备工作~",
       "link": "https://blog.lichenghao.cn/article/9r9vppw1pbjc",
       "description": "",
@@ -523,14 +545,14 @@
   ],
   "failed_sites": [
     {
-      "name": "linuxdo",
-      "url": "https://linux.do",
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
       "feed_url": null,
       "reason": "no_feed_found"
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
+      "name": "linuxdo",
+      "url": "https://linux.do",
       "feed_url": null,
       "reason": "no_feed_found"
     },
