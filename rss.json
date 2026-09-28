@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T12:44:07.619392+08:00",
+  "updated_at": "2026-09-28T21:25:49.824115+08:00",
   "total_sites": 3,
   "total_posts": 34,
   "sites": [
@@ -9,6 +9,17 @@
       "avatar": "https://blog.lichenghao.cn/avatar.svg",
       "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
+        {
+          "title": "全球装得最多的10个AI Skills，出处都在这儿",
+          "link": "https://blog.lichenghao.cn/article/8h4ob6evtwiy",
+          "description": "按 skills.sh 累计安装量排出的 TOP10 AI Skills，我挨个查了它们真正来自哪个仓库——结果十个里头七个出自同一个仓库。",
+          "pub_date": "2026-09-28T10:51:57+08:00",
+          "updated_at": "2026-09-28T10:51:57+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
         {
           "title": "勿忘国耻，吾辈自强！",
           "link": "https://blog.lichenghao.cn/article/ry0takvxsbzx",
@@ -103,17 +114,6 @@
           "description": "",
           "pub_date": "2026-08-17T09:08:20+08:00",
           "updated_at": "2026-08-17T09:08:20+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "啊！你黄了啊！",
-          "link": "https://blog.lichenghao.cn/article/jq7kh99pndtu",
-          "description": "",
-          "pub_date": "2026-08-13T12:35:25+08:00",
-          "updated_at": "2026-08-13T12:35:25+08:00",
           "author": "猿1993",
           "site_name": "故事的程序猿",
           "site_url": "https://blog.lichenghao.cn/",
@@ -404,6 +404,17 @@
   ],
   "all_posts": [
     {
+      "title": "全球装得最多的10个AI Skills，出处都在这儿",
+      "link": "https://blog.lichenghao.cn/article/8h4ob6evtwiy",
+      "description": "按 skills.sh 累计安装量排出的 TOP10 AI Skills，我挨个查了它们真正来自哪个仓库——结果十个里头七个出自同一个仓库。",
+      "pub_date": "2026-09-28T10:51:57+08:00",
+      "updated_at": "2026-09-28T10:51:57+08:00",
+      "author": "猿1993",
+      "site_name": "故事的程序猿",
+      "site_url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
       "title": "博客续命",
       "link": "https://wang618.cn/bo-ke-xu-ming.html",
       "description": "<p>成功给博客续命！💪 蹲到 腾讯轻量云六周年 活动，2H2G5M，三年 199 元。<br />\n思考再三果断 全款拿下，属实没必要 分期，接下来三年博客可以安稳摆烂了。</p>",
@@ -530,17 +541,6 @@
       "description": "",
       "pub_date": "2026-08-17T09:08:20+08:00",
       "updated_at": "2026-08-17T09:08:20+08:00",
-      "author": "猿1993",
-      "site_name": "故事的程序猿",
-      "site_url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg"
-    },
-    {
-      "title": "啊！你黄了啊！",
-      "link": "https://blog.lichenghao.cn/article/jq7kh99pndtu",
-      "description": "",
-      "pub_date": "2026-08-13T12:35:25+08:00",
-      "updated_at": "2026-08-13T12:35:25+08:00",
       "author": "猿1993",
       "site_name": "故事的程序猿",
       "site_url": "https://blog.lichenghao.cn/",
