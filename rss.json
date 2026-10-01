@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-01T13:11:10.215844+08:00",
+  "updated_at": "2026-10-01T20:49:29.453991+08:00",
   "total_sites": 3,
-  "total_posts": 35,
+  "total_posts": 34,
   "sites": [
     {
       "name": "故事的程序猿",
@@ -398,17 +398,6 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "可爱的小猪",
-          "link": "https://wang618.cn/ke-ai-de-xiao-zhu.html",
-          "description": "<p>🐷 可爱的小猪，可爱死了！第一次自制烤乳猪，虽不正宗，但很美味！西北神秘咒语：不怨你，也不怨我！只怨你的主人把你卖给我，只怨这炽热的烤炉把你烤过！<br />\n<img alt=\"可爱的小猪.webp\" src=\"https://wang618.cn/content/uploadfile/202604/b1051775233650.webp\" /></p>",
-          "pub_date": "2026-04-04T15:16:26+08:00",
-          "updated_at": "2026-04-04T15:16:26+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
@@ -783,17 +772,6 @@
       "description": "<p>最近折腾了一套低功耗影音 NAS 方案，硬件选用Mac mini M4，ARM 架构待机功耗仅 3–6W，即便 24 小时不间断运行，也能实现极致低能耗，长期使用省电又经济。在 Mac mini 上部署 OpenList，可直接挂载本地硬盘盒与各类网盘，实现本地与云端资源统一管理；搭配网易爆米花，通过 WebDAV 协议流畅调取电影资源；音乐播放则选用支持 WebDAV 的播放器（如音流），兼顾影音与听歌需求。最后外接 UPS 不间断电源，避免意外断电造成数据损坏，在低功耗与影音体验之间取得极佳平衡。此外，Mac mini M4 外接 USB 2.5G 网卡，硬盘盒采用奥睿科 USB3.2 规格，进一步提升文件传输与外接存储的读写速度，整体体验更稳定流畅。<br />\n<img alt=\"MacMini.webp\" src=\"https://wang618.cn/content/uploadfile/202604/0d411775585805.webp\" /><br />\n<img alt=\"硬盘盒.webp\" src=\"https://wang618.cn/content/uploadfile/202604/6f8f1775581020.webp\" /><br />\n<img alt=\"网易爆米花.webp\" src=\"https://wang618.cn/content/uploadfile/202604/2fa81775581020.webp\" /></p>",
       "pub_date": "2026-04-08T00:42:14+08:00",
       "updated_at": "2026-04-08T00:42:14+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-    },
-    {
-      "title": "可爱的小猪",
-      "link": "https://wang618.cn/ke-ai-de-xiao-zhu.html",
-      "description": "<p>🐷 可爱的小猪，可爱死了！第一次自制烤乳猪，虽不正宗，但很美味！西北神秘咒语：不怨你，也不怨我！只怨你的主人把你卖给我，只怨这炽热的烤炉把你烤过！<br />\n<img alt=\"可爱的小猪.webp\" src=\"https://wang618.cn/content/uploadfile/202604/b1051775233650.webp\" /></p>",
-      "pub_date": "2026-04-04T15:16:26+08:00",
-      "updated_at": "2026-04-04T15:16:26+08:00",
       "author": "旺东",
       "site_name": "旺东自留地",
       "site_url": "https://wang618.cn/",
