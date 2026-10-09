@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-09T13:31:32.949028+08:00",
+  "updated_at": "2026-10-09T20:54:50.577144+08:00",
   "total_sites": 3,
-  "total_posts": 35,
+  "total_posts": 34,
   "sites": [
     {
       "name": "小十博客",
@@ -72,6 +72,17 @@
       "avatar": "https://blog.lichenghao.cn/avatar.svg",
       "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
+        {
+          "title": "近几天大家都在猛踹刹车踏板~",
+          "link": "https://blog.lichenghao.cn/article/y8unkzh9wekp",
+          "description": "",
+          "pub_date": "2026-10-09T12:57:51+08:00",
+          "updated_at": "2026-10-09T12:57:51+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
         {
           "title": "26年9月总结-接受幼儿园~",
           "link": "https://blog.lichenghao.cn/article/i0k1ksx4r9xy",
@@ -166,17 +177,6 @@
           "description": "",
           "pub_date": "2026-08-25T15:59:57+08:00",
           "updated_at": "2026-08-25T15:59:57+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "嘿,第一次瑞幸'幸运取餐码'「555」～",
-          "link": "https://blog.lichenghao.cn/article/in5x1aaqyxem",
-          "description": "",
-          "pub_date": "2026-08-20T15:30:56+08:00",
-          "updated_at": "2026-08-20T15:30:56+08:00",
           "author": "猿1993",
           "site_name": "故事的程序猿",
           "site_url": "https://blog.lichenghao.cn/",
@@ -398,22 +398,22 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "梨韵被扰",
-          "link": "https://wang618.cn/li-yun-bei-rao.html",
-          "description": "<p>专程奔赴什川古梨园，未料一路车流拥堵，寸步难行，满心期待早已被漫长等待消磨殆尽，只剩满心烦躁。好不容易抵达这片号称“世界第一”的古梨园，本应清幽雅致、古韵悠然的景致间，却满眼是挥舞各色丝巾、扎堆摆拍的阿姨。此起彼伏的魔性笑声，与便携音箱里飘出的乐曲交织喧闹，与百年古梨的沉静古朴格格不入。<br />\n<img alt=\"古梨园1.webp\" src=\"https://wang618.cn/content/uploadfile/202604/dc861775927922.webp\" /><br />\n<img alt=\"古梨园2.webp\" src=\"https://wang618.cn/content/uploadfile/202604/6c871775927922.webp\" /><br />\n<img alt=\"娇花.webp\" src=\"https://wang618.cn/content/uploadfile/202604/68531775927922.webp\" /></p>",
-          "pub_date": "2026-04-12T20:21:46+08:00",
-          "updated_at": "2026-04-12T20:21:46+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
   ],
   "all_posts": [
+    {
+      "title": "近几天大家都在猛踹刹车踏板~",
+      "link": "https://blog.lichenghao.cn/article/y8unkzh9wekp",
+      "description": "",
+      "pub_date": "2026-10-09T12:57:51+08:00",
+      "updated_at": "2026-10-09T12:57:51+08:00",
+      "author": "猿1993",
+      "site_name": "故事的程序猿",
+      "site_url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
     {
       "title": "国庆新郑、新密三日纪行",
       "link": "https://www.xiaoten.com/posts/2026/10/xinzheng-xinmi-three-day-trip/",
@@ -602,17 +602,6 @@
       "avatar": "https://blog.lichenghao.cn/avatar.svg"
     },
     {
-      "title": "嘿,第一次瑞幸'幸运取餐码'「555」～",
-      "link": "https://blog.lichenghao.cn/article/in5x1aaqyxem",
-      "description": "",
-      "pub_date": "2026-08-20T15:30:56+08:00",
-      "updated_at": "2026-08-20T15:30:56+08:00",
-      "author": "猿1993",
-      "site_name": "故事的程序猿",
-      "site_url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg"
-    },
-    {
       "title": "给Rhex论坛做了一个图片自动压缩插件",
       "link": "https://www.xiaoten.com/posts/2026/07/rhex-image-compressor-plugin/",
       "description": "<p>从小就很喜欢折腾论坛程序。</p>\n<p>早些年接触最多的是 Discuz!、phpwind 这些经典 PHP 论坛。从下载安装到更换模板、添加插件、调整版块和用户组权限，最终也没什么人气，只是沉浸于搭建过程。</p>\n<p>最近发现了\n<a href=\"https://github.com/lovedevpanda/Rhex\" rel=\"noopener noreferrer\" target=\"_blank\">\nRhex\n</a>，又产生了部署论坛的兴趣。项目提供 Docker 镜像，Web、Worker 和初始化任务的职责比较清楚；上传既可以使用本地目录，也能继续接入 S3、OSS 等对象存储。对已经使用 1Panel 和 Docker Compose 管理服务的人来说，部署和后续维护都比较直观。</p>\n<p>程序本身的完成度已经很高，不过使用时很快遇到了一个比较具体的需求：<strong>用户上传的图片最好能在写入存储前自动压缩</strong>。</p>\n<p>如果只是在某个上传接口里调用一次图片处理库，这件事并不复杂。但我更希望把它做成一个独立插件：后台可以配置压缩策略、尺寸、质量和输出格式；插件关闭后恢复原有上传流程；以后升级或调整参数时，也不需要继续修改论坛业务代码。</p>\n<p>最终，这个需求不只产生了一个插件，还顺带补上了 Rhex 上传扩展点、修复了一个 PostgreSQL 上传错误，并解决了修改版生产镜像的依赖问题。</p>\n<p>当然，上述全程离不开 AI 的支持。</p>\n<h2 id=\"如何压缩图片\">如何压缩图片</h2>\n<p>Rhex 已经有一套插件系统，upload provider 也提供了 <code>uploadFile()</code>。不过它的用途是让插件<strong>接管最终存储</strong>，而不是在保存之前修改图片内容。</p>\n<p>如果直接使用 <code>uploadFile()</code> 做图片压缩，插件就需要同时负责文件命名、配额、哈希去重、上传记录，以及 local、S3、OSS 等存储逻辑。这样不仅重复实现宿主已有能力，以后 Rhex 调整上传流程时，插件也很容易跟不上。</p>\n<p>另外，现有的 <code>upload.file.before</code> action hook 可以在上传前执行动作，但不能把新的图片 Buffer 交回宿主，因此也无法承担压缩或转码工作。</p>\n<p>比较合适的方式，是让插件只处理图片，把最终存储继续交给 Rhex。</p>\n<h2 id=\"给-upload-provider-增加-transformfile\">给 upload provider 增加 transformFile()</h2>\n<p>我在 Rhex 宿主中增加了一个可选的 <code>transformFile()</code> hook。处理顺序变成：</p>\n<div class=\"codeblock-container\">\n<div class=\"codeblock\">\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-text\"><span class=\"line\"><span class=\"cl\">上传格式与原始大小校验\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; Rhex 水印\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; 插件压缩、缩放或转码\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; 宿主重新检测真实 MIME、文件大小和 SHA-256\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; 去重与上传配额\n</span></span><span class=\"line\"><span class=\"cl\">-&gt; local / S3 / OSS 保存</span></span></code></pre></div>\n<div class=\"codeblock__remain\"><span>剩余 1 行代码</span></div>\n</div>\n<div class=\"codeblock__actions\">\n<button class=\"codeblock__toggle\" hidden=\"hidden\" type=\"button\">展开剩余代码</button>\n</div>\n</div><p>多个 upload provider 可以按照顺序串行处理图片。插件返回新的 <code>Uint8Array</code> 后，宿主会重新检查真实格式、文件大小和哈希，不会直接信任插件返回的文件信息。</p>",
@@ -783,17 +772,6 @@
       "description": "<p>今天吃得格外清爽素净，做了榆钱窝窝和洋芋裙裙！榆钱窝窝用未开的榆钱和面蒸制，入口带着淡淡清甜；洋芋裙裙把土豆丝拌上面粉蒸透，再淋上灵魂蒜醋油汁，香到停不下来。安利一款泡面先生藤椒麻酱火鸡面，甜辣交织，麻酱浓香裹着藤椒鲜麻，口感层次超丰富！<br />\n<img alt=\"榆钱窝窝.webp\" src=\"https://wang618.cn/content/uploadfile/202604/58f91776541904.webp\" /><br />\n<img alt=\"洋芋裙裙.webp\" src=\"https://wang618.cn/content/uploadfile/202604/b26e1776541904.webp\" /><br />\n<img alt=\"藤椒麻酱火鸡面.webp\" src=\"https://wang618.cn/content/uploadfile/202604/df7d1776078881.webp\" /></p>",
       "pub_date": "2026-04-13T19:02:15+08:00",
       "updated_at": "2026-04-13T19:02:15+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-    },
-    {
-      "title": "梨韵被扰",
-      "link": "https://wang618.cn/li-yun-bei-rao.html",
-      "description": "<p>专程奔赴什川古梨园，未料一路车流拥堵，寸步难行，满心期待早已被漫长等待消磨殆尽，只剩满心烦躁。好不容易抵达这片号称“世界第一”的古梨园，本应清幽雅致、古韵悠然的景致间，却满眼是挥舞各色丝巾、扎堆摆拍的阿姨。此起彼伏的魔性笑声，与便携音箱里飘出的乐曲交织喧闹，与百年古梨的沉静古朴格格不入。<br />\n<img alt=\"古梨园1.webp\" src=\"https://wang618.cn/content/uploadfile/202604/dc861775927922.webp\" /><br />\n<img alt=\"古梨园2.webp\" src=\"https://wang618.cn/content/uploadfile/202604/6c871775927922.webp\" /><br />\n<img alt=\"娇花.webp\" src=\"https://wang618.cn/content/uploadfile/202604/68531775927922.webp\" /></p>",
-      "pub_date": "2026-04-12T20:21:46+08:00",
-      "updated_at": "2026-04-12T20:21:46+08:00",
       "author": "旺东",
       "site_name": "旺东自留地",
       "site_url": "https://wang618.cn/",
