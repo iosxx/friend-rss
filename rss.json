@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-10T13:15:31.591195+08:00",
+  "updated_at": "2026-10-10T20:12:34.707068+08:00",
   "total_sites": 3,
-  "total_posts": 34,
+  "total_posts": 33,
   "sites": [
     {
       "name": "故事的程序猿",
@@ -387,17 +387,6 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-        },
-        {
-          "title": "春日清食",
-          "link": "https://wang618.cn/chun-ri-qing-shi.html",
-          "description": "<p>今天吃得格外清爽素净，做了榆钱窝窝和洋芋裙裙！榆钱窝窝用未开的榆钱和面蒸制，入口带着淡淡清甜；洋芋裙裙把土豆丝拌上面粉蒸透，再淋上灵魂蒜醋油汁，香到停不下来。安利一款泡面先生藤椒麻酱火鸡面，甜辣交织，麻酱浓香裹着藤椒鲜麻，口感层次超丰富！<br />\n<img alt=\"榆钱窝窝.webp\" src=\"https://wang618.cn/content/uploadfile/202604/58f91776541904.webp\" /><br />\n<img alt=\"洋芋裙裙.webp\" src=\"https://wang618.cn/content/uploadfile/202604/b26e1776541904.webp\" /><br />\n<img alt=\"藤椒麻酱火鸡面.webp\" src=\"https://wang618.cn/content/uploadfile/202604/df7d1776078881.webp\" /></p>",
-          "pub_date": "2026-04-13T19:02:15+08:00",
-          "updated_at": "2026-04-13T19:02:15+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
         }
       ]
     }
@@ -761,17 +750,6 @@
       "description": "<p>失眠产物，瞎写的闲置域名趣味引导页，仿 Windows 桌面交互设计，操控小人攻击 NPC、击打图标跳转链接。<a href=\"https://wl6.netlify.app/仿Win引导页/\" title=\"传送门\">传送门</a> 源码右键自取<br />\n<img alt=\"演示画面\" src=\"https://cun.wang618.cn/img/游戏引导页.gif\" /></p>",
       "pub_date": "2026-04-24T07:44:37+08:00",
       "updated_at": "2026-04-24T07:44:37+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
-    },
-    {
-      "title": "春日清食",
-      "link": "https://wang618.cn/chun-ri-qing-shi.html",
-      "description": "<p>今天吃得格外清爽素净，做了榆钱窝窝和洋芋裙裙！榆钱窝窝用未开的榆钱和面蒸制，入口带着淡淡清甜；洋芋裙裙把土豆丝拌上面粉蒸透，再淋上灵魂蒜醋油汁，香到停不下来。安利一款泡面先生藤椒麻酱火鸡面，甜辣交织，麻酱浓香裹着藤椒鲜麻，口感层次超丰富！<br />\n<img alt=\"榆钱窝窝.webp\" src=\"https://wang618.cn/content/uploadfile/202604/58f91776541904.webp\" /><br />\n<img alt=\"洋芋裙裙.webp\" src=\"https://wang618.cn/content/uploadfile/202604/b26e1776541904.webp\" /><br />\n<img alt=\"藤椒麻酱火鸡面.webp\" src=\"https://wang618.cn/content/uploadfile/202604/df7d1776078881.webp\" /></p>",
-      "pub_date": "2026-04-13T19:02:15+08:00",
-      "updated_at": "2026-04-13T19:02:15+08:00",
       "author": "旺东",
       "site_name": "旺东自留地",
       "site_url": "https://wang618.cn/",
