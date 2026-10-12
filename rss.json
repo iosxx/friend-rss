@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T13:19:59.607806+08:00",
+  "updated_at": "2026-10-12T22:57:58.093933+08:00",
   "total_sites": 3,
   "total_posts": 34,
   "sites": [
@@ -9,6 +9,17 @@
       "avatar": "https://blog.lichenghao.cn/avatar.svg",
       "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
+        {
+          "title": "换智能门锁的小坎坷~",
+          "link": "https://blog.lichenghao.cn/article/beeq4k0c3ahw",
+          "description": "",
+          "pub_date": "2026-10-12T12:46:47+08:00",
+          "updated_at": "2026-10-12T12:46:47+08:00",
+          "author": "猿1993",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn/",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
         {
           "title": "近几天大家都在猛踹刹车踏板~",
           "link": "https://blog.lichenghao.cn/article/y8unkzh9wekp",
@@ -103,17 +114,6 @@
           "description": "",
           "pub_date": "2026-09-02T08:54:28+08:00",
           "updated_at": "2026-09-02T08:54:28+08:00",
-          "author": "猿1993",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn/",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "脚本解决雷池WAF的域名证书自动续签",
-          "link": "https://blog.lichenghao.cn/article/cdx9boo9v5tx",
-          "description": "",
-          "pub_date": "2026-08-25T15:59:57+08:00",
-          "updated_at": "2026-08-25T15:59:57+08:00",
           "author": "猿1993",
           "site_name": "故事的程序猿",
           "site_url": "https://blog.lichenghao.cn/",
@@ -404,6 +404,17 @@
   ],
   "all_posts": [
     {
+      "title": "换智能门锁的小坎坷~",
+      "link": "https://blog.lichenghao.cn/article/beeq4k0c3ahw",
+      "description": "",
+      "pub_date": "2026-10-12T12:46:47+08:00",
+      "updated_at": "2026-10-12T12:46:47+08:00",
+      "author": "猿1993",
+      "site_name": "故事的程序猿",
+      "site_url": "https://blog.lichenghao.cn/",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg"
+    },
+    {
       "title": "不一样的 止战之殇",
       "link": "https://wang618.cn/bu-yi-yang-de-zhi-zhan-zhi-shang.html",
       "description": "<audio controls=\"controls\" id=\"audio\" loop=\"loop\" preload=\"auto\" style=\"width: 100%;\"><source src=\"https://file.wang618.cn/d/oss/aimusic/止战之殇-音乐剧风版.mp3\" /></audio>\n<p>这是一首不一样的《止战之殇》。褪去战争表象，聚焦人性深处的抉择，讲述人在生存重压与内心良知之间挣扎的无奈。由 AI 重新编曲演绎，旧歌赋新声，听人性在绝境里两难的回响。<br />\n------歌曲出自：B站UP Agroce 原曲收录于 周杰伦 专辑《七里香》</p>",
@@ -596,17 +607,6 @@
       "description": "",
       "pub_date": "2026-09-02T08:54:28+08:00",
       "updated_at": "2026-09-02T08:54:28+08:00",
-      "author": "猿1993",
-      "site_name": "故事的程序猿",
-      "site_url": "https://blog.lichenghao.cn/",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg"
-    },
-    {
-      "title": "脚本解决雷池WAF的域名证书自动续签",
-      "link": "https://blog.lichenghao.cn/article/cdx9boo9v5tx",
-      "description": "",
-      "pub_date": "2026-08-25T15:59:57+08:00",
-      "updated_at": "2026-08-25T15:59:57+08:00",
       "author": "猿1993",
       "site_name": "故事的程序猿",
       "site_url": "https://blog.lichenghao.cn/",
